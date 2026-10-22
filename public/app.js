@@ -640,6 +640,10 @@
   const clearWrong = () => $("searchBox").classList.remove("shake");
   $("searchBox").addEventListener("pointerdown", clearWrong);
   $("guess").addEventListener("focus", clearWrong);
+  // Revenir dans le champ rouvre les suggestions pour le texte déjà tapé.
+  const reopenSuggest = () => { if ($("guess").value.trim() && $("suggest").hidden && !state.over) renderSuggest(); };
+  $("guess").addEventListener("focus", reopenSuggest);
+  $("guess").addEventListener("click", reopenSuggest);
   $("guess").addEventListener("input", () => { clearWrong(); syncClear(); renderSuggest(); });
   $("clear").addEventListener("pointerdown", (e) => e.preventDefault()); // garde le focus dans le champ
   $("clear").onclick = () => { $("guess").value = ""; syncClear(); closeSuggest(); $("guess").focus(); };
@@ -649,7 +653,8 @@
     else if (e.key === "ArrowUp" && shown.length) { e.preventDefault(); highlight(active - 1); }
     else if (e.key === "Enter" && shown.length) { e.preventDefault(); choose(active); }
     else if (e.key === "Enter" && !$("guess").value.trim()) { e.preventDefault(); $("play").click(); }
-    else if (e.key === "Escape") closeSuggest();
+    // Échap ferme d'abord la liste sans effacer le texte (le champ de recherche l'effacerait).
+    else if (e.key === "Escape" && !$("suggest").hidden) { e.preventDefault(); closeSuggest(); }
   });
 
   // ---------- Contrôles ----------
