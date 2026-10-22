@@ -22,7 +22,7 @@ Inspiré de [songspot](https://songspot.co), mais uniquement avec de la musique 
 | 8 s | 25 |
 | 16 s | 10 |
 
-Les bonnes réponses d'affilée font monter ta série. Une fois la réponse révélée, la chanson joue pendant 15 secondes et le bouton **Ouvrir dans…** l'ouvre dans ton app de musique, tout comme les cartes de l'historique. Au premier clic, tu choisis l'app (Apple Music, Spotify, Deezer ou YouTube Music) ; le jeu s'en souvient, et la flèche à côté du bouton permet d'en changer.
+Les bonnes réponses d'affilée font monter ta série. Une fois la réponse révélée, la chanson joue pendant 15 secondes et le bouton **Ouvrir dans…** l'ouvre dans ton app de musique, tout comme les cartes de l'historique. Au premier clic, tu choisis l'app (Apple Music, Spotify, Deezer ou YouTube Music) ; le jeu s'en souvient, et la flèche à côté du bouton permet d'en changer. Quand l'artiste a une page Bandcamp, un lien y mène, sous son nom.
 
 Raccourcis : **Entrée** dans un champ vide réécoute l'extrait, **Espace** joue ou met en pause.
 
@@ -54,13 +54,16 @@ public/              le jeu (ce qui est publié)
   app.js             la logique du jeu
   viz.js             le visualiseur affiché à la place de la pochette
   songs.js           le catalogue généré (ne pas éditer à la main)
+  bandcamp.js        les pages Bandcamp des artistes, générées
 scripts/
   catalog.tsv        la liste des chansons : titre, artiste, année, genre
   artist_limits.tsv  le nombre maximal de chansons par artiste
   blocklist.txt      les titres exclus (anglais, versions live, doublons)
+  bandcamp.tsv       la page Bandcamp de chaque artiste (- = aucune page utilisable)
   build_catalog.py   associe chaque chanson à une piste Deezer et génère songs.js
   discover.py        liste les chansons populaires d'une liste d'artistes
   expand.py          propose de nouvelles chansons à ajouter au catalogue
+  bandcamp.py        trouve les pages Bandcamp (Wikidata, MusicBrainz, vérification de la page)
   build_dist.py      prépare dist/ pour l'hébergement statique
   deploy.sh          publie dist/ sur GitHub Pages
 server.py            serveur local

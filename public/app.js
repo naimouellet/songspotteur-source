@@ -346,6 +346,18 @@
     $("songTitle").textContent = s.title;
     $("songArtist").textContent = s.artist;
     $("songMeta").textContent = `${s.year} · ${s.genre}`;
+    // Lien vers la page Bandcamp de l'artiste, quand il en a une.
+    const bandcamp = (window.BANDCAMP || {})[s.artist];
+    if (bandcamp) {
+      const a = document.createElement("a");
+      a.className = "bandcamp";
+      a.href = bandcamp;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = "Bandcamp";
+      a.title = `${s.artist} sur Bandcamp`;
+      $("songMeta").append(" · ", a);
+    }
     $("songMeta").hidden = false;
     document.querySelector(".heading").classList.add("revealed");
     $("art").src = s.art;
