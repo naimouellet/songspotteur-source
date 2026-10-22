@@ -193,6 +193,8 @@ svg { fill: currentColor; stroke: currentColor; }
 /* Opaque, so no backdrop blur: with it, Chrome can let a highlighted row's square
    corners poke past the rounded edge. The end rows also carry the radius themselves. */
 #suggest { backdrop-filter: none; -webkit-backdrop-filter: none; }
+/* Opens upward when there isn't room below the field. */
+#suggest.up { top: auto; bottom: calc(100% + 8px); box-shadow: 0 -20px 50px rgba(0, 0, 0, .5); }
 #suggest li { cursor: pointer; }
 #suggest li:first-child { border-radius: 12px 12px 0 0; }
 #suggest li:last-child { border-radius: 0 0 12px 12px; }

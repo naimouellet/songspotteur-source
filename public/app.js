@@ -596,8 +596,27 @@
       ul.append(li);
     });
     ul.hidden = false;
+    placeSuggest();
     $("guess").setAttribute("aria-activedescendant", "opt-0");
   }
+
+  // Ouvre la liste là où elle tient : en dessous du champ si la place suffit,
+  // sinon au-dessus, et jamais plus haute que l'espace disponible.
+  function placeSuggest() {
+    const ul = $("suggest");
+    if (ul.hidden) return;
+    const field = $("searchBox").getBoundingClientRect();
+    const margin = 12, gap = 8;
+    const below = innerHeight - field.bottom - gap - margin;
+    const above = field.top - gap - margin;
+    ul.style.maxHeight = "";
+    const wanted = Math.min(ul.scrollHeight, 330);
+    const up = below < wanted && above > below;
+    ul.classList.toggle("up", up);
+    ul.style.maxHeight = `${Math.max(120, Math.min(330, up ? above : below))}px`;
+  }
+  addEventListener("resize", placeSuggest);
+  addEventListener("scroll", placeSuggest, { passive: true });
 
   function highlight(i) {
     active = (i + shown.length) % shown.length;
