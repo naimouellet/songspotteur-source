@@ -2,9 +2,8 @@
   const SONGS = window.SONGS || [];
   const $ = (id) => document.getElementById(id);
 
-  // Durées d'extrait, de la plus courte à la plus longue, et points selon l'étape.
+  // Durées d'extrait, de la plus courte à la plus longue.
   const STAGES = [0.5, 2, 4, 8, 16];
-  const POINTS = [100, 75, 50, 25, 10];
 
   const store = {
     get(k, d) { try { const v = localStorage.getItem("songspotteur:" + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
@@ -12,7 +11,6 @@
   };
 
   const state = {
-    points: store.get("points", 0),
     streak: store.get("streak", 0),
     best: Math.max(store.get("best", 0), store.get("streak", 0)), // meilleure série, gardée dans le navigateur
     round: 0,
@@ -326,22 +324,19 @@
     const s = state.song;
     let msg;
     if (won) {
-      const pts = POINTS[stage];
-      state.points += pts;
       state.streak += 1;
       const record = state.streak > state.best;
       if (record) state.best = state.streak;
-      msg = stage === 0 ? `Du premier coup · +${pts}` : `Trouvée en ${fmt(stages()[stage])} · +${pts}`;
+      msg = stage === 0 ? "Du premier coup" : `Trouvée en ${fmt(stages()[stage])}`;
       if (record && state.streak >= 2) msg += " · Nouveau record";
       sfx.right(stage);
-      renderScore(pts, record);
+      renderScore(true, record);
     } else {
       state.streak = 0;
       msg = "Pas cette fois";
       sfx.lose();
       renderScore();
     }
-    store.set("points", state.points);
     store.set("streak", state.streak);
     store.set("best", state.best);
     renderTimeline();
@@ -557,21 +552,12 @@
     return li;
   }
 
-  // Avec un gain, les points montent en comptant plutôt que de sauter.
-  function renderScore(gain = 0, record = false) {
-    const el = $("points");
-    const end = state.points;
+  // Série en cours et record ; une bonne réponse fait battre la série (et le record s'il tombe).
+  function renderScore(won = false, record = false) {
     $("streak").textContent = state.streak;
     $("best").textContent = state.best;
-    if (!gain) { el.textContent = end.toLocaleString("fr-CA"); return; }
-    const start = end - gain, t0 = performance.now(), dur = 600;
-    const step = (now) => {
-      const k = Math.min(1, (now - t0) / dur);
-      el.textContent = Math.round(start + gain * (1 - (1 - k) ** 3)).toLocaleString("fr-CA");
-      if (k < 1) requestAnimationFrame(step);
-    };
-    requestAnimationFrame(step);
-    for (const b of record ? [el, $("streak"), $("best")] : [el, $("streak")]) {
+    if (!won) return;
+    for (const b of record ? [$("streak"), $("best")] : [$("streak")]) {
       b.classList.remove("bump"); void b.offsetWidth; b.classList.add("bump");
       b.addEventListener("animationend", () => b.classList.remove("bump"), { once: true });
     }

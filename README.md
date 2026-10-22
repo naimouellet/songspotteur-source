@@ -14,15 +14,7 @@ Inspiré de [songspot](https://songspot.co), mais uniquement avec de la musique 
 4. Un mauvais essai débloque aussi l'extrait suivant.
 5. Après le dernier extrait, **Je ne sais pas** révèle la réponse.
 
-| Trouvée avec l'extrait de | Points |
-| --- | --- |
-| 0,5 s | 100 |
-| 2 s | 75 |
-| 4 s | 50 |
-| 8 s | 25 |
-| 16 s | 10 |
-
-Les bonnes réponses d'affilée font monter ta série, et ton record (ta meilleure série) reste gardé dans ton navigateur. Une fois la réponse révélée, la chanson joue pendant 15 secondes et le bouton **Ouvrir dans…** l'ouvre dans ton app de musique, tout comme les cartes de l'historique. Au premier clic, tu choisis l'app (Apple Music, Spotify, Deezer ou YouTube Music) ; le jeu s'en souvient, et la flèche à côté du bouton permet d'en changer. Quand l'artiste a une page Bandcamp, un lien y mène, sous son nom.
+Le jeu compte tes bonnes réponses d'affilée : ta **série**. Une chanson ratée la remet à zéro ; ton **record** (ta meilleure série) reste gardé dans ton navigateur. Une fois la réponse révélée, la chanson joue pendant 15 secondes et le bouton **Ouvrir dans…** l'ouvre dans ton app de musique, tout comme les cartes de l'historique. Au premier clic, tu choisis l'app (Apple Music, Spotify, Deezer ou YouTube Music) ; le jeu s'en souvient, et la flèche à côté du bouton permet d'en changer. Quand l'artiste a une page Bandcamp, un lien y mène, sous son nom.
 
 Raccourcis : **Entrée** dans un champ vide réécoute l'extrait, **Espace** joue ou met en pause.
 
