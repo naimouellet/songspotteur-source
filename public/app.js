@@ -14,6 +14,7 @@
   const state = {
     points: store.get("points", 0),
     streak: store.get("streak", 0),
+    best: Math.max(store.get("best", 0), store.get("streak", 0)), // meilleure série, gardée dans le navigateur
     round: 0,
     results: [],
     history: [],
@@ -328,9 +329,12 @@
       const pts = POINTS[stage];
       state.points += pts;
       state.streak += 1;
+      const record = state.streak > state.best;
+      if (record) state.best = state.streak;
       msg = stage === 0 ? `Du premier coup · +${pts}` : `Trouvée en ${fmt(stages()[stage])} · +${pts}`;
+      if (record && state.streak >= 2) msg += " · Nouveau record";
       sfx.right(stage);
-      renderScore(pts);
+      renderScore(pts, record);
     } else {
       state.streak = 0;
       msg = "Pas cette fois";
@@ -339,6 +343,7 @@
     }
     store.set("points", state.points);
     store.set("streak", state.streak);
+    store.set("best", state.best);
     renderTimeline();
     $("verdict").textContent = msg;
     $("verdict").className = "verdict " + (won ? "win" : "lose");
@@ -553,10 +558,11 @@
   }
 
   // Avec un gain, les points montent en comptant plutôt que de sauter.
-  function renderScore(gain = 0) {
+  function renderScore(gain = 0, record = false) {
     const el = $("points");
     const end = state.points;
     $("streak").textContent = state.streak;
+    $("best").textContent = state.best;
     if (!gain) { el.textContent = end.toLocaleString("fr-CA"); return; }
     const start = end - gain, t0 = performance.now(), dur = 600;
     const step = (now) => {
@@ -565,7 +571,7 @@
       if (k < 1) requestAnimationFrame(step);
     };
     requestAnimationFrame(step);
-    for (const b of [el, $("streak")]) {
+    for (const b of record ? [el, $("streak"), $("best")] : [el, $("streak")]) {
       b.classList.remove("bump"); void b.offsetWidth; b.classList.add("bump");
       b.addEventListener("animationend", () => b.classList.remove("bump"), { once: true });
     }

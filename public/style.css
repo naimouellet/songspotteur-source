@@ -56,6 +56,11 @@ svg { fill: currentColor; stroke: currentColor; }
   backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
 }
 .capsule b { color: var(--label); font-weight: 600; font-variant-numeric: tabular-nums; }
+.capsule { white-space: nowrap; }
+@media (max-width: 420px) {
+  .score { gap: 4px; }
+  .capsule { padding: 5px 8px; font-size: 12px; }
+}
 .capsule b.bump { display: inline-block; animation: bump .55s var(--spring); color: var(--green); }
 @keyframes bump { 40% { transform: scale(1.25); } }
 
