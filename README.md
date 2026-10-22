@@ -36,6 +36,7 @@ C'est un site statique : du HTML, du CSS et du JavaScript, sans serveur ni compt
 - **Découpage précis** : l'aperçu est décodé avec la Web Audio API, ce qui permet de jouer exactement 0,5 s. Le jeu saute aussi le fondu du début des aperçus pour que le premier extrait soit bien audible.
 - **Sons du jeu** : les petits sons de bonne et de mauvaise réponse sont synthétisés dans le navigateur ; il n'y a aucun fichier audio.
 - **Fluidité** : la chanson suivante se télécharge pendant que tu joues, pour enchaîner sans attente.
+- **Pas de répétition** : le jeu retient dans ton navigateur les chansons déjà jouées et n'en repropose aucune avant d'avoir fait le tour du catalogue.
 
 ## Code source
 

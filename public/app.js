@@ -21,7 +21,6 @@
     offset: 0,
     stage: 0,
     over: false,
-    recent: [],
     source: null,
     raf: 0,
   };
@@ -195,15 +194,29 @@
   }
 
   // ---------- Partie ----------
+  // Chansons déjà tirées, gardées dans le navigateur : aucune répétition avant d'avoir
+  // fait le tour du catalogue, même d'une visite à l'autre. Les chansons ajoutées plus
+  // tard comptent comme pas encore jouées ; celles retirées du catalogue sont oubliées.
+  const catalogIds = new Set(SONGS.map((s) => s.id));
+  const played = new Set(store.get("played", []).filter((id) => catalogIds.has(id)));
+
   function pickSong() {
-    const list = SONGS;
-    if (!list.length) return null;
-    let fresh = list.filter((s) => !state.recent.includes(s.id));
-    if (!fresh.length) { state.recent = []; fresh = list; }
-    const song = fresh[Math.floor(Math.random() * fresh.length)];
-    state.recent.push(song.id);
-    if (state.recent.length > Math.floor(list.length * 0.8)) state.recent.shift();
-    return song;
+    if (!SONGS.length) return null;
+    // On évite aussi la chanson en cours, qui n'est marquée jouée qu'au début de sa manche.
+    let fresh = SONGS.filter((s) => !played.has(s.id) && s.id !== state.song?.id);
+    if (!fresh.length) {
+      // Tour complet : on recommence, sans reprendre tout de suite les dernières entendues.
+      const last = new Set([...played].slice(-20));
+      played.clear();
+      fresh = SONGS.filter((s) => !last.has(s.id) && s.id !== state.song?.id);
+    }
+    return fresh[Math.floor(Math.random() * fresh.length)];
+  }
+
+  // Une chanson compte comme jouée quand sa manche commence (pas quand elle est préchargée).
+  function markPlayed(song) {
+    played.add(song.id);
+    store.set("played", [...played]);
   }
 
   // La prochaine chanson se télécharge pendant qu'on joue la courante.
@@ -229,7 +242,8 @@
     state.guessed = new Set();
     const pre = preload;
     preload = null;
-    state.song = pre ? pre.song : pickSong();
+    state.song = pre && !played.has(pre.song.id) ? pre.song : pickSong();
+    if (state.song) markPlayed(state.song);
     state.round += 1;
     $("round").textContent = `Chanson ${state.round}`;
     $("attempts").innerHTML = "";
@@ -270,7 +284,6 @@
     } catch (e) {
       if (token !== loadToken) return;
       console.warn("Extrait introuvable, on passe à la suivante", song, e);
-      state.recent.push(song.id);
       return newRound();
     } finally {
       if (token === loadToken) $("play").classList.remove("loading");
