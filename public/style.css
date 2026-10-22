@@ -1,0 +1,302 @@
+:root {
+  --label: rgba(255, 255, 255, .96);
+  --label-2: rgba(235, 235, 245, .62);
+  --label-3: rgba(235, 235, 245, .34);
+  --fill: rgba(255, 255, 255, .12);
+  --fill-2: rgba(255, 255, 255, .2);
+  --separator: rgba(255, 255, 255, .1);
+  --material: rgba(30, 30, 32, .55);
+  --green: #30d158;
+  --red: #ff453a;
+  --pink: #fa2d48;
+  --qc: #1257e0;        /* flag blue, lifted a little to read on dark */
+  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --spring: cubic-bezier(.2, .9, .25, 1.15);
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; }
+body {
+  min-height: 100vh; min-height: 100dvh;
+  background: #07142f; color: var(--label);
+  font: 17px/1.35 var(--font); letter-spacing: -.01em;
+  display: flex; flex-direction: column; align-items: center;
+  -webkit-font-smoothing: antialiased;
+}
+button, input { font: inherit; color: inherit; letter-spacing: inherit; }
+button { background: none; border: 0; padding: 0; cursor: pointer; }
+a { color: inherit; }
+svg { fill: currentColor; stroke: currentColor; }
+:focus-visible { outline: 3px solid rgba(255, 255, 255, .5); outline-offset: 2px; }
+
+/* Blurred artwork behind everything, like Now Playing. Two layers crossfade. */
+.backdrop {
+  position: fixed; inset: 0; z-index: -1; overflow: hidden;
+  background: radial-gradient(120% 80% at 30% 0%, #123a8a 0%, #0a2058 45%, #07142f 100%);
+}
+.backdrop .layer {
+  position: absolute; inset: -15%; background-size: cover; background-position: center;
+  filter: blur(70px) saturate(1.7) brightness(.62); transform: scale(1.1);
+  opacity: 0; transition: opacity 1.2s ease;
+}
+.backdrop .layer.on { opacity: 1; }
+.backdrop::after { content: ""; position: absolute; inset: 0; background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .45)); }
+
+/* Toolbar */
+.toolbar {
+  width: 100%; max-width: 480px; display: flex; justify-content: space-between; align-items: center;
+  padding: max(14px, env(safe-area-inset-top)) 20px 6px;
+}
+.app-name { font: 600 17px/1 var(--display); }
+.score { display: flex; gap: 6px; }
+.capsule {
+  padding: 6px 11px; border-radius: 999px; background: var(--fill); font-size: 13px; color: var(--label-2);
+  backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+}
+.capsule b { color: var(--label); font-weight: 600; font-variant-numeric: tabular-nums; }
+.capsule b.bump { display: inline-block; animation: bump .55s var(--spring); color: var(--green); }
+@keyframes bump { 40% { transform: scale(1.25); } }
+
+/* Main column */
+.now-playing {
+  width: 100%; max-width: 480px; flex: 1; padding: 14px 20px 28px;
+  display: flex; flex-direction: column; gap: 18px;
+}
+
+.artwork {
+  position: relative; width: 100%; aspect-ratio: 1; border-radius: 14px; overflow: hidden;
+  background: radial-gradient(circle at 50% 45%, #141c3d 0%, #0b1029 55%, #070a1b 100%);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, .45);
+  transition: transform .5s var(--spring);
+  display: grid; place-items: center;
+}
+.artwork.idle { transform: scale(.86); }
+.artwork.idle.playing { transform: none; }
+.artwork img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity .6s ease; }
+.artwork.revealed img { opacity: 1; }
+
+/* Visualiser canvas: the cover fades in over it on reveal. */
+#viz { position: absolute; inset: 0; width: 100%; height: 100%; transition: opacity .6s ease; }
+.artwork.revealed #viz { opacity: 0; }
+
+
+/* Heading: becomes title / artist once revealed */
+.heading { min-height: 92px; }
+.eyebrow { margin: 0 0 4px; display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--label-2); font-weight: 500; }
+.verdict { padding: 3px 9px; border-radius: 999px; font-weight: 600; font-size: 12px; animation: pop .45s var(--spring); }
+.verdict.win { background: rgba(48, 209, 88, .22); color: var(--green); }
+.verdict.lose { background: rgba(255, 69, 58, .2); color: var(--red); }
+@keyframes pop { from { transform: scale(.6); opacity: 0; } }
+.heading h1 { margin: 0; font: 700 26px/1.15 var(--display); letter-spacing: -.02em; }
+.subline { margin: 2px 0 0; color: var(--label-2); font-size: 19px; }
+.meta { margin: 2px 0 0; color: var(--label-3); font-size: 14px; }
+.heading.revealed > * { animation: rise .45s var(--spring) both; }
+.heading.revealed > :nth-child(2) { animation-delay: .04s; }
+.heading.revealed > :nth-child(3) { animation-delay: .08s; }
+.heading.revealed > :nth-child(4) { animation-delay: .12s; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } }
+
+/* Segmented progress: one capsule per clip length */
+.segments { list-style: none; margin: 0; padding: 0; display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 6px; }
+.segments li { display: grid; gap: 6px; }
+.segments .track { position: relative; height: 5px; border-radius: 3px; background: var(--fill); overflow: hidden; }
+.segments .bar { position: absolute; inset: 0 auto 0 0; width: 0; background: var(--label); border-radius: 3px; }
+.segments .dur { font-size: 12px; color: var(--label-3); font-variant-numeric: tabular-nums; }
+.segments li.current .dur { color: var(--label); font-weight: 600; }
+.segments li.current .track { background: var(--fill-2); }
+.segments li.skipped .track { background: var(--label-3); }
+.segments li.wrong .track { background: var(--red); }
+.segments li.wrong .dur { color: var(--red); }
+.segments li.right .track { background: var(--green); }
+.segments li.right .dur { color: var(--green); font-weight: 600; }
+
+/* Transport controls */
+.controls { display: flex; justify-content: center; margin-top: 2px; }
+
+/* "Longer clip" until the last length, then "I don't know". */
+.pill {
+  align-self: center; justify-self: center; height: 40px; padding: 0 18px; border-radius: 999px; margin-top: -4px;
+  background: var(--fill); font-size: 15px; font-weight: 600; font-variant-numeric: tabular-nums;
+  backdrop-filter: blur(30px); -webkit-backdrop-filter: blur(30px);
+  transition: background .15s, transform .15s var(--spring), opacity .2s;
+}
+.pill:hover:not(:disabled) { background: var(--fill-2); }
+.pill:active:not(:disabled) { transform: scale(.95); }
+.pill:disabled { opacity: .3; cursor: default; }
+.pill[hidden] { display: none; }
+.pill.give-up { color: var(--red); }
+
+/* Unlocked lengths can be replayed by tapping their bar. */
+.segments li.replay { cursor: pointer; }
+.segments li.replay:hover .track { background: var(--fill-2); }
+.icon-btn {
+  width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; justify-self: center;
+  color: var(--label); transition: background .15s, transform .15s, opacity .2s;
+}
+.icon-btn:hover:not(:disabled) { background: var(--fill); }
+.icon-btn:active:not(:disabled) { transform: scale(.88); }
+.icon-btn:disabled { opacity: .3; cursor: default; }
+.icon-btn svg { width: 30px; height: 30px; stroke: none; }
+.icon-btn svg path[fill="none"] { stroke: currentColor; }
+.play {
+  width: 76px; height: 76px; border-radius: 50%; background: var(--qc); color: #fff;
+  display: grid; place-items: center; transition: transform .2s var(--spring), opacity .2s;
+  box-shadow: 0 8px 24px rgba(0, 30, 110, .45);
+}
+.play:hover { transform: scale(1.05); }
+.play:active { transform: scale(.9); }
+.play:disabled { opacity: .4; cursor: default; transform: none; }
+.play svg { width: 34px; height: 34px; grid-area: 1 / 1; stroke: none; }
+.play .icon-play { margin-left: -2px; } /* the path already leans right; this leaves a slight optical nudge (~2px) */
+.play .icon-load { display: none; fill: none; stroke: #fff; animation: spin .8s linear infinite; }
+.play .icon-pause { display: none; }
+.play.is-playing .icon-play { display: none; }
+.play.is-playing .icon-pause { display: block; }
+.play.loading .icon-play, .play.loading .icon-pause { display: none; }
+.play.loading .icon-load { display: block; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Search field + grouped lists */
+.search {
+  /* Above the guesses list: both blur their backdrop, which makes each its own layer. */
+  position: relative; z-index: 10; display: flex; align-items: center; gap: 6px;
+  height: 44px; padding: 0 12px; border-radius: 12px; background: var(--fill);
+  backdrop-filter: blur(30px); -webkit-backdrop-filter: blur(30px);
+}
+.search[hidden] { display: none; }
+.search > svg { width: 18px; height: 18px; flex: none; fill: none; color: var(--label-2); }
+#guess { flex: 1; min-width: 0; height: 100%; border: 0; outline: none; background: transparent; font-size: 17px; }
+#guess::placeholder { color: var(--label-3); }
+/* Native clear button replaced by our own (below): it rendered differently per browser. */
+#guess::-webkit-search-cancel-button, #guess::-webkit-search-decoration { -webkit-appearance: none; appearance: none; display: none; }
+.clear { width: 22px; height: 22px; flex: none; display: grid; place-items: center; border-radius: 50%; }
+.clear[hidden] { display: none; }
+.clear svg { width: 17px; height: 17px; }
+.clear circle { fill: var(--label-3); stroke: none; transition: fill .15s; }
+.clear path { fill: none; stroke: #1c1c1e; stroke-width: 1.7; stroke-linecap: round; }
+.clear:hover circle { fill: var(--label-2); }
+.search:focus-within { background: var(--fill-2); }
+.search.shake { animation: shake .4s cubic-bezier(.36, .07, .19, .97); box-shadow: inset 0 0 0 1.5px var(--red); }
+@keyframes shake { 20%, 60% { transform: translateX(-7px); } 40%, 80% { transform: translateX(7px); } }
+
+.group {
+  list-style: none; margin: 0; padding: 0; border-radius: 12px; overflow: hidden;
+  background: var(--material); backdrop-filter: blur(40px) saturate(1.6); -webkit-backdrop-filter: blur(40px) saturate(1.6);
+}
+.group:empty { display: none; }
+.group li { position: relative; padding: 11px 16px; display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.group li + li::before { content: ""; position: absolute; top: 0; left: 16px; right: 0; height: 1px; background: var(--separator); }
+#suggest { position: absolute; left: 0; right: 0; top: calc(100% + 8px); z-index: 5; max-height: 330px; overflow-y: auto; box-shadow: 0 20px 50px rgba(0, 0, 0, .5); background: #2c2c2e; }
+/* Opaque, so no backdrop blur: with it, Chrome can let a highlighted row's square
+   corners poke past the rounded edge. The end rows also carry the radius themselves. */
+#suggest { backdrop-filter: none; -webkit-backdrop-filter: none; }
+#suggest li { cursor: pointer; }
+#suggest li:first-child { border-radius: 12px 12px 0 0; }
+#suggest li:last-child { border-radius: 0 0 12px 12px; }
+#suggest li:only-child { border-radius: 12px; }
+#suggest li small { color: var(--label-2); font-size: 15px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 45%; }
+#suggest li[aria-selected="true"] { background: rgba(255, 255, 255, .1); }
+/* As in iOS: no separator against the highlighted row (otherwise a 16px notch shows on the left). */
+#suggest li[aria-selected="true"]::before, #suggest li[aria-selected="true"] + li::before { display: none; }
+
+.attempts { margin-top: -6px; }
+.attempts li { align-items: center; justify-content: flex-start; font-size: 15px; }
+.attempts .t { width: 44px; flex: none; color: var(--label-3); font-size: 13px; font-variant-numeric: tabular-nums; }
+/* Wrong guess: a thin grey cross, no badge. */
+.attempts .mark { width: 14px; height: 14px; flex: none; display: grid; place-items: center; color: var(--label-3); }
+.attempts .mark svg { width: 10px; height: 10px; stroke-width: 1.6; fill: none; stroke-linecap: round; }
+.attempts li.wrong .txt { color: var(--label-2); }
+.attempts li.skipped .txt { color: var(--label-3); }
+.attempts li { animation: slide .35s var(--spring); }
+@keyframes slide { from { opacity: 0; transform: translateY(-6px); } }
+
+/* Actions after the reveal */
+.actions { display: grid; gap: 10px; animation: rise .45s var(--spring) .1s both; }
+.actions[hidden] { display: none; }
+.filled {
+  height: 50px; border-radius: 14px; background: var(--qc); color: #fff; font-weight: 600;
+  transition: transform .15s, opacity .15s;
+}
+.filled:active { transform: scale(.97); opacity: .85; }
+.plain {
+  height: 44px; border-radius: 12px; background: var(--fill); font-size: 15px; font-weight: 500;
+  display: grid; place-items: center; text-decoration: none; cursor: pointer;
+  backdrop-filter: blur(30px); -webkit-backdrop-filter: blur(30px);
+}
+.plain:hover { background: var(--fill-2); }
+
+.fineprint { padding: 8px 20px max(18px, env(safe-area-inset-bottom)); font-size: 12px; color: var(--label-3); text-align: center; }
+
+/* Phones and narrow windows: keep the artwork small enough that the search stays on screen. */
+@media (max-width: 859px) {
+  .artwork { width: min(100%, 30vh); margin: 0 auto; }
+  .heading { min-height: 0; }
+}
+
+/* Songs of this session: a strip of small cards under the player. */
+.history { width: 100%; max-width: 480px; padding: 0 20px 8px; animation: rise .45s var(--spring); }
+.history[hidden] { display: none; }
+.history h2 { margin: 0 0 10px; font: 600 15px/1 var(--display); color: var(--label-2); }
+#history {
+  list-style: none; margin: 0; padding: 0; display: grid; grid-auto-flow: column; grid-auto-columns: 232px;
+  gap: 10px; overflow-x: auto; scroll-snap-type: x proximity; scrollbar-width: none;
+}
+/* Scrollbar hidden: the strip scrolls by wheel, drag, trackpad or touch. */
+#history::-webkit-scrollbar { display: none; }
+#history li {
+  scroll-snap-align: start; display: grid; grid-template-columns: 48px 1fr auto; align-items: center; gap: 10px;
+  padding: 8px 10px 8px 8px; border-radius: 12px; background: var(--material);
+  backdrop-filter: blur(30px); -webkit-backdrop-filter: blur(30px);
+}
+#history li:last-child { animation: card-in .45s var(--spring); }
+@keyframes card-in { from { opacity: 0; transform: translateX(16px) scale(.96); } }
+/* While dragging with the mouse: grab cursor, no snapping, no text selection. */
+#history.dragging { cursor: grabbing; scroll-snap-type: none; user-select: none; }
+#history.dragging li { cursor: grabbing; pointer-events: none; }
+#history img { -webkit-user-drag: none; user-select: none; }
+#history li { cursor: pointer; transition: background .15s, transform .15s var(--spring); }
+#history li:hover { background: rgba(60, 60, 64, .7); }
+#history li:active { transform: scale(.97); }
+#history img { width: 48px; height: 48px; border-radius: 6px; object-fit: cover; background: var(--fill); }
+#history .info { min-width: 0; display: grid; }
+#history .info b, #history .info span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#history .info b { font-size: 14px; font-weight: 600; }
+#history .info span { font-size: 13px; color: var(--label-2); }
+#history .chip { font-size: 12px; font-weight: 600; padding: 3px 7px; border-radius: 999px; font-variant-numeric: tabular-nums; }
+#history .won .chip { background: rgba(48, 209, 88, .2); color: var(--green); }
+#history .lost .chip { background: rgba(255, 69, 58, .18); color: var(--red); }
+
+/* Wide screens: big artwork beside the controls, centred in the window, scaled up. */
+@media (min-width: 860px) {
+  .toolbar, .history { max-width: 1180px; padding-left: 40px; padding-right: 40px; }
+  .now-playing {
+    max-width: 1180px; padding: 24px 40px 32px;
+    display: grid; grid-template-columns: minmax(0, min(620px, 62vh)) minmax(340px, 500px);
+    justify-content: center; align-content: center; column-gap: clamp(40px, 6vw, 88px); row-gap: 22px;
+  }
+  .artwork { grid-row: 1 / span 6; align-self: center; border-radius: 18px; }
+  .artwork.idle { transform: scale(.94); }
+  .heading { min-height: 0; }
+  .eyebrow { font-size: 15px; }
+  .heading h1 { font-size: clamp(34px, 3.4vw, 48px); line-height: 1.08; }
+  .subline { font-size: 22px; margin-top: 4px; }
+  .meta { font-size: 15px; }
+  .segments .dur { font-size: 13px; }
+  .segments .track { height: 6px; }
+  .play { width: 88px; height: 88px; }
+  .play svg { width: 38px; height: 38px; }
+  .pill { height: 44px; font-size: 16px; padding: 0 22px; }
+  .search { height: 52px; border-radius: 14px; }
+  #guess { font-size: 19px; }
+  .filled { height: 56px; font-size: 18px; }
+  .plain { height: 48px; font-size: 16px; }
+  .history { padding-bottom: 12px; }
+  #history { grid-auto-columns: 260px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
