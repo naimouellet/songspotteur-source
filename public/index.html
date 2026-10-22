@@ -56,7 +56,10 @@
 
     <div class="actions" id="reveal" hidden>
       <button id="next" class="filled">Chanson suivante</button>
-      <a id="apple" class="plain" target="_blank" rel="noopener">Ouvrir dans Musique</a>
+      <div class="open-in">
+        <a id="apple" class="plain">Ouvrir dans une app de musique</a>
+        <button id="appMenu" class="plain" type="button" aria-haspopup="menu" aria-label="Choisir l'app de musique"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></button>
+      </div>
     </div>
   </main>
 
@@ -64,6 +67,8 @@
     <h2>Cette partie</h2>
     <ol id="history"></ol>
   </section>
+
+  <ul id="appChooser" class="group chooser" role="menu" aria-label="Ouvrir avec" hidden></ul>
 
   <footer class="fineprint">Extraits Deezer · Inspiré de <a href="https://songspot.co" target="_blank" rel="noopener">songspot</a> · VLMQ</footer>
 

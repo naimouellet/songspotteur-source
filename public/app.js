@@ -356,7 +356,7 @@
     setTimeout(() => { if (state.over) window.Viz?.setActive(false); }, 700);
     setBackdrop(s.art);
     addToHistory({ song: s, won, label: won ? fmt(stages()[stage]) : "Ratée" });
-    openInMusic(s);
+    setLink($("apple"), s);
     $("searchBox").hidden = true;
     $("reveal").hidden = false;
     $("guess").disabled = $("skip").disabled = true;
@@ -367,42 +367,114 @@
     setTimeout(() => { if (state.over && state.song === s) play(Math.min(REVEAL_LEN, state.buffer?.duration ?? REVEAL_LEN)); }, won ? 650 : 900);
   }
 
-  // Liens Apple Music : des liens https ordinaires, ouverts dans un nouvel onglet.
-  // Ils mènent toujours à la bonne chanson ; Safari (Mac et iPhone) les passe à l'app
-  // Musique, les autres navigateurs affichent la page Apple Music de la chanson.
-  // On part d'une recherche, puis on pointe vers la piste exacte si iTunes la trouve.
-  // Résultat mis en cache par chanson : le bouton et l'historique le réutilisent.
-  const musicLinks = new Map();
-  const searchLink = (song) => `https://music.apple.com/ca/search?term=${encodeURIComponent(`${song.artist} ${song.title}`)}`;
+  // ---------- Ouvrir la chanson dans une app de musique ----------
+  // Un navigateur ne peut pas connaître l'app de musique par défaut : on la demande
+  // une fois, puis on retient le choix. Chaque lien est un vrai lien que le navigateur
+  // passe directement à l'app, sans détour réseau au moment du clic.
+  const query = (song) => encodeURIComponent(`${song.artist} ${song.title}`);
+  const APPS = {
+    apple: { name: "Apple Music", link: (song, exact) => exact ? exact.replace(/^https:/, "music:") : `music://music.apple.com/ca/search?term=${query(song)}` },
+    spotify: { name: "Spotify", link: (song) => `spotify:search:${query(song)}` },
+    deezer: { name: "Deezer", link: (song) => `deezer://www.deezer.com/track/${song.id}` },
+    youtube: { name: "YouTube Music", web: true, link: (song) => `https://music.youtube.com/search?q=${query(song)}` },
+  };
+  let app = APPS[store.get("app", "")] ? store.get("app", "") : null;
 
-  function lookupMusic(song) {
-    if (musicLinks.has(song.id)) return musicLinks.get(song.id);
+  // Lien exact vers la piste Apple Music (via la recherche iTunes), une fois par chanson.
+  const appleTracks = new Map();
+  function lookupApple(song) {
+    if (appleTracks.has(song.id)) return appleTracks.get(song.id);
     const found = new Promise((resolve) => {
       const cb = `__it${song.id}`;
       const script = document.createElement("script");
       const done = (url) => { delete window[cb]; script.remove(); clearTimeout(timer); resolve(url); };
-      const timer = setTimeout(() => done(searchLink(song)), 5000);
+      const timer = setTimeout(() => done(null), 5000);
       window[cb] = (data) => {
         const want = norm(song.title);
         const artist = norm(song.artist).replace(/ /g, "");
         const hit = (data.results || []).find((r) =>
           norm(r.artistName || "").replace(/ /g, "").includes(artist) &&
           norm(r.trackName || "").startsWith(want));
-        done(hit ? hit.trackViewUrl.replace(/[?&]uo=\d+/, "") : searchLink(song));
+        done(hit ? hit.trackViewUrl.replace(/[?&]uo=\d+/, "") : null);
       };
-      script.onerror = () => done(searchLink(song));
+      script.onerror = () => done(null);
       script.src = `https://itunes.apple.com/search?${new URLSearchParams({ term: `${song.artist} ${song.title}`, country: "CA", entity: "song", limit: "10", callback: cb })}`;
       document.head.append(script);
     });
-    musicLinks.set(song.id, found);
+    appleTracks.set(song.id, found);
     return found;
   }
 
-  function openInMusic(song) {
-    const link = $("apple");
-    link.href = searchLink(song);
-    lookupMusic(song).then((url) => { if (state.song === song) link.href = url; });
+  // Les liens « ouvrir » de la page (bouton et cartes) et leur chanson.
+  const linkSongs = new WeakMap();
+  function setLink(a, song) {
+    linkSongs.set(a, song);
+    a.classList.add("music-link");
+    if (!app) { a.href = "#"; a.removeAttribute("target"); return; }
+    const def = APPS[app];
+    a.href = def.link(song);
+    if (def.web) { a.target = "_blank"; a.rel = "noopener"; } else a.removeAttribute("target");
+    if (app === "apple") lookupApple(song).then((exact) => { if (exact && app === "apple" && linkSongs.get(a) === song) a.href = def.link(song, exact); });
   }
+
+  function renderOpenButton() {
+    $("apple").textContent = app ? `Ouvrir dans ${APPS[app].name}` : "Ouvrir dans une app de musique";
+  }
+
+  function setApp(key) {
+    app = key;
+    store.set("app", key);
+    renderOpenButton();
+    document.querySelectorAll("a.music-link").forEach((a) => linkSongs.has(a) && setLink(a, linkSongs.get(a)));
+  }
+
+  // Menu de choix de l'app, placé près du lien qui l'a ouvert.
+  let pending = null;
+  function openChooser(anchor, follow) {
+    pending = follow ? anchor : null;
+    const menu = $("appChooser");
+    menu.innerHTML = `<li class="chooser-title">Ouvrir avec</li>`;
+    for (const [key, def] of Object.entries(APPS)) {
+      const li = document.createElement("li");
+      const b = document.createElement("button");
+      b.type = "button";
+      b.setAttribute("role", "menuitemradio");
+      b.setAttribute("aria-checked", String(key === app));
+      b.innerHTML = `<span></span><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m3.5 8.5 3 3 6-7"/></svg>`;
+      b.firstChild.textContent = def.name;
+      b.onclick = () => pickApp(key);
+      li.append(b);
+      menu.append(li);
+    }
+    menu.hidden = false;
+    const r = anchor.getBoundingClientRect(), m = menu.getBoundingClientRect();
+    const top = r.top - m.height - 8 >= 8 ? r.top - m.height - 8 : r.bottom + 8;
+    menu.style.top = `${top}px`;
+    menu.style.left = `${Math.max(8, Math.min(r.right - m.width, innerWidth - m.width - 8))}px`;
+    (menu.querySelector('[aria-checked="true"]') || menu.querySelector("button")).focus();
+  }
+  function closeChooser() { $("appChooser").hidden = true; pending = null; }
+  function pickApp(key) {
+    const target = pending;
+    closeChooser();
+    setApp(key);
+    if (!target) return;
+    // Le clic dans le menu compte comme geste de l'utilisateur : on suit le lien tout de suite.
+    if (APPS[key].web) window.open(target.href, "_blank", "noopener");
+    else location.href = target.href;
+  }
+
+  // Sans app choisie, un lien « ouvrir » demande d'abord laquelle utiliser.
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest?.("a.music-link");
+    if (a && !app) { e.preventDefault(); openChooser(a, true); }
+  });
+  $("appMenu").onclick = (e) => { e.stopPropagation(); $("appChooser").hidden ? openChooser($("appMenu"), false) : closeChooser(); };
+  document.addEventListener("pointerdown", (e) => {
+    if (!$("appChooser").hidden && !e.target.closest("#appChooser, #appMenu, a.music-link")) closeChooser();
+  });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("appChooser").hidden) closeChooser(); });
+  addEventListener("resize", closeChooser);
 
 
   // Les chansons de la partie, dans l'ordre : la plus récente s'ajoute à la fin,
@@ -453,20 +525,17 @@
   function historyCard({ song, won, label }) {
     const li = document.createElement("li");
     li.className = won ? "won" : "lost";
-    // Chaque carte est un lien vers la chanson dans Apple Music.
+    // Chaque carte ouvre la chanson dans l'app de musique choisie.
     const a = document.createElement("a");
-    a.href = searchLink(song);
-    a.target = "_blank";
-    a.rel = "noopener";
     a.draggable = false; // sinon glisser la bande traînerait le lien
     a.title = `${song.title} — ${song.artist}`;
-    a.setAttribute("aria-label", `Ouvrir ${song.title} de ${song.artist} dans Apple Music`);
+    a.setAttribute("aria-label", `Ouvrir ${song.title} de ${song.artist}`);
     a.innerHTML = `<img alt="" loading="lazy" draggable="false"><span class="info"><b></b><span></span></span><span class="chip"></span>`;
     a.querySelector("img").src = song.art;
     a.querySelector("b").textContent = song.title;
     a.querySelector(".info span").textContent = song.artist;
     a.querySelector(".chip").textContent = label;
-    lookupMusic(song).then((url) => (a.href = url));
+    setLink(a, song);
     li.append(a);
     return li;
   }
@@ -589,5 +658,6 @@
   });
 
   renderScore();
+  renderOpenButton();
   newRound();
 })();
