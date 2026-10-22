@@ -3423,7 +3423,7 @@ window.SONGS = [
  {
   "id": 2344894155,
   "title": "J'fais des efforts",
-  "artist": "Etienne Dufresne",
+  "artist": "Étienne Dufresne",
   "year": 2024,
   "genre": "Rock",
   "tier": 3,
@@ -3433,7 +3433,7 @@ window.SONGS = [
  {
   "id": 1237605102,
   "title": "Rien",
-  "artist": "Etienne Dufresne",
+  "artist": "Étienne Dufresne",
   "year": 2021,
   "genre": "Rock",
   "tier": 3,
@@ -3443,7 +3443,7 @@ window.SONGS = [
  {
   "id": 2344894145,
   "title": "Dans ma tête",
-  "artist": "Etienne Dufresne",
+  "artist": "Étienne Dufresne",
   "year": 2024,
   "genre": "Rock",
   "tier": 3,
@@ -3453,7 +3453,7 @@ window.SONGS = [
  {
   "id": 2344894185,
   "title": "Bein normal",
-  "artist": "Etienne Dufresne",
+  "artist": "Étienne Dufresne",
   "year": 2024,
   "genre": "Rock",
   "tier": 3,
@@ -3463,7 +3463,7 @@ window.SONGS = [
  {
   "id": 1237605112,
   "title": "Forteresse",
-  "artist": "Etienne Dufresne",
+  "artist": "Étienne Dufresne",
   "year": 2021,
   "genre": "Rock",
   "tier": 3,
@@ -3473,7 +3473,7 @@ window.SONGS = [
  {
   "id": 2344894175,
   "title": "Dans tes bras",
-  "artist": "Etienne Dufresne",
+  "artist": "Étienne Dufresne",
   "year": 2024,
   "genre": "Rock",
   "tier": 3,
@@ -7439,5 +7439,3325 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4003519181"
+ },
+ {
+  "id": 3840013171,
+  "title": "Johny",
+  "artist": "La Zarra",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/fecdd771617defd2d6600b30bafde911/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3840013171"
+ },
+ {
+  "id": 3403182011,
+  "title": "Diva",
+  "artist": "La Zarra",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b3803e429b5076fb1f109bc655bb7142/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3403182011"
+ },
+ {
+  "id": 128233719,
+  "title": "Voyager",
+  "artist": "Jean Leloup",
+  "year": 1998,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/069b69f334ce75a4149b029706612a5d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128233719"
+ },
+ {
+  "id": 128324479,
+  "title": "Paradis Perdu",
+  "artist": "Jean Leloup",
+  "year": 2002,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/c0fa0414087b06a7c31c9bc237538cdf/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128324479"
+ },
+ {
+  "id": 401394412,
+  "title": "Faufile",
+  "artist": "Charlotte Cardin",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0e904587c351f2930a19cc1541fe2baa/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/401394412"
+ },
+ {
+  "id": 3949556161,
+  "title": "Ici",
+  "artist": "Lydia Képinski",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3949556161"
+ },
+ {
+  "id": 84519269,
+  "title": "L'amour est un monstre",
+  "artist": "Valaire",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b787aceb91ba7f1c34e9ebed7ebdd2cf/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/84519269"
+ },
+ {
+  "id": 4096891471,
+  "title": "Le train",
+  "artist": "Vilain Pingouin",
+  "year": 1986,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4096891471"
+ },
+ {
+  "id": 3168302221,
+  "title": "Encore",
+  "artist": "Les Louanges",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3168302221"
+ },
+ {
+  "id": 2255433577,
+  "title": "Autoroute 20",
+  "artist": "Souldia",
+  "year": 2023,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2255433577"
+ },
+ {
+  "id": 4033488461,
+  "title": "Les squelettes dans le placard",
+  "artist": "Souldia",
+  "year": 2026,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4033488461"
+ },
+ {
+  "id": 136158804,
+  "title": "Il y a tant à faire",
+  "artist": "Daniel Bélanger",
+  "year": 2016,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/224abaef6b57443077c06ad31ff464cc/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/136158804"
+ },
+ {
+  "id": 128233595,
+  "title": "Dans un spoutnik",
+  "artist": "Daniel Bélanger",
+  "year": 2001,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128233595"
+ },
+ {
+  "id": 128238189,
+  "title": "L'étrange route des amoureux",
+  "artist": "Pierre Lapointe",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/75e89bd2a71b9df94f7b212f567762ce/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128238189"
+ },
+ {
+  "id": 651242012,
+  "title": "Maybach",
+  "artist": "Enima",
+  "year": 2019,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a8b7f0002814dd9036b1e42ff99f81c9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/651242012"
+ },
+ {
+  "id": 128233603,
+  "title": "Intouchable et immortel",
+  "artist": "Daniel Bélanger",
+  "year": 2001,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128233603"
+ },
+ {
+  "id": 3949556181,
+  "title": "Case D",
+  "artist": "Lydia Képinski",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3949556181"
+ },
+ {
+  "id": 1082535382,
+  "title": "Le ciel est backorder",
+  "artist": "Tire le coyote",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/8380c7ead583ca379db52f1d7d7d6be9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1082535382"
+ },
+ {
+  "id": 1037120272,
+  "title": "Rien à faire",
+  "artist": "Marie-Pierre Arthur",
+  "year": 2015,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/8363b326bf173ac6df012e91b6d3a935/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1037120272"
+ },
+ {
+  "id": 93081562,
+  "title": "Petit papillon",
+  "artist": "Jean Leloup",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/93081562"
+ },
+ {
+  "id": 3168302301,
+  "title": "Mono",
+  "artist": "Les Louanges",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3168302301"
+ },
+ {
+  "id": 128234309,
+  "title": "Tellement longtemps",
+  "artist": "Les Colocs",
+  "year": 1998,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128234309"
+ },
+ {
+  "id": 1036963832,
+  "title": "Pour toi",
+  "artist": "Ariane Moffatt",
+  "year": 2018,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/65d01f071409088d9ed18d80c538f524/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1036963832"
+ },
+ {
+  "id": 128226659,
+  "title": "Fracture Du Crâne",
+  "artist": "Ariane Moffatt",
+  "year": 2002,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5fb052d4461a581385ceb2e35b297e67/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128226659"
+ },
+ {
+  "id": 65760362,
+  "title": "Fulton Road",
+  "artist": "Bernard Adamus",
+  "year": 2012,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/49bcc4fbc53c4448c71bd5ab452688f7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65760362"
+ },
+ {
+  "id": 1284099302,
+  "title": "Jamais de la vie",
+  "artist": "Loud",
+  "year": 2019,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1284099302"
+ },
+ {
+  "id": 856732932,
+  "title": "Astronaute",
+  "artist": "Gab Bouchard",
+  "year": 2020,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/856732932"
+ },
+ {
+  "id": 15397674,
+  "title": "La Traversée",
+  "artist": "Les Colocs",
+  "year": 1993,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/15397674"
+ },
+ {
+  "id": 2941998731,
+  "title": "Désolé",
+  "artist": "Jay Scøtt",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2941998731"
+ },
+ {
+  "id": 1829016727,
+  "title": "Grafignes",
+  "artist": "Gab Bouchard",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1829016727"
+ },
+ {
+  "id": 1033152462,
+  "title": "Comme des rames",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0e0e4dcd6b2446b1c485f181cbc07406/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1033152462"
+ },
+ {
+  "id": 65802560,
+  "title": "Rue Ontario",
+  "artist": "Bernard Adamus",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/4e10d3f1132df3d88195741ba92f847f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65802560"
+ },
+ {
+  "id": 90303977,
+  "title": "Krève",
+  "artist": "Rymz",
+  "year": 2017,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/dfdcf4307e005570ab9a26cc24bad186/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/90303977"
+ },
+ {
+  "id": 856219262,
+  "title": "Mode de vie",
+  "artist": "White-B",
+  "year": 2017,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7b19cf6b4f02ac48f8e60880c8445713/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/856219262"
+ },
+ {
+  "id": 1238512672,
+  "title": "Club vidéo",
+  "artist": "Thierry Larose",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1238512672"
+ },
+ {
+  "id": 3619724602,
+  "title": "L'hiver",
+  "artist": "Monique Leyrac",
+  "year": 1963,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3619724602"
+ },
+ {
+  "id": 3609086772,
+  "title": "Terminé le fun",
+  "artist": "Les Vulgaires Machins",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3609086772"
+ },
+ {
+  "id": 1296825432,
+  "title": "Les gens",
+  "artist": "Robert Robert",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1296825432"
+ },
+ {
+  "id": 1497640642,
+  "title": "El Nino",
+  "artist": "Plume Latraverse",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/622b8b56491ed9d361840287187841c9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1497640642"
+ },
+ {
+  "id": 3756793592,
+  "title": "Ôte-moi mon linge",
+  "artist": "Les sœurs Boulay",
+  "year": 2013,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3756793592"
+ },
+ {
+  "id": 65760412,
+  "title": "Walkie-talkie",
+  "artist": "Avec pas d'casque",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/adf2c195acd596820d3182c31ad120b5/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65760412"
+ },
+ {
+  "id": 65295645,
+  "title": "Chanson noire",
+  "artist": "Harmonium",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2ffc4f75736765e42a0f152446511f62/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65295645"
+ },
+ {
+  "id": 3911425261,
+  "title": "Derrière mon sourire",
+  "artist": "Sans Pression",
+  "year": 2003,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9afd6b31df4f4bd3a6a9722a1482c029/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3911425261"
+ },
+ {
+  "id": 128228251,
+  "title": "Écoute pas ça",
+  "artist": "Jean-Pierre Ferland",
+  "year": 2011,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1d53491e5fb439d385d6cd59dbb80d51/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128228251"
+ },
+ {
+  "id": 395046612,
+  "title": "Gallaway Road",
+  "artist": "Maude Audet",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/832ae2f8de7e94067c9fa80e06e6e0e4/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/395046612"
+ },
+ {
+  "id": 1036062792,
+  "title": "Darlène, darling",
+  "artist": "Hubert Lenoir",
+  "year": 2018,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1036062792"
+ },
+ {
+  "id": 1870801,
+  "title": "C’Est Toute Une Musique",
+  "artist": "Monique Leyrac",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/8cc0047533f7aabbc592fe97562857e2/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1870801"
+ },
+ {
+  "id": 3756793652,
+  "title": "Des shooters de fort sur ton bras",
+  "artist": "Les sœurs Boulay",
+  "year": 2013,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3756793652"
+ },
+ {
+  "id": 566085962,
+  "title": "Flamme",
+  "artist": "Qualité Motel",
+  "year": 2018,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7087d9567d0e8059b460e3e672b9f1b0/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/566085962"
+ },
+ {
+  "id": 4224454182,
+  "title": "La laideur",
+  "artist": "Safia Nolin",
+  "year": 2015,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/139b39e4d037e5476a73a5de326dd3d7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4224454182"
+ },
+ {
+  "id": 3571264391,
+  "title": "Le screw",
+  "artist": "Richard Desjardins",
+  "year": 1990,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5f6b1e53fb83702cac6579495ad9f867/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3571264391"
+ },
+ {
+  "id": 1424857182,
+  "title": "Mes blues passent pu dans porte",
+  "artist": "Offenbach",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0aeb9d79da6d6a3d643e584fc49796b9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1424857182"
+ },
+ {
+  "id": 128234601,
+  "title": "Un sourire",
+  "artist": "Paul Piché",
+  "year": 1991,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0799b2033da8e7c583c4a08aee31fc72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128234601"
+ },
+ {
+  "id": 558838352,
+  "title": "Tiens ma bière",
+  "artist": "Noir Silence",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/fd3a576cf29886730b637603e5a8f1f8/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/558838352"
+ },
+ {
+  "id": 3832550641,
+  "title": "ÇA VA TOUTE PÉTER",
+  "artist": "Calamine",
+  "year": 2026,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/df172965a1934a3992acb61495f540ed/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3832550641"
+ },
+ {
+  "id": 3756794182,
+  "title": "T'es ben mieux d'les ouvrir tes yeux",
+  "artist": "Les sœurs Boulay",
+  "year": 2015,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/fda9b12809be88bc82c86acd848d014d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3756794182"
+ },
+ {
+  "id": 62355485,
+  "title": "Méo penché",
+  "artist": "Noir Silence",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/24a3555d7c9716038b660641dfd07bd6/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/62355485"
+ },
+ {
+  "id": 72999222,
+  "title": "Cauchemar",
+  "artist": "Robert Charlebois",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/72999222"
+ },
+ {
+  "id": 3870010941,
+  "title": "Moi-léger",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/69047aa0762608c5ec767dd42e5636ce/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3870010941"
+ },
+ {
+  "id": 2147853717,
+  "title": "St-Han Quinzou",
+  "artist": "FouKi",
+  "year": 2023,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a064f79011ffac1a67b7b816f571f9b0/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2147853717"
+ },
+ {
+  "id": 72999208,
+  "title": "Demain l'hiver",
+  "artist": "Robert Charlebois",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/72999208"
+ },
+ {
+  "id": 1419411842,
+  "title": "Arrête de boire !",
+  "artist": "Rock et Belles Oreilles",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/f0a58fd953faf19f6b33020d800e2f56/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1419411842"
+ },
+ {
+  "id": 1498021402,
+  "title": "Camouflar",
+  "artist": "Galaxie",
+  "year": 2011,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/782cba032ac1537e035fb5c62a9ad191/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1498021402"
+ },
+ {
+  "id": 552817172,
+  "title": "De partout",
+  "artist": "Alaclair Ensemble",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/552817172"
+ },
+ {
+  "id": 668923792,
+  "title": "Le matin des raisons",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/77ae0e745000601f6eeb66824f95564c/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/668923792"
+ },
+ {
+  "id": 128234859,
+  "title": "Un château de sable",
+  "artist": "Paul Piché",
+  "year": 1996,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128234859"
+ },
+ {
+  "id": 72999224,
+  "title": "Je rêve à Rio",
+  "artist": "Robert Charlebois",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/72999224"
+ },
+ {
+  "id": 2788042842,
+  "title": "Pythagore",
+  "artist": "Klô Pelgag",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2788042842"
+ },
+ {
+  "id": 3104618981,
+  "title": "Poison rouge",
+  "artist": "Offenbach",
+  "year": 1981,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9100546cfd277b5d056e4df4fe4b4159/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3104618981"
+ },
+ {
+  "id": 72999256,
+  "title": "Les talons hauts",
+  "artist": "Robert Charlebois",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/72999256"
+ },
+ {
+  "id": 1935953137,
+  "title": "Laurine",
+  "artist": "Alphonse Bisaillon",
+  "year": 2022,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1935953137"
+ },
+ {
+  "id": 1410660672,
+  "title": "La danse à St-Dilon",
+  "artist": "Gilles Vigneault",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d363e1329a31f102e40e0f2bef988d02/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1410660672"
+ },
+ {
+  "id": 1497630902,
+  "title": "Les pauvres",
+  "artist": "Plume Latraverse",
+  "year": 1995,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a8e7bffd0a6650c7e00a29403a7865cc/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1497630902"
+ },
+ {
+  "id": 2929318861,
+  "title": "Quelque chose",
+  "artist": "Avec pas d'casque",
+  "year": 2024,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2929318861"
+ },
+ {
+  "id": 1222624872,
+  "title": "Chill?",
+  "artist": "TIZZO",
+  "year": 2019,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e1c9d2312a911c9589e758729054332d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1222624872"
+ },
+ {
+  "id": 2114310987,
+  "title": "Mérité",
+  "artist": "Izzy-S",
+  "year": 2023,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/c760196cc7c79b1b8e854d9574918a0a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2114310987"
+ },
+ {
+  "id": 1222625482,
+  "title": "Ça pue",
+  "artist": "TIZZO",
+  "year": 2018,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2eaefda75932d6dd9e2c56dc8649cb11/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1222625482"
+ },
+ {
+  "id": 128221369,
+  "title": "Sous les projectiles",
+  "artist": "Mara Tremblay",
+  "year": 2009,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128221369"
+ },
+ {
+  "id": 65760361,
+  "title": "Entre ici pis chez vous",
+  "artist": "Bernard Adamus",
+  "year": 2012,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/49bcc4fbc53c4448c71bd5ab452688f7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65760361"
+ },
+ {
+  "id": 65760261,
+  "title": "Synesthésie",
+  "artist": "Malajube",
+  "year": 2011,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/bbe2954dd4836f75f5d126d30fd490da/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65760261"
+ },
+ {
+  "id": 72999253,
+  "title": "J't'aime comme un fou",
+  "artist": "Robert Charlebois",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/72999253"
+ },
+ {
+  "id": 1407938492,
+  "title": "Salut Léon",
+  "artist": "Jacques Michel",
+  "year": 2004,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7db74ca092658762ca35b256f0d7bc75/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1407938492"
+ },
+ {
+  "id": 2400330645,
+  "title": "Rap De Cégep",
+  "artist": "Alaclair Ensemble",
+  "year": 2023,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2afdc273c878c148c908fe424a3ef821/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2400330645"
+ },
+ {
+  "id": 1438970792,
+  "title": "DIMANCHE SOIR",
+  "artist": "Hubert Lenoir",
+  "year": 2021,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a19e8bd25a7036c489d25fd6143cf89f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1438970792"
+ },
+ {
+  "id": 3363213071,
+  "title": "June",
+  "artist": "LaF",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/83739e63c94b914ca8a63f6d8e788854/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3363213071"
+ },
+ {
+  "id": 1406556462,
+  "title": "La violence",
+  "artist": "Philémon Cimon",
+  "year": 2020,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/31cadf553b49c1355ff5a0075cba4605/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1406556462"
+ },
+ {
+  "id": 3399416231,
+  "title": "Naufrage",
+  "artist": "Dan Bigras",
+  "year": 2009,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3399416231"
+ },
+ {
+  "id": 3609086792,
+  "title": "Travail à la chaîne",
+  "artist": "Les Vulgaires Machins",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3609086792"
+ },
+ {
+  "id": 521058672,
+  "title": "Superstitions",
+  "artist": "Choses Sauvages",
+  "year": 2018,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/521058672"
+ },
+ {
+  "id": 4022760831,
+  "title": "Pendant que le monde explose",
+  "artist": "Marco Ema",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/3f49128830a2337b5c227e094fbaad21/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4022760831"
+ },
+ {
+  "id": 1296825472,
+  "title": "Digital",
+  "artist": "Robert Robert",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1296825472"
+ },
+ {
+  "id": 2992226001,
+  "title": "Français",
+  "artist": "Sans Pression",
+  "year": 2024,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b06beae64a563be01a8ad28fd0f9591f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2992226001"
+ },
+ {
+  "id": 3509021201,
+  "title": "POURVU",
+  "artist": "Robert Robert",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ca67cdea2c2cfccd1932864c74413de7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3509021201"
+ },
+ {
+  "id": 1004059042,
+  "title": "Mots d'Église",
+  "artist": "Comment Debord",
+  "year": 2020,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1004059042"
+ },
+ {
+  "id": 109104334,
+  "title": "Un ours mal léché",
+  "artist": "Manu Militari",
+  "year": 2012,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/8b55d56ebea9bc339620a5e6d4f9590f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/109104334"
+ },
+ {
+  "id": 93081664,
+  "title": "Jolie Anne",
+  "artist": "Tire le coyote",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1862159b9a4e0744f54843ca3242bb3d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/93081664"
+ },
+ {
+  "id": 2683161312,
+  "title": "On danse encore",
+  "artist": "Laurence Nerbonne",
+  "year": 2024,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2683161312"
+ },
+ {
+  "id": 1498027642,
+  "title": "Moisi moé'ssi",
+  "artist": "Fred Fortin",
+  "year": 2009,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1deb0accb71880ab8b0076576668840e/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1498027642"
+ },
+ {
+  "id": 1935953127,
+  "title": "Station balnéaire",
+  "artist": "Alphonse Bisaillon",
+  "year": 2022,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1935953127"
+ },
+ {
+  "id": 2397233275,
+  "title": "L'échafaud",
+  "artist": "Karkwa",
+  "year": 2023,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/6860889407edb57bad307011fb372e4a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2397233275"
+ },
+ {
+  "id": 3027639621,
+  "title": "La montagne",
+  "artist": "Mon Doux Saigneur",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/3998393dd54fd18a327642ef1ec65f0f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3027639621"
+ },
+ {
+  "id": 128234833,
+  "title": "Je lègue à la mer",
+  "artist": "Paul Piché",
+  "year": 1996,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128234833"
+ },
+ {
+  "id": 1287181022,
+  "title": "Fantôme",
+  "artist": "Hippie Hourrah",
+  "year": 2021,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/c87b833ffbf453828acae25e5eaa160b/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1287181022"
+ },
+ {
+  "id": 3973054811,
+  "title": "Bébé requin",
+  "artist": "VioleTT Pi",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3973054811"
+ },
+ {
+  "id": 3399416311,
+  "title": "Il suffirait de presque rien",
+  "artist": "Dan Bigras",
+  "year": 2009,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3399416311"
+ },
+ {
+  "id": 1407938352,
+  "title": "Amène-toi chez nous",
+  "artist": "Jacques Michel",
+  "year": 2004,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7db74ca092658762ca35b256f0d7bc75/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1407938352"
+ },
+ {
+  "id": 2617600142,
+  "title": "Politesses",
+  "artist": "Félix Dyotte",
+  "year": 2017,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a980f29890b2beb45dab9f8997246801/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2617600142"
+ },
+ {
+  "id": 1723770967,
+  "title": "Coin à l'ombre",
+  "artist": "Loud",
+  "year": 2022,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b22fd4084c831545061f41806dc4d10f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1723770967"
+ },
+ {
+  "id": 1497629622,
+  "title": "J'ai vendu ma chèvre",
+  "artist": "Plume Latraverse",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1eedcd5f71daf952f57cdd3cc29dfc25/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1497629622"
+ },
+ {
+  "id": 1570239932,
+  "title": "Elle est partie",
+  "artist": "Sarahmée",
+  "year": 2021,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/83ba3db3dc6c127f1bd9ec328daa5e1a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1570239932"
+ },
+ {
+  "id": 3945345791,
+  "title": "Le vent m'appelle par mon prénom",
+  "artist": "Marie-Pierre Arthur",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3945345791"
+ },
+ {
+  "id": 3278043881,
+  "title": "Mordre",
+  "artist": "Ariane Roy",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3278043881"
+ },
+ {
+  "id": 432286622,
+  "title": "Santa Barbara",
+  "artist": "Gab Paquet",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/432286622"
+ },
+ {
+  "id": 71903141,
+  "title": "Les bombes",
+  "artist": "Michel Pagliaro",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/000ed0c8fad6d910748b6429c11e7e0f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/71903141"
+ },
+ {
+  "id": 1036062742,
+  "title": "Fille de personne III",
+  "artist": "Hubert Lenoir",
+  "year": 2018,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1036062742"
+ },
+ {
+  "id": 3115238601,
+  "title": "Pit à feu",
+  "artist": "Bernard Adamus",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5e1ffac8c404d5f56828a22ee667e127/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3115238601"
+ },
+ {
+  "id": 2267652787,
+  "title": "faites-moi penser",
+  "artist": "Comment Debord",
+  "year": 2023,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2267652787"
+ },
+ {
+  "id": 2873551932,
+  "title": "Miroir",
+  "artist": "Marie-Pierre Arthur",
+  "year": 2024,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/da7250a1e6ee50bf4fe8bc57bf7cc9ca/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2873551932"
+ },
+ {
+  "id": 3102626831,
+  "title": "Promenade sur Mars",
+  "artist": "Offenbach",
+  "year": 1980,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2c2f73513e5973051fca0023ba869403/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3102626831"
+ },
+ {
+  "id": 65802915,
+  "title": "Luna",
+  "artist": "Malajube",
+  "year": 2009,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/238a3b42c1fdecc1263fc40d8f928d2b/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65802915"
+ },
+ {
+  "id": 3168460871,
+  "title": "Je t'attends",
+  "artist": "Philippe B",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e5ec0c0a2a0d79d136ebb96ca5effd30/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3168460871"
+ },
+ {
+  "id": 2552255052,
+  "title": "CHF",
+  "artist": "Loud",
+  "year": 2023,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5ee72adf9b6e8a09e0ea40b08848aeea/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2552255052"
+ },
+ {
+  "id": 2397233235,
+  "title": "Gravité",
+  "artist": "Karkwa",
+  "year": 2023,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/6860889407edb57bad307011fb372e4a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2397233235"
+ },
+ {
+  "id": 4256417661,
+  "title": "DAGGA",
+  "artist": "Shreez",
+  "year": 2026,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4256417661"
+ },
+ {
+  "id": 1253427822,
+  "title": "Price",
+  "artist": "White-B",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1253427822"
+ },
+ {
+  "id": 129499602,
+  "title": "Alaclair High",
+  "artist": "Alaclair Ensemble",
+  "year": 2020,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ae78a89d49082fe78cc4a82025070e85/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/129499602"
+ },
+ {
+  "id": 1571256872,
+  "title": "Ma peau",
+  "artist": "Sarahmée",
+  "year": 2019,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e6c4f686717028cdffb938ca222777da/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1571256872"
+ },
+ {
+  "id": 128234595,
+  "title": "J'étais ben étonné",
+  "artist": "Paul Piché",
+  "year": 1991,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0799b2033da8e7c583c4a08aee31fc72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128234595"
+ },
+ {
+  "id": 4092225421,
+  "title": "Chu tu seul à soir",
+  "artist": "Vilain Pingouin",
+  "year": 1992,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4092225421"
+ },
+ {
+  "id": 128237359,
+  "title": "Plaisirs dénudés",
+  "artist": "Pierre Lapointe",
+  "year": 2004,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/953f7710115fc7e14bbd4cf1593b9b72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128237359"
+ },
+ {
+  "id": 1543591562,
+  "title": "On aurait pu aller voir la mer",
+  "artist": "Marco Ema",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b200231462e943f6d4b9de442beb7cdb/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1543591562"
+ },
+ {
+  "id": 843810202,
+  "title": "Les vieux pianos",
+  "artist": "Claude Léveillée",
+  "year": 2019,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/c783037e1c51499981acf730086efeec/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/843810202"
+ },
+ {
+  "id": 1662816462,
+  "title": "Rien de moins",
+  "artist": "Loud",
+  "year": 2022,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/950df83d63382213157ad477bb9015b7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1662816462"
+ },
+ {
+  "id": 1481648752,
+  "title": "Science du bruit",
+  "artist": "Choses Sauvages",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/90c9371dc8bfc777606bbc3b8d1a9ce7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1481648752"
+ },
+ {
+  "id": 3832550591,
+  "title": "CHOP CHOP",
+  "artist": "Calamine",
+  "year": 2026,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/df172965a1934a3992acb61495f540ed/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3832550591"
+ },
+ {
+  "id": 2929318801,
+  "title": "Mâcher tes bottes",
+  "artist": "Avec pas d'casque",
+  "year": 2024,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2929318801"
+ },
+ {
+  "id": 128220753,
+  "title": "Pour Les Amants",
+  "artist": "Claude Léveillée",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a85e059ef13274a1f7e6fa7745225756/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128220753"
+ },
+ {
+  "id": 3945345771,
+  "title": "Chanson pour Dan",
+  "artist": "Marie-Pierre Arthur",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3945345771"
+ },
+ {
+  "id": 847611262,
+  "title": "Projet Illégal",
+  "artist": "5sang14",
+  "year": 2019,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/3804d693684fe73388ba7c1f30128cad/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/847611262"
+ },
+ {
+  "id": 1666767502,
+  "title": "Toi l'ami",
+  "artist": "Sylvain Lelièvre",
+  "year": 2007,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/08ae7fa3a62107522ce4b77eb5c8ffae/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1666767502"
+ },
+ {
+  "id": 66993159,
+  "title": "T'es tellement belle",
+  "artist": "Noir Silence",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2100c114826725d6da783256e6cb051d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/66993159"
+ },
+ {
+  "id": 2632364092,
+  "title": "Le spleen de Montreal",
+  "artist": "Galaxie",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/f47b5c2311d3c44d57266d5b5eb10339/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2632364092"
+ },
+ {
+  "id": 2448204225,
+  "title": "Pensée post-mort",
+  "artist": "Arielle Soucy",
+  "year": 2023,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2448204225"
+ },
+ {
+  "id": 2267652767,
+  "title": "tu penses-tu",
+  "artist": "Comment Debord",
+  "year": 2023,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2267652767"
+ },
+ {
+  "id": 93081586,
+  "title": "Crime parfait",
+  "artist": "Alexandre Désilets",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/27a80fe6102398f5ebe77c90c339dbc6/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/93081586"
+ },
+ {
+  "id": 2047044887,
+  "title": "Le trou",
+  "artist": "Rock et Belles Oreilles",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d89a8ce2487b731acccf8f35207bf45d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2047044887"
+ },
+ {
+  "id": 2617578132,
+  "title": "Effeuille-moi le cœur",
+  "artist": "Félix Dyotte",
+  "year": 2015,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/91e8a22319606b6d962ffa43d2550088/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2617578132"
+ },
+ {
+  "id": 1237605082,
+  "title": "Les Rois",
+  "artist": "Étienne Dufresne",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1237605082"
+ },
+ {
+  "id": 676387732,
+  "title": "TGV",
+  "artist": "KNLO",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/f5604db798a2acbfd76a6df0e251e0ad/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/676387732"
+ },
+ {
+  "id": 1539650982,
+  "title": "L'amour passe à travers le linge",
+  "artist": "Avec pas d'casque",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/93351b6282f551324a025dbc9bd2b9ef/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1539650982"
+ },
+ {
+  "id": 3399416281,
+  "title": "Pourquoi tu veux",
+  "artist": "Dan Bigras",
+  "year": 2009,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3399416281"
+ },
+ {
+  "id": 1424363532,
+  "title": "Mode Sport",
+  "artist": "5sang14",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e297bbefdbab5188b2cb08d5fbf11620/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1424363532"
+ },
+ {
+  "id": 4064453041,
+  "title": "Ménage du printemps",
+  "artist": "Bon Enfant",
+  "year": 2019,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4064453041"
+ },
+ {
+  "id": 1540443252,
+  "title": "Van Gogh",
+  "artist": "Manu Militari",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1540443252"
+ },
+ {
+  "id": 4003519161,
+  "title": "BASSE COUTURE",
+  "artist": "Koriass",
+  "year": 2026,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4003519161"
+ },
+ {
+  "id": 85615146,
+  "title": "Je voulais te dire que je t'attends",
+  "artist": "Diane Dufresne",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/85615146"
+ },
+ {
+  "id": 1424554722,
+  "title": "C'EST BEAU",
+  "artist": "KNLO",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/25c187352c2d3d027c4d53ad10a1018d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1424554722"
+ },
+ {
+  "id": 2820309562,
+  "title": "DOUBLE F",
+  "artist": "Rowjay",
+  "year": 2024,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/6a31da363d3e7780bb751e64d0b9587d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2820309562"
+ },
+ {
+  "id": 1409440302,
+  "title": "Tic Tac",
+  "artist": "Keith Kouna",
+  "year": 2012,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1409440302"
+ },
+ {
+  "id": 15398210,
+  "title": "Men malad yo!",
+  "artist": "Muzion",
+  "year": 2002,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/746943ba0cb94117143b6cc422a0e904/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/15398210"
+ },
+ {
+  "id": 4015237811,
+  "title": "Amoureuse",
+  "artist": "Marjo",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/c9f4eb263626bc1247a86893094c787e/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4015237811"
+ },
+ {
+  "id": 1397329812,
+  "title": "Didi",
+  "artist": "Valence",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1397329812"
+ },
+ {
+  "id": 2788042902,
+  "title": "Décembre",
+  "artist": "Klô Pelgag",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2788042902"
+ },
+ {
+  "id": 371577241,
+  "title": "Primitif",
+  "artist": "Mon Doux Saigneur",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/4e63371e3d27207b17583f4af183080e/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/371577241"
+ },
+ {
+  "id": 15682851,
+  "title": "Le retour du flâneur",
+  "artist": "Beau Dommage",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e16548fc4e7cdad1d3758aa39ecf7249/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/15682851"
+ },
+ {
+  "id": 1237605072,
+  "title": "Les Couteaux",
+  "artist": "Étienne Dufresne",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1237605072"
+ },
+ {
+  "id": 3234554581,
+  "title": "Copenhague",
+  "artist": "Ariane Moffatt",
+  "year": 2025,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3234554581"
+ },
+ {
+  "id": 4045552031,
+  "title": "Ratata",
+  "artist": "Sarahmée",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/f561e778554ff124634b437122f5931e/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4045552031"
+ },
+ {
+  "id": 109118186,
+  "title": "Bozo",
+  "artist": "Beau Dommage",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ff7b92b3e58b83d892a310dcee9ec726/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/109118186"
+ },
+ {
+  "id": 128221373,
+  "title": "Le printemps des amants",
+  "artist": "Mara Tremblay",
+  "year": 2009,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128221373"
+ },
+ {
+  "id": 3618172252,
+  "title": "Les gens que j'aime",
+  "artist": "Michel Rivard",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d1c081b0df28824f0a242bb628b43443/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3618172252"
+ },
+ {
+  "id": 2267652857,
+  "title": "le fond de l'air",
+  "artist": "Comment Debord",
+  "year": 2023,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2267652857"
+ },
+ {
+  "id": 521058722,
+  "title": "Hualien",
+  "artist": "Choses Sauvages",
+  "year": 2018,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/521058722"
+ },
+ {
+  "id": 4007956651,
+  "title": "Pâte à biscuit",
+  "artist": "Bon Enfant",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4007956651"
+ },
+ {
+  "id": 3167990181,
+  "title": "Traitement Deuxluxe",
+  "artist": "Les Deuxluxes",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/3481de50c9c3b2fc426fed195b5555e1/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3167990181"
+ },
+ {
+  "id": 3892635051,
+  "title": "Actes manqués",
+  "artist": "Laurence Nerbonne",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ab29a8342f9b148f37cbb4daea780475/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3892635051"
+ },
+ {
+  "id": 4077793531,
+  "title": "Tapis noir",
+  "artist": "Fred Fortin",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/4b071d4bce6c28b04904314f2c1140de/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4077793531"
+ },
+ {
+  "id": 72999223,
+  "title": "Entr' deux joints",
+  "artist": "Robert Charlebois",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/72999223"
+ },
+ {
+  "id": 3801750382,
+  "title": "Cha Cha les Mouillés",
+  "artist": "Population II",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/51fb48f80a6692f643cfc2f7e89232e5/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3801750382"
+ },
+ {
+  "id": 3973054831,
+  "title": "Courriel",
+  "artist": "VioleTT Pi",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3973054831"
+ },
+ {
+  "id": 3801750392,
+  "title": "Magouilleux",
+  "artist": "Population II",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/51fb48f80a6692f643cfc2f7e89232e5/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3801750392"
+ },
+ {
+  "id": 65802834,
+  "title": "La monogamie",
+  "artist": "Malajube",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b181d6b08412d1a1bc99e4cac1b65e96/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65802834"
+ },
+ {
+  "id": 3945345761,
+  "title": "Il",
+  "artist": "Marie-Pierre Arthur",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3945345761"
+ },
+ {
+  "id": 1563128122,
+  "title": "Contrefaçon",
+  "artist": "5sang14",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1563128122"
+ },
+ {
+  "id": 128235055,
+  "title": "En Cavale",
+  "artist": "Pierre Flynn",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/345790e1704491d26e70c3fd51ccd6a4/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128235055"
+ },
+ {
+  "id": 4064453001,
+  "title": "Faux pas",
+  "artist": "Bon Enfant",
+  "year": 2019,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4064453001"
+ },
+ {
+  "id": 3869986211,
+  "title": "L'épaule froide",
+  "artist": "Karkwa",
+  "year": 2005,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ac93bc0c89508b946689854ab32a2257/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3869986211"
+ },
+ {
+  "id": 3580394471,
+  "title": "Le goût du miel",
+  "artist": "Fabienne Thibeault",
+  "year": 1981,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a733ed4679bd44d5b0c9d577dd5fdc83/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3580394471"
+ },
+ {
+  "id": 3234554621,
+  "title": "L'amour, le danger",
+  "artist": "Ariane Moffatt",
+  "year": 2025,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3234554621"
+ },
+ {
+  "id": 2400330675,
+  "title": "Splash",
+  "artist": "Alaclair Ensemble",
+  "year": 2023,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2afdc273c878c148c908fe424a3ef821/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2400330675"
+ },
+ {
+  "id": 4144375632,
+  "title": "On ne sait jamais",
+  "artist": "Gilles Vigneault",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4144375632"
+ },
+ {
+  "id": 1999024847,
+  "title": "Bonjour la police",
+  "artist": "Rock et Belles Oreilles",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d58ee70b2d14da77aefc4747c11194ba/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1999024847"
+ },
+ {
+  "id": 4256417641,
+  "title": "BUDAPEST",
+  "artist": "Shreez",
+  "year": 2026,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4256417641"
+ },
+ {
+  "id": 2929318851,
+  "title": "Collision",
+  "artist": "Avec pas d'casque",
+  "year": 2024,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2929318851"
+ },
+ {
+  "id": 1284099292,
+  "title": "Médailles",
+  "artist": "Loud",
+  "year": 2019,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1284099292"
+ },
+ {
+  "id": 762604862,
+  "title": "Partis de rien",
+  "artist": "Izzy-S",
+  "year": 2018,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/84b031aeed9e89722e4dee0b3f8cfcb2/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/762604862"
+ },
+ {
+  "id": 2820288392,
+  "title": "PAS D'EXCUSES",
+  "artist": "Rowjay",
+  "year": 2024,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/6a31da363d3e7780bb751e64d0b9587d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2820288392"
+ },
+ {
+  "id": 3555510391,
+  "title": "Sumerset",
+  "artist": "Rau_Ze",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3555510391"
+ },
+ {
+  "id": 85615112,
+  "title": "Madame rêve",
+  "artist": "Diane Dufresne",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/85615112"
+ },
+ {
+  "id": 2683161342,
+  "title": "Cowgirl",
+  "artist": "Laurence Nerbonne",
+  "year": 2024,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2683161342"
+ },
+ {
+  "id": 1004059092,
+  "title": "Bay window",
+  "artist": "Comment Debord",
+  "year": 2020,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1004059092"
+ },
+ {
+  "id": 1397329842,
+  "title": "Perfektenschlag",
+  "artist": "Valence",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1397329842"
+ },
+ {
+  "id": 2683161362,
+  "title": "Je ne sais quoi",
+  "artist": "Laurence Nerbonne",
+  "year": 2024,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2683161362"
+ },
+ {
+  "id": 2929318891,
+  "title": "Cardinal",
+  "artist": "Avec pas d'casque",
+  "year": 2024,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2929318891"
+ },
+ {
+  "id": 4007956611,
+  "title": "Astronaute amateur",
+  "artist": "Bon Enfant",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4007956611"
+ },
+ {
+  "id": 2344894165,
+  "title": "Canal Évasion",
+  "artist": "Étienne Dufresne",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2344894165"
+ },
+ {
+  "id": 2267652797,
+  "title": "veux veux pas",
+  "artist": "Comment Debord",
+  "year": 2023,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2267652797"
+ },
+ {
+  "id": 521058712,
+  "title": "Poussière",
+  "artist": "Choses Sauvages",
+  "year": 2018,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/521058712"
+ },
+ {
+  "id": 3850114781,
+  "title": "Pattern",
+  "artist": "Arielle Soucy",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/18209282e0697c78a4e6c5c5647fb672/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3850114781"
+ },
+ {
+  "id": 2421012,
+  "title": "La mort de l'ours",
+  "artist": "Félix Leclerc",
+  "year": 1999,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/8246485411374216fa2cf02e0219cec6/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2421012"
+ },
+ {
+  "id": 552817242,
+  "title": "FLX",
+  "artist": "Alaclair Ensemble",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/552817242"
+ },
+ {
+  "id": 1470416332,
+  "title": "Le coeur a ses raisons",
+  "artist": "Sarahmée",
+  "year": 2021,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/37ba688e30a5004a82e8572cab7a5d74/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1470416332"
+ },
+ {
+  "id": 4005914031,
+  "title": "Sous-marine",
+  "artist": "Bon Enfant",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/1601cc7fe9db1b5b994fceafc2390cf9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4005914031"
+ },
+ {
+  "id": 15398015,
+  "title": "Le Soleil Se Couche",
+  "artist": "Muzion",
+  "year": 1999,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2f13aa2ccd541d27d69bb78c0f13345d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/15398015"
+ },
+ {
+  "id": 1296825412,
+  "title": "L'été je m'ennuie",
+  "artist": "Robert Robert",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1296825412"
+ },
+ {
+  "id": 1480799972,
+  "title": "Réponds",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0bd52e595f50e2f9e9e2a832b284c777/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1480799972"
+ },
+ {
+  "id": 62329286,
+  "title": "Rack à Bécyk",
+  "artist": "Noir Silence",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9af8eb8dce26058d2ff58f0fac0628ad/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/62329286"
+ },
+ {
+  "id": 1014458342,
+  "title": "Émite Bilodeau",
+  "artist": "Qualité Motel",
+  "year": 2020,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9e9c697ce3cada304ce0d9e84cf8650a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1014458342"
+ },
+ {
+  "id": 676387742,
+  "title": "Ça fait mal",
+  "artist": "KNLO",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/f5604db798a2acbfd76a6df0e251e0ad/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/676387742"
+ },
+ {
+  "id": 4050944211,
+  "title": "Au revoir",
+  "artist": "Keith Kouna",
+  "year": 2023,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/3df78d61ae554153000ffc8ff485369a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4050944211"
+ },
+ {
+  "id": 4256417591,
+  "title": "J’AVAIS",
+  "artist": "Shreez",
+  "year": 2026,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4256417591"
+ },
+ {
+  "id": 3973054841,
+  "title": "Guernica",
+  "artist": "VioleTT Pi",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3973054841"
+ },
+ {
+  "id": 2344894205,
+  "title": "Élisabeth",
+  "artist": "Étienne Dufresne",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2344894205"
+ },
+ {
+  "id": 71903131,
+  "title": "L'espion",
+  "artist": "Michel Pagliaro",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/000ed0c8fad6d910748b6429c11e7e0f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/71903131"
+ },
+ {
+  "id": 1424857132,
+  "title": "Ayoye",
+  "artist": "Offenbach",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0aeb9d79da6d6a3d643e584fc49796b9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1424857132"
+ },
+ {
+  "id": 1090494332,
+  "title": "Vivre ou périr",
+  "artist": "White-B",
+  "year": 2020,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/8a0883ec97a66211a1ea564c0062c483/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1090494332"
+ },
+ {
+  "id": 128234741,
+  "title": "Chanson pour un ami",
+  "artist": "Philémon Cimon",
+  "year": 2014,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128234741"
+ },
+ {
+  "id": 3869986241,
+  "title": "Le coup d'état",
+  "artist": "Karkwa",
+  "year": 2005,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ac93bc0c89508b946689854ab32a2257/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3869986241"
+ },
+ {
+  "id": 3345014391,
+  "title": "Bicyclette",
+  "artist": "Qualité Motel",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/8c17c270de6c2bf474a465b89c71124d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3345014391"
+ },
+ {
+  "id": 1563128052,
+  "title": "Gangsta",
+  "artist": "5sang14",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1563128052"
+ },
+ {
+  "id": 4096891491,
+  "title": "Les belles années",
+  "artist": "Vilain Pingouin",
+  "year": 1986,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4096891491"
+ },
+ {
+  "id": 3283927661,
+  "title": "ONO",
+  "artist": "Loud Lary Ajust",
+  "year": 2013,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b5bb959250452292f1fbdc6a8b63052b/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3283927661"
+ },
+ {
+  "id": 4007956621,
+  "title": "Cinéma",
+  "artist": "Bon Enfant",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4007956621"
+ },
+ {
+  "id": 2058882907,
+  "title": "Jaune miel",
+  "artist": "VioleTT Pi",
+  "year": 2023,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0bbd1bfc8ccc0a7317751a8d8b53291f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2058882907"
+ },
+ {
+  "id": 2506659361,
+  "title": "Buzz",
+  "artist": "Marco Ema",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/bcbcdb28d51e5dd651992ccba307c860/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2506659361"
+ },
+ {
+  "id": 1222625132,
+  "title": "On Fouette",
+  "artist": "TIZZO",
+  "year": 2018,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/48e8c53798a54799cc9d2a7fdc35a7bc/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1222625132"
+ },
+ {
+  "id": 128325723,
+  "title": "Un moment",
+  "artist": "Claude Léveillée",
+  "year": 1967,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128325723"
+ },
+ {
+  "id": 1721666577,
+  "title": "Kilimanjaro",
+  "artist": "Pierre Kwenders",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0ae956e23f43c4cff211bc0b3c40e23d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1721666577"
+ },
+ {
+  "id": 1094805982,
+  "title": "HOOD",
+  "artist": "Izzy-S",
+  "year": 2020,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/192ed2835d766eaa3a013a3fa56cc6cb/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1094805982"
+ },
+ {
+  "id": 1498021392,
+  "title": "Diesel",
+  "artist": "Galaxie",
+  "year": 2011,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/782cba032ac1537e035fb5c62a9ad191/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1498021392"
+ },
+ {
+  "id": 1870764,
+  "title": "Pour Cet Amour",
+  "artist": "Monique Leyrac",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/8cc0047533f7aabbc592fe97562857e2/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1870764"
+ },
+ {
+  "id": 128221367,
+  "title": "Tu n'es pas libre",
+  "artist": "Mara Tremblay",
+  "year": 2009,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128221367"
+ },
+ {
+  "id": 3870010961,
+  "title": "Le bon sens",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/69047aa0762608c5ec767dd42e5636ce/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3870010961"
+ },
+ {
+  "id": 3399416441,
+  "title": "Un homme ça pleure aussi",
+  "artist": "Dan Bigras",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/4cfffd68ab847f48b263741221da747c/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3399416441"
+ },
+ {
+  "id": 1082316702,
+  "title": "Ryan",
+  "artist": "Manu Militari",
+  "year": 2009,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2e64d8e55c0e64c7ec44855c025bc12c/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1082316702"
+ },
+ {
+  "id": 3282995221,
+  "title": "Guadeloupe en Beauce",
+  "artist": "Qualité Motel",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a2217947e07ac1dddf83c38e6881d1f7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3282995221"
+ },
+ {
+  "id": 1222684862,
+  "title": "Dos large",
+  "artist": "Connaisseur Ticaso",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1222684862"
+ },
+ {
+  "id": 1036062812,
+  "title": "Cent-treizième rue",
+  "artist": "Hubert Lenoir",
+  "year": 2018,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1036062812"
+ },
+ {
+  "id": 2147853667,
+  "title": "On L'Fait",
+  "artist": "FouKi",
+  "year": 2023,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a064f79011ffac1a67b7b816f571f9b0/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2147853667"
+ },
+ {
+  "id": 4117122691,
+  "title": "Les vagues",
+  "artist": "Antoine Corriveau",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4117122691"
+ },
+ {
+  "id": 2448204315,
+  "title": "Une chose à la fois",
+  "artist": "Arielle Soucy",
+  "year": 2023,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2448204315"
+ },
+ {
+  "id": 3368820861,
+  "title": "Déversoir blues",
+  "artist": "Tire le coyote",
+  "year": 2025,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7a0dde4dd1e2a883a6fd12bd9737f8d9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3368820861"
+ },
+ {
+  "id": 1222684832,
+  "title": "Normal de l'est",
+  "artist": "Connaisseur Ticaso",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1222684832"
+ },
+ {
+  "id": 15682847,
+  "title": "J'ai oublié le jour",
+  "artist": "Beau Dommage",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e16548fc4e7cdad1d3758aa39ecf7249/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/15682847"
+ },
+ {
+  "id": 65802914,
+  "title": "Porté disparu",
+  "artist": "Malajube",
+  "year": 2009,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/238a3b42c1fdecc1263fc40d8f928d2b/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/65802914"
+ },
+ {
+  "id": 135094160,
+  "title": "L'éphémère",
+  "artist": "Alexandre Désilets",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ecc7790ce38215d006a234f9b0bb4c8a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/135094160"
+ },
+ {
+  "id": 3167674671,
+  "title": "Tony Hawk",
+  "artist": "Dead Obies",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0caf9bd984958e035b4516470cadf158/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3167674671"
+ },
+ {
+  "id": 128221365,
+  "title": "Toutes les chances",
+  "artist": "Mara Tremblay",
+  "year": 2009,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128221365"
+ },
+ {
+  "id": 2344894225,
+  "title": "Envie d'être",
+  "artist": "Étienne Dufresne",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2344894225"
+ },
+ {
+  "id": 128234735,
+  "title": "Julie July",
+  "artist": "Philémon Cimon",
+  "year": 2014,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128234735"
+ },
+ {
+  "id": 128325737,
+  "title": "La tortue malade d'avoir mangé trop de laitue",
+  "artist": "Claude Léveillée",
+  "year": 1967,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128325737"
+ },
+ {
+  "id": 1024265312,
+  "title": "J'te dis oui",
+  "artist": "Michel Rivard",
+  "year": 2014,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ea1ec1b67650a288f6b25e00b512c97d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1024265312"
+ },
+ {
+  "id": 3651471402,
+  "title": "3050ViE",
+  "artist": "Rowjay",
+  "year": 2025,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0e8045e596526e3dbe564441f1de66f9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3651471402"
+ },
+ {
+  "id": 3368820831,
+  "title": "Moustique",
+  "artist": "Tire le coyote",
+  "year": 2025,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7a0dde4dd1e2a883a6fd12bd9737f8d9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3368820831"
+ },
+ {
+  "id": 3619724612,
+  "title": "Je viendrai mourir",
+  "artist": "Monique Leyrac",
+  "year": 1963,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3619724612"
+ },
+ {
+  "id": 3168596491,
+  "title": "Porte Ouverte",
+  "artist": "Corridor",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/efd25fa8963892b56c9db5c092a789b8/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3168596491"
+ },
+ {
+  "id": 4005669811,
+  "title": "Ça fait ben l'affaire",
+  "artist": "Alex Burger",
+  "year": 2023,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7cb3fe3d6c2b3040651bdd2de1828637/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4005669811"
+ },
+ {
+  "id": 1483469862,
+  "title": "Rodeo",
+  "artist": "Mon Doux Saigneur",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/9b44fd35994afb7da47033d6f5c57b06/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1483469862"
+ },
+ {
+  "id": 521058702,
+  "title": "Fond d’écran",
+  "artist": "Choses Sauvages",
+  "year": 2018,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/521058702"
+ },
+ {
+  "id": 1225315552,
+  "title": "Géant",
+  "artist": "Imposs",
+  "year": 2020,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/860430db3577438d3ddc319c07a37d8f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1225315552"
+ },
+ {
+  "id": 85615126,
+  "title": "Le dernier aveu",
+  "artist": "Diane Dufresne",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/85615126"
+ },
+ {
+  "id": 3363569091,
+  "title": "Le soleil se lève à chaque matin",
+  "artist": "Dany Placard",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5216ae76ddd62ee74616bcbece119f1f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3363569091"
+ },
+ {
+  "id": 1651571862,
+  "title": "Danser Danser",
+  "artist": "Nanette Workman",
+  "year": 1976,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/913bb753e90bc327b98d10e8eb2609bd/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1651571862"
+ },
+ {
+  "id": 1481648722,
+  "title": "Homme-Machine",
+  "artist": "Choses Sauvages",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/90c9371dc8bfc777606bbc3b8d1a9ce7/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1481648722"
+ },
+ {
+  "id": 3105115441,
+  "title": "Prends pas tout mon amour",
+  "artist": "Offenbach",
+  "year": 1983,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0d575f4239525d29af48c56026eb631a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3105115441"
+ },
+ {
+  "id": 1496220742,
+  "title": "Euphoria",
+  "artist": "Alexandre Désilets",
+  "year": 2021,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/3f9c4b8f15eafc5f598817017e19c9ac/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1496220742"
+ },
+ {
+  "id": 2992226031,
+  "title": "Ça finit là",
+  "artist": "Sans Pression",
+  "year": 2024,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b06beae64a563be01a8ad28fd0f9591f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2992226031"
+ },
+ {
+  "id": 1225315542,
+  "title": "Gaillance",
+  "artist": "Imposs",
+  "year": 2020,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/860430db3577438d3ddc319c07a37d8f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1225315542"
+ },
+ {
+  "id": 3027639631,
+  "title": "Son Mad",
+  "artist": "Mon Doux Saigneur",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/3998393dd54fd18a327642ef1ec65f0f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3027639631"
+ },
+ {
+  "id": 1222684902,
+  "title": "La rue m'appelle encore",
+  "artist": "Connaisseur Ticaso",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1222684902"
+ },
+ {
+  "id": 2206549787,
+  "title": "Soleils d'automne",
+  "artist": "Philippe Brach",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2a7de5d92cf19921a99f4a1b38d7700a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2206549787"
+ },
+ {
+  "id": 128237467,
+  "title": "L'ennemi",
+  "artist": "Pierre Flynn",
+  "year": 1987,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ba5bee87858453ed83cb5ed5c844c83a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128237467"
+ },
+ {
+  "id": 4092225401,
+  "title": "Le droit de chialer",
+  "artist": "Vilain Pingouin",
+  "year": 1992,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4092225401"
+ },
+ {
+  "id": 3001398891,
+  "title": "À la dur",
+  "artist": "Sarahmée",
+  "year": 2024,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/48458c36649245d1ab3faebcc2fb7d64/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3001398891"
+ },
+ {
+  "id": 1989125367,
+  "title": "De phase en phase",
+  "artist": "Sans Pression",
+  "year": 1999,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/716b4ab0e26db06826cb558d754b9b87/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1989125367"
+ },
+ {
+  "id": 1409440322,
+  "title": "Comme un macaque",
+  "artist": "Keith Kouna",
+  "year": 2012,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1409440322"
+ },
+ {
+  "id": 432286662,
+  "title": "Les voyous",
+  "artist": "Gab Paquet",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/432286662"
+ },
+ {
+  "id": 1037121632,
+  "title": "Chanson populaire",
+  "artist": "Dany Placard",
+  "year": 2014,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/dea52961c33146bc1961b0ceb2983537/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1037121632"
+ },
+ {
+  "id": 1237605152,
+  "title": "Jolicoeur",
+  "artist": "Étienne Dufresne",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1237605152"
+ },
+ {
+  "id": 63572378,
+  "title": "Chainsaw",
+  "artist": "Tire le coyote",
+  "year": 2013,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/aa03e5f65fb0c2efd2574470fbd8b93f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/63572378"
+ },
+ {
+  "id": 3619724682,
+  "title": "Il n'y a pas de bout du monde",
+  "artist": "Monique Leyrac",
+  "year": 1963,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3619724682"
+ },
+ {
+  "id": 3455118581,
+  "title": "MA GUEULE",
+  "artist": "Cachemire",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/827c0e07f5be8a9bda3c3e13405244b2/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3455118581"
+ },
+ {
+  "id": 2072946837,
+  "title": "Mes mains blanches",
+  "artist": "Philippe Brach",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ed95e6c17a24d00a1d8c2923c8475b4a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2072946837"
+ },
+ {
+  "id": 2072946797,
+  "title": "Troupeaux",
+  "artist": "Philippe Brach",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/c13aaf32c79f13f727177c0e5710ae5a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2072946797"
+ },
+ {
+  "id": 4117122671,
+  "title": "Falaise sur mer",
+  "artist": "Antoine Corriveau",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4117122671"
+ },
+ {
+  "id": 1397329822,
+  "title": "Tôt ou tard",
+  "artist": "Valence",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1397329822"
+ },
+ {
+  "id": 3168535591,
+  "title": "Réservoir",
+  "artist": "Population II",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/095b2fa42045afe25c33ca56f7dd5234/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3168535591"
+ },
+ {
+  "id": 4003519211,
+  "title": "LE PARTY EST FINI",
+  "artist": "Koriass",
+  "year": 2026,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4003519211"
+ },
+ {
+  "id": 3555510461,
+  "title": "Parle-moi pas",
+  "artist": "Rau_Ze",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3555510461"
+ },
+ {
+  "id": 85615124,
+  "title": "J't'aime plus que j't'aime",
+  "artist": "Diane Dufresne",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/85615124"
+ },
+ {
+  "id": 4117122681,
+  "title": "Été des incendies",
+  "artist": "Antoine Corriveau",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4117122681"
+ },
+ {
+  "id": 2685200012,
+  "title": "Les chemins de travers",
+  "artist": "Tire le coyote",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/6e198b64db6c6b7e3304270b1623caef/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2685200012"
+ },
+ {
+  "id": 3168535571,
+  "title": "Tô Kébec",
+  "artist": "Population II",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/095b2fa42045afe25c33ca56f7dd5234/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3168535571"
+ },
+ {
+  "id": 128325727,
+  "title": "Une grève",
+  "artist": "Claude Léveillée",
+  "year": 1967,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128325727"
+ },
+ {
+  "id": 1989125377,
+  "title": "L'étage souterrain",
+  "artist": "Sans Pression",
+  "year": 1999,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/716b4ab0e26db06826cb558d754b9b87/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1989125377"
+ },
+ {
+  "id": 2448204255,
+  "title": "Ottawa",
+  "artist": "Arielle Soucy",
+  "year": 2023,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2448204255"
+ },
+ {
+  "id": 3399416291,
+  "title": "Aimons-nous",
+  "artist": "Dan Bigras",
+  "year": 2009,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3399416291"
+ },
+ {
+  "id": 1406556442,
+  "title": "Philédouche",
+  "artist": "Philémon Cimon",
+  "year": 2020,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/31cadf553b49c1355ff5a0075cba4605/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1406556442"
+ },
+ {
+  "id": 2391652075,
+  "title": "Sweet montérégie",
+  "artist": "Alex Burger",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e1ebeba35d50f27e636d870d45eb50fa/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2391652075"
+ },
+ {
+  "id": 2514451911,
+  "title": "Mais je sais que tu m'attends",
+  "artist": "Valence",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2514451911"
+ },
+ {
+  "id": 1563128102,
+  "title": "Chaud là-bas",
+  "artist": "5sang14",
+  "year": 2021,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1563128102"
+ },
+ {
+  "id": 1030788532,
+  "title": "COMME ÇA",
+  "artist": "KNLO",
+  "year": 2020,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/11ef7081ae314215b94ddb2488584a59/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1030788532"
+ },
+ {
+  "id": 762622892,
+  "title": "G.G.",
+  "artist": "Izzy-S",
+  "year": 2017,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/48768b93c214d811aa8e8f127586d49c/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/762622892"
+ },
+ {
+  "id": 2994060791,
+  "title": "Monsieur Lamoureux",
+  "artist": "Diane Dufresne",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/d5ca3bf3f45559144c31b3f19f941551/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2994060791"
+ },
+ {
+  "id": 4094317951,
+  "title": "Trop d'amour",
+  "artist": "Marjo",
+  "year": 1995,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/f06d5fc1cefe60d51335a5f424bb76c3/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4094317951"
+ },
+ {
+  "id": 1036046832,
+  "title": "Bleu corail électrique",
+  "artist": "Julien Sagot",
+  "year": 2017,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/b4d595c816ea6bfd3b637ecb44fc9f3f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1036046832"
+ },
+ {
+  "id": 128325729,
+  "title": "Un soir",
+  "artist": "Claude Léveillée",
+  "year": 1967,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/128325729"
+ },
+ {
+  "id": 3945345691,
+  "title": "Pourquoi",
+  "artist": "Marie-Pierre Arthur",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3945345691"
+ },
+ {
+  "id": 1648758692,
+  "title": "Mélodie",
+  "artist": "Mon Doux Saigneur",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/857bee1bf050a07188bd73ca27e18ad8/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1648758692"
+ },
+ {
+  "id": 4117122701,
+  "title": "Le tour du monde",
+  "artist": "Antoine Corriveau",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4117122701"
+ },
+ {
+  "id": 432286692,
+  "title": "Voyage astral",
+  "artist": "Gab Paquet",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/432286692"
+ },
+ {
+  "id": 432286632,
+  "title": "Ton appel à frais virés",
+  "artist": "Gab Paquet",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/432286632"
+ },
+ {
+  "id": 2178403997,
+  "title": "Combien de fois",
+  "artist": "LaF",
+  "year": 2023,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/64aea65c07478abc7a8cd9d414662e88/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2178403997"
+ },
+ {
+  "id": 1844502567,
+  "title": "40h semaine",
+  "artist": "Matiu",
+  "year": 2022,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/119e2688354888b8ba73938a4d462997/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1844502567"
+ },
+ {
+  "id": 3658348442,
+  "title": "Cartes en main",
+  "artist": "LaF",
+  "year": 2025,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/2627088f4ac8242f0098c88248ae162d/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/3658348442"
+ },
+ {
+  "id": 1438970782,
+  "title": "QUATRE-QUARTS",
+  "artist": "Hubert Lenoir",
+  "year": 2021,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/a19e8bd25a7036c489d25fd6143cf89f/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1438970782"
+ },
+ {
+  "id": 1296825452,
+  "title": "Quand je veux je dors",
+  "artist": "Robert Robert",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1296825452"
+ },
+ {
+  "id": 2465723715,
+  "title": "Méfiez-vous du grand amour",
+  "artist": "Michel Rivard",
+  "year": 2023,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/efe02a8759f36e8b7e1323a7c73b0b58/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/2465723715"
+ },
+ {
+  "id": 4005669801,
+  "title": "Allers-retours",
+  "artist": "Alex Burger",
+  "year": 2023,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/7cb3fe3d6c2b3040651bdd2de1828637/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/4005669801"
+ },
+ {
+  "id": 1065567432,
+  "title": "Monsieur le psy",
+  "artist": "Philippe Brach",
+  "year": 2020,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1065567432"
+ },
+ {
+  "id": 983563042,
+  "title": "Quelqu'un",
+  "artist": "Antoine Corriveau",
+  "year": 2020,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/20cc6e2f70d80596a0cacd132767d47a/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/983563042"
+ },
+ {
+  "id": 1077430422,
+  "title": "Le retour de Don Quichotte",
+  "artist": "Michel Rivard",
+  "year": 2012,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://cdn-images.dzcdn.net/images/cover/058ca96d45e5bea2d1baa3e9b8221ceb/250x250-000000-80-0-0.jpg",
+  "link": "https://www.deezer.com/track/1077430422"
  }
 ];

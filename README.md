@@ -28,7 +28,7 @@ Raccourcis : **Entrée** dans un champ vide réécoute l'extrait, **Espace** jou
 
 ## Le catalogue
 
-Environ 750 chansons de plus de 150 artistes, choisies pour être :
+Environ 1 075 chansons de près de 170 artistes, choisies pour être :
 
 - **québécoises** : l'artiste principal doit être d'ici (les collaborations avec des artistes de France sont exclues) ;
 - **en français** : les chansons en anglais ou dans d'autres langues sont retirées ;
