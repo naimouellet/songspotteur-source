@@ -367,11 +367,13 @@
     setTimeout(() => { if (state.over && state.song === s) play(Math.min(REVEAL_LEN, state.buffer?.duration ?? REVEAL_LEN)); }, won ? 650 : 900);
   }
 
-  // Liens Apple Music : music:// ouvre l'app Musique du Mac. On part d'une recherche,
-  // puis on pointe vers la piste exacte si iTunes la trouve. Résultat mis en cache
-  // par chanson : le bouton et l'historique le réutilisent.
+  // Liens Apple Music : des liens https ordinaires, ouverts dans un nouvel onglet.
+  // Ils mènent toujours à la bonne chanson ; Safari (Mac et iPhone) les passe à l'app
+  // Musique, les autres navigateurs affichent la page Apple Music de la chanson.
+  // On part d'une recherche, puis on pointe vers la piste exacte si iTunes la trouve.
+  // Résultat mis en cache par chanson : le bouton et l'historique le réutilisent.
   const musicLinks = new Map();
-  const searchLink = (song) => `music://music.apple.com/ca/search?term=${encodeURIComponent(`${song.artist} ${song.title}`)}`;
+  const searchLink = (song) => `https://music.apple.com/ca/search?term=${encodeURIComponent(`${song.artist} ${song.title}`)}`;
 
   function lookupMusic(song) {
     if (musicLinks.has(song.id)) return musicLinks.get(song.id);
@@ -386,7 +388,7 @@
         const hit = (data.results || []).find((r) =>
           norm(r.artistName || "").replace(/ /g, "").includes(artist) &&
           norm(r.trackName || "").startsWith(want));
-        done(hit ? hit.trackViewUrl.replace(/^https:/, "music:").replace(/&uo=\d+/, "") : searchLink(song));
+        done(hit ? hit.trackViewUrl.replace(/[?&]uo=\d+/, "") : searchLink(song));
       };
       script.onerror = () => done(searchLink(song));
       script.src = `https://itunes.apple.com/search?${new URLSearchParams({ term: `${song.artist} ${song.title}`, country: "CA", entity: "song", limit: "10", callback: cb })}`;
@@ -402,18 +404,6 @@
     lookupMusic(song).then((url) => { if (state.song === song) link.href = url; });
   }
 
-  // Le serveur local (server.py) ouvre le lien avec `open`, parce que plusieurs
-  // navigateurs bloquent music://. Sans serveur (site publié), on suit le lien direct.
-  async function openUrl(url) {
-    try {
-      const res = await fetch(`/api/open-in-music?${new URLSearchParams({ url })}`, { method: "POST" });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    } catch {
-      location.href = url;
-    }
-  }
-
-  $("apple").addEventListener("click", (e) => { e.preventDefault(); openUrl($("apple").href); });
 
   // Les chansons de la partie, dans l'ordre : la plus récente s'ajoute à la fin,
   // et la bande glisse doucement jusqu'à elle.
@@ -463,19 +453,21 @@
   function historyCard({ song, won, label }) {
     const li = document.createElement("li");
     li.className = won ? "won" : "lost";
-    // Chaque carte ouvre la chanson dans Apple Music.
-    li.tabIndex = 0;
-    li.setAttribute("role", "link");
-    li.setAttribute("aria-label", `Ouvrir ${song.title} de ${song.artist} dans Musique`);
-    const open = () => lookupMusic(song).then(openUrl);
-    li.onclick = open;
-    li.onkeydown = (e) => { if (e.key === "Enter") open(); };
-    li.innerHTML = `<img alt="" loading="lazy"><span class="info"><b></b><span></span></span><span class="chip"></span>`;
-    li.querySelector("img").src = song.art;
-    li.querySelector("b").textContent = song.title;
-    li.querySelector(".info span").textContent = song.artist;
-    li.querySelector(".chip").textContent = label;
-    li.title = `${song.title} — ${song.artist}`;
+    // Chaque carte est un lien vers la chanson dans Apple Music.
+    const a = document.createElement("a");
+    a.href = searchLink(song);
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.draggable = false; // sinon glisser la bande traînerait le lien
+    a.title = `${song.title} — ${song.artist}`;
+    a.setAttribute("aria-label", `Ouvrir ${song.title} de ${song.artist} dans Apple Music`);
+    a.innerHTML = `<img alt="" loading="lazy" draggable="false"><span class="info"><b></b><span></span></span><span class="chip"></span>`;
+    a.querySelector("img").src = song.art;
+    a.querySelector("b").textContent = song.title;
+    a.querySelector(".info span").textContent = song.artist;
+    a.querySelector(".chip").textContent = label;
+    lookupMusic(song).then((url) => (a.href = url));
+    li.append(a);
     return li;
   }
 

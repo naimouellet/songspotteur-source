@@ -246,20 +246,21 @@ svg { fill: currentColor; stroke: currentColor; }
 }
 /* Scrollbar hidden: the strip scrolls by wheel, drag, trackpad or touch. */
 #history::-webkit-scrollbar { display: none; }
-#history li {
-  scroll-snap-align: start; display: grid; grid-template-columns: 48px 1fr auto; align-items: center; gap: 10px;
-  padding: 8px 10px 8px 8px; border-radius: 12px; background: var(--material);
+#history li { scroll-snap-align: start; display: grid; }
+#history a {
+  display: grid; grid-template-columns: 48px 1fr auto; align-items: center; gap: 10px;
+  padding: 8px 10px 8px 8px; border-radius: 12px; background: var(--material); text-decoration: none;
   backdrop-filter: blur(30px); -webkit-backdrop-filter: blur(30px);
 }
 #history li:last-child { animation: card-in .45s var(--spring); }
 @keyframes card-in { from { opacity: 0; transform: translateX(16px) scale(.96); } }
 /* While dragging with the mouse: grab cursor, no snapping, no text selection. */
 #history.dragging { cursor: grabbing; scroll-snap-type: none; user-select: none; }
-#history.dragging li { cursor: grabbing; pointer-events: none; }
+#history.dragging a { cursor: grabbing; pointer-events: none; }
 #history img { -webkit-user-drag: none; user-select: none; }
-#history li { cursor: pointer; transition: background .15s, transform .15s var(--spring); }
-#history li:hover { background: rgba(60, 60, 64, .7); }
-#history li:active { transform: scale(.97); }
+#history a { -webkit-user-drag: none; transition: background .15s, transform .15s var(--spring); }
+#history a:hover { background: rgba(60, 60, 64, .7); }
+#history a:active { transform: scale(.97); }
 #history img { width: 48px; height: 48px; border-radius: 6px; object-fit: cover; background: var(--fill); }
 #history .info { min-width: 0; display: grid; }
 #history .info b, #history .info span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

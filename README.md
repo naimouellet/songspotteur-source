@@ -22,7 +22,7 @@ Inspiré de [songspot](https://songspot.co), mais uniquement avec de la musique 
 | 8 s | 25 |
 | 16 s | 10 |
 
-Les bonnes réponses d'affilée font monter ta série. Une fois la réponse révélée, la chanson joue pendant 15 secondes et le bouton **Ouvrir dans Musique** l'ouvre dans Apple Music.
+Les bonnes réponses d'affilée font monter ta série. Une fois la réponse révélée, la chanson joue pendant 15 secondes et le bouton **Ouvrir dans Musique** l'ouvre dans Apple Music (tout comme les cartes de l'historique).
 
 Raccourcis : **Entrée** dans un champ vide réécoute l'extrait, **Espace** joue ou met en pause.
 
@@ -72,7 +72,7 @@ Jouer en local, sur http://localhost:5173 :
 python3 server.py
 ```
 
-Le serveur local désactive le cache du navigateur et permet au bouton **Ouvrir dans Musique** d'ouvrir l'app Musique du Mac.
+Le serveur local désactive le cache du navigateur : chaque modification est visible au rafraîchissement.
 
 Après une modification de `scripts/catalog.tsv`, régénérer le catalogue :
 

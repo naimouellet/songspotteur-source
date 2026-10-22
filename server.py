@@ -1,19 +1,14 @@
-"""Local server for Songspotteur: serves public/ and opens songs in the Music app.
-
-Browsers (and the Claude browser pane) often block music:// links, so the page
-asks this server to run macOS `open` on the Apple Music link instead.
+"""Local development server for Songspotteur: serves public/ with no caching.
 
 Usage: python3 server.py [port]
 """
 import http.server
 import pathlib
 import re
-import subprocess
 import sys
 import urllib.parse
 
 ROOT = pathlib.Path(__file__).resolve().parent / "public"
-ALLOWED = "music://music.apple.com/"
 
 
 class Handler(http.server.SimpleHTTPRequestHandler):
@@ -42,19 +37,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         self.send_header("Cache-Control", "no-store")
         super().end_headers()
 
-    def do_POST(self):
-        parsed = urllib.parse.urlparse(self.path)
-        if parsed.path != "/api/open-in-music":
-            return self.send_error(404)
-        url = urllib.parse.parse_qs(parsed.query).get("url", [""])[0]
-        if not url.startswith(ALLOWED):
-            return self.send_error(400, "Lien Apple Music attendu")
-        subprocess.run(["open", url], check=False)
-        self.send_response(204)
-        self.end_headers()
-
 
 if __name__ == "__main__":
     port = int(sys.argv[1]) if len(sys.argv) > 1 else 5173
-    # Local only: this endpoint launches apps on this Mac.
     http.server.ThreadingHTTPServer(("127.0.0.1", port), Handler).serve_forever()
