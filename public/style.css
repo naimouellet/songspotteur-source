@@ -279,8 +279,8 @@ svg { fill: currentColor; stroke: currentColor; }
   padding: 8px 10px 8px 8px; border-radius: 12px; background: var(--material); text-decoration: none;
   backdrop-filter: blur(30px); -webkit-backdrop-filter: blur(30px);
 }
-#history li:last-child { animation: card-in .45s var(--spring); }
-@keyframes card-in { from { opacity: 0; transform: translateX(16px) scale(.96); } }
+#history li:first-child { animation: card-in .45s var(--spring); }
+@keyframes card-in { from { opacity: 0; transform: translateX(-16px) scale(.96); } }
 /* While dragging with the mouse: grab cursor, no snapping, no text selection. */
 #history.dragging { cursor: grabbing; scroll-snap-type: none; user-select: none; }
 #history.dragging a { cursor: grabbing; pointer-events: none; }

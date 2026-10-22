@@ -477,16 +477,16 @@
   addEventListener("resize", closeChooser);
 
 
-  // Les chansons de la partie, dans l'ordre : la plus récente s'ajoute à la fin,
-  // et la bande glisse doucement jusqu'à elle.
+  // Les chansons de la partie, la plus récente en premier (à gauche) ;
+  // la bande revient doucement au début pour la montrer.
   const HISTORY_MAX = 24;
   function addToHistory(entry) {
-    state.history.push(entry);
+    state.history.unshift(entry);
     $("historyWrap").hidden = false;
     const list = $("history");
-    list.append(historyCard(entry));
-    while (list.children.length > HISTORY_MAX) list.firstElementChild.remove();
-    requestAnimationFrame(() => list.scrollTo({ left: list.scrollWidth, behavior: "smooth" }));
+    list.prepend(historyCard(entry));
+    while (list.children.length > HISTORY_MAX) list.lastElementChild.remove();
+    requestAnimationFrame(() => list.scrollTo({ left: 0, behavior: "smooth" }));
   }
 
   // Bande d'historique à la souris : la molette fait défiler à l'horizontale, et on
