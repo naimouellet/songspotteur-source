@@ -1,8 +1,11 @@
 """Write public/songs.js from catalog.tsv.
 
 The build is incremental: a song already in songs.js is kept as is (with its
-Deezer id, Apple id and Apple preview), and only new rows are looked up on
-Deezer. So no current song can be lost, and a run needs no local cache.
+Deezer id, Apple id and Apple preview), and only new rows are looked up. So no
+current song can be lost, and a run needs no local cache.
+
+A new row with an Apple song id (8th column, from playlist_import.py) takes its
+clip, cover and ISRC from Apple Music; other new rows are matched on Deezer.
 
 Deezer preview links expire, so only the Deezer track id is stored; the game
 fetches a fresh Deezer link at play time when there is no Apple preview.
@@ -115,9 +118,22 @@ def existing_songs():
     return {key(s["title"], s["artist"]): s for s in songs}
 
 
+def apple_songs(ids):
+    """{apple id: song resource} for the given Apple Music song ids."""
+    import apple_music
+    out = {}
+    for i in range(0, len(ids), 100):
+        data = apple_music.get(f"/catalog/{apple_music.STOREFRONT}/songs", ids=",".join(ids[i:i + 100]))
+        out.update({s["id"]: s for s in data["data"]})
+    return out
+
+
 def main():
     cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
     known = existing_songs()
+    rows = [l.split("\t") for l in SRC.read_text().splitlines() if l.strip() and not l.startswith("#")]
+    pending_apple = [r[7] for r in rows if len(r) > 7 and r[7] and key(r[0], r[1]) not in known]
+    from_apple = apple_songs(pending_apple) if pending_apple else {}
     kept = 0
     tops = top_tracks()
     by_id = {t["id"]: t for tracks in tops.values() for t in tracks}
@@ -138,6 +154,26 @@ def main():
             previous.setdefault("deezer", previous["id"] if isinstance(previous["id"], int) else None)
             songs.append(previous)
             kept += 1
+            continue
+        apple_id = alias[2] if len(alias) > 2 and alias[2] else None
+        if apple_id and apple_id in from_apple:
+            a = from_apple[apple_id]["attributes"]
+            deezer = int(alias[1]) if alias[1] else None
+            print(f"✓ {title} — {artist} (Apple)", flush=True)
+            songs.append({
+                "id": deezer or f"am{apple_id}",
+                "deezer": deezer,
+                "apple": apple_id,
+                "isrc": a.get("isrc"),
+                "preview": a["previews"][0]["url"] if a.get("previews") else None,
+                "title": title,
+                "artist": artist,
+                "year": int(year),
+                "genre": genre,
+                "tier": int(tier),
+                "art": a["artwork"]["url"].replace("{w}", "300").replace("{h}", "300"),
+                "link": a.get("url", ""),
+            })
             continue
         match = alias[0] if alias and alias[0] else title
         # Optional 7th column: a Deezer track id already vetted by expand.py.

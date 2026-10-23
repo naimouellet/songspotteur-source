@@ -20,11 +20,13 @@ Raccourcis : **Entrée** dans un champ vide réécoute l'extrait, **Espace** jou
 
 ## Le catalogue
 
-Environ 1 075 chansons de près de 170 artistes, choisies pour être :
+Environ 1 500 chansons de près de 200 artistes. Elles viennent de deux sources :
 
-- **québécoises** : l'artiste principal doit être d'ici (les collaborations avec des artistes de France sont exclues) ;
-- **en français** : les chansons en anglais ou dans d'autres langues sont retirées ;
-- **variées** : un nombre maximal de chansons par artiste évite que la pop radio prenne toute la place.
+- la playlist Apple Music [TOP QUEB](https://music.apple.com/ca/playlist/top-queb/pl.u-11zBvGYC8MG8vqP) de Samuel Belley, dont toutes les chansons sont ajoutées ;
+- une sélection faite à la main, choisie pour être :
+  - **québécoise** : l'artiste principal doit être d'ici (les collaborations avec des artistes de France sont exclues) ;
+  - **en français** : les chansons en anglais ou dans d'autres langues sont retirées ;
+  - **variée** : un nombre maximal de chansons par artiste évite que la pop radio prenne toute la place.
 
 Le catalogue couvre toutes les époques ; environ la moitié des chansons datent des années 2020.
 
@@ -32,7 +34,7 @@ Le catalogue couvre toutes les époques ; environ la moitié des chansons datent
 
 C'est un site statique : du HTML, du CSS et du JavaScript, sans serveur ni compte.
 
-- **Extraits** : chaque chanson est associée à une piste [Deezer](https://www.deezer.com). Le jeu demande à l'API publique de Deezer un aperçu de 30 secondes au moment de jouer, parce que les liens d'aperçu expirent.
+- **Extraits** : les aperçus de 30 secondes d'[Apple Music](https://music.apple.com) (AAC, environ 256 kb/s), trouvés par le code ISRC de chaque enregistrement. Pour les quelques chansons qu'Apple n'a pas, le jeu se rabat sur l'aperçu [Deezer](https://www.deezer.com).
 - **Découpage précis** : l'aperçu est décodé avec la Web Audio API, ce qui permet de jouer exactement 0,5 s. Le jeu saute aussi le fondu du début des aperçus pour que le premier extrait soit bien audible.
 - **Sons du jeu** : les petits sons de bonne et de mauvaise réponse sont synthétisés dans le navigateur ; il n'y a aucun fichier audio.
 - **Fluidité** : la chanson suivante se télécharge pendant que tu joues, pour enchaîner sans attente.
@@ -53,7 +55,10 @@ scripts/
   artist_limits.tsv  le nombre maximal de chansons par artiste
   blocklist.txt      les titres exclus (anglais, versions live, doublons)
   bandcamp.tsv       la page Bandcamp de chaque artiste (- = aucune page utilisable)
-  build_catalog.py   associe chaque chanson à une piste Deezer et génère songs.js
+  build_catalog.py   génère songs.js (Apple Music, avec Deezer en secours)
+  apple_music.py     jeton et requêtes de l'API Apple Music
+  apple_migrate.py   ajoute l'extrait Apple aux chansons qui n'en ont pas (par ISRC)
+  playlist_import.py ajoute les chansons de la playlist TOP QUEB qui manquent
   discover.py        liste les chansons populaires d'une liste d'artistes
   expand.py          propose de nouvelles chansons à ajouter au catalogue
   bandcamp.py        trouve les pages Bandcamp (Wikidata, MusicBrainz, vérification de la page)
@@ -82,8 +87,16 @@ Publier (nécessite `gh` connecté) : le site est hébergé sur GitHub Pages, à
 scripts/deploy.sh
 ```
 
+Ajouter les nouvelles chansons de la playlist :
+
+```bash
+python3 scripts/playlist_import.py && python3 scripts/build_catalog.py
+```
+
+Les scripts Apple Music ont besoin d'une clé MusicKit (`AuthKey_<KEY_ID>.p8`). Elle n'est jamais dans le dépôt : ils la lisent dans `~/.songspotteur/` ou dans la variable d'environnement `APPLE_MUSIC_KEY`.
+
 Les scripts de catalogue gardent des caches des réponses de Deezer (`scripts/.*-cache.json`). Ils ne sont pas versionnés : un clone neuf interroge Deezer de nouveau.
 
 ## Crédits
 
-Les extraits audio et les pochettes proviennent de Deezer et appartiennent à leurs ayants droit. Ce projet n'est affilié ni à Deezer, ni à Apple, ni à songspot.
+Les extraits audio et les pochettes proviennent d'Apple Music et de Deezer et appartiennent à leurs ayants droit. Merci à Samuel Belley pour la playlist TOP QUEB. Ce projet n'est affilié ni à Apple, ni à Deezer, ni à songspot.

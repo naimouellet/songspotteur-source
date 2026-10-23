@@ -9,7 +9,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/252a64764337eeac41dcb5835e04e4c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/7183901",
-  "deezer": 7183901
+  "deezer": 7183901,
+  "isrc": "FR6V80882118",
+  "apple": "392962978",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/f8/de/96f8de2e-efa3-ea8e-bb7d-414a7b01985e/mzaf_8953369483824868836.plus.aac.p.m4a"
  },
  {
   "id": 16918592,
@@ -20,7 +23,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/604029490204a7d357cda1d74a0fd0a3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/16918592",
-  "deezer": 16918592
+  "deezer": 16918592,
+  "isrc": "FRZ037500190",
+  "apple": "1443606197",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/03/b1/4a/03b14a20-6050-4ba0-7384-2978c6154bba/mzaf_13390769131255191478.plus.aac.p.m4a"
  },
  {
   "id": 1410660772,
@@ -31,7 +37,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d363e1329a31f102e40e0f2bef988d02/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1410660772",
-  "deezer": 1410660772
+  "deezer": 1410660772,
+  "isrc": "CAD941833011",
+  "apple": "1589251134",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/75/5a/c1/755ac116-e2d5-6287-4fc9-ff2e859ff8b1/mzaf_4315364755680633476.plus.aac.p.m4a"
  },
  {
   "id": 1713040637,
@@ -42,7 +51,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/a03d1363caeed425205a3dda958503b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1713040637",
-  "deezer": 1713040637
+  "deezer": 1713040637,
+  "isrc": "CAG600718308",
+  "apple": "265078802",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/1d/c4/f81dc497-2015-7e84-b189-3afa57e0c491/mzaf_10638706786676890159.plus.aac.p.m4a"
  },
  {
   "id": 879923,
@@ -53,7 +65,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/620bf1076bca90aeab29971037e444db/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/879923",
-  "deezer": 879923
+  "deezer": 879923,
+  "isrc": "FR6V85600056",
+  "apple": "283342554",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9f/57/8e/9f578eb4-fb2c-2625-d571-33030149ef27/mzaf_16647199630279997426.plus.aac.p.m4a"
  },
  {
   "id": 84508223,
@@ -64,7 +79,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c21274ba2ac6ff47572e1846215406d1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/84508223",
-  "deezer": 84508223
+  "deezer": 84508223,
+  "isrc": "CAY620911253",
+  "apple": "913400909",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/85/3b/eb853b74-121b-3fb4-f91e-40587bb5e51f/mzaf_11332301006058517236.plus.aac.p.m4a"
  },
  {
   "id": 1425097172,
@@ -75,7 +93,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/744adac970257e2238378627d0f5c26d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1425097172",
-  "deezer": 1425097172
+  "deezer": 1425097172,
+  "isrc": "CAG609100021",
+  "apple": "1575308016",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/88/ce/5288ce32-352d-dd70-8a5a-94140ed96551/mzaf_10173289255494684209.plus.aac.p.m4a"
  },
  {
   "id": 1425097372,
@@ -86,7 +107,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/744adac970257e2238378627d0f5c26d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1425097372",
-  "deezer": 1425097372
+  "deezer": 1425097372,
+  "isrc": "CAG609100053",
+  "apple": "1575308377",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/47/ce/8247ce0a-74e9-c2de-34c5-3ce0f4951b47/mzaf_11435827921642013563.plus.aac.p.m4a"
  },
  {
   "id": 1132762552,
@@ -97,7 +121,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/1522d01f3060057723d438f275bed41a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1132762552",
-  "deezer": 1132762552
+  "deezer": 1132762552,
+  "isrc": "CAL540608323",
+  "apple": "1539030845",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/01/5e/eb015ec5-94f4-1216-7881-1b6e833c8eae/mzaf_10411211939447771525.plus.aac.p.m4a"
  },
  {
   "id": 128228263,
@@ -108,7 +135,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/1d53491e5fb439d385d6cd59dbb80d51/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128228263",
-  "deezer": 128228263
+  "deezer": 128228263,
+  "isrc": "CAG609510007",
+  "apple": "1551599405",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/7b/cc/01/7bcc01d3-d10f-48e1-fc35-ea5899bb95e8/mzaf_4155148309870872151.plus.aac.p.m4a"
  },
  {
   "id": 128221097,
@@ -119,7 +149,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcc3905b55870da27861a08fbbbcccc3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221097",
-  "deezer": 128221097
+  "deezer": 128221097,
+  "isrc": "CAG600911302",
+  "apple": "1551592124",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/8a/61/fd/8a61fdf4-fb65-c380-2a4d-0a9c3a28f13e/mzaf_7327400296972368168.plus.aac.p.m4a"
  },
  {
   "id": 128229091,
@@ -130,7 +163,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/fe2aa85fb3262fd05b433e7602a03fe9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128229091",
-  "deezer": 128229091
+  "deezer": 128229091,
+  "isrc": "CAG609321016",
+  "apple": "1551613310",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/cb/ad/0c/cbad0c6d-8329-ebc8-9aaf-c2d56abdf9b3/mzaf_18368487033693618073.plus.aac.p.m4a"
  },
  {
   "id": 71903005,
@@ -141,7 +177,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e7381f9a7515ea0f29e54478af1019bd/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/71903005",
-  "deezer": 71903005
+  "deezer": 71903005,
+  "isrc": "CAE601100201",
+  "apple": "1062364028",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/d3/d5/7fd3d54f-60cd-653e-4c23-dccec6ad440e/mzaf_1331593670321996372.plus.aac.p.m4a"
  },
  {
   "id": 3393958,
@@ -152,7 +191,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3393958",
-  "deezer": 3393958
+  "deezer": 3393958,
+  "isrc": "CAE150400171",
+  "apple": "714348405",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/94/0f/17940f2f-ee93-4472-1edc-5e0a0a86242a/mzaf_575311763199606105.plus.aac.p.m4a"
  },
  {
   "id": 3393959,
@@ -163,7 +205,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3393959",
-  "deezer": 3393959
+  "deezer": 3393959,
+  "isrc": "CAE150400172",
+  "apple": "714348419",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/a9/02/33a90282-9ee8-72d6-94a1-b0994aec5a29/mzaf_8042956892482472848.plus.aac.p.m4a"
  },
  {
   "id": 3060700051,
@@ -174,7 +219,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b3824f57fd747ac1ff36d768b92c6429/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3060700051",
-  "deezer": 3060700051
+  "deezer": 3060700051,
+  "isrc": "CAUM72400388",
+  "apple": "1770357019",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/ff/af/bdffaf61-4b29-f315-02d3-874c764279e7/mzaf_11651162767000470067.plus.aac.p.m4a"
  },
  {
   "id": 617423192,
@@ -185,7 +233,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/420e9641de9be262f3d9ee9a468e14d5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/617423192",
-  "deezer": 617423192
+  "deezer": 617423192,
+  "isrc": "CAU160300282",
+  "apple": "1443505675",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/46/ec/c346ec60-8512-fe37-862c-c0c412ff4d8f/mzaf_16220474568740740164.plus.aac.p.m4a"
  },
  {
   "id": 822636532,
@@ -196,7 +247,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/39642275717f230f9fcb60ff9a81269c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/822636532",
-  "deezer": 822636532
+  "deezer": 822636532,
+  "isrc": "CAUM71900022",
+  "apple": "1483507023",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/6e/d2/ae6ed22d-d6fa-85a2-3249-684805cb1b9a/mzaf_9500624946362227197.plus.aac.p.m4a"
  },
  {
   "id": 516228722,
@@ -207,7 +261,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ef5d440324b3b47f5376a7d1a59dee94/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/516228722",
-  "deezer": 516228722
+  "deezer": 516228722,
+  "isrc": "CAC221600008",
+  "apple": "1152971962",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/de/97/e4de9750-2084-8e5f-5110-1d4b858d1094/mzaf_8722064055769164940.plus.aac.p.m4a"
  },
  {
   "id": 1663446852,
@@ -218,7 +275,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/847082a6aec4a5dd526df6a408b3b94e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1663446852",
-  "deezer": 1663446852
+  "deezer": 1663446852,
+  "isrc": "CAG607690909",
+  "apple": "1251108045",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview117/v4/de/e7/df/dee7df5b-457d-03fc-8771-f3a406313f1a/mzaf_7935978312548500179.plus.aac.p.m4a"
  },
  {
   "id": 3679983272,
@@ -229,7 +289,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d038fb9394992876c1e551678d32ae9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3679983272",
-  "deezer": 3679983272
+  "deezer": 3679983272,
+  "isrc": "CAZ700400927",
+  "apple": "1856305998",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/22/c2/e722c2b6-96d0-bef6-b62e-e306b2129d5e/mzaf_12860992023944095368.plus.aac.p.m4a"
  },
  {
   "id": 3679982792,
@@ -240,7 +303,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/052e325f7f454afb228948fcc62be944/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3679982792",
-  "deezer": 3679982792
+  "deezer": 3679982792,
+  "isrc": "CAZ700400961",
+  "apple": "6825544436",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/33/78/76337829-0fba-159d-00fb-e796fd4e40ee/mzaf_9847984244543886008.plus.aac.p.m4a"
  },
  {
   "id": 789203032,
@@ -251,7 +317,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d55824e52e5173826f7e586e3b585e8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/789203032",
-  "deezer": 789203032
+  "deezer": 789203032,
+  "isrc": "FRZ041300302",
+  "apple": "656740734",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/8f/25/8e8f25dd-508e-e0ea-ae2f-3f623cba92c5/mzaf_13682960477856502514.plus.aac.p.m4a"
  },
  {
   "id": 789203152,
@@ -262,7 +331,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d55824e52e5173826f7e586e3b585e8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/789203152",
-  "deezer": 789203152
+  "deezer": 789203152,
+  "isrc": "FRZ041300314",
+  "apple": "656740758",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/e4/29/fee42977-7c21-7fa6-2ba8-d9830e751dc4/mzaf_15103442551207855156.plus.aac.p.m4a"
  },
  {
   "id": 1405589902,
@@ -273,7 +345,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/39cbccf2aff830ca00f6f99d8cfbcaa7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1405589902",
-  "deezer": 1405589902
+  "deezer": 1405589902,
+  "isrc": "CAZ700200378",
+  "apple": "1572312548",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/b2/e9/34b2e98f-abe1-be4a-bba4-230e0a182482/mzaf_10384033134671831962.plus.aac.p.m4a"
  },
  {
   "id": 15556979,
@@ -284,7 +359,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/02aec6f3cff149d633d280cc4a8e8f4d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15556979",
-  "deezer": 15556979
+  "deezer": 15556979,
+  "isrc": "FR60F8000090",
+  "apple": "489501287",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/a9/c1/79a9c186-938d-27e2-aa94-a30f0c48f503/mzaf_8183204249838729837.plus.aac.p.m4a"
  },
  {
   "id": 128234611,
@@ -295,7 +373,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/0799b2033da8e7c583c4a08aee31fc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234611",
-  "deezer": 128234611
+  "deezer": 128234611,
+  "isrc": "CAP609105109",
+  "apple": "1551596005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a6/f1/15/a6f115a1-a1ec-d8f7-ea58-d055379155c4/mzaf_9195328952033479805.plus.aac.p.m4a"
  },
  {
   "id": 4094305051,
@@ -306,7 +387,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b8f38258146651058b171b49fe011ac/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4094305051",
-  "deezer": 4094305051
+  "deezer": 4094305051,
+  "isrc": "CA1FY1500019",
+  "apple": "6768449561",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/0e/89/740e8909-20ae-b354-0a7f-6aa2db0262f1/mzaf_12460031809706774792.plus.aac.p.m4a"
  },
  {
   "id": 897720,
@@ -317,7 +401,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/b275e93e48d2fc82054e306490e56245/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/897720",
-  "deezer": 897720
+  "deezer": 897720,
+  "isrc": "FRV628200370",
+  "apple": "271266710",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/f8/8c/eaf88cc7-4be5-8822-9941-5cda798503c0/mzaf_12316971854122685001.plus.aac.p.m4a"
  },
  {
   "id": 4762933,
@@ -328,7 +415,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4762933",
-  "deezer": 4762933
+  "deezer": 4762933,
+  "isrc": "CAC229500002",
+  "apple": "203133177",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/32/ca/3432ca69-bd1e-1800-a5ad-196fd979f4a1/mzaf_16220756755452262725.plus.aac.p.m4a"
  },
  {
   "id": 627441,
@@ -339,7 +429,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/48661a4a6672225ea9d189892c99044b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/627441",
-  "deezer": 627441
+  "deezer": 627441,
+  "isrc": "CAC229800092",
+  "apple": "212138062",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/84/91/f384911f-048e-2f83-37ed-fd4b50aef59d/mzaf_11031377283765225345.plus.aac.p.m4a"
  },
  {
   "id": 1652871722,
@@ -350,7 +443,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/0467fb08aac768a6614b7d27d45f7cb0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1652871722",
-  "deezer": 1652871722
+  "deezer": 1652871722,
+  "isrc": "CA0OZ0928107",
+  "apple": "1606159319",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/72/4f/93724f3e-1f90-c9a1-38f0-eec9aa3bf6d3/mzaf_533943877696637333.plus.aac.p.m4a"
  },
  {
   "id": 4094316941,
@@ -361,7 +457,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/1e4de278e086a31c4f1a463cbf1d3e6c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4094316941",
-  "deezer": 4094316941
+  "deezer": 4094316941,
+  "isrc": "CAZ700906421",
+  "apple": "6781354477",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/7e/55/c37e5513-2fa5-fda0-b3f5-e96ada4f1e9f/mzaf_1941961576718019720.plus.aac.p.m4a"
  },
  {
   "id": 1507557302,
@@ -372,7 +471,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/e5366643fe4da070fdf2b31f0092a54b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1507557302",
-  "deezer": 1507557302
+  "deezer": 1507557302,
+  "isrc": "CA4XH1190203",
+  "apple": "1588007872",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/73/af/e173afea-20f8-f0c6-10ed-9a1d49bfd126/mzaf_7757730418310656506.plus.aac.p.m4a"
  },
  {
   "id": 1500511642,
@@ -383,7 +485,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04fc17ee69ee0d2e14eff965492756e6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1500511642",
-  "deezer": 1500511642
+  "deezer": 1500511642,
+  "isrc": "CA4XH1190309",
+  "apple": "1586916875",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1b/4f/8d/1b4f8dcb-5bac-5b9b-5748-18722a19002c/mzaf_8499905889114969258.plus.aac.p.m4a"
  },
  {
   "id": 69484660,
@@ -394,7 +499,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/f7e7f2ce8228d9f266894f3616feedb6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/69484660",
-  "deezer": 69484660
+  "deezer": 69484660,
+  "isrc": "CAU118800930",
+  "apple": "282007640",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/4d/3b/164d3b70-46f9-f328-d829-1df9f1f836fe/mzaf_8347493570520420792.plus.aac.p.m4a"
  },
  {
   "id": 74379375,
@@ -405,7 +513,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/7054c09b44ed6db2fd38ff56a0e3c621/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/74379375",
-  "deezer": 74379375
+  "deezer": 74379375,
+  "isrc": "CAU118800944",
+  "apple": "282102766",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/85/97/638597af-a2b4-8c41-ad48-b74570e9386f/mzaf_14186104767373343038.plus.aac.p.m4a"
  },
  {
   "id": 128236305,
@@ -416,7 +527,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/ced9792f0d874bfada411853e8a7ed7f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128236305",
-  "deezer": 128236305
+  "deezer": 128236305,
+  "isrc": "CAA509103613",
+  "apple": "1551600096",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/79/a3/98/79a39804-04cb-4995-a728-9349322229c3/mzaf_5950537237436496873.plus.aac.p.m4a"
  },
  {
   "id": 128237709,
@@ -427,7 +541,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a09ddefc5d881df25f8859323fb71fc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237709",
-  "deezer": 128237709
+  "deezer": 128237709,
+  "isrc": "CAA509103603",
+  "apple": "1551599658",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/79/2e/a2/792ea2ad-16e6-f20a-369a-7018bc39da7c/mzaf_15504787493694360363.plus.aac.p.m4a"
  },
  {
   "id": 93081564,
@@ -438,7 +555,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/93081564",
-  "deezer": 93081564
+  "deezer": 93081564,
+  "isrc": "CAD431493504",
+  "apple": "1238762304",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/0b/15/210b158d-a3cc-33f4-8ad6-259fb8220b30/mzaf_9510019312357228200.plus.aac.p.m4a"
  },
  {
   "id": 3487751331,
@@ -449,7 +569,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cf78719f8a1948bae380bbfdf4c31b3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487751331",
-  "deezer": 3487751331
+  "deezer": 3487751331,
+  "isrc": "CAZ700907350",
+  "apple": "1830537202",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/3b/66/9a3b6628-2f9b-58f4-b431-791023d35da7/mzaf_1923625281725263674.plus.aac.p.m4a"
  },
  {
   "id": 1071748082,
@@ -460,7 +583,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2c37527a3e3cf5cdf27c25272641eaf8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1071748082",
-  "deezer": 1071748082
+  "deezer": 1071748082,
+  "isrc": "CAUH72001801",
+  "apple": "1530633623",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/dd/53/6cdd53f3-242e-825a-2120-7521d6e9a3a6/mzaf_16006299719014505144.plus.aac.p.m4a"
  },
  {
   "id": 4096891401,
@@ -471,7 +597,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4096891401",
-  "deezer": 4096891401
+  "deezer": 4096891401,
+  "isrc": "CAA509003703",
+  "apple": "6781751912",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/70/2f/c4702f16-2b98-db76-d1ff-b428ce80e273/mzaf_9421948060917370890.plus.aac.p.m4a"
  },
  {
   "id": 128228071,
@@ -482,7 +611,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d4f6dc78d21916a78183b817bc2d7a4f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128228071",
-  "deezer": 128228071
+  "deezer": 128228071,
+  "isrc": "CAA509266006",
+  "apple": "1551590381",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/53/76/f4/5376f411-e2aa-c9a7-7ba0-81600c50634e/mzaf_16213530756235247852.plus.aac.p.m4a"
  },
  {
   "id": 128233473,
@@ -493,7 +625,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/d806f40a87972cea5c9f5867f22180a6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233473",
-  "deezer": 128233473
+  "deezer": 128233473,
+  "isrc": "CAA509690002",
+  "apple": "1551598530",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/8a/bc/7d/8abc7de1-37ce-1a8f-8070-287390db3f97/mzaf_18342409208265388637.plus.aac.p.m4a"
  },
  {
   "id": 128233609,
@@ -504,7 +639,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233609",
-  "deezer": 128233609
+  "deezer": 128233609,
+  "isrc": "CAA500115012",
+  "apple": "1551590599",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/d4/f9/5f/d4f95f28-7eaa-40b3-0c7f-e0e918342f8e/mzaf_14372336708742005725.plus.aac.p.m4a"
  },
  {
   "id": 15397677,
@@ -515,7 +653,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15397677",
-  "deezer": 15397677
+  "deezer": 15397677,
+  "isrc": "CAI549301010",
+  "apple": "308138408",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/ca/7f/baca7f64-c14e-4fd5-e7d1-baab90fcaa3e/mzaf_5734500429109510656.plus.aac.p.m4a"
  },
  {
   "id": 15397671,
@@ -526,7 +667,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15397671",
-  "deezer": 15397671
+  "deezer": 15397671,
+  "isrc": "CAI549301002",
+  "apple": "308138217",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/1f/ca/3b1fca84-2ab9-df36-a037-3331c0166cf5/mzaf_14784764295721808052.plus.aac.p.m4a"
  },
  {
   "id": 15397747,
@@ -537,7 +681,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f055e87920ccc0815aefbfda8e810f1c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15397747",
-  "deezer": 15397747
+  "deezer": 15397747,
+  "isrc": "CAI549508002",
+  "apple": "306741665",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/14/08/391408c4-cf5c-27c1-ec88-fa62f5f16746/mzaf_1602714666588094559.plus.aac.p.m4a"
  },
  {
   "id": 128234295,
@@ -548,7 +695,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234295",
-  "deezer": 128234295
+  "deezer": 128234295,
+  "isrc": "CAA500907701",
+  "apple": "1551611114",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/bf/cc/e4/bfcce493-3ea0-1d25-4a7b-a9ed92ef81ce/mzaf_10396996594746012069.plus.aac.p.m4a"
  },
  {
   "id": 128234299,
@@ -559,7 +709,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234299",
-  "deezer": 128234299
+  "deezer": 128234299,
+  "isrc": "CAA500907703",
+  "apple": "1551611129",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a9/11/2f/a9112f73-9ffd-29a9-4bfa-8dc5c7a67aa6/mzaf_12467856789597310292.plus.aac.p.m4a"
  },
  {
   "id": 1497676382,
@@ -570,7 +723,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/c97b922eab501eb8bb984ef51e5da9ae/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497676382",
-  "deezer": 1497676382
+  "deezer": 1497676382,
+  "isrc": "CAE540600035",
+  "apple": "1715417839",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/cf/56/f0cf569b-4aca-0b51-fa8d-5cde8c1533d3/mzaf_5873552102805337815.plus.aac.p.m4a"
  },
  {
   "id": 1497676222,
@@ -581,7 +737,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/c97b922eab501eb8bb984ef51e5da9ae/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497676222",
-  "deezer": 1497676222
+  "deezer": 1497676222,
+  "isrc": "CAE540600034",
+  "apple": "1715417258",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/f3/01/26f30130-864a-cdb4-03f6-d374ae93b404/mzaf_6807136540998639353.plus.aac.p.m4a"
  },
  {
   "id": 1406255662,
@@ -592,7 +751,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/7ffe5019f7d2bf325feb5dc91623532a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1406255662",
-  "deezer": 1406255662
+  "deezer": 1406255662,
+  "isrc": "CAY509900003",
+  "apple": "1572519308",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/df/ce/cadfce76-507c-617d-fa1c-9d959bc81356/mzaf_15153578416956435835.plus.aac.p.m4a"
  },
  {
   "id": 87485105,
@@ -603,7 +765,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/359368b0059cd69f699ee3ebf981943d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/87485105",
-  "deezer": 87485105
+  "deezer": 87485105,
+  "isrc": "CAU119501888",
+  "apple": "287291347",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/50/9d/2a509dcf-3e0b-bcbe-0367-b877a750974c/mzaf_9497365721381100695.plus.aac.p.m4a"
  },
  {
   "id": 87485113,
@@ -614,7 +779,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/359368b0059cd69f699ee3ebf981943d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/87485113",
-  "deezer": 87485113
+  "deezer": 87485113,
+  "isrc": "CAU119501892",
+  "apple": "287291368",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/7c/71/ef7c71fb-0982-2598-9ce5-1dd0b8996403/mzaf_13642697961261864326.plus.aac.p.m4a"
  },
  {
   "id": 1138845492,
@@ -625,7 +793,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/789242707f408ae2fac0fb873bb47452/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1138845492",
-  "deezer": 1138845492
+  "deezer": 1138845492,
+  "isrc": "CAU119815379",
+  "apple": "349241624",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/a6/f9/e7a6f932-b337-a8ac-5011-d83bca57776e/mzaf_14401392975789096434.plus.aac.p.m4a"
  },
  {
   "id": 3736695062,
@@ -636,7 +807,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5b9cc799882c5d354a44a3af88015795/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3736695062",
-  "deezer": 3736695062
+  "deezer": 3736695062,
+  "isrc": "CAG600412302",
+  "apple": "1863806573",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/30/33/a030335e-d5c2-0c24-c3c0-abdefdefeb44/mzaf_17957158309767598545.plus.aac.p.m4a"
  },
  {
   "id": 871452,
@@ -647,7 +821,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/714c238edcb37ccb8c1a002501cddac1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/871452",
-  "deezer": 871452
+  "deezer": 871452,
+  "isrc": "CAC220000099",
+  "apple": "253577409",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/ff/1d/f5ff1d21-b7d9-6f0f-ba27-d06e9dec428e/mzaf_17101814685833090432.plus.aac.p.m4a"
  },
  {
   "id": 128237983,
@@ -658,7 +835,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2d2a0cbde97621fb06cb9ac62fb647da/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237983",
-  "deezer": 128237983
+  "deezer": 128237983,
+  "isrc": "CAS580500003",
+  "apple": "1551600812",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/2f/93/88/2f9388a1-cbee-7ab4-e61a-84549481971d/mzaf_3478827171491987265.plus.aac.p.m4a"
  },
  {
   "id": 798397,
@@ -669,7 +849,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/86960c96d5c89d10187e6b8f7deb599d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/798397",
-  "deezer": 798397
+  "deezer": 798397,
+  "isrc": "CAW110001860",
+  "apple": "79580182",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/57/c1/fc57c14e-9173-22a2-44df-f23ff802fb97/mzaf_3589541521296908661.plus.aac.p.m4a"
  },
  {
   "id": 138782813,
@@ -680,7 +863,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/ef6f1a474883ea9d8be2b81a09853073/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/138782813",
-  "deezer": 138782813
+  "deezer": 138782813,
+  "isrc": "CAD760310207",
+  "apple": "1189160635",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/80/67/6c806757-b487-f856-5451-8f5076e80631/mzaf_14530130269447150403.plus.aac.p.m4a"
  },
  {
   "id": 109374040,
@@ -691,7 +877,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/78162e82ee97433c23e48b634cfcd4e8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109374040",
-  "deezer": 109374040
+  "deezer": 109374040,
+  "isrc": "CAL540102103",
+  "apple": "1048261678",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/3c/cd/c33ccd02-328c-7944-8cac-f926ee42705c/mzaf_8783215684843685288.plus.aac.p.m4a"
  },
  {
   "id": 109374130,
@@ -702,7 +891,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/a66ad81daa40b2a40c4e2db19f2b3261/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109374130",
-  "deezer": 109374130
+  "deezer": 109374130,
+  "isrc": "CAL540405302",
+  "apple": "1048261791",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/86/97/ad86977b-f83c-0e42-9b16-27d50a28f20d/mzaf_13525371548076504081.plus.aac.p.m4a"
  },
  {
   "id": 109374132,
@@ -713,7 +905,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a66ad81daa40b2a40c4e2db19f2b3261/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109374132",
-  "deezer": 109374132
+  "deezer": 109374132,
+  "isrc": "CAL540405303",
+  "apple": "1048261792",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/7a/93/127a93f2-6bcd-3e60-3071-a584a81dd64b/mzaf_13632436867345341345.plus.aac.p.m4a"
  },
  {
   "id": 109374136,
@@ -724,7 +919,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a66ad81daa40b2a40c4e2db19f2b3261/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109374136",
-  "deezer": 109374136
+  "deezer": 109374136,
+  "isrc": "CAL540405305",
+  "apple": "1048261794",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/5f/3a/a25f3a01-e68a-8483-4c76-803d551e2848/mzaf_6886959069764053625.plus.aac.p.m4a"
  },
  {
   "id": 1082531032,
@@ -735,7 +933,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/6dfdb9613b14858a7dced8c2bc49bbae/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1082531032",
-  "deezer": 1082531032
+  "deezer": 1082531032,
+  "isrc": "CAL541920501",
+  "apple": "1532141703",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/b5/b7/6ab5b789-ddb4-0bb5-d168-38a96b17865a/mzaf_15980385072877406383.plus.aac.p.m4a"
  },
  {
   "id": 45112771,
@@ -746,7 +947,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/df7a47f96a5b1b08b05eaf577309b5d8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/45112771",
-  "deezer": 45112771
+  "deezer": 45112771,
+  "isrc": "CAP689916002",
+  "apple": "253799923",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/42/eb/49/42eb491b-9ce7-9b01-fb4d-48b27c0c4e0a/mzaf_15337016257775651133.plus.aac.p.m4a"
  },
  {
   "id": 79074739,
@@ -757,7 +961,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f5cd81f64fa03dce06431c8c968b7ea7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/79074739",
-  "deezer": 79074739
+  "deezer": 79074739,
+  "isrc": "CAL541416006",
+  "apple": "883802369",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/70/7b/8e707b66-92bb-0416-6afc-6219e6454057/mzaf_1691414131161518468.plus.aac.p.m4a"
  },
  {
   "id": 79074736,
@@ -768,7 +975,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/f5cd81f64fa03dce06431c8c968b7ea7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/79074736",
-  "deezer": 79074736
+  "deezer": 79074736,
+  "isrc": "CAL541416003",
+  "apple": "883802283",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/90/9c/32909cf8-2e82-8885-1a5a-d6c0df7c40c7/mzaf_12151863985961912641.plus.aac.p.m4a"
  },
  {
   "id": 208864,
@@ -779,7 +989,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/ab1244e736d2b4b219521f4b76492ec0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/208864",
-  "deezer": 208864
+  "deezer": 208864,
+  "isrc": "FR6V80311681",
+  "apple": "254869658",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/e9/12/a7e912f7-2405-863b-d435-153b0bda7fd2/mzaf_695036037373595327.plus.aac.p.m4a"
  },
  {
   "id": 3629522802,
@@ -790,7 +1003,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0847cba82284378e7929b90d4de97778/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3629522802",
-  "deezer": 3629522802
+  "deezer": 3629522802,
+  "isrc": "CAA500619602",
+  "apple": "1849697499",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/16/72/b1167250-4add-80c8-5db1-611e1554a5cf/mzaf_2502741722796187099.plus.aac.p.m4a"
  },
  {
   "id": 588237142,
@@ -801,7 +1017,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/916daa17558a0c26ba4f1bcf1c0c5a0f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/588237142",
-  "deezer": 588237142
+  "deezer": 588237142,
+  "isrc": "CAD430602302",
+  "apple": "1444378130",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/eb/6a/82eb6a35-3d42-448a-c1de-1b36fd39bc5a/mzaf_15993636149470595484.plus.aac.p.m4a"
  },
  {
   "id": 128229503,
@@ -812,7 +1031,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d04343a3fda402cfdd38b64ad8433e4f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128229503",
-  "deezer": 128229503
+  "deezer": 128229503,
+  "isrc": "CAA500822404",
+  "apple": "1551602001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/01/d7/6401d7d3-4bc4-cf10-b1f3-bcc513e945c8/mzaf_6257455267268976189.plus.aac.p.m4a"
  },
  {
   "id": 128226565,
@@ -823,7 +1045,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/835894b2968125eee64bb204b986a1f0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128226565",
-  "deezer": 128226565
+  "deezer": 128226565,
+  "isrc": "CAA500822303",
+  "apple": "1551596657",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/6d/94/c4/6d94c4c8-ce41-706b-b9d8-fa54031cf0e4/mzaf_4231858883509983771.plus.aac.p.m4a"
  },
  {
   "id": 65802574,
@@ -834,7 +1059,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/f67afb057250e7ea046349859c852d8b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802574",
-  "deezer": 65802574
+  "deezer": 65802574,
+  "isrc": "CAD430890702",
+  "apple": "1688287740",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b4/0d/22/b40d220b-2661-756a-4696-6e67d76c499f/mzaf_4751824928015781231.plus.aac.p.m4a"
  },
  {
   "id": 65760305,
@@ -845,7 +1073,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e0b7b1a86be2b503ab68c7cad683261a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760305",
-  "deezer": 65760305
+  "deezer": 65760305,
+  "isrc": "CAD431192208",
+  "apple": "627033352",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/01/79/900179ce-84d3-88a9-5a9d-ec425ebac2b1/mzaf_439345091254853491.plus.aac.p.m4a"
  },
  {
   "id": 97906642,
@@ -856,7 +1087,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/7dae3a10ea6034be8a41ab40f372e631/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/97906642",
-  "deezer": 97906642
+  "deezer": 97906642,
+  "isrc": "CAD431506202",
+  "apple": "980333093",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/ff/46/93ff46de-cdf3-aba3-ad5a-0856f3667aad/mzaf_9802929048600424879.plus.aac.p.m4a"
  },
  {
   "id": 1594322871,
@@ -867,7 +1101,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/15dd9b5407f959572d54345da2fa6009/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1594322871",
-  "deezer": 1594322871
+  "deezer": 1594322871,
+  "isrc": "CAQ520406006",
+  "apple": "1600875992",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/59/2a/4d592aea-cd1e-48eb-f668-2a4e0a8a1872/mzaf_11212841269863074511.plus.aac.p.m4a"
  },
  {
   "id": 1855372837,
@@ -878,7 +1115,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8f138b7ad4d9b69b70161d60418c964/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1855372837",
-  "deezer": 1855372837
+  "deezer": 1855372837,
+  "isrc": "CAS742290001",
+  "apple": "1638416086",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/77/0b/3d/770b3dcd-8d2b-2256-cffa-16cb2ac74c31/mzaf_720293379882420050.plus.aac.p.m4a"
  },
  {
   "id": 661492472,
@@ -889,7 +1129,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/1fe1491ff015ef0f32034854ca011000/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/661492472",
-  "deezer": 661492472
+  "deezer": 661492472,
+  "isrc": "CAS740913006",
+  "apple": "1458399429",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/0a/bb/820abbc1-7195-b0fa-cb5f-d5496150e6ce/mzaf_15738090688467044186.plus.aac.p.m4a"
  },
  {
   "id": 128219955,
@@ -900,7 +1143,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a664798eefa57f6ad2dc35b592b1925f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128219955",
-  "deezer": 128219955
+  "deezer": 128219955,
+  "isrc": "CAA501332901",
+  "apple": "1551597581",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/93/4c/81/934c81bd-c199-41a7-61a8-084892ad2c8b/mzaf_13079224900445741712.plus.aac.p.m4a"
  },
  {
   "id": 668926932,
@@ -911,7 +1157,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/894e09a9e63dc6b40903f6657f4787c4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/668926932",
-  "deezer": 668926932
+  "deezer": 668926932,
+  "isrc": "CAS741346001",
+  "apple": "1459897036",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/cd/69/89cd69e8-5091-e9a5-af72-acb044387fd3/mzaf_9346569252707562144.plus.aac.p.m4a"
  },
  {
   "id": 606314292,
@@ -922,7 +1171,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/5bc0c4c6da1b52a12e78150c59bb16ae/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/606314292",
-  "deezer": 606314292
+  "deezer": 606314292,
+  "isrc": "CA7OT1810041",
+  "apple": "1669062445",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/35/8d/2a358ddf-5d16-d5d2-6b8f-247163d44a92/mzaf_13883708698592478050.plus.aac.p.m4a"
  },
  {
   "id": 129499598,
@@ -933,7 +1185,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae78a89d49082fe78cc4a82025070e85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/129499598",
-  "deezer": 129499598
+  "deezer": 129499598,
+  "isrc": "CAH681600044",
+  "apple": "1369265053",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/38/65/33/38653349-7029-1a24-6097-887df7ab75fc/mzaf_14893745369014252856.plus.aac.p.m4a"
  },
  {
   "id": 3167674571,
@@ -944,7 +1199,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0caf9bd984958e035b4516470cadf158/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3167674571",
-  "deezer": 3167674571
+  "deezer": 3167674571,
+  "isrc": "CAZ841300085",
+  "apple": "1333152470",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/9e/d3/e59ed368-a6ff-5eee-12fb-b9b68d0e0403/mzaf_6373085535264835438.plus.aac.p.m4a"
  },
  {
   "id": 1283296152,
@@ -955,7 +1213,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/87bacd9d3fbab653faad2da7dcaf79aa/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1283296152",
-  "deezer": 1283296152
+  "deezer": 1283296152,
+  "isrc": "CAC0C1700417",
+  "apple": "1559783313",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/4b/06/5f4b0684-6b53-9e0a-e5ae-2a1f8f3cb012/mzaf_5894934644771564555.plus.aac.p.m4a"
  },
  {
   "id": 3692128942,
@@ -966,7 +1227,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/37d758d7fba59c7e48b99cdd44160709/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3692128942",
-  "deezer": 3692128942
+  "deezer": 3692128942,
+  "isrc": "CAA861800002",
+  "apple": "1858005412",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/3d/87/ef3d8784-129f-644f-2d2f-306767de8f4b/mzaf_7329233210599360166.plus.aac.p.m4a"
  },
  {
   "id": 663194792,
@@ -977,7 +1241,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/33716ea5853a7fc0191a1510d548d7d3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/663194792",
-  "deezer": 663194792
+  "deezer": 663194792,
+  "isrc": "CAH681900003",
+  "apple": "1459391151",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/12/24/a212245b-9ae1-9a78-f2ae-a841b26954d5/mzaf_2920976885733569337.plus.aac.p.m4a"
  },
  {
   "id": 1120656462,
@@ -988,7 +1255,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1120656462",
-  "deezer": 1120656462
+  "deezer": 1120656462,
+  "isrc": "CAH682000112",
+  "apple": "1537497121",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/08/21/7b08213f-2ac2-0e22-39a7-f2011b759f00/mzaf_6732167052750896663.plus.aac.p.m4a"
  },
  {
   "id": 919378132,
@@ -999,7 +1269,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ad915ebf2c56510549283c0592595926/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/919378132",
-  "deezer": 919378132
+  "deezer": 919378132,
+  "isrc": "CAH682000017",
+  "apple": "1505835607",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/2d/9e/802d9eb5-4261-0053-adc9-cde797671c82/mzaf_6962417698534931556.plus.aac.p.m4a"
  },
  {
   "id": 407884572,
@@ -1010,7 +1283,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/54bf82f4d5cfe966877876c81aca8302/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/407884572",
-  "deezer": 407884572
+  "deezer": 407884572,
+  "isrc": "GBSMU4182192",
+  "apple": "1340967876",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/0a/40/d60a4061-24dc-8075-f33f-3c233875bd6d/mzaf_4101292826756632621.plus.aac.p.m4a"
  },
  {
   "id": 1120656442,
@@ -1021,7 +1297,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1120656442",
-  "deezer": 1120656442
+  "deezer": 1120656442,
+  "isrc": "CAH682000093",
+  "apple": "1533811187",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/5c/ee/d55cee22-28aa-bb03-11fa-485449a6df1b/mzaf_7642413382451629466.plus.aac.p.m4a"
  },
  {
   "id": 1283296112,
@@ -1032,7 +1311,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/87bacd9d3fbab653faad2da7dcaf79aa/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1283296112",
-  "deezer": 1283296112
+  "deezer": 1283296112,
+  "isrc": "CAC0C1700413",
+  "apple": "1559783292",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/1e/b1/e61eb138-a41f-2cf3-9115-3403f86a4eb8/mzaf_3114024274074398065.plus.aac.p.m4a"
  },
  {
   "id": 1283296142,
@@ -1043,7 +1325,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/87bacd9d3fbab653faad2da7dcaf79aa/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1283296142",
-  "deezer": 1283296142
+  "deezer": 1283296142,
+  "isrc": "CAC0C1700416",
+  "apple": "1559783307",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/eb/4f/90eb4fe0-d10d-0dcb-3d09-8c249340ed58/mzaf_969810066135403320.plus.aac.p.m4a"
  },
  {
   "id": 1284099332,
@@ -1054,7 +1339,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1284099332",
-  "deezer": 1284099332
+  "deezer": 1284099332,
+  "isrc": "CAC0C1800461",
+  "apple": "1559738505",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/56/73/e6567379-1ee6-7af7-54ea-efccf6b6d844/mzaf_13369473945795970024.plus.aac.p.m4a"
  },
  {
   "id": 3019197991,
@@ -1065,7 +1353,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b2548223cb998dac0f9e8d9ed9a74fd1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3019197991",
-  "deezer": 3019197991
+  "deezer": 3019197991,
+  "isrc": "CAH682400119",
+  "apple": "1771005808",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/21/eb/2b21eb8d-ce2c-fac1-fd5a-d97b6b45ffd6/mzaf_17785563729110379612.plus.aac.p.m4a"
  },
  {
   "id": 1679895837,
@@ -1076,7 +1367,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/669a920785eb9be92a3dbc0483f3e0cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1679895837",
-  "deezer": 1679895837
+  "deezer": 1679895837,
+  "isrc": "CAH682200005",
+  "apple": "1613356440",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/b5/f4/86b5f4c6-8f92-dc70-6d21-9229b3c354d9/mzaf_6279521685355592594.plus.aac.p.m4a"
  },
  {
   "id": 2730282031,
@@ -1087,7 +1381,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/6b44f26ea1bc27c6918472c1d15dd757/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2730282031",
-  "deezer": 2730282031
+  "deezer": 2730282031,
+  "isrc": "CAH682400025",
+  "apple": "1738762387",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/23/72/202372bd-8611-4d6c-886f-aed2da62e56f/mzaf_15418234152765456531.plus.aac.p.m4a"
  },
  {
   "id": 541811832,
@@ -1098,7 +1395,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/9f33706fd07fd04ace458400efbb27d4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/541811832",
-  "deezer": 541811832
+  "deezer": 541811832,
+  "isrc": "CAH681800036",
+  "apple": "1427660672",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/2b/39/6c2b3922-f7db-7184-750c-50e56e52d29c/mzaf_15031452462260647652.plus.aac.p.m4a"
  },
  {
   "id": 135335534,
@@ -1109,7 +1409,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/800a490c8af62797e4cab852e96e906d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/135335534",
-  "deezer": 135335534
+  "deezer": 135335534,
+  "isrc": "CAH681600022",
+  "apple": "1072139497",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/f8/54/44f8545a-1409-bbf6-e009-a9d4f2f01644/mzaf_9649134243461913763.plus.aac.p.m4a"
  },
  {
   "id": 71159472,
@@ -1120,7 +1423,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f0e45abe0716fd3b14e1529fe18b0971/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/71159472",
-  "deezer": 71159472
+  "deezer": 71159472,
+  "isrc": "CAH681100004",
+  "apple": "1369263371",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/64/1a/0f/641a0fa1-7eb7-8122-3907-8b907363cc08/mzaf_16481650935737081946.plus.aac.p.m4a"
  },
  {
   "id": 819194462,
@@ -1131,7 +1437,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7938619fbb04102a75c9bcd85da196c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/819194462",
-  "deezer": 819194462
+  "deezer": 819194462,
+  "isrc": "CAH681900105",
+  "apple": "1489256782",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/e1/a1/49e1a16e-1d68-2edc-d57a-cf59c6b8ca0f/mzaf_3203043858390944788.plus.aac.p.m4a"
  },
  {
   "id": 552817212,
@@ -1142,7 +1451,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/552817212",
-  "deezer": 552817212
+  "deezer": 552817212,
+  "isrc": "CAH681800051",
+  "apple": "1435827032",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/ba/de/9fbaded1-cae4-6fec-518a-7c69d251ec24/mzaf_2681084845108960985.plus.aac.p.m4a"
  },
  {
   "id": 3168160681,
@@ -1153,7 +1465,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fb1783a37b40236949d0f15fa8226037/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168160681",
-  "deezer": 3168160681
+  "deezer": 3168160681,
+  "isrc": "CAZ841800094",
+  "apple": "1447299413",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/3c/69/e13c6981-f81c-098c-739a-271d51bd5496/mzaf_13654677101697083627.plus.aac.p.m4a"
  },
  {
   "id": 3019198051,
@@ -1164,7 +1479,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/b2548223cb998dac0f9e8d9ed9a74fd1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3019198051",
-  "deezer": 3019198051
+  "deezer": 3019198051,
+  "isrc": "CAH682400070",
+  "apple": "1765151990",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/72/0a/2e720afa-cbd3-f9ae-2372-65d051f18448/mzaf_18104420409573942883.plus.aac.p.m4a"
  },
  {
   "id": 2255433817,
@@ -1175,7 +1493,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2255433817",
-  "deezer": 2255433817
+  "deezer": 2255433817,
+  "isrc": "CAH682300076",
+  "apple": "1684840801",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/5e/f6/e35ef6cd-dfb8-6878-d61f-d596db7baed4/mzaf_3023554743563776216.plus.aac.p.m4a"
  },
  {
   "id": 3019198041,
@@ -1186,7 +1507,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b2548223cb998dac0f9e8d9ed9a74fd1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3019198041",
-  "deezer": 3019198041
+  "deezer": 3019198041,
+  "isrc": "CAH682400122",
+  "apple": "1771006117",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/dd/73/bbdd732c-7ea2-ed78-906f-a58fdd704169/mzaf_17825781752685157238.plus.aac.p.m4a"
  },
  {
   "id": 1082498652,
@@ -1197,7 +1521,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/9237c55ed1a59b590d3b0ee7caf67810/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1082498652",
-  "deezer": 1082498652
+  "deezer": 1082498652,
+  "isrc": "CAA0Q1830002",
+  "apple": "1532140075",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/5f/85/d55f8554-a10e-5224-8458-204587f1e04f/mzaf_1708875730609740866.plus.aac.p.m4a"
  },
  {
   "id": 4270742832,
@@ -1208,7 +1535,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/ecc223a629a904424f5e4180a91fe38a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4270742832",
-  "deezer": 4270742832
+  "deezer": 4270742832,
+  "isrc": "CAC0C2601097",
+  "apple": "6808777323",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/a5/be/56a5be0f-f2e5-59e1-80c5-3b87d31c2cb9/mzaf_6407034810706670024.plus.aac.p.m4a"
  },
  {
   "id": 3389164631,
@@ -1219,7 +1549,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/772c5b06cf1d7cdce3347aa2002f0d8e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3389164631",
-  "deezer": 3389164631
+  "deezer": 3389164631,
+  "isrc": "CAC0C2501019",
+  "apple": "1817316129",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/97/5a/59975ab9-8df7-09fd-16fe-109f0dbfac5d/mzaf_6854404715927582507.plus.aac.p.m4a"
  },
  {
   "id": 3978138961,
@@ -1230,7 +1563,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a8dca113677c4d4764973fbd20be2da/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3978138961",
-  "deezer": 3978138961
+  "deezer": 3978138961,
+  "isrc": "CAC0C2601087",
+  "apple": "6763091217",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/6b/6b/946b6b30-0c42-ce48-a217-bf41a511ee9a/mzaf_1199782818169264181.plus.aac.p.m4a"
  },
  {
   "id": 827505432,
@@ -1241,7 +1577,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b9d3a1b1276f701968be41318b89ee3f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/827505432",
-  "deezer": 827505432
+  "deezer": 827505432,
+  "isrc": "QZK6Q1970323",
+  "apple": "1490729201",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/8d/50/658d505e-3131-619c-5a56-f7059ec9c51a/mzaf_3948329147651231501.plus.aac.p.m4a"
  },
  {
   "id": 1880763597,
@@ -1252,7 +1591,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/bf5675b357e9689b158f567b109590c1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1880763597",
-  "deezer": 1880763597
+  "deezer": 1880763597,
+  "isrc": "QZNWS2276224",
+  "apple": "1641507638",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/6a/ef/8d6aefc1-c091-acd3-7631-ce009f98f8ba/mzaf_17638390102788343733.plus.aac.p.m4a"
  },
  {
   "id": 480533762,
@@ -1263,7 +1605,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be9bc30ccef11e6c77dbd35e71b71adc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/480533762",
-  "deezer": 480533762
+  "deezer": 480533762,
+  "isrc": "QM4DW1838171",
+  "apple": "1368306220",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/bc/50/1bbc50b6-94d0-f7ae-2149-c9226613e128/mzaf_7282817798866741777.plus.aac.p.m4a"
  },
  {
   "id": 2953864961,
@@ -1274,7 +1619,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/3c1087ba385f3ee051f4833a9f82b4e6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2953864961",
-  "deezer": 2953864961
+  "deezer": 2953864961,
+  "isrc": "CAOWO2400027",
+  "apple": "1763664225",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/43/23/3f43236c-75f6-0914-8297-9e11a10ef9ed/mzaf_17930902495299745246.plus.aac.p.m4a"
  },
  {
   "id": 109104342,
@@ -1285,7 +1633,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8b55d56ebea9bc339620a5e6d4f9590f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109104342",
-  "deezer": 109104342
+  "deezer": 109104342,
+  "isrc": "CAH681200012",
+  "apple": "1047231013",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/86/f0/4a86f0e0-9dbf-a70d-d3c2-9e6c66061320/mzaf_10812359107483606534.plus.aac.p.m4a"
  },
  {
   "id": 1989125397,
@@ -1296,7 +1647,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/716b4ab0e26db06826cb558d754b9b87/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1989125397",
-  "deezer": 1989125397
+  "deezer": 1989125397,
+  "isrc": "CACEB1718761",
+  "apple": "1652077843",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7d/ed/bc/7dedbca3-a1cc-4ed9-ea18-a3326a7ee75e/mzaf_17473789332348572683.plus.aac.p.m4a"
  },
  {
   "id": 15398018,
@@ -1307,7 +1661,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2f13aa2ccd541d27d69bb78c0f13345d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15398018",
-  "deezer": 15398018
+  "deezer": 15398018,
+  "isrc": "CAG549905113",
+  "apple": "254850762",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/8b/18/8f8b181b-f613-97e0-b1cf-7234801e3a30/mzaf_17929923586294589804.plus.aac.p.m4a"
  },
  {
   "id": 1225315562,
@@ -1318,7 +1675,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/860430db3577438d3ddc319c07a37d8f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1225315562",
-  "deezer": 1225315562
+  "deezer": 1225315562,
+  "isrc": "CAC0C2000521",
+  "apple": "1551218682",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/79/1d/b5/791db560-c2f9-89f9-361c-76d990fa005b/mzaf_836970928544312871.plus.aac.p.m4a"
  },
  {
   "id": 4182838152,
@@ -1329,7 +1689,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/4f9048e94db7ff23120957dc5a373186/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4182838152",
-  "deezer": 4182838152
+  "deezer": 4182838152,
+  "isrc": "CAH682600169",
+  "apple": "6807454501",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/0b/99/640b99da-64d9-5e80-ed49-5d3f6865ce48/mzaf_14686976007754595885.plus.aac.p.m4a"
  },
  {
   "id": 2560317082,
@@ -1340,7 +1703,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebbbe698bc3a54e1feb3c435860cb1ce/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2560317082",
-  "deezer": 2560317082
+  "deezer": 2560317082,
+  "isrc": "DGA0P2375329",
+  "apple": "1718589872",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/28/50/212850d5-4cec-8645-ab1e-5145483f1637/mzaf_1192888098806400704.plus.aac.p.m4a"
  },
  {
   "id": 1081403082,
@@ -1351,7 +1717,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8f53cba961cd7926210736356d22027b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1081403082",
-  "deezer": 1081403082
+  "deezer": 1081403082,
+  "isrc": "FRX762082614",
+  "apple": "1531914535",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/cf/74/20cf7424-7b80-037a-5b2e-8c56baa108db/mzaf_1016003382137829609.plus.aac.p.m4a"
  },
  {
   "id": 1518448022,
@@ -1362,7 +1731,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f45bcccb717cbe0d9ff104a1075af3b8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1518448022",
-  "deezer": 1518448022
+  "deezer": 1518448022,
+  "isrc": "FRX762166584",
+  "apple": "1589795422",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ed/47/50/ed475048-ee7b-1d85-f8fc-8d8523d74ee9/mzaf_2409098917520360102.plus.aac.p.m4a"
  },
  {
   "id": 1518379602,
@@ -1373,7 +1745,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f45bcccb717cbe0d9ff104a1075af3b8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1518379602",
-  "deezer": 1518379602
+  "deezer": 1518379602,
+  "isrc": "FRX762166580",
+  "apple": "1589794910",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f1/70/35/f17035f3-4846-b0a4-4346-a25fbe5c7c37/mzaf_9691659434920602843.plus.aac.p.m4a"
  },
  {
   "id": 3651471422,
@@ -1384,7 +1759,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e8045e596526e3dbe564441f1de66f9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3651471422",
-  "deezer": 3651471422
+  "deezer": 3651471422,
+  "isrc": "DGA072538111",
+  "apple": "1853664724",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/45/bd/5945bdcb-1836-de0e-589b-256aad74b12a/mzaf_4875828233459942716.plus.aac.p.m4a"
  },
  {
   "id": 2941998701,
@@ -1395,7 +1773,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2941998701",
-  "deezer": 2941998701
+  "deezer": 2941998701,
+  "isrc": "CAH682400064",
+  "apple": "1762209505",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/7b/35/f97b3551-24ec-0a8d-c5ce-bf84627bb46f/mzaf_18084040146668830151.plus.aac.p.m4a"
  },
  {
   "id": 2941998681,
@@ -1406,7 +1787,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2941998681",
-  "deezer": 2941998681
+  "deezer": 2941998681,
+  "isrc": "CAH682400063",
+  "apple": "6796761911",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/ad/4b/93ad4b07-48e5-0077-e037-a085e368836b/mzaf_1845326750258707043.plus.aac.p.m4a"
  },
  {
   "id": 1082498782,
@@ -1417,7 +1801,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/9237c55ed1a59b590d3b0ee7caf67810/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1082498782",
-  "deezer": 1082498782
+  "deezer": 1082498782,
+  "isrc": "CAA0Q1830015",
+  "apple": "1532141307",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/1b/7a/dd1b7ac1-cd53-8e8b-4926-cbda65615bde/mzaf_18308014624493141142.plus.aac.p.m4a"
  },
  {
   "id": 1253427792,
@@ -1428,7 +1815,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1253427792",
-  "deezer": 1253427792
+  "deezer": 1253427792,
+  "isrc": "CAC0C2000590",
+  "apple": "1551808144",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/4e/66/934e66c6-4445-97cd-60fb-333dfc510a60/mzaf_15417296211731075400.plus.aac.p.m4a"
  },
  {
   "id": 4033488481,
@@ -1439,7 +1829,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4033488481",
-  "deezer": 4033488481
+  "deezer": 4033488481,
+  "isrc": "CAH682600104",
+  "apple": "6771388624",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/0a/25/620a254f-1959-60ce-082f-62b44e856729/mzaf_5638045744084397145.plus.aac.p.m4a"
  },
  {
   "id": 847611222,
@@ -1450,7 +1843,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3804d693684fe73388ba7c1f30128cad/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/847611222",
-  "deezer": 847611222
+  "deezer": 847611222,
+  "isrc": "TCAEE1984353",
+  "apple": "1493877377",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/e1/db/86e1dbeb-5ffc-552f-1103-f9105819cfe4/mzaf_4325640104263123898.plus.aac.p.m4a"
  },
  {
   "id": 1571256812,
@@ -1461,7 +1857,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6c4f686717028cdffb938ca222777da/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1571256812",
-  "deezer": 1571256812
+  "deezer": 1571256812,
+  "isrc": "CAJDF1800003",
+  "apple": "1598018745",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/90/1d/86901d94-7d2e-2afe-2e80-d36dd00f4212/mzaf_13652574488633315545.plus.aac.p.m4a"
  },
  {
   "id": 3557442831,
@@ -1472,7 +1871,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8bcf13f389fd6657b21cbb8c753fea14/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3557442831",
-  "deezer": 3557442831
+  "deezer": 3557442831,
+  "isrc": "CAJDF2500105",
+  "apple": "1837524034",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/f9/57/4af9576a-2052-8d67-c1ba-6364322fdb9f/mzaf_3028363694444760210.plus.aac.p.m4a"
  },
  {
   "id": 1030788462,
@@ -1483,7 +1885,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/11ef7081ae314215b94ddb2488584a59/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1030788462",
-  "deezer": 1030788462
+  "deezer": 1030788462,
+  "isrc": "CAH682000075",
+  "apple": "1524692231",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1a/01/4a/1a014a18-a60f-ee41-820f-d291087616f3/mzaf_4312562699909528164.plus.aac.p.m4a"
  },
  {
   "id": 4033488441,
@@ -1494,7 +1899,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4033488441",
-  "deezer": 4033488441
+  "deezer": 4033488441,
+  "isrc": "CAH682600100",
+  "apple": "6771388386",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/f1/87/62f1877c-a644-2dea-d8c4-c49c928e617a/mzaf_1050153449487481655.plus.aac.p.m4a"
  },
  {
   "id": 1028026032,
@@ -1505,7 +1913,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1feb3c08dab5a5b613c59668cb77ff63/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1028026032",
-  "deezer": 1028026032
+  "deezer": 1028026032,
+  "isrc": "CAOOA2000001",
+  "apple": "1524374057",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/7f/e2/d47fe24c-ca2d-f150-6339-c518d36385f8/mzaf_11565757193407675657.plus.aac.p.m4a"
  },
  {
   "id": 2816354982,
@@ -1516,7 +1927,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95f3ff6e62bcb47baabdb787412f7073/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2816354982",
-  "deezer": 2816354982
+  "deezer": 2816354982,
+  "isrc": "CAF662301140",
+  "apple": "1710679617",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/66/c7/cc66c7d8-8d59-5099-3b91-79bde4514650/mzaf_11109330024619208733.plus.aac.p.m4a"
  },
  {
   "id": 128221079,
@@ -1527,7 +1941,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/98c9f25e90f4a054df7a117365adee8a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221079",
-  "deezer": 128221079
+  "deezer": 128221079,
+  "isrc": "CAA501435503",
+  "apple": "1551596873",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/a4/6b/50/a46b5075-69a0-8ee4-5c99-c109d766924a/mzaf_16080469090511349855.plus.aac.p.m4a"
  },
  {
   "id": 128221093,
@@ -1538,7 +1955,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/98c9f25e90f4a054df7a117365adee8a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221093",
-  "deezer": 128221093
+  "deezer": 128221093,
+  "isrc": "CAA501435510",
+  "apple": "1551597229",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/5b/78/a3/5b78a33b-3193-c951-8578-3d60ad18b330/mzaf_8603759237825314935.plus.aac.p.m4a"
  },
  {
   "id": 2584066192,
@@ -1549,7 +1969,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e63069f067bcbc0884ea46fc11d0c8ff/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2584066192",
-  "deezer": 2584066192
+  "deezer": 2584066192,
+  "isrc": "CA8QE2300016",
+  "apple": "1786155241",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/23/86/4e238634-0a78-3201-f2a8-22711be52664/mzaf_15375391400897520714.plus.aac.p.m4a"
  },
  {
   "id": 3530231971,
@@ -1560,7 +1983,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/33e8836512756e99d8d9aa40abc202b2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3530231971",
-  "deezer": 3530231971
+  "deezer": 3530231971,
+  "isrc": "QMDA62591177",
+  "apple": "6820598761",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/4b/22/ee4b22b2-e610-5d4e-5139-8d4e94fba130/mzaf_15440877894830620915.plus.aac.p.m4a"
  },
  {
   "id": 3668827072,
@@ -1571,7 +1997,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2902839d9dbe5e46516d32d68b45245d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3668827072",
-  "deezer": 3668827072
+  "deezer": 3668827072,
+  "isrc": "CAA862000065",
+  "apple": "1854529092",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/d7/7a/ded77ad9-5d20-6f2d-3c24-58f90fac2a0a/mzaf_9451418757007809048.plus.aac.p.m4a"
  },
  {
   "id": 3643028082,
@@ -1582,7 +2011,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028082",
-  "deezer": 3643028082
+  "deezer": 3643028082,
+  "isrc": "CAZ842500087",
+  "apple": "1851050582",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/94/46/3a944684-be3b-56dc-4a73-0d63aa36ffe1/mzaf_13159056107129737101.plus.aac.p.m4a"
  },
  {
   "id": 3678807012,
@@ -1593,7 +2025,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3678807012",
-  "deezer": 3678807012
+  "deezer": 3678807012,
+  "isrc": "CAZ842500093",
+  "apple": "1851050716",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/73/be/7073be75-99f5-4e61-0c1f-94b8c717fdbe/mzaf_5285608790144339261.plus.aac.p.m4a"
  },
  {
   "id": 3643028192,
@@ -1604,7 +2039,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028192",
-  "deezer": 3643028192
+  "deezer": 3643028192,
+  "isrc": "CAZ842500098",
+  "apple": "1851050735",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/be/f2/1abef2cd-5f1e-f6e0-1d41-53c1ab7f5ff2/mzaf_4849700735556554387.plus.aac.p.m4a"
  },
  {
   "id": 1036062762,
@@ -1615,7 +2053,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036062762",
-  "deezer": 1036062762
+  "deezer": 1036062762,
+  "isrc": "CA60L1760005",
+  "apple": "1525617491",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/7f/27/997f27ed-33a1-fc6c-3591-718901717121/mzaf_2582809654644127943.plus.aac.p.m4a"
  },
  {
   "id": 1438970812,
@@ -1626,7 +2067,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a19e8bd25a7036c489d25fd6143cf89f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1438970812",
-  "deezer": 1438970812
+  "deezer": 1438970812,
+  "isrc": "CALTS2100008",
+  "apple": "1577284537",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/eb/d7/43ebd74d-a620-884a-985c-10c480d0be3d/mzaf_3242810129060994538.plus.aac.p.m4a"
  },
  {
   "id": 1036062782,
@@ -1637,7 +2081,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036062782",
-  "deezer": 1036062782
+  "deezer": 1036062782,
+  "isrc": "CA60L1760007",
+  "apple": "1525440923",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/b2/e8/6ab2e883-693a-34d9-1b5b-ccf0e7ac423b/mzaf_4170301173577907693.plus.aac.p.m4a"
  },
  {
   "id": 4264722312,
@@ -1648,7 +2095,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8d0c5d328b06ca9eb24ac13883a4ead4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4264722312",
-  "deezer": 4264722312
+  "deezer": 4264722312,
+  "isrc": "CALTS2600005",
+  "apple": "6808353450",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/6b/33/216b3380-08fe-856c-728b-5a667dd46b58/mzaf_3521735370926131006.plus.aac.p.m4a"
  },
  {
   "id": 3051805271,
@@ -1659,7 +2109,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805271",
-  "deezer": 3051805271
+  "deezer": 3051805271,
+  "isrc": "CAD432405301",
+  "apple": "1767603390",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/63/3b/29633b6d-6873-09d1-3ab0-4995c6c8ccc6/mzaf_7147162370906763920.plus.aac.p.m4a"
  },
  {
   "id": 586424332,
@@ -1670,7 +2123,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/c0ad66f8b2e2702e2a1d94b2d6b700be/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/586424332",
-  "deezer": 586424332
+  "deezer": 586424332,
+  "isrc": "CAD431897106",
+  "apple": "1442305830",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/89/a4/f489a48c-71f1-ef0c-3abe-172d73a7de7c/mzaf_10641428955612332793.plus.aac.p.m4a"
  },
  {
   "id": 1097271512,
@@ -1681,7 +2137,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/549655c330571aa34284da27297579d1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1097271512",
-  "deezer": 1097271512
+  "deezer": 1097271512,
+  "isrc": "CALXJ2020001",
+  "apple": "1862237584",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/83/f1/9983f1ae-6c02-5671-6b4d-f72bcb66a746/mzaf_16216661085777025746.plus.aac.p.m4a"
  },
  {
   "id": 1644543902,
@@ -1692,7 +2151,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1644543902",
-  "deezer": 1644543902
+  "deezer": 1644543902,
+  "isrc": "CALXJ2120002",
+  "apple": "1606955546",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/be/8f/4bbe8fcc-75fd-f756-cd96-254d10d25ed4/mzaf_2368412896965168978.plus.aac.p.m4a"
  },
  {
   "id": 3278043841,
@@ -1703,7 +2165,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3278043841",
-  "deezer": 3278043841
+  "deezer": 3278043841,
+  "isrc": "CALXJ2520002",
+  "apple": "1871513940",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/c4/5c/ddc45cb3-5641-ab9f-a9e5-92cdd9475e7c/mzaf_15127100934937922514.plus.aac.p.m4a"
  },
  {
   "id": 1542107562,
@@ -1714,7 +2179,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/3d506042fea06b4130f5e3d8afd71c01/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1542107562",
-  "deezer": 1542107562
+  "deezer": 1542107562,
+  "isrc": "CA5VC1600002",
+  "apple": "1593489638",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/7e/44/e07e4498-1608-bf69-82a6-d188d34e2f14/mzaf_3430647430333304007.plus.aac.p.m4a"
  },
  {
   "id": 830242532,
@@ -1725,7 +2193,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6120399a42f2b6875aee1f9bb5edaa1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/830242532",
-  "deezer": 830242532
+  "deezer": 830242532,
+  "isrc": "CA5VC1903003",
+  "apple": "1491350333",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/0a/9d/830a9d95-baa3-079b-a34d-28375a216bea/mzaf_9802689732215595388.plus.aac.p.m4a"
  },
  {
   "id": 3879672381,
@@ -1736,7 +2207,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8cec070c67e52b44060d554c463210c8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3879672381",
-  "deezer": 3879672381
+  "deezer": 3879672381,
+  "isrc": "CA0RZ2500325",
+  "apple": "1882120912",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/79/64/ee7964b2-493d-31a7-0621-6871d3cb3ba4/mzaf_14345322365676392564.plus.aac.p.m4a"
  },
  {
   "id": 3756793572,
@@ -1747,7 +2221,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756793572",
-  "deezer": 3756793572
+  "deezer": 3756793572,
+  "isrc": "CAD431393102",
+  "apple": "1866622852",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/96/97/3f9697f8-c24c-3851-25e6-b746aeeb0106/mzaf_10826610883752509887.plus.aac.p.m4a"
  },
  {
   "id": 3756788842,
@@ -1758,7 +2235,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f10a05c82182bea7a596073d321dc64e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756788842",
-  "deezer": 3756788842
+  "deezer": 3756788842,
+  "isrc": "CAD431594902",
+  "apple": "1866620603",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/77/88/a5778854-891a-1263-7fe7-8247c71ac2b3/mzaf_12447370090172177935.plus.aac.p.m4a"
  },
  {
   "id": 1576173852,
@@ -1769,7 +2249,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6e14fcbb3822f495d8a61912f1bf110/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1576173852",
-  "deezer": 1576173852
+  "deezer": 1576173852,
+  "isrc": "CAQ520776201",
+  "apple": "1598653751",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/1b/6c/1e1b6c6d-cbe2-b97a-bbe7-ebe9f8fe797a/mzaf_2136131973144298619.plus.aac.p.m4a"
  },
  {
   "id": 1652261302,
@@ -1780,7 +2263,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ad3e6fe5068ca6d82104dc936438c5d0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1652261302",
-  "deezer": 1652261302
+  "deezer": 1652261302,
+  "isrc": "CAQ521244413",
+  "apple": "1599434225",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/2a/3b/822a3b65-e994-2d4e-d468-8f7e049dcd04/mzaf_6258924925370140208.plus.aac.p.m4a"
  },
  {
   "id": 2993741521,
@@ -1791,7 +2277,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/01b08ae8edc026cc0c9cc9e3d757498b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2993741521",
-  "deezer": 2993741521
+  "deezer": 2993741521,
+  "isrc": "CAS742492209",
+  "apple": "1768304502",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/34/09/4734097a-325a-ed89-c13d-413997077d96/mzaf_12337062677575259125.plus.aac.p.m4a"
  },
  {
   "id": 104242886,
@@ -1802,7 +2291,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2d281587f8c1e5b21bd40783bd561e1e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/104242886",
-  "deezer": 104242886
+  "deezer": 104242886,
+  "isrc": "CAD431506204",
+  "apple": "1130984317",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/e1/a8/e7e1a806-6584-dbe5-1f65-86b127bbfaa6/mzaf_6480103459531452282.plus.aac.p.m4a"
  },
  {
   "id": 660972942,
@@ -1813,7 +2305,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/4a445a0bef281362d76fede0fd8edcfd/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/660972942",
-  "deezer": 660972942
+  "deezer": 660972942,
+  "isrc": "CAD431906911",
+  "apple": "1458935200",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/73/ba/7f73bab0-ce27-8775-3f00-cb25a42ce683/mzaf_6216562511970669313.plus.aac.p.m4a"
  },
  {
   "id": 606314272,
@@ -1824,7 +2319,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5bc0c4c6da1b52a12e78150c59bb16ae/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/606314272",
-  "deezer": 606314272
+  "deezer": 606314272,
+  "isrc": "CA7OT1810039",
+  "apple": "1669062439",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/6a/f9/376af9e9-09fc-1566-014c-9a8861a24734/mzaf_8051441884602437048.plus.aac.p.m4a"
  },
  {
   "id": 606314212,
@@ -1835,7 +2333,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5bc0c4c6da1b52a12e78150c59bb16ae/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/606314212",
-  "deezer": 606314212
+  "deezer": 606314212,
+  "isrc": "CA7OT1810033",
+  "apple": "1669062080",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/d8/07/60d807e1-085e-b509-4dd8-92905f1c7af2/mzaf_343403773175320423.plus.aac.p.m4a"
  },
  {
   "id": 1867142917,
@@ -1846,7 +2347,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/1f96f452b726e2c80f5338c1452ee7a5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1867142917",
-  "deezer": 1867142917
+  "deezer": 1867142917,
+  "isrc": "CAS741786101",
+  "apple": "1639557463",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/85/74/478574e5-8b17-ef8b-2085-4bb5563a4da3/mzaf_9470556867713364445.plus.aac.p.m4a"
  },
  {
   "id": 661490302,
@@ -1857,7 +2361,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0da5cf64d9ba0bd3161ccf061b66b900/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/661490302",
-  "deezer": 661490302
+  "deezer": 661490302,
+  "isrc": "CAS741342005",
+  "apple": "1458397935",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/38/75/e03875f5-e3c2-a922-ef88-867a1ca22140/mzaf_13503366421667994555.plus.aac.p.m4a"
  },
  {
   "id": 1180365712,
@@ -1868,7 +2375,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/404591d6627a2adc8d68fc49ba4bf926/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1180365712",
-  "deezer": 1180365712
+  "deezer": 1180365712,
+  "isrc": "CAD432098901",
+  "apple": "1712507229",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/41/20/c641205a-821e-5a4c-bcd6-47ff53401d7f/mzaf_7389443535189552219.plus.aac.p.m4a"
  },
  {
   "id": 3306196601,
@@ -1879,7 +2389,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/af6d2b94e037e3d8126d86783bc3ddb9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3306196601",
-  "deezer": 3306196601
+  "deezer": 3306196601,
+  "isrc": "CAD432404501",
+  "apple": "1812044328",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/0d/8a/500d8a2c-2676-ccff-4353-bd3aa4437f10/mzaf_1887453770763185461.plus.aac.p.m4a"
  },
  {
   "id": 131066320,
@@ -1890,7 +2403,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/bbf34fc04c95faf5ca850b9867cca8fd/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/131066320",
-  "deezer": 131066320
+  "deezer": 131066320,
+  "isrc": "CAD431695713",
+  "apple": "1148624912",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/19/a5/cd19a569-01a6-89bd-d851-8abe1336e22a/mzaf_14139778889394332700.plus.aac.p.m4a"
  },
  {
   "id": 131066296,
@@ -1901,7 +2417,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/bbf34fc04c95faf5ca850b9867cca8fd/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/131066296",
-  "deezer": 131066296
+  "deezer": 131066296,
+  "isrc": "CAD431695701",
+  "apple": "1145506148",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/a5/65/09a56543-2b8b-5a97-d9d9-60fcf41e1759/mzaf_18089915992790477085.plus.aac.p.m4a"
  },
  {
   "id": 4224454522,
@@ -1912,7 +2431,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae1553ed98d207f69b63561a57383c14/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4224454522",
-  "deezer": 4224454522
+  "deezer": 4224454522,
+  "isrc": "CAZ841900045",
+  "apple": "6801601941",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/12/c4/3412c466-6c51-548f-7c33-d0f9c5eb8dac/mzaf_15896949876365834565.plus.aac.p.m4a"
  },
  {
   "id": 128237371,
@@ -1923,7 +2445,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/7a998bf6583d72363b99f402f18027ac/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237371",
-  "deezer": 128237371
+  "deezer": 128237371,
+  "isrc": "FR9W11414613",
+  "apple": "1551592811",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/1a/42/2a1a4260-a0f4-8dcf-ad14-6197a0f60d4d/mzaf_4990111541018502214.plus.aac.p.m4a"
  },
  {
   "id": 3024653901,
@@ -1934,7 +2459,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8bb3779312af3c067117a9e67f8ec526/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3024653901",
-  "deezer": 3024653901
+  "deezer": 3024653901,
+  "isrc": "CAA502452102",
+  "apple": "1848452604",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/d4/6d/36d46df7-8ede-a26b-5ac5-cad3d87f133e/mzaf_15294206714608865579.plus.aac.p.m4a"
  },
  {
   "id": 416174012,
@@ -1945,7 +2473,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c054535c516a8aa475edf7a38e5a212a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/416174012",
-  "deezer": 416174012
+  "deezer": 416174012,
+  "isrc": "CAF661500291",
+  "apple": "1440948688",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/21/ba/1821ba51-d54c-7307-e123-57f50e50181d/mzaf_11022806667395716369.plus.aac.p.m4a"
  },
  {
   "id": 2683161292,
@@ -1956,7 +2487,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2683161292",
-  "deezer": 2683161292
+  "deezer": 2683161292,
+  "isrc": "CAPMP2400004",
+  "apple": "1733706205",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/a5/7d/43a57d51-d02c-04d5-1ff8-153180ef3782/mzaf_7344489296651498697.plus.aac.p.m4a"
  },
  {
   "id": 1447824382,
@@ -1967,7 +2501,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/8294ed3c7726cfc3272036608f15144c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1447824382",
-  "deezer": 1447824382
+  "deezer": 1447824382,
+  "isrc": "CAIVS2101003",
+  "apple": "1578321831",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/9b/6b/a99b6b2d-1c23-afe5-4834-2d220f9bb14c/mzaf_2780873270188172109.plus.aac.p.m4a"
  },
  {
   "id": 1442501072,
@@ -1978,7 +2515,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/8294ed3c7726cfc3272036608f15144c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1442501072",
-  "deezer": 1442501072
+  "deezer": 1442501072,
+  "isrc": "CAIVS2101007",
+  "apple": "1578322150",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/db/6b/88db6b00-c034-9572-48de-e96bc68059a5/mzaf_15100485807802375661.plus.aac.p.m4a"
  },
  {
   "id": 1283130552,
@@ -1989,7 +2529,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a620653fb9fb3780f8a3fb267c6dcfe9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1283130552",
-  "deezer": 1283130552
+  "deezer": 1283130552,
+  "isrc": "FR59R2113060",
+  "apple": "1559583127",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/01/31/c00131c2-7f5d-b20c-a256-5db930f3d582/mzaf_930626661797387650.plus.aac.p.m4a"
  },
  {
   "id": 4064453051,
@@ -2000,7 +2543,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4064453051",
-  "deezer": 4064453051
+  "deezer": 4064453051,
+  "isrc": "CA1JS1900052",
+  "apple": "6777121755",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/44/49/dd44499b-f408-9d46-8f39-14a5241b1b90/mzaf_17922439379651475072.plus.aac.p.m4a"
  },
  {
   "id": 4011390141,
@@ -2011,7 +2557,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ef6f563b8712e053135bb9832daa87ef/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4011390141",
-  "deezer": 4011390141
+  "deezer": 4011390141,
+  "isrc": "CARBL2100002",
+  "apple": "6767282416",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/b5/c1/83b5c100-8fd3-662b-932f-409d071e91a8/mzaf_9164566970936044044.plus.aac.p.m4a"
  },
  {
   "id": 521058652,
@@ -2022,7 +2571,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058652",
-  "deezer": 521058652
+  "deezer": 521058652,
+  "isrc": "CAA501841003",
+  "apple": "1551624958",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/9a/8e/a0/9a8ea0e0-b722-845b-4174-5548271b2b61/mzaf_17022787579951529889.plus.aac.p.m4a"
  },
  {
   "id": 3697443752,
@@ -2033,7 +2585,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df678573ca1306f44834ba3a516a60c6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3697443752",
-  "deezer": 3697443752
+  "deezer": 3697443752,
+  "isrc": "CAL541113111",
+  "apple": "1856973899",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/d3/15/dbd315f7-694c-8e03-352c-7567ba47c4cc/mzaf_14370265238728407782.plus.aac.p.m4a"
  },
  {
   "id": 416078782,
@@ -2044,7 +2599,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a6c972efafa56eaba2c08f6d762d0ad3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/416078782",
-  "deezer": 416078782
+  "deezer": 416078782,
+  "isrc": "CAF661200066",
+  "apple": "1443894104",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/0e/7c/c30e7cc2-ce7a-871b-7fc8-0f5efd1801e5/mzaf_14388214629042049330.plus.aac.p.m4a"
  },
  {
   "id": 1565179832,
@@ -2055,7 +2613,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0d965273035885c6b3a00140d0fad74b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1565179832",
-  "deezer": 1565179832
+  "deezer": 1565179832,
+  "isrc": "CAL542121808",
+  "apple": "1597168673",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c0/b3/66/c0b36678-832b-a049-a392-caea8d9dad8d/mzaf_10901324487085960162.plus.aac.p.m4a"
  },
  {
   "id": 124233774,
@@ -2066,7 +2627,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/67bb4c97483a85e732b502a627ecf5e1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/124233774",
-  "deezer": 124233774
+  "deezer": 124233774,
+  "isrc": "CAL541617401",
+  "apple": "1111346320",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/30/42e83019-ccc2-8342-d6c8-45014f9f70f0/mzaf_2851788401207836270.plus.aac.p.m4a"
  },
  {
   "id": 1912895057,
@@ -2077,7 +2641,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b57298b686d254c879e2e8cca46583bc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1912895057",
-  "deezer": 1912895057
+  "deezer": 1912895057,
+  "isrc": "CAL542223205",
+  "apple": "1645079477",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/11/5c/d5115c0d-4ed9-d838-f654-6c8027fd555c/mzaf_4684004694707481343.plus.aac.p.m4a"
  },
  {
   "id": 3464126821,
@@ -2088,7 +2655,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/29adc0ee19e25021d80be2daf41ddacc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3464126821",
-  "deezer": 3464126821
+  "deezer": 3464126821,
+  "isrc": "CAL542525801",
+  "apple": "1840201043",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/16/2c/f1162cdd-fdb2-89c7-1e20-4f6f2815bd67/mzaf_6548578884881023446.plus.aac.p.m4a"
  },
  {
   "id": 2761742771,
@@ -2099,7 +2669,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/05074fd05257ee3a65aee6a774cb87e6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2761742771",
-  "deezer": 2761742771
+  "deezer": 2761742771,
+  "isrc": "CAL542424805",
+  "apple": "1742576004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/9e/c6/419ec699-1cf4-bfae-c612-1eb7b1c0d4c7/mzaf_15760420869360293768.plus.aac.p.m4a"
  },
  {
   "id": 109523454,
@@ -2110,7 +2683,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2d6fee8f3410dfca0867365927ffac6a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109523454",
-  "deezer": 109523454
+  "deezer": 109523454,
+  "isrc": "CAL541517009",
+  "apple": "1048237585",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/fa/4e/72fa4e96-b8a6-9eed-4caa-8faf02c779b3/mzaf_17075986650476373640.plus.aac.p.m4a"
  },
  {
   "id": 208868,
@@ -2121,7 +2697,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ab1244e736d2b4b219521f4b76492ec0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/208868",
-  "deezer": 208868
+  "deezer": 208868,
+  "isrc": "FR6V80311686",
+  "apple": "254869694",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/9c/df/529cdf05-eddf-be1c-9887-3775a8096990/mzaf_12647277357984762830.plus.aac.p.m4a"
  },
  {
   "id": 1036087832,
@@ -2132,7 +2711,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e9b792b11c8a83cd277c8926a2ec75b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036087832",
-  "deezer": 1036087832
+  "deezer": 1036087832,
+  "isrc": "CA60L1520009",
+  "apple": "1525442099",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/93/6a/91936a3f-bff6-9259-1912-4643754b043b/mzaf_6018926080118557185.plus.aac.p.m4a"
  },
  {
   "id": 128226649,
@@ -2143,7 +2725,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5fb052d4461a581385ceb2e35b297e67/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128226649",
-  "deezer": 128226649
+  "deezer": 128226649,
+  "isrc": "CAA500215504",
+  "apple": "1551603112",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b2/57/ae/b257ae8c-b74b-4e05-37ab-d8ec60b77814/mzaf_5740908648701606256.plus.aac.p.m4a"
  },
  {
   "id": 128226573,
@@ -2154,7 +2739,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/835894b2968125eee64bb204b986a1f0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128226573",
-  "deezer": 128226573
+  "deezer": 128226573,
+  "isrc": "CAA500822307",
+  "apple": "1551597040",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/d9/95/50/d9955024-592a-82bf-afce-f23d063badf3/mzaf_17587422041048022927.plus.aac.p.m4a"
  },
  {
   "id": 128233475,
@@ -2165,7 +2753,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d806f40a87972cea5c9f5867f22180a6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233475",
-  "deezer": 128233475
+  "deezer": 128233475,
+  "isrc": "CAA509690003",
+  "apple": "1551590398",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/7f/31/22/7f31220e-da25-c156-b3ec-ba6de231a981/mzaf_11291916364374585391.plus.aac.p.m4a"
  },
  {
   "id": 128228065,
@@ -2176,7 +2767,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d4f6dc78d21916a78183b817bc2d7a4f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128228065",
-  "deezer": 128228065
+  "deezer": 128228065,
+  "isrc": "CAA509266003",
+  "apple": "1551590105",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/af/8e/19/af8e1933-2ca2-6e7b-f553-22c92cae07ea/mzaf_4234390475812340645.plus.aac.p.m4a"
  },
  {
   "id": 128233589,
@@ -2187,7 +2781,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233589",
-  "deezer": 128233589
+  "deezer": 128233589,
+  "isrc": "CAA500115002",
+  "apple": "1551590591",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/75/26/df/7526df19-acbb-a85b-3b84-ec7deaf4b336/mzaf_15812866754825540011.plus.aac.p.m4a"
  },
  {
   "id": 128237727,
@@ -2198,7 +2795,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a09ddefc5d881df25f8859323fb71fc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237727",
-  "deezer": 128237727
+  "deezer": 128237727,
+  "isrc": "CAA509696006",
+  "apple": "1551615128",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e5/67/17/e567170d-a64a-a5fc-6899-5749da56aa5a/mzaf_9959779041434083355.plus.aac.p.m4a"
  },
  {
   "id": 128237741,
@@ -2209,7 +2809,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a09ddefc5d881df25f8859323fb71fc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237741",
-  "deezer": 128237741
+  "deezer": 128237741,
+  "isrc": "CAA500215901",
+  "apple": "1551615406",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/52/71/a3/5271a3ca-bb7e-8a55-6597-a6b4bbbb8855/mzaf_7207145359097080266.plus.aac.p.m4a"
  },
  {
   "id": 128237739,
@@ -2220,7 +2823,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a09ddefc5d881df25f8859323fb71fc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237739",
-  "deezer": 128237739
+  "deezer": 128237739,
+  "isrc": "CAA500519318",
+  "apple": "1551615404",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/bd/de/37/bdde3778-9259-f9a8-b72b-487999b601f4/mzaf_10018933902899284588.plus.aac.p.m4a"
  },
  {
   "id": 93081566,
@@ -2231,7 +2837,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/93081566",
-  "deezer": 93081566
+  "deezer": 93081566,
+  "isrc": "CAD431493505",
+  "apple": "1238762305",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/91/96/4f919651-0a88-6322-1081-5d5381b3fcca/mzaf_12186600357361034472.plus.aac.p.m4a"
  },
  {
   "id": 15397672,
@@ -2242,7 +2851,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15397672",
-  "deezer": 15397672
+  "deezer": 15397672,
+  "isrc": "CAI549301003",
+  "apple": "308138222",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/1c/0a/c21c0acb-f5c9-9622-11a8-ab834659020b/mzaf_11368911860556856373.plus.aac.p.m4a"
  },
  {
   "id": 15397676,
@@ -2253,7 +2865,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15397676",
-  "deezer": 15397676
+  "deezer": 15397676,
+  "isrc": "CAI549301009",
+  "apple": "979693174",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/d5/dd/bdd5ddc3-209d-277a-ba54-24b0df23ff32/mzaf_618762887076798546.plus.aac.p.m4a"
  },
  {
   "id": 15397670,
@@ -2264,7 +2879,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15397670",
-  "deezer": 15397670
+  "deezer": 15397670,
+  "isrc": "CAI549301001",
+  "apple": "308138198",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/6c/d5/c06cd5dc-da1d-6600-4f80-faa7dca32cfc/mzaf_10029577331845731735.plus.aac.p.m4a"
  },
  {
   "id": 1497676362,
@@ -2275,7 +2893,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/c97b922eab501eb8bb984ef51e5da9ae/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497676362",
-  "deezer": 1497676362
+  "deezer": 1497676362,
+  "isrc": "CAY500400017",
+  "apple": "1715417734",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/30/42/f030426b-dd2d-06e6-0367-0ee893dcb538/mzaf_448552668920452579.plus.aac.p.m4a"
  },
  {
   "id": 1497690322,
@@ -2286,7 +2907,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e591e5b5d385eacd0d5d43d98651a991/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497690322",
-  "deezer": 1497690322
+  "deezer": 1497690322,
+  "isrc": "CAY501300051",
+  "apple": "1715410400",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/e6/65/bae66573-43c1-f907-ed37-4d959a91cb1b/mzaf_10332795040860793661.plus.aac.p.m4a"
  },
  {
   "id": 3738115762,
@@ -2297,7 +2921,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f2947a36d00877c591adeaac4be2eacb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3738115762",
-  "deezer": 3738115762
+  "deezer": 3738115762,
+  "isrc": "CAG609998401",
+  "apple": "1863970435",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/f9/2f/daf92f73-d386-649f-9020-687f966faf71/mzaf_5481024045823974331.plus.aac.p.m4a"
  },
  {
   "id": 3738115822,
@@ -2308,7 +2935,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f2947a36d00877c591adeaac4be2eacb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3738115822",
-  "deezer": 3738115822
+  "deezer": 3738115822,
+  "isrc": "CAG609998407",
+  "apple": "1863970436",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/28/c9/a328c98a-bedd-ba2f-4c57-9ac7049e3edd/mzaf_4241848358380690475.plus.aac.p.m4a"
  },
  {
   "id": 627432,
@@ -2319,7 +2949,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/48661a4a6672225ea9d189892c99044b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/627432",
-  "deezer": 627432
+  "deezer": 627432,
+  "isrc": "CAC229800096",
+  "apple": "212137956",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/2a/f5/ed2af5ca-a9a7-17e0-5b20-c2cb0acc2f0d/mzaf_3498541927463227671.plus.aac.p.m4a"
  },
  {
   "id": 4762941,
@@ -2330,7 +2963,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4762941",
-  "deezer": 4762941
+  "deezer": 4762941,
+  "isrc": "CAC229500010",
+  "apple": "338620287",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/34/f6/4e34f633-c0a1-4647-db0e-dc5002bc58bb/mzaf_11527826937764517293.plus.aac.p.m4a"
  },
  {
   "id": 463897032,
@@ -2341,7 +2977,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1a50ea60ea5d23ce7aaaabb3388651de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/463897032",
-  "deezer": 463897032
+  "deezer": 463897032,
+  "isrc": "CAI250606903",
+  "apple": "1350556765",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ee/54/d1/ee54d1e1-296b-2cc3-4c2f-9e64826e4131/mzaf_10623716814558167541.plus.aac.p.m4a"
  },
  {
   "id": 3870010951,
@@ -2352,7 +2991,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/69047aa0762608c5ec767dd42e5636ce/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3870010951",
-  "deezer": 3870010951
+  "deezer": 3870010951,
+  "isrc": "CAA501027004",
+  "apple": "1880482848",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/65/4f/ae654f88-257d-2cac-81a2-ecf2e92ed0f1/mzaf_13456943342893794754.plus.aac.p.m4a"
  },
  {
   "id": 65802839,
@@ -2363,7 +3005,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b181d6b08412d1a1bc99e4cac1b65e96/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802839",
-  "deezer": 65802839
+  "deezer": 65802839,
+  "isrc": "CAD430602310",
+  "apple": "627235256",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/b7/54/83b754e5-4d04-3f58-d1a2-49e47cbb67f5/mzaf_10508388275953897670.plus.aac.p.m4a"
  },
  {
   "id": 65802832,
@@ -2374,7 +3019,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b181d6b08412d1a1bc99e4cac1b65e96/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802832",
-  "deezer": 65802832
+  "deezer": 65802832,
+  "isrc": "CAD430602303",
+  "apple": "627235234",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/1c/ed/6f1ced2d-6d8b-3b50-53dc-40abf5e08895/mzaf_10842209554455757020.plus.aac.p.m4a"
  },
  {
   "id": 3102626711,
@@ -2385,7 +3033,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/6431857b3f324186e02ad21ebb2a6bd3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3102626711",
-  "deezer": 3102626711
+  "deezer": 3102626711,
+  "isrc": "CAX231600064",
+  "apple": "1780839322",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/4f/5a/8b4f5aea-38ef-fc62-32a2-696aae9d9e7a/mzaf_151644633899198371.plus.aac.p.m4a"
  },
  {
   "id": 3104618911,
@@ -2396,7 +3047,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9100546cfd277b5d056e4df4fe4b4159/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3104618911",
-  "deezer": 3104618911
+  "deezer": 3104618911,
+  "isrc": "USX9P1238046",
+  "apple": "1781045578",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/d8/98/dbd898fb-9017-1144-5ad6-38b0a78ded04/mzaf_12810726570734404653.plus.aac.p.m4a"
  },
  {
   "id": 63237768,
@@ -2407,7 +3061,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a037a6259926c63cf8a3195b0bd4cf4f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/63237768",
-  "deezer": 63237768
+  "deezer": 63237768,
+  "isrc": "CAU116901671",
+  "apple": "284824922",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/5d/31/035d317c-8162-e667-1068-18a68c63e2bf/mzaf_17128897185228577966.plus.aac.p.m4a"
  },
  {
   "id": 1425097252,
@@ -2418,7 +3075,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/744adac970257e2238378627d0f5c26d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1425097252",
-  "deezer": 1425097252
+  "deezer": 1425097252,
+  "isrc": "CAG609100028",
+  "apple": "1575308043",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/ec/c0/4decc01b-625c-a8c5-484c-2526438b7ce1/mzaf_10777115338055437721.plus.aac.p.m4a"
  },
  {
   "id": 11252785,
@@ -2429,7 +3089,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a590ab4df90ebe3dd867b2017fb15359/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/11252785",
-  "deezer": 11252785
+  "deezer": 11252785,
+  "isrc": "FR2HT1100110"
  },
  {
   "id": 4648384,
@@ -2440,7 +3101,8 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/1afc0f98cb296413d5c7b90b35fd92e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4648384",
-  "deezer": 4648384
+  "deezer": 4648384,
+  "isrc": "DEBL60944295"
  },
  {
   "id": 4648380,
@@ -2451,7 +3113,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1afc0f98cb296413d5c7b90b35fd92e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4648380",
-  "deezer": 4648380
+  "deezer": 4648380,
+  "isrc": "DEBL60944293"
  },
  {
   "id": 4094317291,
@@ -2462,7 +3125,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/8e0c5ca10152e111e66c01a3bb282b80/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4094317291",
-  "deezer": 4094317291
+  "deezer": 4094317291,
+  "isrc": "CAZ700906453",
+  "apple": "6781353678",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/7d/b1/ce7db111-ff64-63dc-33e0-f6ad2e0ab601/mzaf_8693987511354315335.plus.aac.p.m4a"
  },
  {
   "id": 4094317321,
@@ -2473,7 +3139,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/8e0c5ca10152e111e66c01a3bb282b80/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4094317321",
-  "deezer": 4094317321
+  "deezer": 4094317321,
+  "isrc": "CAZ700906456",
+  "apple": "6781353772",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/0d/3a/970d3a72-7314-2aba-a03e-55c71db5f8d0/mzaf_13511219625007049637.plus.aac.p.m4a"
  },
  {
   "id": 3393960,
@@ -2484,7 +3153,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3393960",
-  "deezer": 3393960
+  "deezer": 3393960,
+  "isrc": "CAE150400173",
+  "apple": "714348423",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/e8/8f/e8e88f63-623e-6981-0ec3-b42edcb04ecc/mzaf_5714687072347987719.plus.aac.p.m4a"
  },
  {
   "id": 3393964,
@@ -2495,7 +3167,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3393964",
-  "deezer": 3393964
+  "deezer": 3393964,
+  "isrc": "CAE150400177",
+  "apple": "714348592",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/75/05/2c7505ec-1e74-a219-6a91-0837407a31ca/mzaf_10330294044862436185.plus.aac.p.m4a"
  },
  {
   "id": 3393962,
@@ -2506,7 +3181,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3393962",
-  "deezer": 3393962
+  "deezer": 3393962,
+  "isrc": "CAE150400175",
+  "apple": "714348525",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/72/ef/2372ef00-d953-ca47-2392-e870196e2ba2/mzaf_10644128792261577341.plus.aac.p.m4a"
  },
  {
   "id": 2677402,
@@ -2517,7 +3195,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e4f8288a441e8bd320f9f80864c6833/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2677402",
-  "deezer": 2677402
+  "deezer": 2677402,
+  "isrc": "CAU160300286",
+  "apple": "1440652813",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/9f/e1/cd9fe178-5d66-39f3-b95b-37b9835535e0/mzaf_16029029596248523490.plus.aac.p.m4a"
  },
  {
   "id": 2677401,
@@ -2528,7 +3209,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e4f8288a441e8bd320f9f80864c6833/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2677401",
-  "deezer": 2677401
+  "deezer": 2677401,
+  "isrc": "CAU160300287",
+  "apple": "1440652811",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/c3/fb/aec3fb4b-01d7-1dd1-ace5-8e1dae1d95c7/mzaf_10842331115632293114.plus.aac.p.m4a"
  },
  {
   "id": 2677400,
@@ -2539,7 +3223,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e4f8288a441e8bd320f9f80864c6833/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2677400",
-  "deezer": 2677400
+  "deezer": 2677400,
+  "isrc": "CAU160300290",
+  "apple": "1440652637",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/a6/78/7ca678e6-5d4c-fe9d-9eef-8cfbc30fa6e7/mzaf_10883855920509122764.plus.aac.p.m4a"
  },
  {
   "id": 128221099,
@@ -2550,7 +3237,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcc3905b55870da27861a08fbbbcccc3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221099",
-  "deezer": 128221099
+  "deezer": 128221099,
+  "isrc": "CAG600911303",
+  "apple": "1551592138",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/ce/cd/2f/cecd2fff-1c80-3d4e-8fc5-1a1bdc60fa9f/mzaf_97572949585688615.plus.aac.p.m4a"
  },
  {
   "id": 1424855052,
@@ -2561,7 +3251,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0aa86960963114d33b3ce85d237e4e34/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1424855052",
-  "deezer": 1424855052
+  "deezer": 1424855052,
+  "isrc": "CAD941082816",
+  "apple": "1582775295",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/45/8c/f1458c9c-d59a-c2c8-8f48-c54507e29729/mzaf_785610173464494778.plus.aac.p.m4a"
  },
  {
   "id": 2420982,
@@ -2572,7 +3265,10 @@ window.SONGS = [
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/8246485411374216fa2cf02e0219cec6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2420982",
-  "deezer": 2420982
+  "deezer": 2420982,
+  "isrc": "FRZ036502440",
+  "apple": "1443528223",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/ca/12/30ca122a-0d6f-6c0d-e408-df8c00629f1c/mzaf_9474855669928994531.plus.aac.p.m4a"
  },
  {
   "id": 7183909,
@@ -2583,7 +3279,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/252a64764337eeac41dcb5835e04e4c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/7183909",
-  "deezer": 7183909
+  "deezer": 7183909,
+  "isrc": "FR6V80882126",
+  "apple": "392963057",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/b9/3d/51b93d3b-b7e5-f266-2f91-1312ae727f4a/mzaf_13608415086788928626.plus.aac.p.m4a"
  },
  {
   "id": 1118936872,
@@ -2594,7 +3293,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/72a29cb21330c8b0d01c696befe27032/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1118936872",
-  "deezer": 1118936872
+  "deezer": 1118936872,
+  "isrc": "CAL540202606",
+  "apple": "1537211282",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/19/4a/61194a8e-82f4-4ad8-eb68-adb34311cd4d/mzaf_14145617444443302713.plus.aac.p.m4a"
  },
  {
   "id": 3399416181,
@@ -2605,7 +3307,8 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3399416181",
-  "deezer": 3399416181
+  "deezer": 3399416181,
+  "isrc": "CAZ700805953"
  },
  {
   "id": 3487751341,
@@ -2616,7 +3319,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cf78719f8a1948bae380bbfdf4c31b3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487751341",
-  "deezer": 3487751341
+  "deezer": 3487751341,
+  "isrc": "CAZ700907351",
+  "apple": "1830537206",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/9f/80/a99f8044-3ce5-74f1-3dac-4b0f5eb17651/mzaf_6814502953431273135.plus.aac.p.m4a"
  },
  {
   "id": 3487751371,
@@ -2627,7 +3333,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cf78719f8a1948bae380bbfdf4c31b3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487751371",
-  "deezer": 3487751371
+  "deezer": 3487751371,
+  "isrc": "CAZ700907354",
+  "apple": "1830537585",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/38/5e/13385e0f-79ad-6a58-f346-22ed69a8a495/mzaf_14876887084489696683.plus.aac.p.m4a"
  },
  {
   "id": 3487751421,
@@ -2638,7 +3347,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cf78719f8a1948bae380bbfdf4c31b3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487751421",
-  "deezer": 3487751421
+  "deezer": 3487751421,
+  "isrc": "CAZ700907359",
+  "apple": "1830537923",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/63/5d/1f635dea-297a-a11d-515e-43288ad254ac/mzaf_11806813912333564564.plus.aac.p.m4a"
  },
  {
   "id": 789203102,
@@ -2649,7 +3361,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d55824e52e5173826f7e586e3b585e8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/789203102",
-  "deezer": 789203102
+  "deezer": 789203102,
+  "isrc": "FRZ041300309",
+  "apple": "656740751",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/c1/88/46c1886f-4779-f3cf-722b-448bcc67394b/mzaf_6375784571559654880.plus.aac.p.m4a"
  },
  {
   "id": 1024281712,
@@ -2660,7 +3375,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/11d288b2e8467f79707e13f72db4a38f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1024281712",
-  "deezer": 1024281712
+  "deezer": 1024281712,
+  "isrc": "CAS741128009",
+  "apple": "1523948009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/1f/a3/51/1fa3513f-e277-fd01-84bf-00010431c769/mzaf_16825892587494281360.plus.aac.p.m4a"
  },
  {
   "id": 15556988,
@@ -2671,7 +3389,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/add7a4c856f897fab07e2b09625f7017/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15556988",
-  "deezer": 15556988
+  "deezer": 15556988,
+  "isrc": "FR60F7900010",
+  "apple": "489504068",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c4/fc/84/c4fc848f-f0bf-57ed-9afa-c5cc89306dcf/mzaf_12489493511701382419.plus.aac.p.m4a"
  },
  {
   "id": 71268830,
@@ -2682,7 +3403,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/62016b7573fdfce11dfd7b43c5ea02ee/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/71268830",
-  "deezer": 71268830
+  "deezer": 71268830,
+  "isrc": "FR60F0200030",
+  "apple": "719580005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/45/15/5245151c-ee5d-d924-60a0-eb4a56321b85/mzaf_17252532928287738660.plus.aac.p.m4a"
  },
  {
   "id": 1507557322,
@@ -2693,7 +3417,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e5366643fe4da070fdf2b31f0092a54b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1507557322",
-  "deezer": 1507557322
+  "deezer": 1507557322,
+  "isrc": "CA4XH1190205",
+  "apple": "1588007879",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/ed/5e/0aed5e02-a263-551f-de31-fe1453b267d7/mzaf_3457129597414423130.plus.aac.p.m4a"
  },
  {
   "id": 128234871,
@@ -2704,7 +3431,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234871",
-  "deezer": 128234871
+  "deezer": 128234871,
+  "isrc": "CAP609001701",
+  "apple": "1551594402",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/04/78/bc/0478bc54-1c18-7a99-6f4a-0abe04c31077/mzaf_3966616240738815261.plus.aac.p.m4a"
  },
  {
   "id": 128234861,
@@ -2715,7 +3445,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234861",
-  "deezer": 128234861
+  "deezer": 128234861,
+  "isrc": "CAP609609215",
+  "apple": "1551594059",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/3b/66/44/3b6644a9-5d4c-62e9-68b2-bd553ee5c3ee/mzaf_9281814509167964099.plus.aac.p.m4a"
  },
  {
   "id": 362739901,
@@ -2726,7 +3459,8 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/afe6f2ce39788c1bad5a79800ec83194/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/362739901",
-  "deezer": 362739901
+  "deezer": 362739901,
+  "isrc": "CAS528700930"
  },
  {
   "id": 1024235912,
@@ -2737,7 +3471,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f24b30389bad295a91d112b5e05361bc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1024235912",
-  "deezer": 1024235912
+  "deezer": 1024235912,
+  "isrc": "CAS529001907",
+  "apple": "1523944924",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/44/7f/15447fde-3190-c1ba-cff3-f2c2e1827cc5/mzaf_9070043111665229251.plus.aac.p.m4a"
  },
  {
   "id": 3643028122,
@@ -2748,7 +3485,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028122",
-  "deezer": 3643028122
+  "deezer": 3643028122,
+  "isrc": "CAZ842500091",
+  "apple": "1851050592",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/de/e9/3adee91f-0572-61e4-f100-a23cfc52dcd6/mzaf_18092287869815773311.plus.aac.p.m4a"
  },
  {
   "id": 3643028112,
@@ -2759,7 +3499,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028112",
-  "deezer": 3643028112
+  "deezer": 3643028112,
+  "isrc": "CAZ842500090",
+  "apple": "1851050589",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/73/b0/df73b0de-d5de-9a7d-03ff-98afd4fdd20f/mzaf_3636531884031020862.plus.aac.p.m4a"
  },
  {
   "id": 3678807022,
@@ -2770,7 +3513,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3678807022",
-  "deezer": 3678807022
+  "deezer": 3678807022,
+  "isrc": "CAZ842500096",
+  "apple": "1851050727",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/4c/ea/524cead3-0281-f1c8-e5b1-c5ac4d39c02a/mzaf_10816132678952678619.plus.aac.p.m4a"
  },
  {
   "id": 3643028132,
@@ -2781,7 +3527,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028132",
-  "deezer": 3643028132
+  "deezer": 3643028132,
+  "isrc": "CAZ842500092",
+  "apple": "1851050714",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/e9/53/1ae95346-1d23-3bbd-d313-4a90af8564e5/mzaf_5121901674032507167.plus.aac.p.m4a"
  },
  {
   "id": 3168115561,
@@ -2792,7 +3541,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0768db3eaf9dc3c2acbee96777e52bb2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168115561",
-  "deezer": 3168115561
+  "deezer": 3168115561,
+  "isrc": "CAZ841800001",
+  "apple": "1345457367",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/3c/29/eb3c292b-4aae-5fc9-7580-2450533b56de/mzaf_7507199433227885481.plus.aac.p.m4a"
  },
  {
   "id": 3168302291,
@@ -2803,7 +3555,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302291",
-  "deezer": 3168302291
+  "deezer": 3168302291,
+  "isrc": "CAZ842100010",
+  "apple": "1554873891",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/59/91/29/599129e9-746e-348c-5604-a63f4c7ef7e1/mzaf_6777549458289345047.plus.aac.p.m4a"
  },
  {
   "id": 3168302231,
@@ -2814,7 +3569,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302231",
-  "deezer": 3168302231
+  "deezer": 3168302231,
+  "isrc": "CAZ842100037",
+  "apple": "1580812404",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/5a/53/4c5a538c-d368-6309-6547-c2ca7a5c14b9/mzaf_3102946690815945878.plus.aac.p.m4a"
  },
  {
   "id": 3168535431,
@@ -2825,7 +3583,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c2a76a217ec9d2f624e7aef06c143c3b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168535431",
-  "deezer": 3168535431
+  "deezer": 3168535431,
+  "isrc": "CAZ842300039",
+  "apple": "1673500831",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/13/d8/6813d8c4-40e0-df51-f8b9-3e0dd4388978/mzaf_11180624531284690050.plus.aac.p.m4a"
  },
  {
   "id": 3643028152,
@@ -2836,7 +3597,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028152",
-  "deezer": 3643028152
+  "deezer": 3643028152,
+  "isrc": "CAZ842500094",
+  "apple": "1851050718",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/04/ea/2f04eae4-5862-0c49-f185-bbf4966439c7/mzaf_3665025538211995724.plus.aac.p.m4a"
  },
  {
   "id": 1644543872,
@@ -2847,7 +3611,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1644543872",
-  "deezer": 1644543872
+  "deezer": 1644543872,
+  "isrc": "CALXJ2120006",
+  "apple": "1606955529",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/be/05/a3be05af-2041-d00c-82bf-f92c3c9a0de2/mzaf_17244973733541449636.plus.aac.p.m4a"
  },
  {
   "id": 3278043831,
@@ -2858,7 +3625,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3278043831",
-  "deezer": 3278043831
+  "deezer": 3278043831,
+  "isrc": "CALXJ2520001",
+  "apple": "1871513938",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/4a/00/de4a0077-15ce-872a-b455-49837af01cb6/mzaf_3850512358199427313.plus.aac.p.m4a"
  },
  {
   "id": 1644543842,
@@ -2869,7 +3639,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1644543842",
-  "deezer": 1644543842
+  "deezer": 1644543842,
+  "isrc": "CALXJ2120003",
+  "apple": "1606955300",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/b5/ab/97b5ab29-d1d8-73ea-6236-85186973b16a/mzaf_11440779488856539692.plus.aac.p.m4a"
  },
  {
   "id": 1688330847,
@@ -2880,7 +3653,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ee86955bbee87d46d4b6a6bd9124699/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1688330847",
-  "deezer": 1688330847
+  "deezer": 1688330847,
+  "isrc": "CA6AG2200002",
+  "apple": "1617813565",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7b/d3/c1/7bd3c1a7-0be5-1e65-fe1d-d4e2b8ee9e0a/mzaf_861358751546600400.plus.aac.p.m4a"
  },
  {
   "id": 1644543852,
@@ -2891,7 +3667,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1644543852",
-  "deezer": 1644543852
+  "deezer": 1644543852,
+  "isrc": "CALXJ2120004",
+  "apple": "1606955305",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/c2/71/39c2714f-b9ff-cc34-9259-c13164c4f11a/mzaf_876359624586371631.plus.aac.p.m4a"
  },
  {
   "id": 1644543922,
@@ -2902,7 +3681,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1644543922",
-  "deezer": 1644543922
+  "deezer": 1644543922,
+  "isrc": "CALXJ2120010",
+  "apple": "1606955803",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/5c/8f/5b5c8f1e-87ac-4afb-0179-f7f6d21d199c/mzaf_1275792001857921016.plus.aac.p.m4a"
  },
  {
   "id": 1644543862,
@@ -2913,7 +3695,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1644543862",
-  "deezer": 1644543862
+  "deezer": 1644543862,
+  "isrc": "CALXJ2120005",
+  "apple": "1606955312",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/1d/8a/b01d8a32-57ab-cc6e-61da-f063305bc9a9/mzaf_10821764812058001372.plus.aac.p.m4a"
  },
  {
   "id": 2728090221,
@@ -2924,7 +3709,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f0ebb0dcc6211d2fa17f7fd30c2f6e31/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2728090221",
-  "deezer": 2728090221
+  "deezer": 2728090221,
+  "isrc": "CALXJ2420001",
+  "apple": "1736037990",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fd/e8/c4/fde8c422-38be-459f-782f-f8e0731b988b/mzaf_8081771516224721972.plus.aac.p.m4a"
  },
  {
   "id": 3316809891,
@@ -2935,7 +3723,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3316809891",
-  "deezer": 3316809891
+  "deezer": 3316809891,
+  "isrc": "CAD432505402",
+  "apple": "1807508847",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/45/9d/02459da3-4487-92b5-59e9-9ac1502bf081/mzaf_18113941872568112123.plus.aac.p.m4a"
  },
  {
   "id": 3051805281,
@@ -2946,7 +3737,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805281",
-  "deezer": 3051805281
+  "deezer": 3051805281,
+  "isrc": "CAD432405303",
+  "apple": "1774756878",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/c6/54/d1c65461-edf4-f136-1df5-5821eb58a073/mzaf_3032248528701185152.plus.aac.p.m4a"
  },
  {
   "id": 3316809941,
@@ -2957,7 +3751,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3316809941",
-  "deezer": 3316809941
+  "deezer": 3316809941,
+  "isrc": "CAD432505407",
+  "apple": "1807508865",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/1c/04/871c0406-bbda-366d-f69c-dfe99dd37fe1/mzaf_16926600437096495705.plus.aac.p.m4a"
  },
  {
   "id": 3316809911,
@@ -2968,7 +3765,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3316809911",
-  "deezer": 3316809911
+  "deezer": 3316809911,
+  "isrc": "CAD432505404",
+  "apple": "1807508856",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/88/cb/d588cb44-00d7-732e-36ff-6321f576548c/mzaf_15485535623229721523.plus.aac.p.m4a"
  },
  {
   "id": 3051805371,
@@ -2979,7 +3779,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805371",
-  "deezer": 3051805371
+  "deezer": 3051805371,
+  "isrc": "CAD432405310",
+  "apple": "1774757168",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/58/16/ff5816a1-e032-5c7e-12fc-b98cc0b9f5ba/mzaf_16406326467002099048.plus.aac.p.m4a"
  },
  {
   "id": 3051805311,
@@ -2990,7 +3793,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805311",
-  "deezer": 3051805311
+  "deezer": 3051805311,
+  "isrc": "CAD432405305",
+  "apple": "1774756996",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/a2/bf/6ea2bf36-a82f-284a-fb74-08053ac9034f/mzaf_9749585829411690833.plus.aac.p.m4a"
  },
  {
   "id": 3316809931,
@@ -3001,7 +3807,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3316809931",
-  "deezer": 3316809931
+  "deezer": 3316809931,
+  "isrc": "CAD432505406",
+  "apple": "1807508864",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/19/5e/1a195e3d-b437-ba27-5447-080928790cea/mzaf_6172696490522671939.plus.aac.p.m4a"
  },
  {
   "id": 3316809901,
@@ -3012,7 +3821,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3316809901",
-  "deezer": 3316809901
+  "deezer": 3316809901,
+  "isrc": "CAD432505403",
+  "apple": "1807508848",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/d2/0e/24d20e8a-7035-7ed7-cc4e-5077a5b53f64/mzaf_15129385587049590895.plus.aac.p.m4a"
  },
  {
   "id": 4238263662,
@@ -3023,7 +3835,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263662",
-  "deezer": 4238263662
+  "deezer": 4238263662,
+  "isrc": "CAD432606603",
+  "apple": "6803981469",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/70/05/0f7005aa-25b4-9de8-cd32-a2aec8de9251/mzaf_9665836943654674644.plus.aac.p.m4a"
  },
  {
   "id": 4238263672,
@@ -3034,7 +3849,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263672",
-  "deezer": 4238263672
+  "deezer": 4238263672,
+  "isrc": "CAD432606605",
+  "apple": "6803981503",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/04/09/b504094c-e54e-6bb1-0b94-e3d0050253bd/mzaf_11190143600935414761.plus.aac.p.m4a"
  },
  {
   "id": 4238263652,
@@ -3045,7 +3863,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263652",
-  "deezer": 4238263652
+  "deezer": 4238263652,
+  "isrc": "CAD432606601",
+  "apple": "6772319526",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/e5/20/e2e52097-6613-8298-ad65-d3ab82dfff9c/mzaf_6355691912764399608.plus.aac.p.m4a"
  },
  {
   "id": 1238512692,
@@ -3056,7 +3877,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1238512692",
-  "deezer": 1238512692
+  "deezer": 1238512692,
+  "isrc": "CAD431998501",
+  "apple": "1552915622",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/40/77/5b40779c-5666-1128-2472-58a0ee3421a8/mzaf_9427230558953208919.plus.aac.p.m4a"
  },
  {
   "id": 4238263642,
@@ -3067,7 +3891,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263642",
-  "deezer": 4238263642
+  "deezer": 4238263642,
+  "isrc": "CAD432606604",
+  "apple": "6803981460",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/0e/a3/180ea3da-f4c5-740f-b443-1db0e7725d40/mzaf_15391477023548890018.plus.aac.p.m4a"
  },
  {
   "id": 4238263692,
@@ -3078,7 +3905,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263692",
-  "deezer": 4238263692
+  "deezer": 4238263692,
+  "isrc": "CAD432606607",
+  "apple": "6803981509",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/0c/ad/680cad53-3922-7f6e-3839-3de345826f15/mzaf_15573247542780923130.plus.aac.p.m4a"
  },
  {
   "id": 1238512682,
@@ -3089,7 +3919,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1238512682",
-  "deezer": 1238512682
+  "deezer": 1238512682,
+  "isrc": "CAD431998504",
+  "apple": "1552915616",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/ae/20/49ae20b6-e730-1033-863e-b74169ef9641/mzaf_6406159376644304050.plus.aac.p.m4a"
  },
  {
   "id": 4238263732,
@@ -3100,7 +3933,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263732",
-  "deezer": 4238263732
+  "deezer": 4238263732,
+  "isrc": "CAD432606610",
+  "apple": "6803981524",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/d6/6c/2cd66c05-3506-dad8-5d1c-d7a5168364ce/mzaf_15667715684320834674.plus.aac.p.m4a"
  },
  {
   "id": 3763867352,
@@ -3111,7 +3947,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3763867352",
-  "deezer": 3763867352
+  "deezer": 3763867352,
+  "isrc": "CAR722563302",
+  "apple": "6765541129",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/ba/d1/2fbad1ae-99be-4133-95ce-ba9dd77e3413/mzaf_17766198650724748343.plus.aac.p.m4a"
  },
  {
   "id": 3763867382,
@@ -3122,7 +3961,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3763867382",
-  "deezer": 3763867382
+  "deezer": 3763867382,
+  "isrc": "CAR722563305",
+  "apple": "1849436952",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/15/7e/96157e13-ab7a-532c-0aab-67762de0a660/mzaf_4398248917382470653.plus.aac.p.m4a"
  },
  {
   "id": 3763867422,
@@ -3133,7 +3975,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3763867422",
-  "deezer": 3763867422
+  "deezer": 3763867422,
+  "isrc": "CAR722563307",
+  "apple": "6765541135",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/62/13/a4621369-d2a9-559f-7a15-fa1c6ff23241/mzaf_4062912637970978942.plus.aac.p.m4a"
  },
  {
   "id": 4022760821,
@@ -3144,7 +3989,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3f49128830a2337b5c227e094fbaad21/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4022760821",
-  "deezer": 4022760821
+  "deezer": 4022760821,
+  "isrc": "CAR722563314",
+  "apple": "6765541123",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/cb/95/facb95f0-bc99-4b07-d953-923e5121d3cf/mzaf_4875452225177269761.plus.aac.p.m4a"
  },
  {
   "id": 2764027491,
@@ -3155,7 +4003,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3dff668245db7169a7bfa0c01625ca67/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2764027491",
-  "deezer": 2764027491
+  "deezer": 2764027491,
+  "isrc": "CAR722463213",
+  "apple": "1740438218",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/03/95/0c039587-7393-db9d-52b3-a563d4195211/mzaf_2898603064192178491.plus.aac.p.m4a"
  },
  {
   "id": 3763867402,
@@ -3166,7 +4017,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3763867402",
-  "deezer": 3763867402
+  "deezer": 3763867402,
+  "isrc": "CAR722563308",
+  "apple": "6765541133",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/03/c8/6603c898-5a31-11fa-42e7-cc003e348307/mzaf_14495930907205932632.plus.aac.p.m4a"
  },
  {
   "id": 3464321241,
@@ -3177,7 +4031,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bc3bfb8617bb2f42d720ac8c9264fbf3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3464321241",
-  "deezer": 3464321241
+  "deezer": 3464321241,
+  "isrc": "CAR722563301",
+  "apple": "1824341089",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/21/2c/6f212c80-777e-d897-c259-3aec576343dd/mzaf_625811765549112852.plus.aac.p.m4a"
  },
  {
   "id": 3763867362,
@@ -3188,7 +4045,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3763867362",
-  "deezer": 3763867362
+  "deezer": 3763867362,
+  "isrc": "CAR722563303",
+  "apple": "1849436951",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/34/3b/8e343b00-d9f4-5487-b918-04acaa66002b/mzaf_1962375691191899918.plus.aac.p.m4a"
  },
  {
   "id": 3006195141,
@@ -3199,7 +4059,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/883c717edb409f57dbb6363846acdda9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3006195141",
-  "deezer": 3006195141
+  "deezer": 3006195141,
+  "isrc": "CAL642411001",
+  "apple": "1769714830",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/dd/22/62dd22d0-bd01-8f5a-b57c-40ed180e274f/mzaf_13682155499060638920.plus.aac.p.m4a"
  },
  {
   "id": 3491403711,
@@ -3210,7 +4073,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/786e7896879077a9053810fb76901497/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3491403711",
-  "deezer": 3491403711
+  "deezer": 3491403711,
+  "isrc": "CAL642601002",
+  "apple": "1860103823",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/18/c3/fd18c377-2150-e61a-54ef-b18b1fefc46e/mzaf_10429676740288422548.plus.aac.p.m4a"
  },
  {
   "id": 1935953117,
@@ -3221,7 +4087,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1935953117",
-  "deezer": 1935953117
+  "deezer": 1935953117,
+  "isrc": "CAKII2204005",
+  "apple": "1638861983",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/32/62/93/32629348-ebe7-2606-18cf-9bc3165075f0/mzaf_6641006467200234240.plus.aac.p.m4a"
  },
  {
   "id": 3706017562,
@@ -3232,7 +4101,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017562",
-  "deezer": 3706017562
+  "deezer": 3706017562,
+  "isrc": "CAL642601003",
+  "apple": "1860103827",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/31/05/ca310593-a132-855a-7b77-e124bd94a9c9/mzaf_12809625948132270947.plus.aac.p.m4a"
  },
  {
   "id": 3706017582,
@@ -3243,7 +4115,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017582",
-  "deezer": 3706017582
+  "deezer": 3706017582,
+  "isrc": "CAL642601005",
+  "apple": "1860103833",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/f6/7d/22f67d88-bd7e-78c2-7444-1b078268d6c4/mzaf_14345522443742439523.plus.aac.p.m4a"
  },
  {
   "id": 3706017602,
@@ -3254,7 +4129,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017602",
-  "deezer": 3706017602
+  "deezer": 3706017602,
+  "isrc": "CAL642601007",
+  "apple": "1860103839",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/d9/3b/39d93bb7-1f02-c027-0e7e-439dd18c0889/mzaf_4116813595401307969.plus.aac.p.m4a"
  },
  {
   "id": 1935953077,
@@ -3265,7 +4143,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1935953077",
-  "deezer": 1935953077
+  "deezer": 1935953077,
+  "isrc": "CAKII2204001",
+  "apple": "1647254953",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ec/18/3d/ec183dcc-8db5-715c-86ed-906fcb744ce5/mzaf_5358380110146133954.plus.aac.p.m4a"
  },
  {
   "id": 2682858182,
@@ -3276,7 +4157,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e3130cb82fc90befeb2752072693b97a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2682858182",
-  "deezer": 2682858182
+  "deezer": 2682858182,
+  "isrc": "CAH682400007",
+  "apple": "1733668412",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/d2/65/e3d26521-85f0-e2e1-1e77-048667d1b7bc/mzaf_6634293288814875491.plus.aac.p.m4a"
  },
  {
   "id": 3555510491,
@@ -3287,7 +4171,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3555510491",
-  "deezer": 3555510491
+  "deezer": 3555510491,
+  "isrc": "CAH682500056",
+  "apple": "1839763794",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/7f/17/fa7f1773-2a9c-0dbf-103c-202165425feb/mzaf_18189365491342402013.plus.aac.p.m4a"
  },
  {
   "id": 2417512185,
@@ -3298,7 +4185,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/788d9fb3a6463704424f46d900a89cc6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2417512185",
-  "deezer": 2417512185
+  "deezer": 2417512185,
+  "isrc": "CAH682300128",
+  "apple": "1725923191",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/de/98/37/de983708-de11-ddd6-69bb-bacc606daf09/mzaf_5036758889023999191.plus.aac.p.m4a"
  },
  {
   "id": 3555510441,
@@ -3309,7 +4199,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3555510441",
-  "deezer": 3555510441
+  "deezer": 3555510441,
+  "isrc": "CAH682400002",
+  "apple": "1839763397",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/7b/23/9c7b2325-9649-7c74-d306-99de45e2a75a/mzaf_484550511784682599.plus.aac.p.m4a"
  },
  {
   "id": 3555510471,
@@ -3320,7 +4213,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3555510471",
-  "deezer": 3555510471
+  "deezer": 3555510471,
+  "isrc": "CAH682400011",
+  "apple": "1839763792",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/e6/0b/24e60b89-f37c-c76d-a53c-b76a8669db3e/mzaf_17819550703898978002.plus.aac.p.m4a"
  },
  {
   "id": 3555510501,
@@ -3331,7 +4227,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3555510501",
-  "deezer": 3555510501
+  "deezer": 3555510501,
+  "isrc": "CAH682500057",
+  "apple": "1839763795",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/52/c8/df52c88b-af53-f399-1199-5e298cee7dd5/mzaf_14303021832092122085.plus.aac.p.m4a"
  },
  {
   "id": 1397329802,
@@ -3342,7 +4241,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1397329802",
-  "deezer": 1397329802
+  "deezer": 1397329802,
+  "isrc": "CAY9M2100004",
+  "apple": "1571213557",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fa/78/b0/fa78b0ee-84eb-1c92-5b69-efa5eae85599/mzaf_3381167289020669899.plus.aac.p.m4a"
  },
  {
   "id": 1397329832,
@@ -3353,7 +4255,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1397329832",
-  "deezer": 1397329832
+  "deezer": 1397329832,
+  "isrc": "CAY9M2100002",
+  "apple": "1571213578",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/aa/8a/09/aa8a09cc-5762-48c8-0dfa-ff56eb07e587/mzaf_14588174068218642364.plus.aac.p.m4a"
  },
  {
   "id": 2514451851,
@@ -3364,7 +4269,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2514451851",
-  "deezer": 2514451851
+  "deezer": 2514451851,
+  "isrc": "CAY9M2300004",
+  "apple": "1713582689",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/f6/86/adf6863e-5588-0fcc-5d73-4ad17193dcce/mzaf_6591927782595467236.plus.aac.p.m4a"
  },
  {
   "id": 1397329782,
@@ -3375,7 +4283,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1397329782",
-  "deezer": 1397329782
+  "deezer": 1397329782,
+  "isrc": "CAY9M2100006",
+  "apple": "1571213356",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/af/be/1e/afbe1eae-033d-6c08-456d-b852d1dd19b2/mzaf_12379396999743495172.plus.aac.p.m4a"
  },
  {
   "id": 2514451871,
@@ -3386,7 +4297,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2514451871",
-  "deezer": 2514451871
+  "deezer": 2514451871,
+  "isrc": "CAY9M2300002",
+  "apple": "1713582701",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/02/c9/6802c9d5-5dc5-6162-33fa-078255b992ee/mzaf_16605084753944853515.plus.aac.p.m4a"
  },
  {
   "id": 1397329792,
@@ -3397,7 +4311,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1397329792",
-  "deezer": 1397329792
+  "deezer": 1397329792,
+  "isrc": "CAY9M2100003",
+  "apple": "1571213367",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/e1/80/35e180b5-9710-69cd-5e59-3181e4b604c4/mzaf_10281444999335704989.plus.aac.p.m4a"
  },
  {
   "id": 2514451891,
@@ -3408,7 +4325,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2514451891",
-  "deezer": 2514451891
+  "deezer": 2514451891,
+  "isrc": "CAY9M2300007",
+  "apple": "1713583102",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/79/4a/38794a7e-f14b-88ed-d0aa-3378779765ea/mzaf_10206857951452669808.plus.aac.p.m4a"
  },
  {
   "id": 2267652837,
@@ -3419,7 +4339,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2267652837",
-  "deezer": 2267652837
+  "deezer": 2267652837,
+  "isrc": "CAA502349608",
+  "apple": "1686267939",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/b7/c6/e3b7c69a-c920-c4c4-3db8-ad57e1b6ea74/mzaf_10623467494768870542.plus.aac.p.m4a"
  },
  {
   "id": 4144190112,
@@ -3430,7 +4353,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/edad736a1aed4a43ee448e666452f65d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4144190112",
-  "deezer": 4144190112
+  "deezer": 4144190112,
+  "isrc": "CAA502656301",
+  "apple": "1881747251",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/4b/88/604b8851-fb32-633e-bdd8-89b695299fe3/mzaf_11284781054226569948.plus.aac.p.m4a"
  },
  {
   "id": 1004059022,
@@ -3441,7 +4367,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1004059022",
-  "deezer": 1004059022
+  "deezer": 1004059022,
+  "isrc": "CAA502044802",
+  "apple": "1551664539",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/91/fa/1e/91fa1e08-f6f4-d6dc-1f3c-8bbae075df30/mzaf_6768909628834023924.plus.aac.p.m4a"
  },
  {
   "id": 4144190102,
@@ -3452,7 +4381,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/edad736a1aed4a43ee448e666452f65d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4144190102",
-  "deezer": 4144190102
+  "deezer": 4144190102,
+  "isrc": "CAA502656304",
+  "apple": "6788513774",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/de/dd/38dedd31-da52-c414-2c3a-75b78501d201/mzaf_3847858207061446852.plus.aac.p.m4a"
  },
  {
   "id": 1004059032,
@@ -3463,7 +4395,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1004059032",
-  "deezer": 1004059032
+  "deezer": 1004059032,
+  "isrc": "CAA502044801",
+  "apple": "1551664540",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/82/78/ba/8278baa9-018e-f8bd-43a2-ff4b3a121fe4/mzaf_2019600988314348834.plus.aac.p.m4a"
  },
  {
   "id": 2267652777,
@@ -3474,7 +4409,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2267652777",
-  "deezer": 2267652777
+  "deezer": 2267652777,
+  "isrc": "CAA502349602",
+  "apple": "1686267255",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/3e/24/313e24e6-da7a-9129-8d19-eb4293382ed9/mzaf_4892048197202852887.plus.aac.p.m4a"
  },
  {
   "id": 1004059052,
@@ -3485,7 +4423,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1004059052",
-  "deezer": 1004059052
+  "deezer": 1004059052,
+  "isrc": "CAA502044804",
+  "apple": "1551664546",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/80/ab/ef/80abef6a-72b0-ed44-7740-117b8f0a541c/mzaf_4829940500413162531.plus.aac.p.m4a"
  },
  {
   "id": 1004059072,
@@ -3496,7 +4437,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1004059072",
-  "deezer": 1004059072
+  "deezer": 1004059072,
+  "isrc": "CAA502044806",
+  "apple": "1551664564",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/29/aa/3d/29aa3d45-cc9a-d7bd-9425-d092664c788f/mzaf_2660595854109718604.plus.aac.p.m4a"
  },
  {
   "id": 4064452991,
@@ -3507,7 +4451,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4064452991",
-  "deezer": 4064452991
+  "deezer": 4064452991,
+  "isrc": "CA1JS1900045",
+  "apple": "6777121748",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/a3/11/d7a311ff-ed22-5d9e-1956-8a66eb7da058/mzaf_7279147984490530735.plus.aac.p.m4a"
  },
  {
   "id": 4007956641,
@@ -3518,7 +4465,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4007956641",
-  "deezer": 4007956641
+  "deezer": 4007956641,
+  "isrc": "CARBL2100004",
+  "apple": "6767282417",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/57/f3/cd57f3c7-ca1c-e3f4-8baa-8854ea25d965/mzaf_662173597359611146.plus.aac.p.m4a"
  },
  {
   "id": 4005914021,
@@ -3529,7 +4479,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1601cc7fe9db1b5b994fceafc2390cf9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4005914021",
-  "deezer": 4005914021
+  "deezer": 4005914021,
+  "isrc": "CARBL2400002",
+  "apple": "6767234791",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/fa/ea/77faea52-175e-4f1c-d1c8-b7ac446ee555/mzaf_11538772493311330113.plus.aac.p.m4a"
  },
  {
   "id": 4064453031,
@@ -3540,7 +4493,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4064453031",
-  "deezer": 4064453031
+  "deezer": 4064453031,
+  "isrc": "CA1JS1900049",
+  "apple": "6777121753",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/85/24/a085241e-1b02-3fd5-95de-3737335cf71e/mzaf_2491540939074359739.plus.aac.p.m4a"
  },
  {
   "id": 4005914011,
@@ -3551,7 +4507,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1601cc7fe9db1b5b994fceafc2390cf9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4005914011",
-  "deezer": 4005914011
+  "deezer": 4005914011,
+  "isrc": "CARBL2400001",
+  "apple": "6767231965",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/c8/48/8cc8483a-3c83-efb7-79a3-553b122eb4b9/mzaf_7886995454516423773.plus.aac.p.m4a"
  },
  {
   "id": 4007956681,
@@ -3562,7 +4521,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4007956681",
-  "deezer": 4007956681
+  "deezer": 4007956681,
+  "isrc": "CARBL2100008",
+  "apple": "6767282421",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/bb/2c/34bb2c25-eb8e-5ae3-3605-582da6dbc22c/mzaf_14709961832318075889.plus.aac.p.m4a"
  },
  {
   "id": 1526394842,
@@ -3573,7 +4535,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/08c71fce9359a25a8731c2686d3342ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1526394842",
-  "deezer": 1526394842
+  "deezer": 1526394842,
+  "isrc": "CAQ521468508",
+  "apple": "1591080929",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/cb/7e/9fcb7eb2-049b-a0e9-607b-a2acbd1bf5f9/mzaf_14134747757515632753.plus.aac.p.m4a"
  },
  {
   "id": 1576173862,
@@ -3584,7 +4549,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6e14fcbb3822f495d8a61912f1bf110/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1576173862",
-  "deezer": 1576173862
+  "deezer": 1576173862,
+  "isrc": "CAQ520776202",
+  "apple": "1598653757",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/74/8d/5d748d63-725e-d8a2-7aa2-dc28bf36f2ea/mzaf_4648329566086903161.plus.aac.p.m4a"
  },
  {
   "id": 1594322821,
@@ -3595,7 +4563,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/15dd9b5407f959572d54345da2fa6009/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1594322821",
-  "deezer": 1594322821
+  "deezer": 1594322821,
+  "isrc": "CAQ520406001",
+  "apple": "1600875448",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/45/4f/b0454fed-3d4a-a098-62cd-e5ee9737a471/mzaf_2894921473073468875.plus.aac.p.m4a"
  },
  {
   "id": 833729052,
@@ -3606,7 +4577,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2087d2df2439a5b64bda0bb7f33c6c19/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/833729052",
-  "deezer": 833729052
+  "deezer": 833729052,
+  "isrc": "FRX201990521",
+  "apple": "1491778065",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/4b/6c/a64b6c60-febb-928b-e07d-2c84725ed4a8/mzaf_8864954963071591550.plus.aac.p.m4a"
  },
  {
   "id": 833729032,
@@ -3617,7 +4591,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2087d2df2439a5b64bda0bb7f33c6c19/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/833729032",
-  "deezer": 833729032
+  "deezer": 833729032,
+  "isrc": "FR96X1983756",
+  "apple": "1491777955",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/fa/d1/8afad1f8-2bff-a75e-4465-55e1c1632795/mzaf_8997705166196227720.plus.aac.p.m4a"
  },
  {
   "id": 1565566512,
@@ -3628,7 +4605,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fbbc956d2d5a6870467b84de29da960a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1565566512",
-  "deezer": 1565566512
+  "deezer": 1565566512,
+  "isrc": "CAQ521608008",
+  "apple": "1597188278",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/43/07/174307ff-f719-8c64-e92e-b18b592401f0/mzaf_8771917625780980450.plus.aac.p.m4a"
  },
  {
   "id": 1751404397,
@@ -3639,7 +4619,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/50c00f1d2ad1bfddfed17af697fcad4c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1751404397",
-  "deezer": 1751404397
+  "deezer": 1751404397,
+  "isrc": "CAH682100124",
+  "apple": "1590557677",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/45/2a/e1452a96-d51a-6899-a1bb-ab918d0b2935/mzaf_5563825475514514075.plus.aac.p.m4a"
  },
  {
   "id": 833729042,
@@ -3650,7 +4633,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2087d2df2439a5b64bda0bb7f33c6c19/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/833729042",
-  "deezer": 833729042
+  "deezer": 833729042,
+  "isrc": "FRX201922253",
+  "apple": "1491778058",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/24/f5/4724f552-2942-975f-b0d7-b6b089f1dbd5/mzaf_16671131259727190831.plus.aac.p.m4a"
  },
  {
   "id": 1524441742,
@@ -3661,7 +4647,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3e0e4793626c3af3bb930c8247fe9150/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1524441742",
-  "deezer": 1524441742
+  "deezer": 1524441742,
+  "isrc": "CAH682100121",
+  "apple": "1590557364",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/ea/16/a7ea167d-091e-2002-0a5d-27654a999d08/mzaf_15373023176330613058.plus.aac.p.m4a"
  },
  {
   "id": 856732892,
@@ -3672,7 +4661,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/856732892",
-  "deezer": 856732892
+  "deezer": 856732892,
+  "isrc": "CAD431998201",
+  "apple": "1495694592",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/db/d9/00dbd915-14b6-b808-a952-e8aaa09a72a2/mzaf_4927518405850877280.plus.aac.p.m4a"
  },
  {
   "id": 1829016677,
@@ -3683,7 +4675,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1829016677",
-  "deezer": 1829016677
+  "deezer": 1829016677,
+  "isrc": "CAD432201701",
+  "apple": "1635262016",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/f3/5c/c5f35c94-1622-5b2b-d5b5-9e4e7595dae2/mzaf_15677152335594912165.plus.aac.p.m4a"
  },
  {
   "id": 3694084022,
@@ -3694,7 +4689,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3694084022",
-  "deezer": 3694084022
+  "deezer": 3694084022,
+  "isrc": "CAD432506405",
+  "apple": "1858274161",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/f0/38/2df03879-4dc0-71f5-003f-34054519d057/mzaf_7695360644053946750.plus.aac.p.m4a"
  },
  {
   "id": 3694084012,
@@ -3705,7 +4703,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3694084012",
-  "deezer": 3694084012
+  "deezer": 3694084012,
+  "isrc": "CAD432506402",
+  "apple": "1858274159",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/02/71/ed0271d3-e035-3190-8c78-39562a237a79/mzaf_4637935636773120151.plus.aac.p.m4a"
  },
  {
   "id": 856732872,
@@ -3716,7 +4717,10 @@ window.SONGS = [
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/856732872",
-  "deezer": 856732872
+  "deezer": 856732872,
+  "isrc": "CAD431998204",
+  "apple": "1495694464",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/f1/72/e1f17285-4264-e013-3fb0-b06b4ed557d3/mzaf_17716592044402346475.plus.aac.p.m4a"
  },
  {
   "id": 1829016717,
@@ -3727,7 +4731,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1829016717",
-  "deezer": 1829016717
+  "deezer": 1829016717,
+  "isrc": "CAD432201705",
+  "apple": "1635262297",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/63/09/1063098b-8171-cc09-1f56-118a444be1dc/mzaf_15897843607493389075.plus.aac.p.m4a"
  },
  {
   "id": 1829016687,
@@ -3738,7 +4745,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1829016687",
-  "deezer": 1829016687
+  "deezer": 1829016687,
+  "isrc": "CAD432201702",
+  "apple": "1635262227",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/d5/c3/cbd5c3a8-0395-cfd4-4b0f-9ce4bb53b8bc/mzaf_14936962433595522774.plus.aac.p.m4a"
  },
  {
   "id": 1829016757,
@@ -3749,7 +4759,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1829016757",
-  "deezer": 1829016757
+  "deezer": 1829016757,
+  "isrc": "CAD432201709",
+  "apple": "1635262818",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/5a/f7/405af77a-b30f-b1da-4375-4dd6473891ea/mzaf_12380450667299520527.plus.aac.p.m4a"
  },
  {
   "id": 3694084002,
@@ -3760,7 +4773,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3694084002",
-  "deezer": 3694084002
+  "deezer": 3694084002,
+  "isrc": "CAD432506404",
+  "apple": "1858274154",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/7b/49/b97b4913-8552-f445-6c6d-2242f964617e/mzaf_9651263600359949331.plus.aac.p.m4a"
  },
  {
   "id": 2344894155,
@@ -3771,7 +4787,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2344894155",
-  "deezer": 2344894155
+  "deezer": 2344894155,
+  "isrc": "CAEKX2300002",
+  "apple": "1694579485",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/c9/a0/c2c9a085-9783-bb1e-66ea-c28ba93ba356/mzaf_18285648877971087318.plus.aac.p.m4a"
  },
  {
   "id": 1237605102,
@@ -3782,7 +4801,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1237605102",
-  "deezer": 1237605102
+  "deezer": 1237605102,
+  "isrc": "CAEKX1900011",
+  "apple": "1552782576",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/b4/d2/c0b4d292-8b0e-d000-86f0-ae27ef2ee559/mzaf_11518692823586432561.plus.aac.p.m4a"
  },
  {
   "id": 2344894145,
@@ -3793,7 +4815,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2344894145",
-  "deezer": 2344894145
+  "deezer": 2344894145,
+  "isrc": "CAEKX2300001",
+  "apple": "1694579480",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/75/b3/c075b319-9255-7b5d-4105-6341e777e416/mzaf_1838769387594929437.plus.aac.p.m4a"
  },
  {
   "id": 2344894185,
@@ -3804,7 +4829,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2344894185",
-  "deezer": 2344894185
+  "deezer": 2344894185,
+  "isrc": "CAEKX2300005",
+  "apple": "1694579718",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/8e/e4/0f8ee42a-aee0-83fd-c4cd-807d7c46b40f/mzaf_11179527645323202931.plus.aac.p.m4a"
  },
  {
   "id": 1237605112,
@@ -3815,7 +4843,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1237605112",
-  "deezer": 1237605112
+  "deezer": 1237605112,
+  "isrc": "CAEKX1900012",
+  "apple": "1552782578",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/66/86/9a6686b8-75e5-bd44-0a15-fa5cc95c862a/mzaf_9204192546583667986.plus.aac.p.m4a"
  },
  {
   "id": 2344894175,
@@ -3826,7 +4857,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2344894175",
-  "deezer": 2344894175
+  "deezer": 2344894175,
+  "isrc": "CAEKX2300004",
+  "apple": "1694579500",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/4d/ec/db4decaf-9bdc-54c0-74d2-2beb8f5e8c44/mzaf_11825015548967441612.plus.aac.p.m4a"
  },
  {
   "id": 521058642,
@@ -3837,7 +4871,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058642",
-  "deezer": 521058642
+  "deezer": 521058642,
+  "isrc": "CAA501841002",
+  "apple": "1551626450",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/06/06/44/06064436-dafc-2a6b-b46a-7deba041f749/mzaf_11561302181378054634.plus.aac.p.m4a"
  },
  {
   "id": 521058682,
@@ -3848,7 +4885,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058682",
-  "deezer": 521058682
+  "deezer": 521058682,
+  "isrc": "CAA501841005",
+  "apple": "1551626717",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/05/80/80/058080b0-b28c-6c14-d185-9a57d20cea17/mzaf_18203942773611922911.plus.aac.p.m4a"
  },
  {
   "id": 521058662,
@@ -3859,7 +4899,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058662",
-  "deezer": 521058662
+  "deezer": 521058662,
+  "isrc": "CAA501841001",
+  "apple": "1551665211",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/6b/85/1a/6b851a82-b079-2dec-59ac-52e385de7dd9/mzaf_2603900905048588766.plus.aac.p.m4a"
  },
  {
   "id": 698913722,
@@ -3870,7 +4913,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/51929c8f310d8f1e3f7f8fa4be279070/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/698913722",
-  "deezer": 698913722
+  "deezer": 698913722,
+  "isrc": "CAA501941011",
+  "apple": "1551636153",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/37/af/e3/37afe3f4-9471-1048-b16f-c409c6a31523/mzaf_14161368473735095975.plus.aac.p.m4a"
  },
  {
   "id": 3907126751,
@@ -3881,7 +4927,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/02af82acde06e0b9e857d7c3d608c0ee/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3907126751",
-  "deezer": 3907126751
+  "deezer": 3907126751,
+  "isrc": "CAA502656001",
+  "apple": "1889526980",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/43/85/b34385c1-81b8-5b76-9149-fb9176436d53/mzaf_11321793661674185259.plus.aac.p.m4a"
  },
  {
   "id": 521058692,
@@ -3892,7 +4941,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058692",
-  "deezer": 521058692
+  "deezer": 521058692,
+  "isrc": "CAA501841006",
+  "apple": "1551626718",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/50/49/ab/5049abed-bb8b-a25d-de59-f79bf39afc7a/mzaf_5903202729324743383.plus.aac.p.m4a"
  },
  {
   "id": 3145889461,
@@ -3903,7 +4955,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4fee7c1a8bde1b67c88b6ebcceca410d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3145889461",
-  "deezer": 3145889461
+  "deezer": 3145889461,
+  "isrc": "CAA502453101",
+  "apple": "1761635391",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/1f/6c/5b1f6c44-32a9-0bd8-c464-23a20c1024ea/mzaf_4432259293152050612.plus.aac.p.m4a"
  },
  {
   "id": 1481648792,
@@ -3914,7 +4969,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/90c9371dc8bfc777606bbc3b8d1a9ce7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1481648792",
-  "deezer": 1481648792
+  "deezer": 1481648792,
+  "isrc": "CAA502146208",
+  "apple": "1583856506",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/0c/c6/050cc627-67b6-2d89-0d89-1fa345dfc9f8/mzaf_3047466737934790839.plus.aac.p.m4a"
  },
  {
   "id": 4170150412,
@@ -3925,7 +4983,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4170150412",
-  "deezer": 4170150412
+  "deezer": 4170150412,
+  "isrc": "CBGUX2600001",
+  "apple": "6793556582",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/9d/ed/a19ded0a-d9c2-9d55-bd95-3401bdafcf29/mzaf_15290318587395480206.plus.aac.p.m4a"
  },
  {
   "id": 4170150392,
@@ -3936,7 +4997,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4170150392",
-  "deezer": 4170150392
+  "deezer": 4170150392,
+  "isrc": "CBGUX2600002",
+  "apple": "1893412315",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/4c/6c/634c6c59-db8f-fac2-a78a-3782ff71c532/mzaf_11963452890192992247.plus.aac.p.m4a"
  },
  {
   "id": 4170150432,
@@ -3947,7 +5011,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4170150432",
-  "deezer": 4170150432
+  "deezer": 4170150432,
+  "isrc": "CBGUX2600007",
+  "apple": "6793556776",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9b/76/48/9b764870-66ef-4e90-a8c2-b9a1550610f8/mzaf_17809752941075126746.plus.aac.p.m4a"
  },
  {
   "id": 4170150362,
@@ -3958,7 +5025,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4170150362",
-  "deezer": 4170150362
+  "deezer": 4170150362,
+  "isrc": "CBGUX2600004",
+  "apple": "6793556566",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/31/16/1c3116c1-7784-53f3-ac56-4e3ddba19889/mzaf_15422711652695243439.plus.aac.p.m4a"
  },
  {
   "id": 4170150382,
@@ -3969,7 +5039,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4170150382",
-  "deezer": 4170150382
+  "deezer": 4170150382,
+  "isrc": "CBGUX2600005",
+  "apple": "6793556570",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/b8/83/b3b883f7-0182-1ffb-1dbd-896c8bd1186f/mzaf_15183760045193715742.plus.aac.p.m4a"
  },
  {
   "id": 3402560811,
@@ -3980,7 +5053,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed8ce5fb0e25dd2b21b1a34fbc0fdc94/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3402560811",
-  "deezer": 3402560811
+  "deezer": 3402560811,
+  "isrc": "CBF302500004",
+  "apple": "1838986671",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/a4/f9/33a4f92c-5a01-38a3-0573-1c93be671aed/mzaf_12626274083416199748.plus.aac.p.m4a"
  },
  {
   "id": 4319383292,
@@ -3991,7 +5067,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/83511f341395547d1c7d64f0f0ef2c00/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4319383292",
-  "deezer": 4319383292
+  "deezer": 4319383292,
+  "isrc": "FRX872630976",
+  "apple": "6817727172",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/b8/9d/1bb89dee-eb1f-0979-162c-7b2dbe2ccf99/mzaf_3222351962577798966.plus.aac.p.m4a"
  },
  {
   "id": 66534140,
@@ -4002,7 +5081,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/919117e4899d3b96bea81b3485618ee0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/66534140",
-  "deezer": 66534140
+  "deezer": 66534140,
+  "isrc": "USZXT0835626",
+  "apple": "635089394",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/e5/cf/70e5cfdb-76ca-ae91-05b1-02e77b6d86e0/mzaf_5907108658082068300.plus.aac.p.m4a"
  },
  {
   "id": 1257280092,
@@ -4013,7 +5095,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffcb2d47e32bbb291b20a5df8667ca53/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1257280092",
-  "deezer": 1257280092
+  "deezer": 1257280092,
+  "isrc": "FR9W11832934",
+  "apple": "1555804988",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/40/e7/03/40e70354-876d-cee6-38bf-804e9d35f103/mzaf_12448051811854728741.plus.aac.p.m4a"
  },
  {
   "id": 488985912,
@@ -4024,7 +5109,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ecc850a50c0296560672552b50d2a389/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/488985912",
-  "deezer": 488985912
+  "deezer": 488985912,
+  "isrc": "CAD431706901",
+  "apple": "1326344612",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/3d/16/9d3d165f-c46a-ae30-afd8-8201cfd41b74/mzaf_13094464351029587696.plus.aac.p.m4a"
  },
  {
   "id": 465962802,
@@ -4035,7 +5123,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a27b0c9be79dbc63076d7e1241ecf5f0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/465962802",
-  "deezer": 465962802
+  "deezer": 465962802,
+  "isrc": "FR9W11802377",
+  "apple": "1352370675",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/90/12/329012a6-2e42-3bde-2aba-094d31bc5a6d/mzaf_5615503108012251348.plus.aac.p.m4a"
  },
  {
   "id": 488985952,
@@ -4046,7 +5137,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ecc850a50c0296560672552b50d2a389/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/488985952",
-  "deezer": 488985952
+  "deezer": 488985952,
+  "isrc": "CAD431706906",
+  "apple": "1373793989",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/0f/97/bc0f97e3-f99b-b418-03e0-9933281d0d94/mzaf_15155228717642716669.plus.aac.p.m4a"
  },
  {
   "id": 3643028092,
@@ -4057,7 +5151,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028092",
-  "deezer": 3643028092
+  "deezer": 3643028092,
+  "isrc": "CAZ842500088",
+  "apple": "1851050586",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/59/47/23594796-fb09-1c60-d4e7-3d8e6b622e51/mzaf_14434594214100388847.plus.aac.p.m4a"
  },
  {
   "id": 354320541,
@@ -4068,7 +5165,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e28f37b3ea4dead2f4edbda34b4ee7be/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/354320541",
-  "deezer": 354320541
+  "deezer": 354320541,
+  "isrc": "CAC0C1700410",
+  "apple": "1229922009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/76/b2/c976b2ca-baf5-4fc2-e3c4-dfc290d71f99/mzaf_5072068201147623174.plus.aac.p.m4a"
  },
  {
   "id": 465962842,
@@ -4079,7 +5179,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a27b0c9be79dbc63076d7e1241ecf5f0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/465962842",
-  "deezer": 465962842
+  "deezer": 465962842,
+  "isrc": "FR9W11802375",
+  "apple": "1352358220",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/e7/0d/5ae70d85-926e-9afe-100a-88131bf41f39/mzaf_8294351233715265294.plus.aac.p.m4a"
  },
  {
   "id": 3620043212,
@@ -4090,7 +5193,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0671f475f273f672c4cfb4cd094edf29/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3620043212",
-  "deezer": 3620043212
+  "deezer": 3620043212,
+  "isrc": "CAA502452103",
+  "apple": "1848452599",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/26/5f/fc265fed-09d2-b329-a2d7-2efab97c5f12/mzaf_16990227208797613307.plus.aac.p.m4a"
  },
  {
   "id": 2677403,
@@ -4101,7 +5207,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e4f8288a441e8bd320f9f80864c6833/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2677403",
-  "deezer": 2677403
+  "deezer": 2677403,
+  "isrc": "CAU160300288",
+  "apple": "1440652816",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/8a/8c/478a8c5c-0555-69f2-ad37-abed138ae76a/mzaf_14648438636708851869.plus.aac.p.m4a"
  },
  {
   "id": 3949556151,
@@ -4112,7 +5221,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556151",
-  "deezer": 3949556151
+  "deezer": 3949556151,
+  "isrc": "CAFWG2600043",
+  "apple": "1891774400",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/a1/f7/aba1f72e-dabf-e720-d609-f1215ab9a52a/mzaf_13003969134824173.plus.aac.p.m4a"
  },
  {
   "id": 128229269,
@@ -4123,7 +5235,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/658038f2746b7b76cdd9c36c71e7e877/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128229269",
-  "deezer": 128229269
+  "deezer": 128229269,
+  "isrc": "CAA509696009",
+  "apple": "1551614818",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/38/f5/d6/38f5d6b9-bae3-c811-0de1-3304085dd109/mzaf_1099621438836806124.plus.aac.p.m4a"
  },
  {
   "id": 128229271,
@@ -4134,7 +5249,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/658038f2746b7b76cdd9c36c71e7e877/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128229271",
-  "deezer": 128229271
+  "deezer": 128229271,
+  "isrc": "CAA509696010",
+  "apple": "1551614825",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/91/96/27/919627aa-17ef-2704-c275-1dd0bd776b8d/mzaf_7720237307217760702.plus.aac.p.m4a"
  },
  {
   "id": 128229265,
@@ -4145,7 +5263,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/658038f2746b7b76cdd9c36c71e7e877/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128229265",
-  "deezer": 128229265
+  "deezer": 128229265,
+  "isrc": "CAA509696007",
+  "apple": "1551598381",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b6/7a/d7/b67ad7b8-684e-9b90-372c-877aada1c47d/mzaf_15854268457027739647.plus.aac.p.m4a"
  },
  {
   "id": 4033488451,
@@ -4156,7 +5277,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4033488451",
-  "deezer": 4033488451
+  "deezer": 4033488451,
+  "isrc": "CAH682600101",
+  "apple": "6771388391",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/11/81/72118164-5e40-d8cb-bcb5-57164420798d/mzaf_15634944306285106892.plus.aac.p.m4a"
  },
  {
   "id": 93081570,
@@ -4167,7 +5291,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/93081570",
-  "deezer": 93081570
+  "deezer": 93081570,
+  "isrc": "CAD431493507",
+  "apple": "1238762308",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/3a/31/353a3170-24f0-6dbb-4e0d-0f0a590bf772/mzaf_16076650765515974319.plus.aac.p.m4a"
  },
  {
   "id": 86384331,
@@ -4178,7 +5305,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/59f1df6040eb97e9a8b722e079054c78/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/86384331",
-  "deezer": 86384331
+  "deezer": 86384331,
+  "isrc": "CAL541416410",
+  "apple": "921261295",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/7e/0c/cd7e0c6e-7271-cf54-89f2-d22e7d7e3f24/mzaf_2704939153474868409.plus.aac.p.m4a"
  },
  {
   "id": 3949556121,
@@ -4189,7 +5319,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556121",
-  "deezer": 3949556121
+  "deezer": 3949556121,
+  "isrc": "CAFWG2600040",
+  "apple": "6776720304",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/15/95/051595cc-7dc5-e6c2-4be8-4abe7f52d767/mzaf_14034792740371080638.plus.aac.p.m4a"
  },
  {
   "id": 3643028162,
@@ -4200,7 +5333,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028162",
-  "deezer": 3643028162
+  "deezer": 3643028162,
+  "isrc": "CAZ842500095",
+  "apple": "1851050722",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/ec/d9/33ecd993-8908-07d9-0f8b-b3d849f64786/mzaf_7762634799808440363.plus.aac.p.m4a"
  },
  {
   "id": 3643028202,
@@ -4211,7 +5347,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028202",
-  "deezer": 3643028202
+  "deezer": 3643028202,
+  "isrc": "CAZ842500099",
+  "apple": "1851050740",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/8d/31/668d3133-87bd-98cc-30d8-e582b0171fe1/mzaf_11373507364300537538.plus.aac.p.m4a"
  },
  {
   "id": 128237381,
@@ -4222,7 +5361,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7a998bf6583d72363b99f402f18027ac/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237381",
-  "deezer": 128237381
+  "deezer": 128237381,
+  "isrc": "FR9W11414616",
+  "apple": "1551593261",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/e1/9d/8ae19d0e-eb13-00ef-11d8-c77de02f5b45/mzaf_15149351214934627440.plus.aac.p.m4a"
  },
  {
   "id": 128228061,
@@ -4233,7 +5375,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d4f6dc78d21916a78183b817bc2d7a4f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128228061",
-  "deezer": 128228061
+  "deezer": 128228061,
+  "isrc": "CAA509266001",
+  "apple": "1551590377",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/cd/b5/36/cdb5361d-9494-de72-35c9-1c596242855a/mzaf_18340196347868926985.plus.aac.p.m4a"
  },
  {
   "id": 3393955,
@@ -4244,7 +5389,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3393955",
-  "deezer": 3393955
+  "deezer": 3393955,
+  "isrc": "CAE150400168",
+  "apple": "714348394",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/7c/82/cf7c826d-7409-76f3-77df-164aaeaa63b1/mzaf_12926683778779084058.plus.aac.p.m4a"
  },
  {
   "id": 4256966831,
@@ -4255,7 +5403,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256966831",
-  "deezer": 4256966831
+  "deezer": 4256966831,
+  "isrc": "CA60L2620003",
+  "apple": "6807140815",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/ab/74/d8ab7465-7ff5-e5b2-e827-bb51b43ef0e2/mzaf_2677903326738498462.plus.aac.p.m4a"
  },
  {
   "id": 128229255,
@@ -4266,7 +5417,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/658038f2746b7b76cdd9c36c71e7e877/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128229255",
-  "deezer": 128229255
+  "deezer": 128229255,
+  "isrc": "CAA509696002",
+  "apple": "1551614814",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/79/4d/c6/794dc648-8444-5bac-69ca-d5aeb3916a42/mzaf_9940349926463361391.plus.aac.p.m4a"
  },
  {
   "id": 15397673,
@@ -4277,7 +5431,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15397673",
-  "deezer": 15397673
+  "deezer": 15397673,
+  "isrc": "CAI549301004",
+  "apple": "308138339",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/89/d5/9889d5ea-b42c-b0ef-c495-4fffe3e8cadd/mzaf_11593718864698688072.plus.aac.p.m4a"
  },
  {
   "id": 1723739737,
@@ -4288,7 +5445,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7810e2ee5463b7a3b8b4d3be71323ab4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1723739737",
-  "deezer": 1723739737
+  "deezer": 1723739737,
+  "isrc": "CARJ01904003",
+  "apple": "1619807111",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/c2/25/b4c22565-ee0f-d4d0-e8c0-607af6537000/mzaf_10014074923784662954.plus.aac.p.m4a"
  },
  {
   "id": 3643028222,
@@ -4299,7 +5459,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3643028222",
-  "deezer": 3643028222
+  "deezer": 3643028222,
+  "isrc": "CAZ842500022",
+  "apple": "1825933272",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/9b/32/4c9b32a6-4e13-af23-7e6c-74a94056a9d0/mzaf_13164317239160331868.plus.aac.p.m4a"
  },
  {
   "id": 92976178,
@@ -4310,7 +5473,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2f469d48000a7d9aae2c182f00351d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/92976178",
-  "deezer": 92976178
+  "deezer": 92976178,
+  "isrc": "CAH681300010",
+  "apple": "955579461",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/d2/6a/38d26af1-fd82-ada3-86d6-e873dfeae8d3/mzaf_2429936253545129306.plus.aac.p.m4a"
  },
  {
   "id": 3168302211,
@@ -4321,7 +5487,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302211",
-  "deezer": 3168302211
+  "deezer": 3168302211,
+  "isrc": "CAZ842100035",
+  "apple": "1580812397",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/3d/c1/ff3dc1c5-504f-1469-7cc3-3d29b8faa433/mzaf_1941545080433928914.plus.aac.p.m4a"
  },
  {
   "id": 3487752211,
@@ -4332,7 +5501,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/374867c2889855fde4cb492a2933a0c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487752211",
-  "deezer": 3487752211
+  "deezer": 3487752211,
+  "isrc": "CAZ700907347",
+  "apple": "1830538158",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/90/0e/a4900e47-82f4-60a4-d102-53e68d5e42d3/mzaf_16012898856479374833.plus.aac.p.m4a"
  },
  {
   "id": 128234745,
@@ -4343,7 +5515,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234745",
-  "deezer": 128234745
+  "deezer": 128234745,
+  "isrc": "CAA501333708",
+  "apple": "1551607664",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/ca/55/d3/ca55d351-d699-9a4a-796e-ba7b970e590b/mzaf_6861407661991486317.plus.aac.p.m4a"
  },
  {
   "id": 128234743,
@@ -4354,7 +5529,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234743",
-  "deezer": 128234743
+  "deezer": 128234743,
+  "isrc": "CAA501333707",
+  "apple": "1551607532",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/42/13/50/421350d3-d5bd-ae29-c05c-797d2fdbf436/mzaf_7346263021726127874.plus.aac.p.m4a"
  },
  {
   "id": 65760328,
@@ -4365,7 +5543,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96e1a660480f37b03d06be72266bb576/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760328",
-  "deezer": 65760328
+  "deezer": 65760328,
+  "isrc": "CAD431292503",
+  "apple": "627031303",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c2/50/85/c25085a6-faed-b2ce-e9d8-558471eb6d1d/mzaf_1777832782888856306.plus.aac.p.m4a"
  },
  {
   "id": 1283296132,
@@ -4376,7 +5557,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/87bacd9d3fbab653faad2da7dcaf79aa/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1283296132",
-  "deezer": 1283296132
+  "deezer": 1283296132,
+  "isrc": "CAC0C1700415",
+  "apple": "1559783298",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/f4/cf/4df4cfae-2023-6c5d-4782-f91af9c0ca45/mzaf_1190253271315927442.plus.aac.p.m4a"
  },
  {
   "id": 3949556131,
@@ -4387,7 +5571,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556131",
-  "deezer": 3949556131
+  "deezer": 3949556131,
+  "isrc": "CAFWG2600038",
+  "apple": "1891774124",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/78/9b/02789bb7-e6f5-1441-0ce8-e1ffb6958ba4/mzaf_8863037262201281974.plus.aac.p.m4a"
  },
  {
   "id": 128233489,
@@ -4398,7 +5585,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d806f40a87972cea5c9f5867f22180a6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233489",
-  "deezer": 128233489
+  "deezer": 128233489,
+  "isrc": "CAA509690010",
+  "apple": "1551598986",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c4/03/4d/c4034d9e-4888-1540-929b-e8c5ab3b613c/mzaf_8679087608235004566.plus.aac.p.m4a"
  },
  {
   "id": 2255433697,
@@ -4409,7 +5599,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2255433697",
-  "deezer": 2255433697
+  "deezer": 2255433697,
+  "isrc": "CAH682300072",
+  "apple": "1684840708",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/5e/b7/5d5eb7bc-6768-e354-4ce6-80886aad955b/mzaf_7306016054709683302.plus.aac.p.m4a"
  },
  {
   "id": 3756793602,
@@ -4420,7 +5613,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756793602",
-  "deezer": 3756793602
+  "deezer": 3756793602,
+  "isrc": "CAD431393105",
+  "apple": "1866622911",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/6d/df/8c6ddfbd-681a-2444-6845-2d2015f7470a/mzaf_302807527750360046.plus.aac.p.m4a"
  },
  {
   "id": 397984722,
@@ -4431,7 +5627,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/60dadd827f0afd727b991d9dae6838f3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/397984722",
-  "deezer": 397984722
+  "deezer": 397984722,
+  "isrc": "CAA501739603",
+  "apple": "1615140402",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/5f/eb/0f5febe2-8b1f-6302-f4f9-2fd3089d90ba/mzaf_5189808300983600902.plus.aac.p.m4a"
  },
  {
   "id": 967250782,
@@ -4442,7 +5641,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c8e8b5be3fc8878d22c70af378d926ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/967250782",
-  "deezer": 967250782
+  "deezer": 967250782,
+  "isrc": "FRUM71400897",
+  "apple": "1444123785",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/19/d8/dd/19d8dd87-b75c-197c-6674-8c65a939e9d1/mzaf_984758056802688904.plus.aac.p.m4a"
  },
  {
   "id": 1008231972,
@@ -4453,7 +5655,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3e8e8c514a417c4999014145f6ec89b4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1008231972",
-  "deezer": 1008231972
+  "deezer": 1008231972,
+  "isrc": "QM2PV1771324",
+  "apple": "1521676348",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/9d/46/489d46c2-42f7-c25a-86ce-74f71143771b/mzaf_174059828563625404.plus.aac.p.m4a"
  },
  {
   "id": 128233587,
@@ -4464,7 +5669,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233587",
-  "deezer": 128233587
+  "deezer": 128233587,
+  "isrc": "CAA500115001",
+  "apple": "1551592280",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/f6/ca/d0/f6cad0a5-ca58-b34c-53e8-6425db1a60f5/mzaf_7446431655090049997.plus.aac.p.m4a"
  },
  {
   "id": 2667573342,
@@ -4475,7 +5683,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4e086677ea166b5c67d0b8a3d770d7c7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2667573342",
-  "deezer": 2667573342
+  "deezer": 2667573342,
+  "isrc": "FRX202009220",
+  "apple": "1731609634",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/74/d1/a974d1ed-08a5-c9dc-d48d-e450c9503919/mzaf_7918232618462463811.plus.aac.p.m4a"
  },
  {
   "id": 1644578982,
@@ -4486,7 +5697,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25778d4357a4b3e0f7e238278ecbc60c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1644578982",
-  "deezer": 1644578982
+  "deezer": 1644578982,
+  "isrc": "CA60L1200002",
+  "apple": "1608454583",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f1/be/f7/f1bef7ba-f0ba-94de-1016-8b95c3989898/mzaf_14920843607090888708.plus.aac.p.m4a"
  },
  {
   "id": 3949556141,
@@ -4497,7 +5711,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556141",
-  "deezer": 3949556141
+  "deezer": 3949556141,
+  "isrc": "CAFWG2600042",
+  "apple": "1891774398",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/fb/4a/7cfb4a94-c275-7375-b26c-6877152e8aa1/mzaf_3041452524437370884.plus.aac.p.m4a"
  },
  {
   "id": 1552170252,
@@ -4508,7 +5725,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/033ed9e8aa89ae86bef7ccbbc33c500c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1552170252",
-  "deezer": 1552170252
+  "deezer": 1552170252,
+  "isrc": "CAL542122402",
+  "apple": "1595276804",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6a/93/94/6a9394ec-f63d-3919-23d8-2ea11dd2ec94/mzaf_6664682250954683381.plus.aac.p.m4a"
  },
  {
   "id": 3340640901,
@@ -4519,7 +5739,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9089a411c900fea549a3c33ff6192035/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3340640901",
-  "deezer": 3340640901
+  "deezer": 3340640901,
+  "isrc": "FR05W2500516",
+  "apple": "1810792763",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/62/22/fc62226b-bdd0-de57-689f-262dfb543202/mzaf_13938633180068606077.plus.aac.p.m4a"
  },
  {
   "id": 1042867712,
@@ -4530,7 +5753,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4144c2040ef1b25ec0e0acb55773c876/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1042867712",
-  "deezer": 1042867712
+  "deezer": 1042867712,
+  "isrc": "TCAFA2073732",
+  "apple": "1526287801",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/4e/3d/284e3d5a-8a8d-f6d5-1a99-c6eb0a1b5d8e/mzaf_12521560003020118057.plus.aac.p.m4a"
  },
  {
   "id": 128234311,
@@ -4541,7 +5767,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234311",
-  "deezer": 128234311
+  "deezer": 128234311,
+  "isrc": "CAA500907709",
+  "apple": "1551611523",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/cf/0c/d4/cf0cd403-3e6a-a99d-ba30-db4ee30c2d8f/mzaf_4089606163037297411.plus.aac.p.m4a"
  },
  {
   "id": 4033488531,
@@ -4552,7 +5781,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4033488531",
-  "deezer": 4033488531
+  "deezer": 4033488531,
+  "isrc": "CAH682600107",
+  "apple": "6771388853",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/28/6b/6f286b3b-4d28-243c-dd75-a056b74b8a84/mzaf_13322056161106238720.plus.aac.p.m4a"
  },
  {
   "id": 128235407,
@@ -4563,7 +5795,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9ccfc00a051fe22c2e3c2cda2c03f835/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128235407",
-  "deezer": 128235407
+  "deezer": 128235407,
+  "isrc": "CAA500926104",
+  "apple": "536358042",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/cc/70/92/mzi.sojfymla.aac.p.m4a"
  },
  {
   "id": 3828973031,
@@ -4574,7 +5809,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bb3d8271df5bdb6f5e5475a94b6724fc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3828973031",
-  "deezer": 3828973031
+  "deezer": 3828973031,
+  "isrc": "CAH682600019",
+  "apple": "1875435071",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/32/44/ac32444b-fbfc-db58-8a98-1c80583fd757/mzaf_7056248158793463843.plus.aac.p.m4a"
  },
  {
   "id": 4170203122,
@@ -4585,7 +5823,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e84af58123e38bdf160307d0b24055d7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4170203122",
-  "deezer": 4170203122
+  "deezer": 4170203122,
+  "isrc": "FRX452607445",
+  "apple": "6793541668",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/a7/18/1ea71873-3db1-17c5-95ad-022ad25b092a/mzaf_9690054453862993703.plus.aac.p.m4a"
  },
  {
   "id": 3167674921,
@@ -4596,7 +5837,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/080cd2a53f295b339cb6962e79b42d2d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3167674921",
-  "deezer": 3167674921
+  "deezer": 3167674921,
+  "isrc": "CAZ841400047",
+  "apple": "1333363842",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3b/1f/f8/3b1ff8a7-e73e-b9b2-b28d-dee7ceb02e2a/mzaf_4628268441675301899.plus.aac.p.m4a"
  },
  {
   "id": 1037112862,
@@ -4607,7 +5851,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b0d07af44ef17360f2bc82d54ebc6e81/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1037112862",
-  "deezer": 1037112862
+  "deezer": 1037112862,
+  "isrc": "CA60L1530001",
+  "apple": "1525614719",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/47/ba/a8/47baa863-d977-867e-f9d1-303c257d2ee0/mzaf_10145642264735262849.plus.aac.p.m4a"
  },
  {
   "id": 476427122,
@@ -4618,7 +5865,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/47871f0775ce25927225e0880ab66d59/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/476427122",
-  "deezer": 476427122
+  "deezer": 476427122,
+  "isrc": "CAFWG1800004",
+  "apple": "1362624404",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/83/1d/ef831d71-e5c3-f6eb-e5aa-6e2937ba2bbd/mzaf_6115527712947317741.plus.aac.p.m4a"
  },
  {
   "id": 4033488661,
@@ -4629,7 +5879,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4033488661",
-  "deezer": 4033488661
+  "deezer": 4033488661,
+  "isrc": "CAH682600121",
+  "apple": "6771389608",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/78/d9/9d78d9f5-ee87-c88f-bdc4-f77f4d7e9482/mzaf_9556482955811378146.plus.aac.p.m4a"
  },
  {
   "id": 2667450622,
@@ -4640,7 +5893,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/339597b6530de5f2864945af25f5f239/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2667450622",
-  "deezer": 2667450622
+  "deezer": 2667450622,
+  "isrc": "FRX202095240",
+  "apple": "1731594389",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/1d/2d/d11d2d2e-a4e9-f012-4505-d501dd34ba3c/mzaf_14501365777478532179.plus.aac.p.m4a"
  },
  {
   "id": 2450381035,
@@ -4651,7 +5907,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fbf3b1e1bc88d149b229a852b661700e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2450381035",
-  "deezer": 2450381035
+  "deezer": 2450381035,
+  "isrc": "QZDA82183029",
+  "apple": "1707744729",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/c0/79/39c079fa-4d94-18ae-4b0f-cb827fe514c2/mzaf_1680460384317800516.plus.aac.p.m4a"
  },
  {
   "id": 3694083992,
@@ -4662,7 +5921,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3694083992",
-  "deezer": 3694083992
+  "deezer": 3694083992,
+  "isrc": "CAD432506403",
+  "apple": "1858274150",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/da/09/d0da0994-dbcc-c3f3-736e-64c5706f337a/mzaf_7207324475859399361.plus.aac.p.m4a"
  },
  {
   "id": 128233601,
@@ -4673,7 +5935,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233601",
-  "deezer": 128233601
+  "deezer": 128233601,
+  "isrc": "CAA500115008",
+  "apple": "1551590598",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/85/29/20/85292051-f7b6-3148-7179-c8abade98f99/mzaf_17888147738624355495.plus.aac.p.m4a"
  },
  {
   "id": 762604842,
@@ -4684,7 +5949,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/84b031aeed9e89722e4dee0b3f8cfcb2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/762604842",
-  "deezer": 762604842
+  "deezer": 762604842,
+  "isrc": "FRX201811805",
+  "apple": "1481322528",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/e1/8c/dce18c36-78ad-76f0-0949-8a9f71eb306a/mzaf_3193100100751662308.plus.aac.p.m4a"
  },
  {
   "id": 3393961,
@@ -4695,7 +5963,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3393961",
-  "deezer": 3393961
+  "deezer": 3393961,
+  "isrc": "CAE150400174",
+  "apple": "714348487",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/99/34/3b99346c-9ca4-da14-1a56-bd071f2e87bf/mzaf_1918858565696567791.plus.aac.p.m4a"
  },
  {
   "id": 1036087782,
@@ -4706,7 +5977,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e9b792b11c8a83cd277c8926a2ec75b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036087782",
-  "deezer": 1036087782
+  "deezer": 1036087782,
+  "isrc": "CA60L1520003",
+  "apple": "1525442076",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/b0/10/91b0103d-6eba-bf0f-0c77-643ec949a448/mzaf_6236195369608669243.plus.aac.p.m4a"
  },
  {
   "id": 843810182,
@@ -4717,7 +5991,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c783037e1c51499981acf730086efeec/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/843810182",
-  "deezer": 843810182
+  "deezer": 843810182,
+  "isrc": "FRX201999916"
  },
  {
   "id": 3358792001,
@@ -4728,7 +6003,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e54748620c7119b0f187cc38da9d81f9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3358792001",
-  "deezer": 3358792001
+  "deezer": 3358792001,
+  "isrc": "CAC0C2400961",
+  "apple": "1812426656",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/80/9b/de809b43-5f13-6b0f-8935-ddb1aaf93db7/mzaf_8797294381974414894.plus.aac.p.m4a"
  },
  {
   "id": 4238263712,
@@ -4739,7 +6017,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263712",
-  "deezer": 4238263712
+  "deezer": 4238263712,
+  "isrc": "CAD432606609",
+  "apple": "6803981516",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/47/bd/6747bdf8-ded8-2878-0904-3e988f7df4f4/mzaf_17523248025871492419.plus.aac.p.m4a"
  },
  {
   "id": 1542107552,
@@ -4750,7 +6031,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3d506042fea06b4130f5e3d8afd71c01/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1542107552",
-  "deezer": 1542107552
+  "deezer": 1542107552,
+  "isrc": "CA5VC1600001",
+  "apple": "1593489455",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/4a/30/bf4a303f-20cd-f328-57dd-f97793d2400f/mzaf_12942477366985874222.plus.aac.p.m4a"
  },
  {
   "id": 3694084072,
@@ -4761,7 +6045,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3694084072",
-  "deezer": 3694084072
+  "deezer": 3694084072,
+  "isrc": "CAD432506409",
+  "apple": "1858274499",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/1b/e9/611be90f-3500-2c6c-b4b4-f97476009273/mzaf_3860367041851055540.plus.aac.p.m4a"
  },
  {
   "id": 4238263682,
@@ -4772,7 +6059,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263682",
-  "deezer": 4238263682
+  "deezer": 4238263682,
+  "isrc": "CAD432606608",
+  "apple": "6803981507",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/2e/89/842e89aa-06e8-6bb5-236a-060f7cb432e2/mzaf_8177675208706159011.plus.aac.p.m4a"
  },
  {
   "id": 4238263722,
@@ -4783,7 +6073,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238263722",
-  "deezer": 4238263722
+  "deezer": 4238263722,
+  "isrc": "CAD432606602",
+  "apple": "6772319523",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/08/53/ca08538d-9d6a-e069-32ef-6b94f28510c3/mzaf_5347528614660580452.plus.aac.p.m4a"
  },
  {
   "id": 65760408,
@@ -4794,7 +6087,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/adf2c195acd596820d3182c31ad120b5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760408",
-  "deezer": 65760408
+  "deezer": 65760408,
+  "isrc": "CAD431393002",
+  "apple": "627023575",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/db/90/abdb90b2-dbef-d1ea-cfb0-6fca4b858b4d/mzaf_5588557771248142857.plus.aac.p.m4a"
  },
  {
   "id": 4151111382,
@@ -4805,7 +6101,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22243fb35284cb08223d58dec75cb5f8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4151111382",
-  "deezer": 4151111382
+  "deezer": 4151111382,
+  "isrc": "CAF662600091",
+  "apple": "6796525305",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/79/b8/1579b87e-641f-de72-4d70-e539a67e2672/mzaf_7919363521362110128.plus.aac.p.m4a"
  },
  {
   "id": 3405886071,
@@ -4816,7 +6115,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1bcb59def276270e298e3f0376d1d505/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3405886071",
-  "deezer": 3405886071
+  "deezer": 3405886071,
+  "isrc": "FRX872396643",
+  "apple": "1748566059",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/de/bc/c8debc9a-caf5-ebc2-3186-17b504a1e07e/mzaf_9679197801186349277.plus.aac.p.m4a"
  },
  {
   "id": 1829016777,
@@ -4827,7 +6129,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1829016777",
-  "deezer": 1829016777
+  "deezer": 1829016777,
+  "isrc": "CAD432201711",
+  "apple": "1635262823",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/c9/97/03c99716-224e-6dd4-b82d-7d67c8e9f590/mzaf_13240950000794902756.plus.aac.p.m4a"
  },
  {
   "id": 681061662,
@@ -4838,7 +6143,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/380ab97e34f202448a4169ca61b99e39/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/681061662",
-  "deezer": 681061662
+  "deezer": 681061662,
+  "isrc": "CAH681900060",
+  "apple": "1464014566",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/8e/08/4e8e0869-d2ad-6388-4216-66548048633f/mzaf_9910460130966078399.plus.aac.p.m4a"
  },
  {
   "id": 3629522782,
@@ -4849,7 +6157,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0847cba82284378e7929b90d4de97778/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3629522782",
-  "deezer": 3629522782
+  "deezer": 3629522782,
+  "isrc": "CAA500619601",
+  "apple": "1849697165",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/2c/44/f32c446b-0d5f-fd1c-8304-ece8326582fb/mzaf_10553921424975913458.plus.aac.p.m4a"
  },
  {
   "id": 2941998651,
@@ -4860,7 +6171,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2941998651",
-  "deezer": 2941998651
+  "deezer": 2941998651,
+  "isrc": "CAH682400061",
+  "apple": "1762209133",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/a0/94/a1a094f1-a747-ec32-d09e-6b248dbca0a2/mzaf_10045993134058829767.plus.aac.p.m4a"
  },
  {
   "id": 3549820371,
@@ -4871,7 +6185,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2a763554bd2716f3fd205ec4c25bcf16/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3549820371",
-  "deezer": 3549820371
+  "deezer": 3549820371,
+  "isrc": "CAC0C2501040",
+  "apple": "1838999412",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/67/10/4d671030-363e-2729-3f63-ee555f9fd781/mzaf_6128164171780016791.plus.aac.p.m4a"
  },
  {
   "id": 1012242822,
@@ -4882,7 +6199,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/531c9fcdee7009696405f3a680f9d8b2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1012242822",
-  "deezer": 1012242822
+  "deezer": 1012242822,
+  "isrc": "CA0RZ2000101",
+  "apple": "1522139126",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/76/35/4f76358f-f211-cb3d-26dd-137ba8c87573/mzaf_12051651434257725324.plus.aac.p.m4a"
  },
  {
   "id": 3284337541,
@@ -4893,7 +6213,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e63107fbcf481ad521fd4c616db04508/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3284337541",
-  "deezer": 3284337541
+  "deezer": 3284337541,
+  "isrc": "TCADK1893939",
+  "apple": "1803274824",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/fd/3d/82fd3da5-6375-ae96-9d7c-3322553d321b/mzaf_4676340074882064560.plus.aac.p.m4a"
  },
  {
   "id": 65760365,
@@ -4904,7 +6227,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/49bcc4fbc53c4448c71bd5ab452688f7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760365",
-  "deezer": 65760365
+  "deezer": 65760365,
+  "isrc": "CAD431292706",
+  "apple": "627027160",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/92/24/de92240a-46de-4f1b-b956-671172cb0c21/mzaf_6839089131363545070.plus.aac.p.m4a"
  },
  {
   "id": 128234885,
@@ -4915,7 +6241,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234885",
-  "deezer": 128234885
+  "deezer": 128234885,
+  "isrc": "CAP609001708",
+  "apple": "1551594951",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/fe/12/c5/fe12c593-6427-3a3e-484d-67d2f3d65658/mzaf_3484592732692685385.plus.aac.p.m4a"
  },
  {
   "id": 1552170272,
@@ -4926,7 +6255,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/033ed9e8aa89ae86bef7ccbbc33c500c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1552170272",
-  "deezer": 1552170272
+  "deezer": 1552170272,
+  "isrc": "CAL542122404",
+  "apple": "1595276810",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ce/0c/43/ce0c43db-ed42-2bfa-6230-80a6fa5d5fc8/mzaf_14361246199964455008.plus.aac.p.m4a"
  },
  {
   "id": 3609086812,
@@ -4937,7 +6269,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3609086812",
-  "deezer": 3609086812
+  "deezer": 3609086812,
+  "isrc": "CA50N2540005",
+  "apple": "1847048846",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/f4/57/32f45730-9046-f36a-d362-34f24b942480/mzaf_12191851613205590669.plus.aac.p.m4a"
  },
  {
   "id": 128221881,
@@ -4948,7 +6283,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b23be3138371ed2d169a1351a92002f4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221881",
-  "deezer": 128221881
+  "deezer": 128221881,
+  "isrc": "CAA500953102",
+  "apple": "1551602889",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/4d/d3/6b/4dd36b53-d508-35d1-fde0-dc35b47775be/mzaf_385445379349782359.plus.aac.p.m4a"
  },
  {
   "id": 2788042862,
@@ -4959,7 +6297,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2788042862",
-  "deezer": 2788042862
+  "deezer": 2788042862,
+  "isrc": "CA0RZ2400018",
+  "apple": "1745182859",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/91/0f/9f910f84-31b1-b5c4-a77c-edfebd89b0c0/mzaf_16133572322901641750.plus.aac.p.m4a"
  },
  {
   "id": 128233591,
@@ -4970,7 +6311,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233591",
-  "deezer": 128233591
+  "deezer": 128233591,
+  "isrc": "CAA500115003",
+  "apple": "1551592282",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/5e/5c/89/5e5c89e0-a4d1-5c2c-bc51-c958f376cb69/mzaf_15051139113064714667.plus.aac.p.m4a"
  },
  {
   "id": 1497629832,
@@ -4981,7 +6325,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25107bddb348657894283971bca9b9bf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497629832",
-  "deezer": 1497629832
+  "deezer": 1497629832,
+  "isrc": "CAD520700234",
+  "apple": "1749638562",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/0c/5b/000c5b57-8cda-6531-76a9-eab88101e6f9/mzaf_974996824542757903.plus.aac.p.m4a"
  },
  {
   "id": 4094317261,
@@ -4992,7 +6339,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8e0c5ca10152e111e66c01a3bb282b80/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4094317261",
-  "deezer": 4094317261
+  "deezer": 4094317261,
+  "isrc": "CAZ700906450",
+  "apple": "6781353675",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/c6/ef/ebc6efe0-12ee-6e1d-1b22-1040d1840e5b/mzaf_8724342700407302342.plus.aac.p.m4a"
  },
  {
   "id": 4256966951,
@@ -5003,7 +6353,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256966951",
-  "deezer": 4256966951
+  "deezer": 4256966951,
+  "isrc": "CA60L2620014",
+  "apple": "6807141450",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/6d/a7/a96da788-be81-8494-8d00-238b139456dd/mzaf_17884931991696812204.plus.aac.p.m4a"
  },
  {
   "id": 4278859412,
@@ -5014,7 +6367,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/60c2087e718ca98f6943240276558084/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4278859412",
-  "deezer": 4278859412
+  "deezer": 4278859412,
+  "isrc": "CAPNJ2600002",
+  "apple": "6810762981",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/4b/b6/2e4bb664-3996-f0cf-6406-954dd6c372ed/mzaf_6573605525172244727.plus.aac.p.m4a"
  },
  {
   "id": 2941998711,
@@ -5025,7 +6381,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2941998711",
-  "deezer": 2941998711
+  "deezer": 2941998711,
+  "isrc": "CAH682300051",
+  "apple": "1675680804",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/62/fa/9862fab9-56e4-04f1-232e-7371670d4488/mzaf_846997160867546742.plus.aac.p.m4a"
  },
  {
   "id": 1723739797,
@@ -5036,7 +6395,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7810e2ee5463b7a3b8b4d3be71323ab4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1723739797",
-  "deezer": 1723739797
+  "deezer": 1723739797,
+  "isrc": "CARJ01904009",
+  "apple": "1619781451",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/88/45/fe884500-2f38-7241-ee08-c04bcd638cb9/mzaf_2737242767402895120.plus.aac.p.m4a"
  },
  {
   "id": 2941998691,
@@ -5047,7 +6409,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2941998691",
-  "deezer": 2941998691
+  "deezer": 2941998691,
+  "isrc": "CAH682400048",
+  "apple": "1756964518",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/64/52/ea6452b7-f1c3-01d5-696b-f5a484314b86/mzaf_3554970772079009221.plus.aac.p.m4a"
  },
  {
   "id": 4256417581,
@@ -5058,7 +6423,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256417581",
-  "deezer": 4256417581
+  "deezer": 4256417581,
+  "isrc": "CAH682600173",
+  "apple": "6807454503",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/77/81/5c77812a-b968-f46a-4970-2d4b1add0f21/mzaf_306427898925186552.plus.aac.p.m4a"
  },
  {
   "id": 463897092,
@@ -5069,7 +6437,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1a50ea60ea5d23ce7aaaabb3388651de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/463897092",
-  "deezer": 463897092
+  "deezer": 463897092,
+  "isrc": "CAI250606909",
+  "apple": "1350556967",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6d/dd/44/6ddd4440-5f4d-eff2-a841-fcc8987502cf/mzaf_15999051306201190266.plus.aac.p.m4a"
  },
  {
   "id": 3316809921,
@@ -5080,7 +6451,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3316809921",
-  "deezer": 3316809921
+  "deezer": 3316809921,
+  "isrc": "CAD432505405",
+  "apple": "1807508863",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/45/e8/a645e8ce-b84e-a186-0b46-e89955973cca/mzaf_3880829465596455576.plus.aac.p.m4a"
  },
  {
   "id": 3336723551,
@@ -5091,7 +6465,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd3b2184bd5922dfddb655f79845d663/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3336723551",
-  "deezer": 3336723551
+  "deezer": 3336723551,
+  "isrc": "CAD432506401",
+  "apple": "1810227015",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/af/c9/3fafc9cd-40ee-617a-1c9b-164a2084ab12/mzaf_1594169561147203783.plus.aac.p.m4a"
  },
  {
   "id": 3051805291,
@@ -5102,7 +6479,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805291",
-  "deezer": 3051805291
+  "deezer": 3051805291,
+  "isrc": "CAD432405304",
+  "apple": "1774756977",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/87/20/9787202b-fa0f-5e7e-c8a3-e374bb73ad46/mzaf_4846406258870004141.plus.aac.p.m4a"
  },
  {
   "id": 3509021121,
@@ -5113,7 +6493,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ca67cdea2c2cfccd1932864c74413de7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3509021121",
-  "deezer": 3509021121
+  "deezer": 3509021121,
+  "isrc": "CAPWH2500002",
+  "apple": "1834705860",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/e2/99/fbe29961-b686-f8e2-9384-4357986ad5fa/mzaf_13886410678400278579.plus.aac.p.m4a"
  },
  {
   "id": 128234297,
@@ -5124,7 +6507,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234297",
-  "deezer": 128234297
+  "deezer": 128234297,
+  "isrc": "CAA500907702",
+  "apple": "1551611122",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e4/d3/5b/e4d35bba-281f-6931-d2e3-118be8ec7d72/mzaf_15239758787601988819.plus.aac.p.m4a"
  },
  {
   "id": 617423172,
@@ -5135,7 +6521,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/420e9641de9be262f3d9ee9a468e14d5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/617423172",
-  "deezer": 617423172
+  "deezer": 617423172,
+  "isrc": "CAU160300277",
+  "apple": "1443505662",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/b8/cc/90b8cceb-cac4-dfd8-5d26-e3489effff9b/mzaf_15074951163597753908.plus.aac.p.m4a"
  },
  {
   "id": 4256966841,
@@ -5146,7 +6535,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256966841",
-  "deezer": 4256966841
+  "deezer": 4256966841,
+  "isrc": "CA60L2620004",
+  "apple": "6807140816",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/a9/a6/0ea9a66d-deba-c305-4816-6825e9aa16e6/mzaf_1909536584537851392.plus.aac.p.m4a"
  },
  {
   "id": 109793822,
@@ -5157,7 +6549,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b4d4df833ea08249f085147e39e53a5a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109793822",
-  "deezer": 109793822
+  "deezer": 109793822,
+  "isrc": "CAH681500008",
+  "apple": "1050217817",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/75/4d/37754d0d-80f4-7aa0-fd41-44fe9a1c9b7d/mzaf_7867370954256785853.plus.aac.p.m4a"
  },
  {
   "id": 2243444017,
@@ -5168,7 +6563,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/faeff7fe6e3a9d853418c5448fb7476d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2243444017",
-  "deezer": 2243444017
+  "deezer": 2243444017,
+  "isrc": "CAAQ11300028",
+  "apple": "1681129215",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/66/01/b8/6601b8f9-1d27-d197-dab2-a8cb6fda098c/mzaf_5870019920957750807.plus.aac.p.m4a"
  },
  {
   "id": 3694084052,
@@ -5179,7 +6577,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3694084052",
-  "deezer": 3694084052
+  "deezer": 3694084052,
+  "isrc": "CAD432506407",
+  "apple": "1858274473",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/ed/77/f0ed77bf-cf8b-6fd7-d319-8569b50405bb/mzaf_9606342985124880608.plus.aac.p.m4a"
  },
  {
   "id": 4256966931,
@@ -5190,7 +6591,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256966931",
-  "deezer": 4256966931
+  "deezer": 4256966931,
+  "isrc": "CA60L2620012",
+  "apple": "6807141198",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/e0/d5/b8e0d50c-4902-6027-8df5-381ca657d117/mzaf_3642516597823038953.plus.aac.p.m4a"
  },
  {
   "id": 3713914512,
@@ -5201,7 +6605,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b296e5fc4f5e5fdc923cc003ce7eeaf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3713914512",
-  "deezer": 3713914512
+  "deezer": 3713914512,
+  "isrc": "FR6V81966068",
+  "apple": "1861018484",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/be/67/fd/be67fd9f-18d6-4b8f-add8-9b100f64e5c0/mzaf_11836040654719703413.plus.aac.p.m4a"
  },
  {
   "id": 463897072,
@@ -5212,7 +6619,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1a50ea60ea5d23ce7aaaabb3388651de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/463897072",
-  "deezer": 463897072
+  "deezer": 463897072,
+  "isrc": "CAI250606907",
+  "apple": "1350556940",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f5/3c/d5/f53cd552-9e79-c76d-575a-cf57d2b60529/mzaf_3005331886247257468.plus.aac.p.m4a"
  },
  {
   "id": 3316809951,
@@ -5223,7 +6633,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3316809951",
-  "deezer": 3316809951
+  "deezer": 3316809951,
+  "isrc": "CAD432505408",
+  "apple": "1807509270",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/27/aa/0027aa5f-5612-0d77-46ad-c0b92075c89d/mzaf_8246728197705539249.plus.aac.p.m4a"
  },
  {
   "id": 1909793077,
@@ -5234,7 +6647,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9307f3159b0904606f40d98b582af32e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1909793077",
-  "deezer": 1909793077
+  "deezer": 1909793077,
+  "isrc": "CA50N2210003",
+  "apple": "1638827588",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c8/4e/fc/c84efc28-b7be-a516-811d-b2244f128278/mzaf_12727706857680328451.plus.aac.p.m4a"
  },
  {
   "id": 106952240,
@@ -5245,7 +6661,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f58b0b62046f43b06176f650e955f83e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/106952240",
-  "deezer": 106952240
+  "deezer": 106952240,
+  "isrc": "CAD431594101",
+  "apple": "1037052739",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/ba/b6/c5bab697-4a45-a0bf-d502-1f3f82045bf6/mzaf_10201935842641287398.plus.aac.p.m4a"
  },
  {
   "id": 65416132,
@@ -5256,7 +6675,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a255a0ca45339273137ffc446160c118/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65416132",
-  "deezer": 65416132
+  "deezer": 65416132,
+  "isrc": "USZXT0835616",
+  "apple": "618490422",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/c4/2d/c3c42d68-a9ee-0bc6-ed26-89540c11e92a/mzaf_15083904667231582356.plus.aac.p.m4a"
  },
  {
   "id": 848236572,
@@ -5267,7 +6689,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5e8f4776537d49dbfd14f33e01826155/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/848236572",
-  "deezer": 848236572
+  "deezer": 848236572,
+  "isrc": "TCADR1872711",
+  "apple": "1494013395",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/5a/e4/5d5ae48e-b340-649d-68e0-ceb5c169d1f5/mzaf_7911131175405446728.plus.aac.p.m4a"
  },
  {
   "id": 830242522,
@@ -5278,7 +6703,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6120399a42f2b6875aee1f9bb5edaa1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/830242522",
-  "deezer": 830242522
+  "deezer": 830242522,
+  "isrc": "CA5VC1903002",
+  "apple": "1491350330",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/6b/09/116b09da-3d6d-2e77-cae7-e1b26caf1262/mzaf_548397538941243165.plus.aac.p.m4a"
  },
  {
   "id": 3706017652,
@@ -5289,7 +6717,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017652",
-  "deezer": 3706017652
+  "deezer": 3706017652,
+  "isrc": "CAL642601012",
+  "apple": "1860104278",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/5d/18/dd5d185f-18c2-98ec-0ad9-7a109adb9af0/mzaf_6873816069893556099.plus.aac.p.m4a"
  },
  {
   "id": 1679895827,
@@ -5300,7 +6731,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/669a920785eb9be92a3dbc0483f3e0cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1679895827",
-  "deezer": 1679895827
+  "deezer": 1679895827,
+  "isrc": "CAH682200004",
+  "apple": "1613356417",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/a0/86/70a08659-5c72-4300-9d5b-da530054b75e/mzaf_14699612249483146396.plus.aac.p.m4a"
  },
  {
   "id": 65802485,
@@ -5311,7 +6745,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cde47962f7eebe44220cb07d884f537/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802485",
-  "deezer": 65802485
+  "deezer": 65802485,
+  "isrc": "CAD430991303",
+  "apple": "627041884",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/4a/92/da4a92d1-e0b1-f0f7-7b8a-d7635c5204bc/mzaf_5284954507830288054.plus.aac.p.m4a"
  },
  {
   "id": 4238813582,
@@ -5322,7 +6759,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9a48eb937760fee773d3378c8193595a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4238813582",
-  "deezer": 4238813582
+  "deezer": 4238813582,
+  "isrc": "CBG1J2500025",
+  "apple": "6804075152",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/86/4f/71864f4a-9fa8-a910-f64b-a69b85c44a2a/mzaf_7837789324786352826.plus.aac.p.m4a"
  },
  {
   "id": 3666988202,
@@ -5333,7 +6773,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988202",
-  "deezer": 3666988202
+  "deezer": 3666988202,
+  "isrc": "CAZ842500077",
+  "apple": "1852048258",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/e0/66/e0e06640-7c7c-e07c-a177-b19680b36749/mzaf_12303869631977871971.plus.aac.p.m4a"
  },
  {
   "id": 1488160682,
@@ -5344,7 +6787,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/843f2a67c828459f68a658c5abdfbc0d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1488160682",
-  "deezer": 1488160682
+  "deezer": 1488160682,
+  "isrc": "CACEB1738668",
+  "apple": "1584871886",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/c4/d6/dec4d664-0bd0-9a1f-85c9-9c3b93c5ca67/mzaf_8293390868053268850.plus.aac.p.m4a"
  },
  {
   "id": 65802484,
@@ -5355,7 +6801,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cde47962f7eebe44220cb07d884f537/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802484",
-  "deezer": 65802484
+  "deezer": 65802484,
+  "isrc": "CAD430991302",
+  "apple": "627041883",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/88/28/7e882854-487c-60f5-35ce-2647e90be467/mzaf_5831221971318419725.plus.aac.p.m4a"
  },
  {
   "id": 617423132,
@@ -5366,7 +6815,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/420e9641de9be262f3d9ee9a468e14d5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/617423132",
-  "deezer": 617423132
+  "deezer": 617423132,
+  "isrc": "CAU160300281",
+  "apple": "1443504927",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/02/30/38023048-52a0-a419-1886-f177ee678a90/mzaf_950496728295732274.plus.aac.p.m4a"
  },
  {
   "id": 3487751571,
@@ -5377,7 +6829,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/661b00716635eb30451240d9d07845a1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487751571",
-  "deezer": 3487751571
+  "deezer": 3487751571,
+  "isrc": "CAZ700907399",
+  "apple": "1830537496",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/6c/98/b46c980c-db8b-c863-546b-3acc29eb9251/mzaf_12013458449723646447.plus.aac.p.m4a"
  },
  {
   "id": 830242552,
@@ -5388,7 +6843,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6120399a42f2b6875aee1f9bb5edaa1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/830242552",
-  "deezer": 830242552
+  "deezer": 830242552,
+  "isrc": "CA5VC1903005",
+  "apple": "1491350412",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/8d/bb/cd8dbbb7-c470-ee46-e29c-c6b1c8a69e44/mzaf_17593690230969158996.plus.aac.p.m4a"
  },
  {
   "id": 3393956,
@@ -5399,7 +6857,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3393956",
-  "deezer": 3393956
+  "deezer": 3393956,
+  "isrc": "CAE150400169",
+  "apple": "714348397",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/f4/64/c0f4645f-afe1-a2d9-ba21-42867bee05aa/mzaf_1183859004200490694.plus.aac.p.m4a"
  },
  {
   "id": 3487752361,
@@ -5410,7 +6871,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9a3c174de2bc208ef2755d1d66e8e459/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487752361",
-  "deezer": 3487752361
+  "deezer": 3487752361,
+  "isrc": "CAZ700300556",
+  "apple": "1830537756",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/93/b6/ed93b6a0-7761-5104-e1d0-8ea1af154aff/mzaf_6132327723227737842.plus.aac.p.m4a"
  },
  {
   "id": 3706017632,
@@ -5421,7 +6885,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017632",
-  "deezer": 3706017632
+  "deezer": 3706017632,
+  "isrc": "CAL642601010",
+  "apple": "1860104267",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/ea/1f/2bea1f2f-1a77-8aa4-53d9-c5249ee52201/mzaf_3249260687774977395.plus.aac.p.m4a"
  },
  {
   "id": 481463012,
@@ -5432,7 +6899,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8aa4defcd71ab49fbb7113288ff558e2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/481463012",
-  "deezer": 481463012
+  "deezer": 481463012,
+  "isrc": "CAH681800010",
+  "apple": "1367518849",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/36/7b/13367b60-796d-f123-5212-b069bc248456/mzaf_18102155280645867450.plus.aac.p.m4a"
  },
  {
   "id": 1484040742,
@@ -5443,7 +6913,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/57aa1030346512f04c43bcdc14e5795b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1484040742",
-  "deezer": 1484040742
+  "deezer": 1484040742,
+  "isrc": "CA6AG2100002",
+  "apple": "1584187939",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/84/10/1b/84101b03-0123-cd95-f22b-2ef5ab288ffc/mzaf_9376308294477597736.plus.aac.p.m4a"
  },
  {
   "id": 452803172,
@@ -5454,7 +6927,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8ffed50945af03b3651e70fd2ccd2fd5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/452803172",
-  "deezer": 452803172
+  "deezer": 452803172,
+  "isrc": "CAH681700014",
+  "apple": "1221577164",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/9e/5f/a19e5ffc-475a-c853-98ff-fea824097d25/mzaf_3932940884786210212.plus.aac.p.m4a"
  },
  {
   "id": 2782091962,
@@ -5465,7 +6941,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/33eaa5a3d52dee74b772df1c0aae7de2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2782091962",
-  "deezer": 2782091962
+  "deezer": 2782091962,
+  "isrc": "CAD432303701",
+  "apple": "1707228767",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/9f/48/369f488a-ba61-32e0-41a8-72fb9dc48df7/mzaf_12160765670262542484.plus.aac.p.m4a"
  },
  {
   "id": 3666988192,
@@ -5476,7 +6955,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988192",
-  "deezer": 3666988192
+  "deezer": 3666988192,
+  "isrc": "CAZ842500076",
+  "apple": "1852048257",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/8b/54/2b8b5471-83c5-69b9-5af1-94f64cae9c60/mzaf_14276277752399710487.plus.aac.p.m4a"
  },
  {
   "id": 4144375562,
@@ -5487,7 +6969,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4144375562",
-  "deezer": 4144375562
+  "deezer": 4144375562,
+  "isrc": "CAD432606802",
+  "apple": "6789269805",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/98/07/569807a5-f91b-1705-34d7-408908367b6f/mzaf_10226052958998392210.plus.aac.p.m4a"
  },
  {
   "id": 552817262,
@@ -5498,7 +6983,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/552817262",
-  "deezer": 552817262
+  "deezer": 552817262,
+  "isrc": "CAH681800056",
+  "apple": "1435827192",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/21/e5/f521e5e2-2c92-e019-20cc-e3d8e0d8a449/mzaf_9998850550322203482.plus.aac.p.m4a"
  },
  {
   "id": 1253427812,
@@ -5509,7 +6997,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1253427812",
-  "deezer": 1253427812
+  "deezer": 1253427812,
+  "isrc": "CAC0C2000592",
+  "apple": "1555056030",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/9a/8e/0d9a8e1a-ee72-de00-827f-71df9f2c8b2b/mzaf_8573856944216503169.plus.aac.p.m4a"
  },
  {
   "id": 1409440342,
@@ -5520,7 +7011,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1409440342",
-  "deezer": 1409440342
+  "deezer": 1409440342,
+  "isrc": "CAL641219935",
+  "apple": "1573039135",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/1b/81/361b8196-57bd-5754-58da-4488f873bdb5/mzaf_16981320766498873113.plus.aac.p.m4a"
  },
  {
   "id": 3666988222,
@@ -5531,7 +7025,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988222",
-  "deezer": 3666988222
+  "deezer": 3666988222,
+  "isrc": "CAZ842500079",
+  "apple": "1852048261",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/85/c0/1685c02f-7fdd-733c-de53-7eac5999e198/mzaf_1453112697965318321.plus.aac.p.m4a"
  },
  {
   "id": 1065567402,
@@ -5542,7 +7039,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1065567402",
-  "deezer": 1065567402
+  "deezer": 1065567402,
+  "isrc": "CAS741585203",
+  "apple": "1528642543",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/46/e0/9b/46e09b14-51e6-bde6-368e-d6404e24eee5/mzaf_11006789449393339670.plus.aac.p.m4a"
  },
  {
   "id": 405318432,
@@ -5553,7 +7053,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f336e8fc34ea84a32d5c58fb4d30d3b4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/405318432",
-  "deezer": 405318432
+  "deezer": 405318432,
+  "isrc": "CAF661600306",
+  "apple": "1444189336",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/83/33/2d/83332d22-5c0c-0ade-1429-e3cc34d2c535/mzaf_8529123482997681312.plus.aac.p.m4a"
  },
  {
   "id": 416078762,
@@ -5564,7 +7067,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a6c972efafa56eaba2c08f6d762d0ad3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/416078762",
-  "deezer": 416078762
+  "deezer": 416078762,
+  "isrc": "CAF661200064",
+  "apple": "1443893907",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/42/d1/1342d10b-de7e-0bfc-be01-02d93db5e281/mzaf_18409961020017973476.plus.aac.p.m4a"
  },
  {
   "id": 3706017622,
@@ -5575,7 +7081,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017622",
-  "deezer": 3706017622
+  "deezer": 3706017622,
+  "isrc": "CAL642601009",
+  "apple": "1860104263",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/fe/43/3cfe4342-f815-3d82-e525-bee83c9c521d/mzaf_15536280071482379718.plus.aac.p.m4a"
  },
  {
   "id": 3234554541,
@@ -5586,7 +7095,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3234554541",
-  "deezer": 3234554541
+  "deezer": 3234554541,
+  "isrc": "CA6AG2500002",
+  "apple": "1796438614",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/05/48/610548c5-3ad4-3b6d-8d69-dad077e79461/mzaf_4101492573031729732.plus.aac.p.m4a"
  },
  {
   "id": 4113503871,
@@ -5597,7 +7109,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2ad4ade3f84900c926904b4edd7449db/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4113503871",
-  "deezer": 4113503871
+  "deezer": 4113503871,
+  "isrc": "CAH682600164",
+  "apple": "6784264073",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/37/16/1c3716b1-8b0a-9fb1-d314-4e032c551ba2/mzaf_5024324960373231884.plus.aac.p.m4a"
  },
  {
   "id": 128235947,
@@ -5608,7 +7123,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/110d09829b9523a97a75fd5e4cbaf932/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128235947",
-  "deezer": 128235947
+  "deezer": 128235947,
+  "isrc": "CAA509480013",
+  "apple": "1551612933",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/30/a2/5d/30a25d00-4bb1-1e46-4b09-f53156047a11/mzaf_11757299335202144975.plus.aac.p.m4a"
  },
  {
   "id": 1540443212,
@@ -5619,7 +7137,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1540443212",
-  "deezer": 1540443212
+  "deezer": 1540443212,
+  "isrc": "CA0U32100008",
+  "apple": "1594080614",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/95/37/91953746-4de5-d4df-3a95-38a8200bce2c/mzaf_17358622622819694568.plus.aac.p.m4a"
  },
  {
   "id": 663194932,
@@ -5630,7 +7151,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/33716ea5853a7fc0191a1510d548d7d3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/663194932",
-  "deezer": 663194932
+  "deezer": 663194932,
+  "isrc": "CAH681900013",
+  "apple": "1459391801",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/08/0b/29080bb1-fb07-22ea-ce2e-95a23cf8daa0/mzaf_4447822491832323433.plus.aac.p.m4a"
  },
  {
   "id": 1284099352,
@@ -5641,7 +7165,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1284099352",
-  "deezer": 1284099352
+  "deezer": 1284099352,
+  "isrc": "CAC0C1800463",
+  "apple": "1559738725",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/a9/a4/18a9a457-cce6-1fb6-b6aa-8e1e606b3be2/mzaf_5156235878481246548.plus.aac.p.m4a"
  },
  {
   "id": 3051805411,
@@ -5652,7 +7179,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805411",
-  "deezer": 3051805411
+  "deezer": 3051805411,
+  "isrc": "CAD432405314",
+  "apple": "1774757393",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/1e/6d/821e6d19-7a33-6f8c-07eb-f8f5c4e82beb/mzaf_11539183159574260716.plus.aac.p.m4a"
  },
  {
   "id": 3234554561,
@@ -5663,7 +7193,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3234554561",
-  "deezer": 3234554561
+  "deezer": 3234554561,
+  "isrc": "CA6AG2500004",
+  "apple": "1796438619",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/38/a7/2c38a767-09a8-c28e-4a68-97753a458187/mzaf_16934719317106868416.plus.aac.p.m4a"
  },
  {
   "id": 3664869942,
@@ -5674,7 +7207,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1483dd19188f518cfe9bb005a7bc9309/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3664869942",
-  "deezer": 3664869942
+  "deezer": 3664869942,
+  "isrc": "CAC0C2501051",
+  "apple": "1854102450",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/b9/2e/e7b92eb1-1283-02a2-b7c9-5e872155d25c/mzaf_11996178877540776342.plus.aac.p.m4a"
  },
  {
   "id": 2117809777,
@@ -5685,7 +7221,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2151edeb203c76e30943e89c558537/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2117809777",
-  "deezer": 2117809777
+  "deezer": 2117809777,
+  "isrc": "CAD432201806",
+  "apple": "1666996928",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/9e/e2/0e/9ee20ee1-42a2-97f1-c1d5-ad5cbdde43b1/mzaf_7113645669813959400.plus.aac.p.m4a"
  },
  {
   "id": 3756793662,
@@ -5696,7 +7235,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756793662",
-  "deezer": 3756793662
+  "deezer": 3756793662,
+  "isrc": "CAD431393111",
+  "apple": "1866623166",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/40/3f/26403f38-b42e-a0fa-e2f1-a3d7881e1fcc/mzaf_16638334281113200839.plus.aac.p.m4a"
  },
  {
   "id": 2206549777,
@@ -5707,7 +7249,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2a7de5d92cf19921a99f4a1b38d7700a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2206549777",
-  "deezer": 2206549777
+  "deezer": 2206549777,
+  "isrc": "CALXJ2330002",
+  "apple": "1677812160",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/33/34/e333345a-bc86-524b-47dd-2333f93d4d4c/mzaf_18417612708469000261.plus.aac.p.m4a"
  },
  {
   "id": 1498057162,
@@ -5718,7 +7263,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c0418ac55c885cdcda128e25807e2887/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1498057162",
-  "deezer": 1498057162
+  "deezer": 1498057162,
+  "isrc": "CAC6N1500103",
+  "apple": "1715490227",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/3f/cf/6d3fcfb3-37ae-0a6c-af08-a19f2d04dcf1/mzaf_9488078857928327329.plus.aac.p.m4a"
  },
  {
   "id": 1700265247,
@@ -5729,7 +7277,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4d44514466ebba36cc949d2f26f25b4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1700265247",
-  "deezer": 1700265247
+  "deezer": 1700265247,
+  "isrc": "CAA502146703",
+  "apple": "1607210823",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/50/94/3a/50943a55-dec4-358f-2d11-47d65dd761c2/mzaf_5127327283056369369.plus.aac.p.m4a"
  },
  {
   "id": 659875672,
@@ -5740,7 +7291,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cd76534a636dc6c54c878d0477fccb5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/659875672",
-  "deezer": 659875672
+  "deezer": 659875672,
+  "isrc": "CAD431997802",
+  "apple": "1458654322",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4b/4a/2e/4b4a2ea3-50f0-11b2-a576-166a7e7ae5aa/mzaf_5407792420488102940.plus.aac.p.m4a"
  },
  {
   "id": 3316809881,
@@ -5751,7 +7305,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3316809881",
-  "deezer": 3316809881
+  "deezer": 3316809881,
+  "isrc": "CAD432505401",
+  "apple": "1807508846",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/c2/1d/e4c21dab-4a1e-6f38-8dab-2fca781e400b/mzaf_17179289542839210688.plus.aac.p.m4a"
  },
  {
   "id": 4077793511,
@@ -5762,7 +7319,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b071d4bce6c28b04904314f2c1140de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4077793511",
-  "deezer": 4077793511
+  "deezer": 4077793511,
+  "isrc": "CAD431595103",
+  "apple": "6778838269",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4b/a4/75/4ba47559-e847-5f9d-a06d-ec92abd004ce/mzaf_10286957717227440017.plus.aac.p.m4a"
  },
  {
   "id": 1651572212,
@@ -5773,7 +7333,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0ddf40b38eee08a9692a37962d8e5739/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1651572212",
-  "deezer": 1651572212
+  "deezer": 1651572212,
+  "isrc": "CAK920801443",
+  "apple": "1609104804",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/99/7a/a1/997aa105-c90a-ebbc-c1bc-15810212acf7/mzaf_1055181914036931055.plus.aac.p.m4a"
  },
  {
   "id": 3319046781,
@@ -5784,7 +7347,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/231e720c11b85972d1ca0d2dab98e17e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3319046781",
-  "deezer": 3319046781
+  "deezer": 3319046781,
+  "isrc": "CAH682500043",
+  "apple": "1807818176",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/89/34/e3893477-b268-ae9f-924a-b2d85f8cb103/mzaf_7737411501587160870.plus.aac.p.m4a"
  },
  {
   "id": 2260074157,
@@ -5795,7 +7361,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d27be526d28a5474656e96dd931fd29e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2260074157",
-  "deezer": 2260074157
+  "deezer": 2260074157,
+  "isrc": "CA6AG2300001",
+  "apple": "1685301973",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/81/15/4e811505-aff5-15ba-1c3d-66dbc9aa8754/mzaf_14627233699768532528.plus.aac.p.m4a"
  },
  {
   "id": 566085942,
@@ -5806,7 +7375,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7087d9567d0e8059b460e3e672b9f1b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/566085942",
-  "deezer": 566085942
+  "deezer": 566085942,
+  "isrc": "CAE861810005",
+  "apple": "1438581278",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/14/cc/24/14cc243c-7019-f9de-cf01-e596ece50759/mzaf_9147247812034105803.plus.aac.p.m4a"
  },
  {
   "id": 2147853657,
@@ -5817,7 +7389,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a064f79011ffac1a67b7b816f571f9b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2147853657",
-  "deezer": 2147853657
+  "deezer": 2147853657,
+  "isrc": "CAH682200105",
+  "apple": "1660246219",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7d/09/e2/7d09e2a5-73e7-ca1e-053f-1e4cc52f71bc/mzaf_4311563427891059657.plus.aac.p.m4a"
  },
  {
   "id": 3487752321,
@@ -5828,7 +7403,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9a3c174de2bc208ef2755d1d66e8e459/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487752321",
-  "deezer": 3487752321
+  "deezer": 3487752321,
+  "isrc": "CAZ700300552",
+  "apple": "1830537740",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/09/d2/bf09d27f-0067-d68a-9309-b6471966ab99/mzaf_7806377065900881318.plus.aac.p.m4a"
  },
  {
   "id": 1497629842,
@@ -5839,7 +7417,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25107bddb348657894283971bca9b9bf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497629842",
-  "deezer": 1497629842
+  "deezer": 1497629842,
+  "isrc": "CAD520700235",
+  "apple": "1749638565",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/e3/2a/0ee32af5-d138-020d-18ed-67520b5aebd5/mzaf_7324930497078315656.plus.aac.p.m4a"
  },
  {
   "id": 3973054781,
@@ -5850,7 +7431,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054781",
-  "deezer": 3973054781
+  "deezer": 3973054781,
+  "isrc": "CA9L62600405",
+  "apple": "6762649750",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/52/6a/dd526af5-8698-24f0-f579-fd3942fc5636/mzaf_14828809644604171364.plus.aac.p.m4a"
  },
  {
   "id": 15682853,
@@ -5861,7 +7445,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e16548fc4e7cdad1d3758aa39ecf7249/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15682853",
-  "deezer": 15682853
+  "deezer": 15682853,
+  "isrc": "CAEZ10800176",
+  "apple": "714740927",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/e3/e0/a4e3e0b0-420b-819c-d1bb-c2898cb9af11/mzaf_13302883599306668075.plus.aac.p.m4a"
  },
  {
   "id": 362739881,
@@ -5872,7 +7459,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/afe6f2ce39788c1bad5a79800ec83194/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/362739881",
-  "deezer": 362739881
+  "deezer": 362739881,
+  "isrc": "CAS528700928"
  },
  {
   "id": 1036062802,
@@ -5883,7 +7471,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036062802",
-  "deezer": 1036062802
+  "deezer": 1036062802,
+  "isrc": "CA60L1760009",
+  "apple": "1525440931",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/79/a5/8d79a5d9-e9b4-5d36-cba5-af6a4a86e65d/mzaf_14441513004440728620.plus.aac.p.m4a"
  },
  {
   "id": 1238512702,
@@ -5894,7 +7485,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1238512702",
-  "deezer": 1238512702
+  "deezer": 1238512702,
+  "isrc": "CAD431998505",
+  "apple": "1552915691",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/ce/d4/d7ced4e5-1501-e217-e154-e3302ed7ac30/mzaf_3845308824871276526.plus.aac.p.m4a"
  },
  {
   "id": 1409440362,
@@ -5905,7 +7499,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1409440362",
-  "deezer": 1409440362
+  "deezer": 1409440362,
+  "isrc": "CAL641219937",
+  "apple": "1573039142",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/17/5e/66175ef3-45e2-ffca-2776-fe7baa123531/mzaf_3669137905252368219.plus.aac.p.m4a"
  },
  {
   "id": 1497668782,
@@ -5916,7 +7513,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d15d2b4822ce0d06f6a555099db2c413/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497668782",
-  "deezer": 1497668782
+  "deezer": 1497668782,
+  "isrc": "CAY500100018",
+  "apple": "1715403591",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/57/10/145710fa-296f-1052-dd5a-e298ce25e681/mzaf_1986259115346003040.plus.aac.p.m4a"
  },
  {
   "id": 72184268,
@@ -5927,7 +7527,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5ae11dfda7a713b7031636d15cd1ea32/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/72184268",
-  "deezer": 72184268
+  "deezer": 72184268,
+  "isrc": "CAI250203408",
+  "apple": "736235591",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/f9/9f/caf99f97-6cd3-98b5-442d-b3f2cfeddff7/mzaf_8888156945000335231.plus.aac.p.m4a"
  },
  {
   "id": 4077793491,
@@ -5938,7 +7541,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b071d4bce6c28b04904314f2c1140de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4077793491",
-  "deezer": 4077793491
+  "deezer": 4077793491,
+  "isrc": "CAD431595101",
+  "apple": "6778838263",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/72/b3/8172b3d6-41ff-d874-8843-55ada4c7b15a/mzaf_1731640095190538069.plus.aac.p.m4a"
  },
  {
   "id": 4144375602,
@@ -5949,7 +7555,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4144375602",
-  "deezer": 4144375602
+  "deezer": 4144375602,
+  "isrc": "CAD432606805",
+  "apple": "6789289018",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/27/bb/2727bbe5-b5b1-398b-5ba9-36b1f3c84b94/mzaf_12378897602679751743.plus.aac.p.m4a"
  },
  {
   "id": 3756794122,
@@ -5960,7 +7569,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fda9b12809be88bc82c86acd848d014d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756794122",
-  "deezer": 3756794122
+  "deezer": 3756794122,
+  "isrc": "CAD431594907",
+  "apple": "1866622913",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/f2/10/d2f2104f-6125-80cf-e19c-50418f00d669/mzaf_2870330292465834783.plus.aac.p.m4a"
  },
  {
   "id": 3666988212,
@@ -5971,7 +7583,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988212",
-  "deezer": 3666988212
+  "deezer": 3666988212,
+  "isrc": "CAZ842500078",
+  "apple": "1852048259",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/cb/ae/c4cbae08-8b5d-b268-847e-ef934d43fc8e/mzaf_4450473619584367718.plus.aac.p.m4a"
  },
  {
   "id": 4092225481,
@@ -5982,7 +7597,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4092225481",
-  "deezer": 4092225481
+  "deezer": 4092225481,
+  "isrc": "CAA509269010",
+  "apple": "6781065407",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/e0/02/d5e002a3-f43d-7242-3d84-90444a25bc9e/mzaf_16345286766830982133.plus.aac.p.m4a"
  },
  {
   "id": 92976162,
@@ -5993,7 +7611,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2f469d48000a7d9aae2c182f00351d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/92976162",
-  "deezer": 92976162
+  "deezer": 92976162,
+  "isrc": "CAH681300002",
+  "apple": "955579371",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/2b/0c/fc2b0c3d-edd5-c34f-404e-198237d9e753/mzaf_9035554510699991441.plus.aac.p.m4a"
  },
  {
   "id": 4077793651,
@@ -6004,7 +7625,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ea3e5a999c74b8de59cf950f96997a63/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4077793651",
-  "deezer": 4077793651
+  "deezer": 4077793651,
+  "isrc": "CAD431998303",
+  "apple": "6778837516",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/07/f9/6d07f9b8-1e9c-111c-8f5a-5758a54955a0/mzaf_18331865283637287411.plus.aac.p.m4a"
  },
  {
   "id": 4092225441,
@@ -6015,7 +7639,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4092225441",
-  "deezer": 4092225441
+  "deezer": 4092225441,
+  "isrc": "CAA509269006",
+  "apple": "6781065403",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/f8/78/b2f8788c-8e40-9d5e-5a7a-5d11bb8a6de3/mzaf_15273934558311298081.plus.aac.p.m4a"
  },
  {
   "id": 1497630702,
@@ -6026,7 +7653,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a8e7bffd0a6650c7e00a29403a7865cc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497630702",
-  "deezer": 1497630702
+  "deezer": 1497630702,
+  "isrc": "CAD520700263",
+  "apple": "1750071630",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/24/ea/7d24ea09-b7c4-dc32-ec58-5b0e6272257a/mzaf_2207840075871761447.plus.aac.p.m4a"
  },
  {
   "id": 2506586001,
@@ -6037,7 +7667,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ea8d2012831fe0208522cb528cfa0bcc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2506586001",
-  "deezer": 2506586001
+  "deezer": 2506586001,
+  "isrc": "CAH682300138",
+  "apple": "1712769336",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/70/3e/7c/703e7c12-7bb9-de03-18b5-813de3ba9c0c/mzaf_4660540301792721412.plus.aac.p.m4a"
  },
  {
   "id": 3167990291,
@@ -6048,7 +7681,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3e23368c17523650f3c4a56b11a3faa3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3167990291",
-  "deezer": 3167990291
+  "deezer": 3167990291,
+  "isrc": "CAZ841500044",
+  "apple": "1333156688",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/fb/23/dcfb23b9-ddac-ba73-9637-cc5862a07060/mzaf_7132719439673036329.plus.aac.p.m4a"
  },
  {
   "id": 1497629882,
@@ -6059,7 +7695,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25107bddb348657894283971bca9b9bf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497629882",
-  "deezer": 1497629882
+  "deezer": 1497629882,
+  "isrc": "CAD520700239",
+  "apple": "1749638849",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/3a/47/303a4797-b09f-437f-6d05-786f7ad89f47/mzaf_18372926997883466088.plus.aac.p.m4a"
  },
  {
   "id": 3756793642,
@@ -6070,7 +7709,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756793642",
-  "deezer": 3756793642
+  "deezer": 3756793642,
+  "isrc": "CAD431393109",
+  "apple": "1866623160",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/b0/2f/0eb02fd2-5306-d2cc-1ca7-ee4f94790e49/mzaf_11380144001178282268.plus.aac.p.m4a"
  },
  {
   "id": 1036062822,
@@ -6081,7 +7723,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036062822",
-  "deezer": 1036062822
+  "deezer": 1036062822,
+  "isrc": "CA60L1760011",
+  "apple": "1525440934",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/87/5c/95875c52-7a22-b096-6578-3d84aad14afd/mzaf_11765456641916170894.plus.aac.p.m4a"
  },
  {
   "id": 1194167632,
@@ -6092,7 +7737,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4367cc9e3c820b7d21782cdf95a67c9d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1194167632",
-  "deezer": 1194167632
+  "deezer": 1194167632,
+  "isrc": "CAKMF2000005",
+  "apple": "1545269214",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/37/f7/cd37f7b0-830f-a42b-a81a-3b13ee2ea336/mzaf_2577817891504731827.plus.aac.p.m4a"
  },
  {
   "id": 3666988232,
@@ -6103,7 +7751,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988232",
-  "deezer": 3666988232
+  "deezer": 3666988232,
+  "isrc": "CAZ842500080",
+  "apple": "1852048263",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/fa/9a/99fa9a60-c7c0-9bb3-7dd1-b64678b42621/mzaf_9812169573876125165.plus.aac.p.m4a"
  },
  {
   "id": 3352919091,
@@ -6114,7 +7765,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bf216ee0ca5960733581dcbc5c223948/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3352919091",
-  "deezer": 3352919091
+  "deezer": 3352919091,
+  "isrc": "CAC0C2400957",
+  "apple": "1812426139",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/41/c3/1941c3b6-e589-bbd3-484a-90f481d81cf1/mzaf_13816130382683970869.plus.aac.p.m4a"
  },
  {
   "id": 1065567422,
@@ -6125,7 +7779,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1065567422",
-  "deezer": 1065567422
+  "deezer": 1065567422,
+  "isrc": "CAS741585205",
+  "apple": "1528642554",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/1c/ff/f31cff9e-05af-0a80-2480-2d389f6f88b1/mzaf_1804627533476668649.plus.aac.p.m4a"
  },
  {
   "id": 1419411892,
@@ -6136,7 +7793,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f0a58fd953faf19f6b33020d800e2f56/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1419411892",
-  "deezer": 1419411892
+  "deezer": 1419411892,
+  "isrc": "CAG840600007",
+  "apple": "1574420035",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/8b/47/ee8b47e6-c002-225e-32aa-e01bd186ee15/mzaf_9704443046777967255.plus.aac.p.m4a"
  },
  {
   "id": 2929318811,
@@ -6147,7 +7807,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2929318811",
-  "deezer": 2929318811
+  "deezer": 2929318811,
+  "isrc": "CAD432404402",
+  "apple": "1760606481",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/49/ff/0549ffaf-2d3c-e89a-c76c-134e6d319d64/mzaf_15515726878452643685.plus.aac.p.m4a"
  },
  {
   "id": 1253427782,
@@ -6158,7 +7821,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1253427782",
-  "deezer": 1253427782
+  "deezer": 1253427782,
+  "isrc": "CAC0C2000589",
+  "apple": "1555056018",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/51/e2/e051e29b-28b1-1cbe-d930-36a44c9f15bf/mzaf_4335359412814420291.plus.aac.p.m4a"
  },
  {
   "id": 3153949571,
@@ -6169,7 +7835,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c735c3c03d967d2e0c3016b6311cd90d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3153949571",
-  "deezer": 3153949571
+  "deezer": 3153949571,
+  "isrc": "CAC0C2400969",
+  "apple": "1786811748",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/67/cd/4167cd96-b476-6cc0-77b0-d03146d8bf2d/mzaf_10172226784895787643.plus.aac.p.m4a"
  },
  {
   "id": 1407938442,
@@ -6180,7 +7849,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7db74ca092658762ca35b256f0d7bc75/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1407938442",
-  "deezer": 1407938442
+  "deezer": 1407938442,
+  "isrc": "CAQ520400021",
+  "apple": "1579132002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/1c/5a/4b1c5af2-a360-7626-6a32-fe4ee9602b41/mzaf_15095275383908427345.plus.aac.p.m4a"
  },
  {
   "id": 2021690637,
@@ -6191,7 +7863,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e64aecb45b7a5a93be98ec96dd4db2ff/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2021690637",
-  "deezer": 2021690637
+  "deezer": 2021690637,
+  "isrc": "QMDA72229703",
+  "apple": "1655192338",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/e6/98/bfe69870-e118-e872-b8fa-d0276120b213/mzaf_15666343668134963127.plus.aac.p.m4a"
  },
  {
   "id": 856219252,
@@ -6202,7 +7877,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b19cf6b4f02ac48f8e60880c8445713/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/856219252",
-  "deezer": 856219252
+  "deezer": 856219252,
+  "isrc": "TCADE1754425",
+  "apple": "1495597769",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/27/c6/0f27c614-3edd-8090-79ea-fff9ef62f555/mzaf_16274930474018696846.plus.aac.p.m4a"
  },
  {
   "id": 3190188901,
@@ -6213,7 +7891,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4c9f71be20e1349408a85c3dffc7995b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3190188901",
-  "deezer": 3190188901
+  "deezer": 3190188901,
+  "isrc": "CAC0C2400959",
+  "apple": "1812426650",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/c3/5a/cec35ae7-dce0-cab1-3b4e-6bdda3a98a5b/mzaf_12944365064802109349.plus.aac.p.m4a"
  },
  {
   "id": 3706017592,
@@ -6224,7 +7905,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017592",
-  "deezer": 3706017592
+  "deezer": 3706017592,
+  "isrc": "CAL642601006",
+  "apple": "1860103838",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/b1/b4/65b1b4d2-2293-000c-8fba-061eaa532763/mzaf_14359832316986912286.plus.aac.p.m4a"
  },
  {
   "id": 1405590502,
@@ -6235,7 +7919,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7c034f43937dec6f6b1b3b794782c9f3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1405590502",
-  "deezer": 1405590502
+  "deezer": 1405590502,
+  "isrc": "CAZ700100091",
+  "apple": "1572043508",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/20/68/df206845-ac81-0c42-b0fe-d52630da8f23/mzaf_17242136399791780742.plus.aac.p.m4a"
  },
  {
   "id": 773118112,
@@ -6246,7 +7933,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e0a497e7096ca2313b3bd686866363e9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/773118112",
-  "deezer": 773118112
+  "deezer": 773118112,
+  "isrc": "CAD431998012",
+  "apple": "1482953118",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/e8/00/68e80018-f701-f672-59b6-15c9e0317103/mzaf_8167611926459273254.plus.aac.p.m4a"
  },
  {
   "id": 128234277,
@@ -6257,7 +7947,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/05d387aab886a33d5b8cb6a55cde4640/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234277",
-  "deezer": 128234277
+  "deezer": 128234277,
+  "isrc": "CAA501129703",
+  "apple": "1551603025",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/18/53/85/18538544-d53b-0907-27be-61e71217125c/mzaf_3767946041639555119.plus.aac.p.m4a"
  },
  {
   "id": 1024282442,
@@ -6268,7 +7961,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bdb639c6972b2f3f912a810906c90acb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1024282442",
-  "deezer": 1024282442
+  "deezer": 1024282442,
+  "isrc": "CAA509817004",
+  "apple": "1523945812",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/e5/e5/61e5e590-2917-b36b-116d-0684825f9641/mzaf_13871624299929126681.plus.aac.p.m4a"
  },
  {
   "id": 63572381,
@@ -6279,7 +7975,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/aa03e5f65fb0c2efd2574470fbd8b93f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/63572381",
-  "deezer": 63572381
+  "deezer": 63572381,
+  "isrc": "CAL541214407",
+  "apple": "594665752",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/46/0a/10/460a10cb-1a44-7383-595d-7cfe63f65408/mzaf_5860600019476988356.plus.aac.p.m4a"
  },
  {
   "id": 128235995,
@@ -6290,7 +7989,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a5008df891cf9e90b2775635198a2d7d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128235995",
-  "deezer": 128235995
+  "deezer": 128235995,
+  "isrc": "CAA509698003",
+  "apple": "1551609803",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/8f/b3/1b/8fb31b93-bc02-8da6-b5c7-860304de5ec9/mzaf_14954453037918569519.plus.aac.p.m4a"
  },
  {
   "id": 1493932322,
@@ -6301,7 +8003,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/220fe2babc40b34c58cfbe8d0f70f57e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1493932322",
-  "deezer": 1493932322
+  "deezer": 1493932322,
+  "isrc": "CAK920807619",
+  "apple": "1585815276",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/fb/0f/b5fb0f46-1a94-c27d-64ea-05aa17ae4373/mzaf_3683350329673001213.plus.aac.p.m4a"
  },
  {
   "id": 86384327,
@@ -6312,7 +8017,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/59f1df6040eb97e9a8b722e079054c78/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/86384327",
-  "deezer": 86384327
+  "deezer": 86384327,
+  "isrc": "CAL541416408",
+  "apple": "921261287",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/80/b8/ea80b865-fc12-5852-a9dd-faae6a10b5aa/mzaf_18184366028829834856.plus.aac.p.m4a"
  },
  {
   "id": 3697444132,
@@ -6323,7 +8031,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1958fdb17cbc462886d8b684878058df/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3697444132",
-  "deezer": 3697444132
+  "deezer": 3697444132,
+  "isrc": "CAL541517203",
+  "apple": "1856973016",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/d4/05/2ad40536-006f-6844-6df2-25dbfa903a79/mzaf_1374464991259389641.plus.aac.p.m4a"
  },
  {
   "id": 811213402,
@@ -6334,7 +8045,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1d375a49cf21237d46e400d61c196770/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/811213402",
-  "deezer": 811213402
+  "deezer": 811213402,
+  "isrc": "CAD431998103",
+  "apple": "1488375354",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/86/ef/2786ef50-555f-f84d-86aa-217272cb2bb6/mzaf_14720183500658539575.plus.aac.p.m4a"
  },
  {
   "id": 3399416191,
@@ -6345,7 +8059,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3399416191",
-  "deezer": 3399416191
+  "deezer": 3399416191,
+  "isrc": "CAZ700805954"
  },
  {
   "id": 3144390631,
@@ -6356,7 +8071,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1c7fce279a331fbf218e2cf3a5236ff2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3144390631",
-  "deezer": 3144390631
+  "deezer": 3144390631,
+  "isrc": "CAZ842400143",
+  "apple": "1784275514",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/38/df/1038dff0-df01-dd44-5e1b-776a7bcc6b2e/mzaf_3509975306800651310.plus.aac.p.m4a"
  },
  {
   "id": 1700265267,
@@ -6367,7 +8085,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4d44514466ebba36cc949d2f26f25b4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1700265267",
-  "deezer": 1700265267
+  "deezer": 1700265267,
+  "isrc": "CAA502246705",
+  "apple": "1618820748",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/89/64/438964d3-4cfa-240e-a43a-046c7bb6d75c/mzaf_3339210283489875420.plus.aac.p.m4a"
  },
  {
   "id": 405318452,
@@ -6378,7 +8099,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f336e8fc34ea84a32d5c58fb4d30d3b4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/405318452",
-  "deezer": 405318452
+  "deezer": 405318452,
+  "isrc": "CAF661600308",
+  "apple": "1444189340",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/e5/48/59e54885-92ab-cd0e-ac15-712a020387ac/mzaf_856830693891312025.plus.aac.p.m4a"
  },
  {
   "id": 1700265297,
@@ -6389,7 +8113,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4d44514466ebba36cc949d2f26f25b4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1700265297",
-  "deezer": 1700265297
+  "deezer": 1700265297,
+  "isrc": "CAA502246707",
+  "apple": "1618820753",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/ae/37/1bae3736-691a-a457-a857-0c7c6e08520a/mzaf_10564653379030607173.plus.aac.p.m4a"
  },
  {
   "id": 3697443642,
@@ -6400,7 +8127,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df678573ca1306f44834ba3a516a60c6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3697443642",
-  "deezer": 3697443642
+  "deezer": 3697443642,
+  "isrc": "CAL541113104",
+  "apple": "1856973647",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/60/d8/1b60d841-6fc5-4044-97e7-4fe382a6483c/mzaf_6566935052183973235.plus.aac.p.m4a"
  },
  {
   "id": 762616472,
@@ -6411,7 +8141,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9b64fcc062d539ec27b1a2041a42feb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/762616472",
-  "deezer": 762616472
+  "deezer": 762616472,
+  "isrc": "SEYOK1762667",
+  "apple": "1481324548",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/5f/64/fb5f6428-c3e3-9186-5d50-362286889bee/mzaf_14326727174306608413.plus.aac.p.m4a"
  },
  {
   "id": 3278043891,
@@ -6422,7 +8155,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3278043891",
-  "deezer": 3278043891
+  "deezer": 3278043891,
+  "isrc": "CALXJ2520007",
+  "apple": "1871513948",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/8c/47/b08c4789-e304-1383-9add-aba9ac194297/mzaf_2936264086769504333.plus.aac.p.m4a"
  },
  {
   "id": 71903019,
@@ -6433,7 +8169,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4bf1c0197dd48ef30d143e22b6880436/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/71903019",
-  "deezer": 71903019
+  "deezer": 71903019,
+  "isrc": "CAE601100406",
+  "apple": "1062364030",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/55/fc/5855fc5f-a264-e716-2342-516df1571908/mzaf_8360131110373620144.plus.aac.p.m4a"
  },
  {
   "id": 92976174,
@@ -6444,7 +8183,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2f469d48000a7d9aae2c182f00351d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/92976174",
-  "deezer": 92976174
+  "deezer": 92976174,
+  "isrc": "CAH681300008",
+  "apple": "955579420",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/e3/7e/12e37e79-e84a-d3c7-5517-f79f7215a88a/mzaf_2373799209579839433.plus.aac.p.m4a"
  },
  {
   "id": 65760326,
@@ -6455,7 +8197,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96e1a660480f37b03d06be72266bb576/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760326",
-  "deezer": 65760326
+  "deezer": 65760326,
+  "isrc": "CAD431292501",
+  "apple": "627031301",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/09/25/c7/0925c72f-1c97-6a4a-aa3e-52f41c0edef5/mzaf_6386570825848705287.plus.aac.p.m4a"
  },
  {
   "id": 2774766401,
@@ -6466,7 +8211,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/89f7cc2cd85f460f6f17411c959095cd/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2774766401",
-  "deezer": 2774766401
+  "deezer": 2774766401,
+  "isrc": "CAC0C2400888",
+  "apple": "1812426118",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/3a/36/303a36e4-04bb-b9c2-672e-f6e24f3947e1/mzaf_364490695684584539.plus.aac.p.m4a"
  },
  {
   "id": 1498021412,
@@ -6477,7 +8225,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/782cba032ac1537e035fb5c62a9ad191/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1498021412",
-  "deezer": 1498021412
+  "deezer": 1498021412,
+  "isrc": "CAP781100104",
+  "apple": "1715480108",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/f6/27/f9f62725-b0be-e013-6501-c0935a3062da/mzaf_9616323122517454905.plus.aac.p.m4a"
  },
  {
   "id": 129499600,
@@ -6488,7 +8239,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae78a89d49082fe78cc4a82025070e85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/129499600",
-  "deezer": 129499600
+  "deezer": 129499600,
+  "isrc": "CAH681600045",
+  "apple": "1139888652",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/e5/3e/a8e53e64-b569-b46b-cbd9-b86a076ea8dd/mzaf_196298555995833424.plus.aac.p.m4a"
  },
  {
   "id": 4256417681,
@@ -6499,7 +8253,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256417681",
-  "deezer": 4256417681
+  "deezer": 4256417681,
+  "isrc": "CAH682600162",
+  "apple": "6780499986",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/58/50/d55850a1-f1e7-10e9-aeb5-f71177485b2b/mzaf_14122316304539187873.plus.aac.p.m4a"
  },
  {
   "id": 597525002,
@@ -6510,7 +8267,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e19c7a2e78456f26940c50d8a984d735/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/597525002",
-  "deezer": 597525002
+  "deezer": 597525002,
+  "isrc": "CAIKK1800002",
+  "apple": "1445239141",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/8c/d5/128cd55f-e401-f2e6-dbfb-49bb7f76e258/mzaf_13210319268013244986.plus.aac.p.m4a"
  },
  {
   "id": 4256417571,
@@ -6521,7 +8281,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256417571",
-  "deezer": 4256417571
+  "deezer": 4256417571,
+  "isrc": "CAH682600172",
+  "apple": "6807454502",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/d8/15/2bd81585-e0c5-8a29-e1f7-4616ebde8b9b/mzaf_8707715531004237800.plus.aac.p.m4a"
  },
  {
   "id": 762610262,
@@ -6532,7 +8295,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6782eae87f7264ac43dec12ff9f2a022/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/762610262",
-  "deezer": 762610262
+  "deezer": 762610262,
+  "isrc": "SEYOK1651784",
+  "apple": "1481323784",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/29/dd/61/29dd61ad-5bbd-817c-1f53-286a2ee8bbf8/mzaf_8963532892970426878.plus.aac.p.m4a"
  },
  {
   "id": 2188960197,
@@ -6543,7 +8309,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4d722bce3982b4b6aadab12e9aa0b7e8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2188960197",
-  "deezer": 2188960197
+  "deezer": 2188960197,
+  "isrc": "CAPWH2200010",
+  "apple": "1666981496",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/92/76/9b/92769baa-2981-4d45-38fe-94af9a82b99f/mzaf_7372643752651354650.plus.aac.p.m4a"
  },
  {
   "id": 62355478,
@@ -6554,7 +8323,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/24a3555d7c9716038b660641dfd07bd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/62355478",
-  "deezer": 62355478
+  "deezer": 62355478,
+  "isrc": "CAY641100091",
+  "apple": "579537892",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/01/bc/19/01bc193b-b882-f84e-c19e-a98012550bb2/mzaf_11587804365526041191.plus.aac.p.m4a"
  },
  {
   "id": 3973054751,
@@ -6565,7 +8337,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054751",
-  "deezer": 3973054751
+  "deezer": 3973054751,
+  "isrc": "CA9L62600402",
+  "apple": "1893131325",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/4d/a7/694da7c8-d34f-00aa-aaf9-4144cba076f7/mzaf_12512603139661435867.plus.aac.p.m4a"
  },
  {
   "id": 3487752281,
@@ -6576,7 +8351,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9a3c174de2bc208ef2755d1d66e8e459/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3487752281",
-  "deezer": 3487752281
+  "deezer": 3487752281,
+  "isrc": "CAZ700300548",
+  "apple": "1830537425",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/43/63/d74363a4-0ce5-2108-5a54-c187c3ce7a0e/mzaf_16698713100281368917.plus.aac.p.m4a"
  },
  {
   "id": 1661007412,
@@ -6587,7 +8365,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06addb9b6100e2519a2c7ce810fcb68d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1661007412",
-  "deezer": 1661007412
+  "deezer": 1661007412,
+  "isrc": "CAG600390510",
+  "apple": "253528279",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/62/22/666222c8-2bde-0312-debf-e0baa1b0632f/mzaf_344631790396859904.plus.aac.p.m4a"
  },
  {
   "id": 4094316991,
@@ -6598,7 +8379,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1e4de278e086a31c4f1a463cbf1d3e6c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4094316991",
-  "deezer": 4094316991
+  "deezer": 4094316991,
+  "isrc": "CAZ700906426",
+  "apple": "6781354484",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/ce/25/7bce25b3-9583-8686-fb86-4c73e2027f75/mzaf_2035167785790246578.plus.aac.p.m4a"
  },
  {
   "id": 4256417551,
@@ -6609,7 +8393,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256417551",
-  "deezer": 4256417551
+  "deezer": 4256417551,
+  "isrc": "CAH682600171",
+  "apple": "6807454500",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/38/b7/4e38b7e6-31a8-3eaf-bedc-5f4aeabf1be6/mzaf_7163514747521298379.plus.aac.p.m4a"
  },
  {
   "id": 3763867462,
@@ -6620,7 +8407,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3763867462",
-  "deezer": 3763867462
+  "deezer": 3763867462,
+  "isrc": "CAR722563311",
+  "apple": "1849437153",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/e4/80/4ce480ab-b35b-50e5-737a-28acf87fca24/mzaf_6198034772091402126.plus.aac.p.m4a"
  },
  {
   "id": 1060191192,
@@ -6631,7 +8421,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6710419d082a74380586a97da5ecd0fc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1060191192",
-  "deezer": 1060191192
+  "deezer": 1060191192,
+  "isrc": "CAJ620620001",
+  "apple": "1529050225",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/35/ef/6b35ef3b-7255-f8d3-f2cd-7b0a4527751f/mzaf_5768318580246715140.plus.aac.p.m4a"
  },
  {
   "id": 1296825512,
@@ -6642,7 +8435,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1296825512",
-  "deezer": 1296825512
+  "deezer": 1296825512,
+  "isrc": "CAPWH2100012",
+  "apple": "1622206384",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/22/b1/93/22b193a2-8856-7f78-a266-daec74aa6774/mzaf_9386957301786436613.plus.aac.p.m4a"
  },
  {
   "id": 3105145351,
@@ -6653,7 +8449,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4200c2b505b52120fb0697685bf66b25/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3105145351",
-  "deezer": 3105145351
+  "deezer": 3105145351,
+  "isrc": "USX9P1238005",
+  "apple": "1781106819",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/2a/ba/bd2abaa5-0f4b-9b9d-6e1c-635587f63ca7/mzaf_11112648643308474690.plus.aac.p.m4a"
  },
  {
   "id": 130814488,
@@ -6664,7 +8463,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b9c815f5a0a50d4bdeabf02e8c5c13c1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/130814488",
-  "deezer": 130814488
+  "deezer": 130814488,
+  "isrc": "CAD431695602",
+  "apple": "1148986925",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/4f/bd/524fbd56-2642-3999-34d0-109cb8894e2d/mzaf_14735977182153581420.plus.aac.p.m4a"
  },
  {
   "id": 617423142,
@@ -6675,7 +8477,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/420e9641de9be262f3d9ee9a468e14d5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/617423142",
-  "deezer": 617423142
+  "deezer": 617423142,
+  "isrc": "CAU160300283",
+  "apple": "1443504931",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/2a/da/522adac8-3a82-c5e6-9a09-1781459a0b28/mzaf_14858307558015552821.plus.aac.p.m4a"
  },
  {
   "id": 128325721,
@@ -6686,7 +8491,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128325721",
-  "deezer": 128325721
+  "deezer": 128325721,
+  "isrc": "CAA501435201",
+  "apple": "1551590248",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/e9/e0/cae9e0dc-1e39-2474-00c0-c1b9d40892a3/mzaf_8129047525935679970.plus.aac.p.m4a"
  },
  {
   "id": 3756794172,
@@ -6697,7 +8505,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fda9b12809be88bc82c86acd848d014d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756794172",
-  "deezer": 3756794172
+  "deezer": 3756794172,
+  "isrc": "CAD431594912",
+  "apple": "1866623175",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/76/40/af76407b-6be3-b33b-4a96-23047b9031f0/mzaf_997535268450518301.plus.aac.p.m4a"
  },
  {
   "id": 3167990331,
@@ -6708,7 +8519,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3e23368c17523650f3c4a56b11a3faa3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3167990331",
-  "deezer": 3167990331
+  "deezer": 3167990331,
+  "isrc": "CAZ841500048",
+  "apple": "1333157034",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/51/d9/fe51d95e-f130-b2a4-e137-ab44b2d6cf24/mzaf_109429857744660815.plus.aac.p.m4a"
  },
  {
   "id": 140793259,
@@ -6719,7 +8533,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2daadde0639a146799226c1036fc59d1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/140793259",
-  "deezer": 140793259
+  "deezer": 140793259,
+  "isrc": "TCACW1730423",
+  "apple": "1200025623",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/3f/47/d43f473a-4a18-f8e7-0052-e5683b9232d5/mzaf_13514165859776920939.plus.aac.p.m4a"
  },
  {
   "id": 3801750372,
@@ -6730,7 +8547,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/51fb48f80a6692f643cfc2f7e89232e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3801750372",
-  "deezer": 3801750372
+  "deezer": 3801750372,
+  "isrc": "CAZ842600013",
+  "apple": "1870611968",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/85/40/a4854023-36e6-9d86-4979-0e2d83460350/mzaf_2256681229609820481.plus.aac.p.m4a"
  },
  {
   "id": 3832550681,
@@ -6741,7 +8561,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df172965a1934a3992acb61495f540ed/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3832550681",
-  "deezer": 3832550681
+  "deezer": 3832550681,
+  "isrc": "CAPGR2500006",
+  "apple": "1850990201",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/3e/db/c43edb07-bd6b-c5b2-be56-4a26d208e8f9/mzaf_10455753569714771702.plus.aac.p.m4a"
  },
  {
   "id": 3278043901,
@@ -6752,7 +8575,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3278043901",
-  "deezer": 3278043901
+  "deezer": 3278043901,
+  "isrc": "CALXJ2520009",
+  "apple": "1871513949",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/6c/0f/f36c0f4f-56cd-ad98-45d9-f158dac1e9aa/mzaf_14474722788606435093.plus.aac.p.m4a"
  },
  {
   "id": 73284112,
@@ -6763,7 +8589,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1f7023c2b951c3c2c478531eeab82685/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/73284112",
-  "deezer": 73284112
+  "deezer": 73284112,
+  "isrc": "CAI251313802",
+  "apple": "956320234",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/d4/3e/73d43ef4-b35a-59fc-136c-bc036ccd20a0/mzaf_2755361517333656421.plus.aac.p.m4a"
  },
  {
   "id": 3713914432,
@@ -6774,7 +8603,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b296e5fc4f5e5fdc923cc003ce7eeaf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3713914432",
-  "deezer": 3713914432
+  "deezer": 3713914432,
+  "isrc": "CAS501300005",
+  "apple": "1861018322",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/33/55/8733552a-3539-82d4-7347-f3ebf170b6c0/mzaf_9390179673031935018.plus.aac.p.m4a"
  },
  {
   "id": 2072946817,
@@ -6785,7 +8617,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed95e6c17a24d00a1d8c2923c8475b4a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2072946817",
-  "deezer": 2072946817
+  "deezer": 2072946817,
+  "isrc": "CAS741786504",
+  "apple": "1658904892",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/0f/b6/da0fb6e8-dd58-c5f0-4f58-2c25260e5a1b/mzaf_2920416877454515677.plus.aac.p.m4a"
  },
  {
   "id": 1498027982,
@@ -6796,7 +8631,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fde64912119b2b9a5e258e41b23d0233/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1498027982",
-  "deezer": 1498027982
+  "deezer": 1498027982,
+  "isrc": "CAP780900303",
+  "apple": "1715481004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/a7/00/9aa70015-9b48-a366-aa23-b0eabe710680/mzaf_15979076684980956646.plus.aac.p.m4a"
  },
  {
   "id": 566085902,
@@ -6807,7 +8645,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7087d9567d0e8059b460e3e672b9f1b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/566085902",
-  "deezer": 566085902
+  "deezer": 566085902,
+  "isrc": "CAE861810002",
+  "apple": "1438581001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/8b/57/e28b5786-f2bc-97b8-cdee-0fbb494138c1/mzaf_11978437180598203071.plus.aac.p.m4a"
  },
  {
   "id": 4096891371,
@@ -6818,7 +8659,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4096891371",
-  "deezer": 4096891371
+  "deezer": 4096891371,
+  "isrc": "CAA509003701",
+  "apple": "6781751910",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/51/af/3251af77-7538-0c54-6951-a8090c14696d/mzaf_9149377592619211778.plus.aac.p.m4a"
  },
  {
   "id": 128234841,
@@ -6829,7 +8673,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234841",
-  "deezer": 128234841
+  "deezer": 128234841,
+  "isrc": "CAP608802305",
+  "apple": "1551593589",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/98/b2/de/98b2de7e-b970-9e44-a91c-e3c545a76c23/mzaf_4824173570891043047.plus.aac.p.m4a"
  },
  {
   "id": 1409440312,
@@ -6840,7 +8687,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1409440312",
-  "deezer": 1409440312
+  "deezer": 1409440312,
+  "isrc": "CAL641219932",
+  "apple": "1573038945",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/b6/0f/2eb60fd9-bd95-80d0-4688-0832795847ab/mzaf_12009667117830563324.plus.aac.p.m4a"
  },
  {
   "id": 3973054761,
@@ -6851,7 +8701,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054761",
-  "deezer": 3973054761
+  "deezer": 3973054761,
+  "isrc": "CA9L62600403",
+  "apple": "6762649745",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/82/30/758230e4-802e-e3ce-df6c-b731be74a55b/mzaf_13617431318091262197.plus.aac.p.m4a"
  },
  {
   "id": 1065567392,
@@ -6862,7 +8715,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1065567392",
-  "deezer": 1065567392
+  "deezer": 1065567392,
+  "isrc": "CAS741585202",
+  "apple": "1528642541",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/47/8f/35478fc1-7b35-5df4-f889-d8c0ff57cca5/mzaf_247813954783280295.plus.aac.p.m4a"
  },
  {
   "id": 4144375582,
@@ -6873,7 +8729,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4144375582",
-  "deezer": 4144375582
+  "deezer": 4144375582,
+  "isrc": "CAD432606803",
+  "apple": "6789289005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/b6/f9/06b6f92e-227e-ce96-b561-0c5724c83ef8/mzaf_288668169193736681.plus.aac.p.m4a"
  },
  {
   "id": 654337362,
@@ -6884,7 +8743,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c4c6b3e7a3e79c9ffe121b3741a16460/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/654337362",
-  "deezer": 654337362
+  "deezer": 654337362,
+  "isrc": "QZDA71849171",
+  "apple": "1457610972",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/dd/54/94/dd5494ec-987d-5eaa-300b-ac58828f961e/mzaf_11415211252336401708.plus.aac.p.m4a"
  },
  {
   "id": 1082535442,
@@ -6895,7 +8757,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8380c7ead583ca379db52f1d7d7d6be9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1082535442",
-  "deezer": 1082535442
+  "deezer": 1082535442,
+  "isrc": "CAL541718210",
+  "apple": "1532142203",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/15/37/f2/1537f2e9-89de-67cd-640a-2f22e55081a5/mzaf_15749662654207779851.plus.aac.p.m4a"
  },
  {
   "id": 3763867442,
@@ -6906,7 +8771,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3763867442",
-  "deezer": 3763867442
+  "deezer": 3763867442,
+  "isrc": "CAR722563309",
+  "apple": "1848012229",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/75/a1/2d75a1d1-5cda-e5f8-68cb-b88221040788/mzaf_12206428313327372984.plus.aac.p.m4a"
  },
  {
   "id": 4294948412,
@@ -6917,7 +8785,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/70e7b97cdf425c29caf1c3675776087e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4294948412",
-  "deezer": 4294948412
+  "deezer": 4294948412,
+  "isrc": "CAB529481030",
+  "apple": "6813603644",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/0f/ea/960feaf2-3187-58e1-2834-b3643b833c12/mzaf_18146925655041319599.plus.aac.p.m4a"
  },
  {
   "id": 1403728772,
@@ -6928,7 +8799,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/abec85a65725cc6258185dd13dcd85fb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1403728772",
-  "deezer": 1403728772
+  "deezer": 1403728772,
+  "isrc": "CAZ700000263",
+  "apple": "1572544591",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/49/ce/0c49ce72-aa99-c6b8-207c-bac64a3bddd2/mzaf_6048495268097024659.plus.aac.p.m4a"
  },
  {
   "id": 3973054771,
@@ -6939,7 +8813,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054771",
-  "deezer": 3973054771
+  "deezer": 3973054771,
+  "isrc": "CA9L62600404",
+  "apple": "1893131315",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/f0/13/e7f01335-c8e1-9157-3ba2-ce9aca587603/mzaf_14994731388810978280.plus.aac.p.m4a"
  },
  {
   "id": 128234799,
@@ -6950,7 +8827,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c97f0b16eac1f62707a36c5af8eb61fe/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234799",
-  "deezer": 128234799
+  "deezer": 128234799,
+  "isrc": "CAA508802302",
+  "apple": "1551593069",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/1a/d1/3e/1ad13e9c-2215-a0da-238f-f0aaac6048e5/mzaf_17007402710381925089.plus.aac.p.m4a"
  },
  {
   "id": 3136042501,
@@ -6961,7 +8841,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ea11ab47d1c7e8a320b98ffcc31dcc35/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3136042501",
-  "deezer": 3136042501
+  "deezer": 3136042501,
+  "isrc": "CACEB1706613",
+  "apple": "1784529611",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/8e/ac/6b8eac1c-0a91-0830-9d29-18d785b9a044/mzaf_6983542925402969146.plus.aac.p.m4a"
  },
  {
   "id": 1540443202,
@@ -6972,7 +8855,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1540443202",
-  "deezer": 1540443202
+  "deezer": 1540443202,
+  "isrc": "CA0U32100007",
+  "apple": "1594080608",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/38/6b/68/386b6852-9711-dc65-25c4-bac02ddbe264/mzaf_3519361932774323547.plus.aac.p.m4a"
  },
  {
   "id": 1082535372,
@@ -6983,7 +8869,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8380c7ead583ca379db52f1d7d7d6be9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1082535372",
-  "deezer": 1082535372
+  "deezer": 1082535372,
+  "isrc": "CAL541718203",
+  "apple": "1532141752",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a8/53/01/a8530127-7047-c852-24b1-be884f388aef/mzaf_144985569390704660.plus.aac.p.m4a"
  },
  {
   "id": 2873551922,
@@ -6994,7 +8883,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/da7250a1e6ee50bf4fe8bc57bf7cc9ca/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2873551922",
-  "deezer": 2873551922
+  "deezer": 2873551922,
+  "isrc": "CA60L2420002",
+  "apple": "1808739411",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/fc/74/5ffc746c-83a7-81ad-90a7-db4b0695e21e/mzaf_1166670190331441040.plus.aac.p.m4a"
  },
  {
   "id": 128234887,
@@ -7005,7 +8897,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234887",
-  "deezer": 128234887
+  "deezer": 128234887,
+  "isrc": "CAP609001705",
+  "apple": "1551594954",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/78/28/c8/7828c81c-91e2-1ed6-3e11-f918b8e53768/mzaf_7272649722778236492.plus.aac.p.m4a"
  },
  {
   "id": 109118190,
@@ -7016,7 +8911,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ff7b92b3e58b83d892a310dcee9ec726/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109118190",
-  "deezer": 109118190
+  "deezer": 109118190,
+  "isrc": "CAQ561522014",
+  "apple": "1047336973",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/0e/7b/420e7bd5-ddfc-8a10-0651-b7ff230dd257/mzaf_13306048049006482027.plus.aac.p.m4a"
  },
  {
   "id": 1497629632,
@@ -7027,7 +8925,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eedcd5f71daf952f57cdd3cc29dfc25/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497629632",
-  "deezer": 1497629632
+  "deezer": 1497629632,
+  "isrc": "CAD520700175",
+  "apple": "1749638301",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/ca/8f/53ca8f3c-bd7a-fbf4-03c7-e5a1ef060058/mzaf_9229421404262624594.plus.aac.p.m4a"
  },
  {
   "id": 2448204235,
@@ -7038,7 +8939,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2448204235",
-  "deezer": 2448204235
+  "deezer": 2448204235,
+  "isrc": "CBBJH2300001",
+  "apple": "1699489532",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/37/eb/66/37eb66d5-7a1d-97dc-b5c0-2c0a8f786985/mzaf_9002473304825822129.plus.aac.p.m4a"
  },
  {
   "id": 4224428732,
@@ -7049,7 +8953,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/139b39e4d037e5476a73a5de326dd3d7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4224428732",
-  "deezer": 4224428732
+  "deezer": 4224428732,
+  "isrc": "CAZ841500001",
+  "apple": "6805193810",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/d2/c3/96d2c377-34a1-2dc3-3026-8fd975a41eda/mzaf_2035742295600604511.plus.aac.p.m4a"
  },
  {
   "id": 65295647,
@@ -7060,7 +8967,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2ffc4f75736765e42a0f152446511f62/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65295647",
-  "deezer": 65295647
+  "deezer": 65295647,
+  "isrc": "CAC221300003",
+  "apple": "616312395",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/2e/d7/d32ed7d3-8553-62cc-cee1-9dc96aa1c30e/mzaf_7314413551658098480.plus.aac.p.m4a"
  },
  {
   "id": 1497900282,
@@ -7071,7 +8981,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/81a1604045172f81f46acb1c8b18e18d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497900282",
-  "deezer": 1497900282
+  "deezer": 1497900282,
+  "isrc": "CA2HQ1900006",
+  "apple": "1715453530",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c4/67/f5/c467f5ee-fb09-f6ea-983c-09a4fe62d320/mzaf_12598215501962582259.plus.aac.p.m4a"
  },
  {
   "id": 1540443272,
@@ -7082,7 +8995,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1540443272",
-  "deezer": 1540443272
+  "deezer": 1540443272,
+  "isrc": "CA0U32100014",
+  "apple": "1594080684",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c2/f9/54/c2f95421-ccc3-df6f-5b15-7787c592ffe2/mzaf_15320405336198138617.plus.aac.p.m4a"
  },
  {
   "id": 62355483,
@@ -7093,7 +9009,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/24a3555d7c9716038b660641dfd07bd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/62355483",
-  "deezer": 62355483
+  "deezer": 62355483,
+  "isrc": "CAY641100096",
+  "apple": "579537898",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/94/56/53/945653f5-d641-7b2a-0e50-518499068904/mzaf_5737111437986024522.plus.aac.p.m4a"
  },
  {
   "id": 4144375612,
@@ -7104,7 +9023,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4144375612",
-  "deezer": 4144375612
+  "deezer": 4144375612,
+  "isrc": "CAD432606806",
+  "apple": "6789289030",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/09/2f/6d092f05-6b6a-a96c-92a7-86039f7c3e1a/mzaf_14707142028557239497.plus.aac.p.m4a"
  },
  {
   "id": 362739811,
@@ -7115,7 +9037,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/afe6f2ce39788c1bad5a79800ec83194/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/362739811",
-  "deezer": 362739811
+  "deezer": 362739811,
+  "isrc": "CAS528700921"
  },
  {
   "id": 1036062752,
@@ -7126,7 +9049,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036062752",
-  "deezer": 1036062752
+  "deezer": 1036062752,
+  "isrc": "CA60L1760004",
+  "apple": "1525440918",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/a2/6c/8ea26cd6-bea0-7af5-5bd7-47b639801b46/mzaf_15107467845489665116.plus.aac.p.m4a"
  },
  {
   "id": 452803062,
@@ -7137,7 +9063,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8ffed50945af03b3651e70fd2ccd2fd5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/452803062",
-  "deezer": 452803062
+  "deezer": 452803062,
+  "isrc": "CAH681700003",
+  "apple": "1221576165",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/6b/13/c76b13f4-b810-a7ba-b957-24549c3cb888/mzaf_12101810285521352222.plus.aac.p.m4a"
  },
  {
   "id": 4062796051,
@@ -7148,7 +9077,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8e82de95e3eb3fc2cb5d13d3b1b1dca3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4062796051",
-  "deezer": 4062796051
+  "deezer": 4062796051,
+  "isrc": "CAV902000001",
+  "apple": "6776839093",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/ca/3e/81ca3eb7-149b-4509-c8d1-bb93e06f2055/mzaf_606562741160013509.plus.aac.p.m4a"
  },
  {
   "id": 1405590642,
@@ -7159,7 +9091,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7c034f43937dec6f6b1b3b794782c9f3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1405590642",
-  "deezer": 1405590642
+  "deezer": 1405590642,
+  "isrc": "CAZ700100105",
+  "apple": "1572043524",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cd/3c/d7/cd3cd74f-8d86-298e-28d9-5e44bc2ecae9/mzaf_8202119492014173729.plus.aac.p.m4a"
  },
  {
   "id": 507905042,
@@ -7170,7 +9105,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8fe51cec475273f15728dcdc15e62e3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/507905042",
-  "deezer": 507905042
+  "deezer": 507905042,
+  "isrc": "CAD431897301",
+  "apple": "1393141119",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/47/d6/a7/47d6a706-c117-9b4e-c111-f07631694fa6/mzaf_5755622472083707821.plus.aac.p.m4a"
  },
  {
   "id": 3973054791,
@@ -7181,7 +9119,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054791",
-  "deezer": 3973054791
+  "deezer": 3973054791,
+  "isrc": "CA9L62600406",
+  "apple": "6762649754",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/a5/6c/a4a56c14-d543-1acc-2c40-75a721774e55/mzaf_5865253861729319288.plus.aac.p.m4a"
  },
  {
   "id": 1533431912,
@@ -7192,7 +9133,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0b0569c968742b15b6cc8ebc4e71300f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1533431912",
-  "deezer": 1533431912
+  "deezer": 1533431912,
+  "isrc": "CAUM72100188",
+  "apple": "1591636412",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/a5/9c/b6a59c62-ddb8-038e-e74d-7866e3241864/mzaf_6803219740163729824.plus.aac.p.m4a"
  },
  {
   "id": 1533432002,
@@ -7203,7 +9147,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0b0569c968742b15b6cc8ebc4e71300f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1533432002",
-  "deezer": 1533432002
+  "deezer": 1533432002,
+  "isrc": "CAUM72100517",
+  "apple": "1591636639",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/f7/39/9ff7391a-3f28-5c2f-895a-a9938314448e/mzaf_8139405480197606918.plus.aac.p.m4a"
  },
  {
   "id": 2157829607,
@@ -7214,7 +9161,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/47d54c90cd6df02048c68c9587767f79/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2157829607",
-  "deezer": 2157829607
+  "deezer": 2157829607,
+  "isrc": "FRUM72300407",
+  "apple": "1673032905",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ef/78/8f/ef788f71-a0d8-81ab-2dc8-e6b5b2322966/mzaf_10527300007527452495.plus.aac.p.m4a"
  },
  {
   "id": 1800334367,
@@ -7225,7 +9175,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2b58242f332c67e9ea45a0fb5ff2c1f7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1800334367",
-  "deezer": 1800334367
+  "deezer": 1800334367,
+  "isrc": "FRUM72201675",
+  "apple": "1887939984",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/b7/b7/1db7b764-84e9-407d-2eb3-8c69e7e33242/mzaf_5470082060418738040.plus.aac.p.m4a"
  },
  {
   "id": 3024653871,
@@ -7236,7 +9189,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8bb3779312af3c067117a9e67f8ec526/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3024653871",
-  "deezer": 3024653871
+  "deezer": 3024653871,
+  "isrc": "CAA502452101",
+  "apple": "1848452594",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/2a/d8/ae2ad85a-59f4-84b6-5336-0a905d49bf65/mzaf_8243657976648473574.plus.aac.p.m4a"
  },
  {
   "id": 3019198071,
@@ -7247,7 +9203,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b2548223cb998dac0f9e8d9ed9a74fd1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3019198071",
-  "deezer": 3019198071
+  "deezer": 3019198071,
+  "isrc": "CAH682400124",
+  "apple": "1771006463",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/69/44/c9694488-5e8e-13ab-4339-30367fc0a7b6/mzaf_6194510701794958043.plus.aac.p.m4a"
  },
  {
   "id": 3949556201,
@@ -7258,7 +9217,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556201",
-  "deezer": 3949556201
+  "deezer": 3949556201,
+  "isrc": "CAFWG2600048",
+  "apple": "1891774729",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/e0/da/f3e0daff-f3b9-0266-4636-88f706d0b390/mzaf_6327774642458304464.plus.aac.p.m4a"
  },
  {
   "id": 3168302281,
@@ -7269,7 +9231,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302281",
-  "deezer": 3168302281
+  "deezer": 3168302281,
+  "isrc": "CAZ842100041",
+  "apple": "1580812581",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/41/cb/0e41cb06-8d3e-252b-26b7-5f442b903734/mzaf_3767109393114437432.plus.aac.p.m4a"
  },
  {
   "id": 2098945447,
@@ -7280,7 +9245,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ec196feb5e3869d61e346da2109375d5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2098945447",
-  "deezer": 2098945447
+  "deezer": 2098945447,
+  "isrc": "CBCDA2300001",
+  "apple": "1663509690",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/fb/e6/d0fbe6d4-3bee-2be9-e536-7e12e1994c7e/mzaf_10903699920971046702.plus.aac.p.m4a"
  },
  {
   "id": 3912693331,
@@ -7291,7 +9259,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/401f3b98eb8561de903648e574d005e0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3912693331",
-  "deezer": 3912693331
+  "deezer": 3912693331,
+  "isrc": "CBCDA2600002",
+  "apple": "1886707840",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/13/86/ea138667-9b0e-c385-6d47-07fcd0c91de9/mzaf_1419203266215740136.plus.aac.p.m4a"
  },
  {
   "id": 2255433657,
@@ -7302,7 +9273,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2255433657",
-  "deezer": 2255433657
+  "deezer": 2255433657,
+  "isrc": "CAH682300070",
+  "apple": "1684840178",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/3b/2e/e23b2efb-6490-3f98-4849-0761e35a9706/mzaf_10836966614291703832.plus.aac.p.m4a"
  },
  {
   "id": 4033488491,
@@ -7313,7 +9287,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4033488491",
-  "deezer": 4033488491
+  "deezer": 4033488491,
+  "isrc": "CAH682600105",
+  "apple": "6771388634",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/48/24/1a482479-4250-cc63-da3c-c72c2aefefa9/mzaf_5733421417346645587.plus.aac.p.m4a"
  },
  {
   "id": 3949556171,
@@ -7324,7 +9301,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556171",
-  "deezer": 3949556171
+  "deezer": 3949556171,
+  "isrc": "CAFWG2600045",
+  "apple": "1891774415",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/2e/62/7f2e62f6-807d-84f8-99bb-41494b402094/mzaf_5706147899857341305.plus.aac.p.m4a"
  },
  {
   "id": 3949556221,
@@ -7335,7 +9315,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556221",
-  "deezer": 3949556221
+  "deezer": 3949556221,
+  "isrc": "CAFWG2600039",
+  "apple": "1891774734",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/67/32/5f6732b9-14d4-aa34-a496-2c1ed309d1eb/mzaf_4043513221076044692.plus.aac.p.m4a"
  },
  {
   "id": 2788042872,
@@ -7346,7 +9329,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2788042872",
-  "deezer": 2788042872
+  "deezer": 2788042872,
+  "isrc": "CA0RZ2400019",
+  "apple": "1745182865",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/29/2e/d5292ef8-46cf-ffeb-ec72-bb4546651165/mzaf_3248939977523228938.plus.aac.p.m4a"
  },
  {
   "id": 1518379532,
@@ -7357,7 +9343,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f45bcccb717cbe0d9ff104a1075af3b8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1518379532",
-  "deezer": 1518379532
+  "deezer": 1518379532,
+  "isrc": "FRX762166574",
+  "apple": "1589794257",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9f/0d/47/9f0d47ad-a6c3-02fc-6218-a260aad6883d/mzaf_2358632465561585534.plus.aac.p.m4a"
  },
  {
   "id": 4256966941,
@@ -7368,7 +9357,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256966941",
-  "deezer": 4256966941
+  "deezer": 4256966941,
+  "isrc": "CA60L2620013",
+  "apple": "6807141207",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/cf/b7/09cfb700-9111-aad8-50e9-8ce2e02195f7/mzaf_10765337742562677448.plus.aac.p.m4a"
  },
  {
   "id": 3168302241,
@@ -7379,7 +9371,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302241",
-  "deezer": 3168302241
+  "deezer": 3168302241,
+  "isrc": "CAZ842100038",
+  "apple": "1580812405",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/99/ea/5b99ea3a-5877-f6fe-6242-cd9fc05a93a4/mzaf_8245025305707750753.plus.aac.p.m4a"
  },
  {
   "id": 3168302321,
@@ -7390,7 +9385,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302321",
-  "deezer": 3168302321
+  "deezer": 3168302321,
+  "isrc": "CAZ842100044",
+  "apple": "1580812586",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/db/19/17db19eb-a072-2a36-ab7e-2230d2eefbed/mzaf_11433143466714560090.plus.aac.p.m4a"
  },
  {
   "id": 3949556191,
@@ -7401,7 +9399,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556191",
-  "deezer": 3949556191
+  "deezer": 3949556191,
+  "isrc": "CAFWG2600047",
+  "apple": "1891774426",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/a0/1c/b3a01cae-a2c5-ced5-90ee-1c9f0ebbfb3a/mzaf_6725412375271968107.plus.aac.p.m4a"
  },
  {
   "id": 3694084032,
@@ -7412,7 +9413,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3694084032",
-  "deezer": 3694084032
+  "deezer": 3694084032,
+  "isrc": "CAD432506406",
+  "apple": "1858274163",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/98/81/e09881cf-b27b-ea0e-1734-e97fd445f91b/mzaf_9709683725213552266.plus.aac.p.m4a"
  },
  {
   "id": 3024653961,
@@ -7423,7 +9427,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8bb3779312af3c067117a9e67f8ec526/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3024653961",
-  "deezer": 3024653961
+  "deezer": 3024653961,
+  "isrc": "CAA502452110",
+  "apple": "1848453060",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/bf/83/33bf837b-5972-1ab9-72da-452068c9088a/mzaf_3041729928387306856.plus.aac.p.m4a"
  },
  {
   "id": 2788042882,
@@ -7434,7 +9441,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2788042882",
-  "deezer": 2788042882
+  "deezer": 2788042882,
+  "isrc": "CA0RZ2400020",
+  "apple": "1745183069",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/ab/3e/f3ab3e6e-9327-666c-23d2-2e226a7bf829/mzaf_12137868718779048455.plus.aac.p.m4a"
  },
  {
   "id": 856732852,
@@ -7445,7 +9455,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/856732852",
-  "deezer": 856732852
+  "deezer": 856732852,
+  "isrc": "CAD431998202",
+  "apple": "1495694446",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/c5/ac/4ec5ac04-1acc-76ec-e3d9-dfe5da618378/mzaf_9510186790377180376.plus.aac.p.m4a"
  },
  {
   "id": 856732862,
@@ -7456,7 +9469,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/856732862",
-  "deezer": 856732862
+  "deezer": 856732862,
+  "isrc": "CAD431998203",
+  "apple": "1495694447",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/72/32/8f723201-c036-1ae2-92ec-c8fd39ffe7bf/mzaf_3923310005101967069.plus.aac.p.m4a"
  },
  {
   "id": 3973473631,
@@ -7467,7 +9483,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3d25327f79e65cd93af50817cefbe544/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973473631",
-  "deezer": 3973473631
+  "deezer": 3973473631,
+  "isrc": "CAC0C2601084",
+  "apple": "6762689510",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/89/0c/88890c61-549c-9ddb-89de-073741a9455f/mzaf_3647198743358824815.plus.aac.p.m4a"
  },
  {
   "id": 3168302191,
@@ -7478,7 +9497,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302191",
-  "deezer": 3168302191
+  "deezer": 3168302191,
+  "isrc": "CAZ842100033",
+  "apple": "1580812394",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/2e/12/a12e125d-dbbf-8261-5949-58e50b749d46/mzaf_3295571630105729963.plus.aac.p.m4a"
  },
  {
   "id": 2029702627,
@@ -7489,7 +9511,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/eac934a950e91ae716ff97b826c6b448/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2029702627",
-  "deezer": 2029702627
+  "deezer": 2029702627,
+  "isrc": "CAC0C2100637",
+  "apple": "1655971378",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/17/a6/0217a6f8-28dd-d14b-913f-c8ccfdf93b20/mzaf_7418913480611359611.plus.aac.p.m4a"
  },
  {
   "id": 4256966811,
@@ -7500,7 +9525,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256966811",
-  "deezer": 4256966811
+  "deezer": 4256966811,
+  "isrc": "CA60L2620001",
+  "apple": "6807140809",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/34/ef/3434ef59-ecdf-f145-8536-c624b67b4170/mzaf_12464670524513347646.plus.aac.p.m4a"
  },
  {
   "id": 4256966921,
@@ -7511,7 +9539,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256966921",
-  "deezer": 4256966921
+  "deezer": 4256966921,
+  "isrc": "CA60L2620011",
+  "apple": "6807141194",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/f4/95/0cf4950d-2c5e-6ba2-0910-9fb5b85c3807/mzaf_16756059562098619904.plus.aac.p.m4a"
  },
  {
   "id": 3694084062,
@@ -7522,7 +9553,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3694084062",
-  "deezer": 3694084062
+  "deezer": 3694084062,
+  "isrc": "CAD432506408",
+  "apple": "1858274488",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/6a/67/5f6a67cb-0ef2-d115-b9fb-bd8a5554becb/mzaf_8830827910246720611.plus.aac.p.m4a"
  },
  {
   "id": 1695809807,
@@ -7533,7 +9567,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79da5ae72c0cd6f7fc297ed0bfc78b91/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1695809807",
-  "deezer": 1695809807
+  "deezer": 1695809807,
+  "isrc": "CA50N2210011",
+  "apple": "1615837407",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/40/be/67/40be6799-2f64-22cc-0217-7d1297027ba4/mzaf_9062904464226713358.plus.aac.p.m4a"
  },
  {
   "id": 4256966891,
@@ -7544,7 +9581,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256966891",
-  "deezer": 4256966891
+  "deezer": 4256966891,
+  "isrc": "CA60L2620009",
+  "apple": "6807141188",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/f2/67/14f2671a-e319-b554-a102-0a4504e8cc9b/mzaf_10021743831224011443.plus.aac.p.m4a"
  },
  {
   "id": 1238512712,
@@ -7555,7 +9595,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1238512712",
-  "deezer": 1238512712
+  "deezer": 1238512712,
+  "isrc": "CAD431998502",
+  "apple": "1552915697",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/d7/5c/add75cd8-c869-1b2c-8a13-cfa61eda09b9/mzaf_3346722115579053159.plus.aac.p.m4a"
  },
  {
   "id": 1814388877,
@@ -7566,7 +9609,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2280a7bd6cd3ba59200ccf2449159927/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1814388877",
-  "deezer": 1814388877
+  "deezer": 1814388877,
+  "isrc": "CA0RZ2200056",
+  "apple": "1633136010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/bd/04/44bd04ec-4ac0-6539-a5bc-f566d9a11cc8/mzaf_15015931739270735857.plus.aac.p.m4a"
  },
  {
   "id": 3319046491,
@@ -7577,7 +9623,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/231e720c11b85972d1ca0d2dab98e17e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3319046491",
-  "deezer": 3319046491
+  "deezer": 3319046491,
+  "isrc": "CAH682500008",
+  "apple": "1793563090",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/d2/92/73d292b9-30d4-bff1-5a9d-96a9b72bc242/mzaf_2266691912620969718.plus.aac.p.m4a"
  },
  {
   "id": 2125271807,
@@ -7588,7 +9637,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a8d98bb233f6801b676ac9af7a0b122/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2125271807",
-  "deezer": 2125271807
+  "deezer": 2125271807,
+  "isrc": "CAH682300023",
+  "apple": "1668128326",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/20/ac/4420acf4-2c01-0ed5-3496-a471a1d3e264/mzaf_223898562000976932.plus.aac.p.m4a"
  },
  {
   "id": 3051805381,
@@ -7599,7 +9651,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805381",
-  "deezer": 3051805381
+  "deezer": 3051805381,
+  "isrc": "CAD432405311",
+  "apple": "1774757171",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/f9/3b/2ff93bd0-c7b9-6365-e364-be4883eb8a5b/mzaf_9182656593628051987.plus.aac.p.m4a"
  },
  {
   "id": 3352919061,
@@ -7610,7 +9665,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bf216ee0ca5960733581dcbc5c223948/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3352919061",
-  "deezer": 3352919061
+  "deezer": 3352919061,
+  "isrc": "CAC0C2400955",
+  "apple": "1812426133",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/22/b4/1422b494-9785-49ce-4476-12134aab2f26/mzaf_15982303196220708098.plus.aac.p.m4a"
  },
  {
   "id": 3666988262,
@@ -7621,7 +9679,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988262",
-  "deezer": 3666988262
+  "deezer": 3666988262,
+  "isrc": "CAZ842500083",
+  "apple": "1852048506",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/36/29/6b36297c-3947-192f-961d-11b73e17b337/mzaf_8296196661218674828.plus.aac.p.m4a"
  },
  {
   "id": 1120656432,
@@ -7632,7 +9693,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1120656432",
-  "deezer": 1120656432
+  "deezer": 1120656432,
+  "isrc": "CAH682000111",
+  "apple": "1537496724",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/cb/39/20cb39ba-4c4b-6dfb-a319-0efd5c66c480/mzaf_7758792535564453125.plus.aac.p.m4a"
  },
  {
   "id": 2117809827,
@@ -7643,7 +9707,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2151edeb203c76e30943e89c558537/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2117809827",
-  "deezer": 2117809827
+  "deezer": 2117809827,
+  "isrc": "CAD432201810",
+  "apple": "1666997312",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/41/6d/54/416d5496-77f0-806d-cf5b-3f2546fc08ab/mzaf_15610801173182652871.plus.aac.p.m4a"
  },
  {
   "id": 3666988292,
@@ -7654,7 +9721,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988292",
-  "deezer": 3666988292
+  "deezer": 3666988292,
+  "isrc": "CAZ842500086",
+  "apple": "1852048510",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/f7/a3/53f7a30a-8bf6-0dac-e1a5-09398f0dd58d/mzaf_2375605956848953040.plus.aac.p.m4a"
  },
  {
   "id": 3153949641,
@@ -7665,7 +9735,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c735c3c03d967d2e0c3016b6311cd90d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3153949641",
-  "deezer": 3153949641
+  "deezer": 3153949641,
+  "isrc": "CAC0C2400976",
+  "apple": "1786812067",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/a6/a2/01a6a2c3-14d8-72d2-d2a4-4c998d6fa71e/mzaf_6806746364138919179.plus.aac.p.m4a"
  },
  {
   "id": 1120656452,
@@ -7676,7 +9749,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1120656452",
-  "deezer": 1120656452
+  "deezer": 1120656452,
+  "isrc": "CAH682000086",
+  "apple": "1533811192",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/45/3a/cb453a7c-24d8-6125-c944-3b872edcb668/mzaf_1941503494171987180.plus.aac.p.m4a"
  },
  {
   "id": 2678404572,
@@ -7687,7 +9763,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8c30b640fd4a789f57155ec1e218478a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2678404572",
-  "deezer": 2678404572
+  "deezer": 2678404572,
+  "isrc": "FR2X42448575",
+  "apple": "1728343396",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/45/e7/9c45e7b3-9b6f-f803-df83-4e3cfb2ba277/mzaf_6539399220531854955.plus.aac.p.m4a"
  },
  {
   "id": 3051805331,
@@ -7698,7 +9777,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805331",
-  "deezer": 3051805331
+  "deezer": 3051805331,
+  "isrc": "CAD432405307",
+  "apple": "1774757156",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/af/82/71af8291-e999-0f81-b901-9ba56fd9b4e1/mzaf_2418731065558092408.plus.aac.p.m4a"
  },
  {
   "id": 1120656522,
@@ -7709,7 +9791,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1120656522",
-  "deezer": 1120656522
+  "deezer": 1120656522,
+  "isrc": "CAH682000118",
+  "apple": "1537497239",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/9a/c3/199ac3be-872a-c0d8-df33-12b6fe6e979b/mzaf_9050059355915572356.plus.aac.p.m4a"
  },
  {
   "id": 1909793057,
@@ -7720,7 +9805,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9307f3159b0904606f40d98b582af32e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1909793057",
-  "deezer": 1909793057
+  "deezer": 1909793057,
+  "isrc": "CA50N2210001",
+  "apple": "1644718913",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/90/3d/c8903d0e-0aab-2577-6329-0b3af052993e/mzaf_5015144313714791412.plus.aac.p.m4a"
  },
  {
   "id": 4003519221,
@@ -7731,7 +9819,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4003519221",
-  "deezer": 4003519221
+  "deezer": 4003519221,
+  "isrc": "CAH682600127",
+  "apple": "6767222298",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/e4/b1/14e4b147-bc43-d76a-0135-9b89808f9e7c/mzaf_8512435317513595983.plus.aac.p.m4a"
  },
  {
   "id": 2607449862,
@@ -7742,7 +9833,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a06de52f60cd8ab1f84c925585133b23/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2607449862",
-  "deezer": 2607449862
+  "deezer": 2607449862,
+  "isrc": "CAA502451800",
+  "apple": "1724095865",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/dd/98/83/dd98832b-cac8-3067-779f-e1ec5f5c8be2/mzaf_16876619118060076522.plus.aac.p.m4a"
  },
  {
   "id": 3666988242,
@@ -7753,7 +9847,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988242",
-  "deezer": 3666988242
+  "deezer": 3666988242,
+  "isrc": "CAZ842500081",
+  "apple": "1852048264",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/cf/71/94cf7116-6510-ba0d-46cb-e83291b271dc/mzaf_3953839752337359870.plus.aac.p.m4a"
  },
  {
   "id": 2117809757,
@@ -7764,7 +9861,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2151edeb203c76e30943e89c558537/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2117809757",
-  "deezer": 2117809757
+  "deezer": 2117809757,
+  "isrc": "CAD432201805",
+  "apple": "1666996916",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/5f/0f/9b/5f0f9bfd-c1cf-a340-4e1b-802522ddd777/mzaf_4380389567180285966.plus.aac.p.m4a"
  },
  {
   "id": 3666988252,
@@ -7775,7 +9875,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3666988252",
-  "deezer": 3666988252
+  "deezer": 3666988252,
+  "isrc": "CAZ842500082",
+  "apple": "1852048505",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/5f/2b/045f2b09-3a98-146f-b41b-76900639089a/mzaf_3032767226571323310.plus.aac.p.m4a"
  },
  {
   "id": 3060700081,
@@ -7786,7 +9889,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b3824f57fd747ac1ff36d768b92c6429/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3060700081",
-  "deezer": 3060700081
+  "deezer": 3060700081,
+  "isrc": "CAUM72400391",
+  "apple": "1770357029",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/ea/47/1bea471b-8873-9aeb-7eb3-7b436a788dea/mzaf_8601315125866062788.plus.aac.p.m4a"
  },
  {
   "id": 3609086782,
@@ -7797,7 +9903,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3609086782",
-  "deezer": 3609086782
+  "deezer": 3609086782,
+  "isrc": "CA50N2540002",
+  "apple": "1835498048",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/2e/ef/3a2eef1a-48ae-b70d-c2d2-a483b6c520ba/mzaf_8596240646056066485.plus.aac.p.m4a"
  },
  {
   "id": 4003519261,
@@ -7808,7 +9917,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4003519261",
-  "deezer": 4003519261
+  "deezer": 4003519261,
+  "isrc": "CAH682600131",
+  "apple": "6767222410",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/9e/8f/139e8fab-edeb-e929-7d9b-1b7034b38b5d/mzaf_102826938985170928.plus.aac.p.m4a"
  },
  {
   "id": 1238512742,
@@ -7819,7 +9931,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1238512742",
-  "deezer": 1238512742
+  "deezer": 1238512742,
+  "isrc": "CAD431998508",
+  "apple": "1552915705",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/58/75/0658752e-be59-a1ab-a0c4-f4cfa5786d15/mzaf_13438533484263846508.plus.aac.p.m4a"
  },
  {
   "id": 4256417611,
@@ -7830,7 +9945,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256417611",
-  "deezer": 4256417611
+  "deezer": 4256417611,
+  "isrc": "CAH682600175",
+  "apple": "6807454509",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/35/c8/d035c8ed-5908-de06-4990-6080c339c6de/mzaf_9490101302629568595.plus.aac.p.m4a"
  },
  {
   "id": 3399905741,
@@ -7841,7 +9959,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/cf1b2de97e638f010a5cc8d6c2260bd1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3399905741",
-  "deezer": 3399905741
+  "deezer": 3399905741,
+  "isrc": "CA0RZ2500073",
+  "apple": "1818663842",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/08/ca/9808cae3-200a-28f4-a9bd-b8632af2f65a/mzaf_1843416522634133718.plus.aac.p.m4a"
  },
  {
   "id": 2009400377,
@@ -7852,7 +9973,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b0fec82aa1a7dbc5453fe09a48848b2a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2009400377",
-  "deezer": 2009400377
+  "deezer": 2009400377,
+  "isrc": "CAC0C2200795",
+  "apple": "1655972139",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/f9/92/0cf992ef-4c7f-abe2-b71c-c11ecec238fc/mzaf_11825252869793317446.plus.aac.p.m4a"
  },
  {
   "id": 3706017672,
@@ -7863,7 +9987,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017672",
-  "deezer": 3706017672
+  "deezer": 3706017672,
+  "isrc": "CAL642601014",
+  "apple": "1860104290",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/1c/d5/291cd5f8-0445-f66a-9d35-06480ef8b301/mzaf_3343638313335222162.plus.aac.p.m4a"
  },
  {
   "id": 3352919031,
@@ -7874,7 +10001,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bf216ee0ca5960733581dcbc5c223948/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3352919031",
-  "deezer": 3352919031
+  "deezer": 3352919031,
+  "isrc": "CAC0C2400954",
+  "apple": "1812426122",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/76/e5/ad76e56f-fdd8-6297-67ab-e17dfa22d6ab/mzaf_16539274758195767921.plus.aac.p.m4a"
  },
  {
   "id": 3609086802,
@@ -7885,7 +10015,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3609086802",
-  "deezer": 3609086802
+  "deezer": 3609086802,
+  "isrc": "CA50N2540004",
+  "apple": "1841725329",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/5c/2b/3e5c2bae-8f57-c41c-2ed0-44748151f450/mzaf_7148976969309348920.plus.aac.p.m4a"
  },
  {
   "id": 1398524122,
@@ -7896,7 +10029,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a16af56c3f0c111147f99a708a6d4332/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1398524122",
-  "deezer": 1398524122
+  "deezer": 1398524122,
+  "isrc": "CAD942100035",
+  "apple": "1744229530",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/3f/3a/b93f3ad5-07d9-a9fd-a516-4c71119c72c2/mzaf_593484859246894270.plus.aac.p.m4a"
  },
  {
   "id": 2177073317,
@@ -7907,7 +10043,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/16c77ec544c5d79bc40f2b086655651d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2177073317",
-  "deezer": 2177073317
+  "deezer": 2177073317,
+  "isrc": "CAK722389201",
+  "apple": "1677952500",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/b3/47/10b34745-8bb5-5af8-6971-693fc4e6d390/mzaf_8710782812438251802.plus.aac.p.m4a"
  },
  {
   "id": 3706017642,
@@ -7918,7 +10057,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3706017642",
-  "deezer": 3706017642
+  "deezer": 3706017642,
+  "isrc": "CAL642601011",
+  "apple": "1860104275",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/2f/f9/852ff93a-57db-1397-a92a-1226a3ced875/mzaf_1513212969080244786.plus.aac.p.m4a"
  },
  {
   "id": 1540443172,
@@ -7929,7 +10071,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1540443172",
-  "deezer": 1540443172
+  "deezer": 1540443172,
+  "isrc": "CA0U32100004",
+  "apple": "1594080239",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/44/fb/29/44fb2993-b74a-e3f4-4c47-717df95dfd30/mzaf_15790856353919135297.plus.aac.p.m4a"
  },
  {
   "id": 3051805391,
@@ -7940,7 +10085,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3051805391",
-  "deezer": 3051805391
+  "deezer": 3051805391,
+  "isrc": "CAD432405313",
+  "apple": "1774757172",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/8a/24/198a24ae-5b36-c3c8-6d80-5471e83189e5/mzaf_6501848291634354236.plus.aac.p.m4a"
  },
  {
   "id": 3153949651,
@@ -7951,7 +10099,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c735c3c03d967d2e0c3016b6311cd90d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3153949651",
-  "deezer": 3153949651
+  "deezer": 3153949651,
+  "isrc": "CAC0C2400977",
+  "apple": "1786812071",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/50/9b/cc509b8d-2b78-d042-233e-9887c62daf98/mzaf_13147679231267108891.plus.aac.p.m4a"
  },
  {
   "id": 1480799932,
@@ -7962,7 +10113,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd52e595f50e2f9e9e2a832b284c777/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1480799932",
-  "deezer": 1480799932
+  "deezer": 1480799932,
+  "isrc": "CAD432101004",
+  "apple": "1583864629",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/c0/5c/ffc05cb8-4ea4-ac0f-f25d-ec87992ca91f/mzaf_13671150301018354402.plus.aac.p.m4a"
  },
  {
   "id": 1540443192,
@@ -7973,7 +10127,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1540443192",
-  "deezer": 1540443192
+  "deezer": 1540443192,
+  "isrc": "CA0U32100006",
+  "apple": "1592362033",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/15/7c/87/157c8794-83be-0851-089e-9af1d2cd4ff1/mzaf_2766946470600364778.plus.aac.p.m4a"
  },
  {
   "id": 938679152,
@@ -7984,7 +10141,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5971cd51d02f4278810bcc49106e83f6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/938679152",
-  "deezer": 938679152
+  "deezer": 938679152,
+  "isrc": "CAH682000025",
+  "apple": "1509575336",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/37/57/8f/37578f5c-36f5-0c04-1776-24c7f2df74ca/mzaf_12437528117726191298.plus.aac.p.m4a"
  },
  {
   "id": 1065567412,
@@ -7995,7 +10155,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1065567412",
-  "deezer": 1065567412
+  "deezer": 1065567412,
+  "isrc": "CAS741585204",
+  "apple": "1528642550",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/89/fe/ba/89feba93-7639-2da7-a759-52ad25b0b218/mzaf_5736197992198184455.plus.aac.p.m4a"
  },
  {
   "id": 3812297862,
@@ -8006,7 +10169,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae8b47b21d128b28b8259b6a5b30272c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3812297862",
-  "deezer": 3812297862
+  "deezer": 3812297862,
+  "isrc": "CALXJ2620004",
+  "apple": "1871513927",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/18/d1/5d18d1f2-f1fb-0775-7b99-43190c09cc01/mzaf_7511613827475975480.plus.aac.p.m4a"
  },
  {
   "id": 2150936307,
@@ -8017,7 +10183,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9d3f1f30f26fdd0fb8f67b72bf3b4050/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2150936307",
-  "deezer": 2150936307
+  "deezer": 2150936307,
+  "isrc": "CA0U32300001",
+  "apple": "1672056572",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bb/06/02/bb0602c5-d252-d756-a1dd-7ca66cde1fd2/mzaf_16232633158774101319.plus.aac.p.m4a"
  },
  {
   "id": 2206549807,
@@ -8028,7 +10197,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2a7de5d92cf19921a99f4a1b38d7700a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2206549807",
-  "deezer": 2206549807
+  "deezer": 2206549807,
+  "isrc": "CALXJ2330005",
+  "apple": "1677812167",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/0c/1f/c60c1f8d-8d97-d7a4-f3e3-17915567e0c0/mzaf_5338800921749245558.plus.aac.p.m4a"
  },
  {
   "id": 1935953097,
@@ -8039,7 +10211,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1935953097",
-  "deezer": 1935953097
+  "deezer": 1935953097,
+  "isrc": "CAKII2204003",
+  "apple": "1647255138",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/05/af/de/05afde28-a21a-1b2c-3603-6229a0558bd6/mzaf_12480354190212742122.plus.aac.p.m4a"
  },
  {
   "id": 2058882877,
@@ -8050,7 +10225,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bbd1bfc8ccc0a7317751a8d8b53291f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2058882877",
-  "deezer": 2058882877
+  "deezer": 2058882877,
+  "isrc": "CA9L62200301",
+  "apple": "1658617477",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/16/f4/3a16f483-0d13-8f77-22e6-84c93c37388c/mzaf_1623225550324313138.plus.aac.p.m4a"
  },
  {
   "id": 1751404337,
@@ -8061,7 +10239,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/50c00f1d2ad1bfddfed17af697fcad4c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1751404337",
-  "deezer": 1751404337
+  "deezer": 1751404337,
+  "isrc": "CAH682200050",
+  "apple": "1624134718",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/ea/60/28ea60dc-0730-3d94-3463-bad9eaa63c5d/mzaf_3064225488075809588.plus.aac.p.m4a"
  },
  {
   "id": 3278043851,
@@ -8072,7 +10253,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3278043851",
-  "deezer": 3278043851
+  "deezer": 3278043851,
+  "isrc": "CALXJ2520003",
+  "apple": "1871513944",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b2/45/fb/b245fbb9-45c3-f1e4-6e64-6a1c1abacdc8/mzaf_5863593322252022247.plus.aac.p.m4a"
  },
  {
   "id": 1540443262,
@@ -8083,7 +10267,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1540443262",
-  "deezer": 1540443262
+  "deezer": 1540443262,
+  "isrc": "CA0U32100013",
+  "apple": "1594080682",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d8/98/4c/d8984c76-d7b0-eca0-2c74-af06927e941b/mzaf_17915866611390133139.plus.aac.p.m4a"
  },
  {
   "id": 4144375622,
@@ -8094,7 +10281,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4144375622",
-  "deezer": 4144375622
+  "deezer": 4144375622,
+  "isrc": "CAD432606807",
+  "apple": "6789289159",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/4b/97/1d4b97db-63b0-3be7-6fbf-1f73905dc718/mzaf_617242426404414270.plus.aac.p.m4a"
  },
  {
   "id": 3278043871,
@@ -8105,7 +10295,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3278043871",
-  "deezer": 3278043871
+  "deezer": 3278043871,
+  "isrc": "CALXJ2520005",
+  "apple": "1871513946",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/01/ec/0a01ec16-2019-d3d6-d769-093a19bc981c/mzaf_5289666487456095298.plus.aac.p.m4a"
  },
  {
   "id": 3168301591,
@@ -8116,7 +10309,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d90999fe3e08ae2783f233195b48c98e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168301591",
-  "deezer": 3168301591
+  "deezer": 3168301591,
+  "isrc": "CAZ842100023",
+  "apple": "1573461713",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/26/3d/3a263df4-ac97-7695-8938-e066bece0430/mzaf_7479752020367173577.plus.aac.p.m4a"
  },
  {
   "id": 1751404347,
@@ -8127,7 +10323,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/50c00f1d2ad1bfddfed17af697fcad4c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1751404347",
-  "deezer": 1751404347
+  "deezer": 1751404347,
+  "isrc": "CAH682200047",
+  "apple": "1619003637",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a3/54/74/a35474de-151a-7c26-f895-96f1e2264e9a/mzaf_17600621824902599666.plus.aac.p.m4a"
  },
  {
   "id": 2788042832,
@@ -8138,7 +10337,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2788042832",
-  "deezer": 2788042832
+  "deezer": 2788042832,
+  "isrc": "CA0RZ2400015",
+  "apple": "1745182723",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/c7/a4/2bc7a4e7-c5fd-7862-694e-895ef8999f1d/mzaf_7655598532687345108.plus.aac.p.m4a"
  },
  {
   "id": 2397233215,
@@ -8149,7 +10351,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6860889407edb57bad307011fb372e4a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2397233215",
-  "deezer": 2397233215
+  "deezer": 2397233215,
+  "isrc": "CA60L2310002",
+  "apple": "1683947371",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a9/57/b5/a957b53f-379c-ce9f-9632-ffd59761df26/mzaf_5138937616979337910.plus.aac.p.m4a"
  },
  {
   "id": 3973054801,
@@ -8160,7 +10365,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054801",
-  "deezer": 3973054801
+  "deezer": 3973054801,
+  "isrc": "CA9L62600407",
+  "apple": "6762649757",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/61/e3/7461e3c1-8f71-eccb-433c-9df1def7293b/mzaf_6217577388391491327.plus.aac.p.m4a"
  },
  {
   "id": 2929318901,
@@ -8171,7 +10379,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2929318901",
-  "deezer": 2929318901
+  "deezer": 2929318901,
+  "isrc": "CAD432404410",
+  "apple": "1760607040",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/b1/0a/4db10a45-92b2-1c18-3fb0-b6f0a49b3a63/mzaf_3795492388623122226.plus.aac.p.m4a"
  },
  {
   "id": 4003519181,
@@ -8182,7 +10393,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4003519181",
-  "deezer": 4003519181
+  "deezer": 4003519181,
+  "isrc": "CAH682600123",
+  "apple": "6767222290",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/ed/6c/69ed6cf9-a01d-cc62-9660-bcb82655561c/mzaf_13651377564258744590.plus.aac.p.m4a"
  },
  {
   "id": 3840013171,
@@ -8193,7 +10407,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fecdd771617defd2d6600b30bafde911/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3840013171",
-  "deezer": 3840013171
+  "deezer": 3840013171,
+  "isrc": "US39N2640521",
+  "apple": "1876886426",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/4e/ef/7f4eef60-a131-cc0f-aca3-a86ad9afb35e/mzaf_12251146095460098982.plus.aac.p.m4a"
  },
  {
   "id": 3403182011,
@@ -8204,7 +10421,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b3803e429b5076fb1f109bc655bb7142/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3403182011",
-  "deezer": 3403182011
+  "deezer": 3403182011,
+  "isrc": "CA38Y2547061",
+  "apple": "1819125353",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/77/1d/f3771d70-cffc-4edc-7b0a-629b65a48ec3/mzaf_6131862756125957614.plus.aac.p.m4a"
  },
  {
   "id": 128233719,
@@ -8215,7 +10435,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/069b69f334ce75a4149b029706612a5d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233719",
-  "deezer": 128233719
+  "deezer": 128233719,
+  "isrc": "CAA509818009",
+  "apple": "1551590521",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/2b/ea/d5/2bead574-4225-5a96-25d0-a2dd3b56495a/mzaf_11422131871757554703.plus.aac.p.m4a"
  },
  {
   "id": 128324479,
@@ -8226,7 +10449,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c0fa0414087b06a7c31c9bc237538cdf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128324479",
-  "deezer": 128324479
+  "deezer": 128324479,
+  "isrc": "CAA500215903",
+  "apple": "1551615526",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/ee/24/d8/ee24d804-f419-f5de-0964-07a1d1478a49/mzaf_9838629367018642542.plus.aac.p.m4a"
  },
  {
   "id": 401394412,
@@ -8237,7 +10463,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e904587c351f2930a19cc1541fe2baa/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/401394412",
-  "deezer": 401394412
+  "deezer": 401394412,
+  "isrc": "CA4IZ1600030",
+  "apple": "1274063182",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/f1/57/f0f15750-29f6-823e-d01c-860239b99454/mzaf_8016810650392420604.plus.aac.p.m4a"
  },
  {
   "id": 3949556161,
@@ -8248,7 +10477,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556161",
-  "deezer": 3949556161
+  "deezer": 3949556161,
+  "isrc": "CAFWG2600044",
+  "apple": "1891774412",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/44/76/51447608-5b22-b859-2955-5ab3902a3bab/mzaf_7781005779716388188.plus.aac.p.m4a"
  },
  {
   "id": 84519269,
@@ -8259,7 +10491,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b787aceb91ba7f1c34e9ebed7ebdd2cf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/84519269",
-  "deezer": 84519269
+  "deezer": 84519269,
+  "isrc": "CAE861405013",
+  "apple": "1108763588",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/e5/59/35e559f4-d267-a42a-907b-4e8381528530/mzaf_2079731356496455902.plus.aac.p.m4a"
  },
  {
   "id": 4096891471,
@@ -8270,7 +10505,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4096891471",
-  "deezer": 4096891471
+  "deezer": 4096891471,
+  "isrc": "CAA509003706",
+  "apple": "6781751915",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/24/86/74248629-f25b-6611-ec0a-73e32b350a14/mzaf_6409895544065321056.plus.aac.p.m4a"
  },
  {
   "id": 3168302221,
@@ -8281,7 +10519,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302221",
-  "deezer": 3168302221
+  "deezer": 3168302221,
+  "isrc": "CAZ842100036",
+  "apple": "1580812401",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/66/bc/5d66bc8c-5668-a958-2312-63c1df42fc83/mzaf_6470416419485680837.plus.aac.p.m4a"
  },
  {
   "id": 2255433577,
@@ -8292,7 +10533,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2255433577",
-  "deezer": 2255433577
+  "deezer": 2255433577,
+  "isrc": "CAH682300066",
+  "apple": "1684840161",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/c3/a7/58c3a7a0-ecb8-6ab4-7a79-79308e9d4998/mzaf_3919759524990854642.plus.aac.p.m4a"
  },
  {
   "id": 4033488461,
@@ -8303,7 +10547,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4033488461",
-  "deezer": 4033488461
+  "deezer": 4033488461,
+  "isrc": "CAH682600102",
+  "apple": "6771388397",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/cc/0f/a5cc0f5f-fbf3-d9d3-de84-f0e043b68e24/mzaf_8827362218910508211.plus.aac.p.m4a"
  },
  {
   "id": 136158804,
@@ -8314,7 +10561,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/224abaef6b57443077c06ad31ff464cc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/136158804",
-  "deezer": 136158804
+  "deezer": 136158804,
+  "isrc": "CAA501639002",
+  "apple": "1551601342",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/72/39/d7/7239d782-6476-502e-abfe-e184ea03bb32/mzaf_4588615065450997415.plus.aac.p.m4a"
  },
  {
   "id": 128233595,
@@ -8325,7 +10575,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233595",
-  "deezer": 128233595
+  "deezer": 128233595,
+  "isrc": "CAA500115005",
+  "apple": "1551590595",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/10/61/4b/10614bfd-60b0-0c88-5010-ced137c84e0d/mzaf_17919745206905871980.plus.aac.p.m4a"
  },
  {
   "id": 128238189,
@@ -8336,7 +10589,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/75e89bd2a71b9df94f7b212f567762ce/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128238189",
-  "deezer": 128238189
+  "deezer": 128238189,
+  "isrc": "CAA501332402",
+  "apple": "1620964057",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/04/26/f2042636-0838-5934-ccca-5a63635f02e8/mzaf_1934427891631101942.plus.aac.p.m4a"
  },
  {
   "id": 651242012,
@@ -8347,7 +10603,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a8b7f0002814dd9036b1e42ff99f81c9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/651242012",
-  "deezer": 651242012
+  "deezer": 651242012,
+  "isrc": "QZDA41910447",
+  "apple": "1457153665",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/38/0e/45380eb5-e094-ba65-fd21-71fc49573539/mzaf_7871303695967998032.plus.aac.p.m4a"
  },
  {
   "id": 128233603,
@@ -8358,7 +10617,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128233603",
-  "deezer": 128233603
+  "deezer": 128233603,
+  "isrc": "CAA500115009",
+  "apple": "1551590587",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/4a/9b/05/4a9b05c7-46a7-75ec-2778-1a2651eff500/mzaf_4721475508887745928.plus.aac.p.m4a"
  },
  {
   "id": 3949556181,
@@ -8369,7 +10631,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3949556181",
-  "deezer": 3949556181
+  "deezer": 3949556181,
+  "isrc": "CAFWG2600046",
+  "apple": "1891774422",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/3f/28/743f28fa-555c-1a80-ccc5-df8405065a43/mzaf_15814644203197872192.plus.aac.p.m4a"
  },
  {
   "id": 1082535382,
@@ -8380,7 +10645,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8380c7ead583ca379db52f1d7d7d6be9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1082535382",
-  "deezer": 1082535382
+  "deezer": 1082535382,
+  "isrc": "CAL541718204",
+  "apple": "1532141760",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/54/e6/fb54e673-79a8-36a3-6e19-a7e4a2eacd21/mzaf_15382323825571081015.plus.aac.p.m4a"
  },
  {
   "id": 1037120272,
@@ -8391,7 +10659,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8363b326bf173ac6df012e91b6d3a935/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1037120272",
-  "deezer": 1037120272
+  "deezer": 1037120272,
+  "isrc": "CA60L1510001",
+  "apple": "1525614557",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/df/26/1edf2672-54e6-dbff-33a7-44173e0b05d6/mzaf_2840415866580839006.plus.aac.p.m4a"
  },
  {
   "id": 93081562,
@@ -8402,7 +10673,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/93081562",
-  "deezer": 93081562
+  "deezer": 93081562,
+  "isrc": "CAD431493503",
+  "apple": "1238762303",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/cd/6e/51cd6e7f-9c95-8273-7e1b-a7bb22dc4008/mzaf_11266826752714337901.plus.aac.p.m4a"
  },
  {
   "id": 3168302301,
@@ -8413,7 +10687,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168302301",
-  "deezer": 3168302301
+  "deezer": 3168302301,
+  "isrc": "CAZ842100042",
+  "apple": "1580812584",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/a4/bf/b8a4bf3f-aa2e-4baf-6d5d-a737788451bc/mzaf_2582916604661760585.plus.aac.p.m4a"
  },
  {
   "id": 128234309,
@@ -8424,7 +10701,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234309",
-  "deezer": 128234309
+  "deezer": 128234309,
+  "isrc": "CAA500907708",
+  "apple": "1551611517",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/06/cd/a8/06cda893-1b31-03ae-8358-234111f2fbda/mzaf_4362470154686807753.plus.aac.p.m4a"
  },
  {
   "id": 1036963832,
@@ -8435,7 +10715,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/65d01f071409088d9ed18d80c538f524/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036963832",
-  "deezer": 1036963832
+  "deezer": 1036963832,
+  "isrc": "CA60L1810004",
+  "apple": "1525588146",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/86/ef/ed86efcf-bc66-b695-650d-033287d564cc/mzaf_17945837966564254799.plus.aac.p.m4a"
  },
  {
   "id": 128226659,
@@ -8446,7 +10729,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5fb052d4461a581385ceb2e35b297e67/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128226659",
-  "deezer": 128226659
+  "deezer": 128226659,
+  "isrc": "CAA500215509",
+  "apple": "1551603475",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/61/7c/44/617c444f-dbf7-8a61-e2d8-c0a046139f33/mzaf_1351047979042086335.plus.aac.p.m4a"
  },
  {
   "id": 65760362,
@@ -8457,7 +10743,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/49bcc4fbc53c4448c71bd5ab452688f7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760362",
-  "deezer": 65760362
+  "deezer": 65760362,
+  "isrc": "CAD431292703",
+  "apple": "627026868",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/81/cd/ec81cdce-3edb-72cb-c4a9-2c3c45448902/mzaf_13360002922996586422.plus.aac.p.m4a"
  },
  {
   "id": 1284099302,
@@ -8468,7 +10757,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1284099302",
-  "deezer": 1284099302
+  "deezer": 1284099302,
+  "isrc": "CAC0C1800458",
+  "apple": "1559738319",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/d4/9f/06d49fe8-cada-ab7a-5067-ff6d6a43b29c/mzaf_5535708833151506987.plus.aac.p.m4a"
  },
  {
   "id": 856732932,
@@ -8479,7 +10771,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/856732932",
-  "deezer": 856732932
+  "deezer": 856732932,
+  "isrc": "CAD431998209",
+  "apple": "1495694782",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/51/53/3551533d-2695-5217-313f-00bdeaab9676/mzaf_17654403236148971403.plus.aac.p.m4a"
  },
  {
   "id": 15397674,
@@ -8490,7 +10785,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15397674",
-  "deezer": 15397674
+  "deezer": 15397674,
+  "isrc": "CAI549301006",
+  "apple": "308138392",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/27/be/2527be08-539a-4ce9-a85a-893de9fb90ae/mzaf_8651144485852602168.plus.aac.p.m4a"
  },
  {
   "id": 2941998731,
@@ -8501,7 +10799,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2941998731",
-  "deezer": 2941998731
+  "deezer": 2941998731,
+  "isrc": "CAH682400065",
+  "apple": "1762209519",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/f9/68/6ff96803-db46-45b4-71ac-e09c4af6970e/mzaf_5390970854889357394.plus.aac.p.m4a"
  },
  {
   "id": 1829016727,
@@ -8512,7 +10813,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1829016727",
-  "deezer": 1829016727
+  "deezer": 1829016727,
+  "isrc": "CAD432201706",
+  "apple": "1635262517",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/2b/01/8e2b010d-d634-97ad-fd73-6278071d46a9/mzaf_7750954487012196213.plus.aac.p.m4a"
  },
  {
   "id": 1033152462,
@@ -8523,7 +10827,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e0e4dcd6b2446b1c485f181cbc07406/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1033152462",
-  "deezer": 1033152462
+  "deezer": 1033152462,
+  "isrc": "CAF661300123",
+  "apple": "1525011467",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d8/1f/c8/d81fc886-710c-b292-c0c4-54a8953c819a/mzaf_12061845153838055748.plus.aac.p.m4a"
  },
  {
   "id": 65802560,
@@ -8534,7 +10841,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4e10d3f1132df3d88195741ba92f847f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802560",
-  "deezer": 65802560
+  "deezer": 65802560,
+  "isrc": "CAD431091601",
+  "apple": "627037133",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/80/10/f38010f9-e543-066a-16fd-c677344fec1e/mzaf_8099092072738795349.plus.aac.p.m4a"
  },
  {
   "id": 90303977,
@@ -8545,7 +10855,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dfdcf4307e005570ab9a26cc24bad186/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/90303977",
-  "deezer": 90303977
+  "deezer": 90303977,
+  "isrc": "CAC0C1400297",
+  "apple": "941177101",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/85/e4/18/85e41810-dda3-c786-2519-67335905010c/mzaf_14582931323840787944.plus.aac.p.m4a"
  },
  {
   "id": 856219262,
@@ -8556,7 +10869,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b19cf6b4f02ac48f8e60880c8445713/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/856219262",
-  "deezer": 856219262
+  "deezer": 856219262,
+  "isrc": "TCADE1754433",
+  "apple": "1495597770",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/8e/4b/898e4bff-2737-a605-6c9f-cc285c219783/mzaf_11639088993997098522.plus.aac.p.m4a"
  },
  {
   "id": 1238512672,
@@ -8567,7 +10883,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1238512672",
-  "deezer": 1238512672
+  "deezer": 1238512672,
+  "isrc": "CAD431998503",
+  "apple": "1552915613",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/98/53/12985336-9599-f491-9f9c-054681ff0b95/mzaf_2767958318498474963.plus.aac.p.m4a"
  },
  {
   "id": 3619724602,
@@ -8578,7 +10897,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3619724602",
-  "deezer": 3619724602
+  "deezer": 3619724602,
+  "isrc": "CAC222500171",
+  "apple": "1848415578",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/ff/44/9eff4498-8b81-2984-480c-a78e330b61e6/mzaf_11464902603931115360.plus.aac.p.m4a"
  },
  {
   "id": 3609086772,
@@ -8589,7 +10911,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3609086772",
-  "deezer": 3609086772
+  "deezer": 3609086772,
+  "isrc": "CA50N2540001",
+  "apple": "1847048842",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/f7/63/5ef763da-288e-0dff-24ff-c25fe9492bdd/mzaf_2754532951750176389.plus.aac.p.m4a"
  },
  {
   "id": 1296825432,
@@ -8600,7 +10925,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1296825432",
-  "deezer": 1296825432
+  "deezer": 1296825432,
+  "isrc": "CAPWH2100003",
+  "apple": "1622206094",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bd/f6/2a/bdf62a1c-8e2d-498a-5151-1850d3f85e45/mzaf_6351208236881062169.plus.aac.p.m4a"
  },
  {
   "id": 1497640642,
@@ -8611,7 +10939,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/622b8b56491ed9d361840287187841c9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497640642",
-  "deezer": 1497640642
+  "deezer": 1497640642,
+  "isrc": "CAD520700112",
+  "apple": "1750089888",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/6a/76/e56a76db-f4f0-042d-1830-2bad1bf826e4/mzaf_17758641597358226530.plus.aac.p.m4a"
  },
  {
   "id": 3756793592,
@@ -8622,7 +10953,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756793592",
-  "deezer": 3756793592
+  "deezer": 3756793592,
+  "isrc": "CAD431393104",
+  "apple": "1866622876",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/ce/4e/89ce4e43-6d7f-a5c6-4614-2e19a75c25b7/mzaf_11564901563076100010.plus.aac.p.m4a"
  },
  {
   "id": 65760412,
@@ -8633,7 +10967,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/adf2c195acd596820d3182c31ad120b5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760412",
-  "deezer": 65760412
+  "deezer": 65760412,
+  "isrc": "CAD431393006",
+  "apple": "627023581",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/a9/3f/9fa93f10-5e7c-dc72-e3c0-3046d963507d/mzaf_3094606208864184106.plus.aac.p.m4a"
  },
  {
   "id": 65295645,
@@ -8644,7 +10981,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2ffc4f75736765e42a0f152446511f62/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65295645",
-  "deezer": 65295645
+  "deezer": 65295645,
+  "isrc": "CAC221300002",
+  "apple": "616312364",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/cb/e0/0ecbe038-4e4b-a311-d6cb-a904dda476ba/mzaf_8183805609452705381.plus.aac.p.m4a"
  },
  {
   "id": 3911425261,
@@ -8655,7 +10995,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9afd6b31df4f4bd3a6a9722a1482c029/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3911425261",
-  "deezer": 3911425261
+  "deezer": 3911425261,
+  "isrc": "DGA0R2309156",
+  "apple": "1886521852",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/6a/38/4d6a3892-7fdd-d863-03bd-c6e711bb2492/mzaf_12670247630356333543.plus.aac.p.m4a"
  },
  {
   "id": 128228251,
@@ -8666,7 +11009,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1d53491e5fb439d385d6cd59dbb80d51/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128228251",
-  "deezer": 128228251
+  "deezer": 128228251,
+  "isrc": "CAG609510001",
+  "apple": "1551599382",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/54/e1/6b/54e16bbb-cb31-eecb-fcf8-8480b289e401/mzaf_6727411334455559908.plus.aac.p.m4a"
  },
  {
   "id": 395046612,
@@ -8677,7 +11023,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/832ae2f8de7e94067c9fa80e06e6e0e4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/395046612",
-  "deezer": 395046612
+  "deezer": 395046612,
+  "isrc": "CA8N21200028",
+  "apple": "1271899249",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/10/25/9c1025be-328c-b75a-75a6-9ba709e49713/mzaf_2535744077633946577.plus.aac.p.m4a"
  },
  {
   "id": 1036062792,
@@ -8688,7 +11037,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036062792",
-  "deezer": 1036062792
+  "deezer": 1036062792,
+  "isrc": "CA60L1760008",
+  "apple": "1525440930",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/ae/01/31ae0148-83cd-acea-f698-d6438435ff44/mzaf_14956859370097766858.plus.aac.p.m4a"
  },
  {
   "id": 1870801,
@@ -8699,7 +11051,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8cc0047533f7aabbc592fe97562857e2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1870801",
-  "deezer": 1870801
+  "deezer": 1870801,
+  "isrc": "USA560658103",
+  "apple": "256530211",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/05/40/30054080-e45f-a30d-76cc-bb8229025b85/mzaf_5361135604146684553.plus.aac.p.m4a"
  },
  {
   "id": 3756793652,
@@ -8710,7 +11065,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756793652",
-  "deezer": 3756793652
+  "deezer": 3756793652,
+  "isrc": "CAD431393110",
+  "apple": "1866623164",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/6b/83/af6b8307-493d-77c3-de46-d10e6c17f6a7/mzaf_7259976682749548011.plus.aac.p.m4a"
  },
  {
   "id": 566085962,
@@ -8721,7 +11079,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7087d9567d0e8059b460e3e672b9f1b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/566085962",
-  "deezer": 566085962
+  "deezer": 566085962,
+  "isrc": "CAE861800002",
+  "apple": "1438581290",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d7/d2/a0/d7d2a0f1-c9d3-7e92-ae87-b80b4d4f1d04/mzaf_17417128477546437830.plus.aac.p.m4a"
  },
  {
   "id": 4224454182,
@@ -8732,7 +11093,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/139b39e4d037e5476a73a5de326dd3d7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4224454182",
-  "deezer": 4224454182
+  "deezer": 4224454182,
+  "isrc": "CAZ841500003",
+  "apple": "6805193619",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/d9/28/d7d92879-f731-9ce0-0fe7-c7d3acbba401/mzaf_12275232572865517401.plus.aac.p.m4a"
  },
  {
   "id": 3571264391,
@@ -8743,7 +11107,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5f6b1e53fb83702cac6579495ad9f867/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3571264391",
-  "deezer": 3571264391
+  "deezer": 3571264391,
+  "isrc": "CAH682500061",
+  "apple": "1841929987",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/69/aa/ff69aa1e-e9e3-5292-9637-9e2bcdf4c0ae/mzaf_10381014319858955341.plus.aac.p.m4a"
  },
  {
   "id": 1424857182,
@@ -8754,7 +11121,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0aeb9d79da6d6a3d643e584fc49796b9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1424857182",
-  "deezer": 1424857182
+  "deezer": 1424857182,
+  "isrc": "CAZ700500093",
+  "apple": "1575282754",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/01/78/2d/01782d6b-9447-a45e-13b1-e9fc8d633289/mzaf_12458165913462310863.plus.aac.p.m4a"
  },
  {
   "id": 128234601,
@@ -8765,7 +11135,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0799b2033da8e7c583c4a08aee31fc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234601",
-  "deezer": 128234601
+  "deezer": 128234601,
+  "isrc": "CAP609105104",
+  "apple": "1551595701",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/66/b3/10/66b31054-6912-7a3c-f4d9-35b99804b4d6/mzaf_1379831892874889662.plus.aac.p.m4a"
  },
  {
   "id": 558838352,
@@ -8776,7 +11149,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd3a576cf29886730b637603e5a8f1f8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/558838352",
-  "deezer": 558838352
+  "deezer": 558838352,
+  "isrc": "CAZ9Y1809132",
+  "apple": "1565815082",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/4e/03/e94e0386-2322-6673-c261-639eeaa12dbf/mzaf_13341836503864197023.plus.aac.p.m4a"
  },
  {
   "id": 3832550641,
@@ -8787,7 +11163,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df172965a1934a3992acb61495f540ed/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3832550641",
-  "deezer": 3832550641
+  "deezer": 3832550641,
+  "isrc": "CAPGR2600010",
+  "apple": "1875994755",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/ec/44/3eec44f5-9ec5-9d2d-8374-fbe73cd195a4/mzaf_18368480116226404306.plus.aac.p.m4a"
  },
  {
   "id": 3756794182,
@@ -8798,7 +11177,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fda9b12809be88bc82c86acd848d014d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3756794182",
-  "deezer": 3756794182
+  "deezer": 3756794182,
+  "isrc": "CAD431594913",
+  "apple": "1866623535",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/47/20/924720b4-eba6-6d4b-8879-f1e0dc886aba/mzaf_583781591047346685.plus.aac.p.m4a"
  },
  {
   "id": 62355485,
@@ -8809,7 +11191,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/24a3555d7c9716038b660641dfd07bd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/62355485",
-  "deezer": 62355485
+  "deezer": 62355485,
+  "isrc": "CAY641100098",
+  "apple": "579537900",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/33/6b/db/336bdb50-d1a4-3c8a-43cb-2535e9a65bf6/mzaf_10206448873730995166.plus.aac.p.m4a"
  },
  {
   "id": 72999222,
@@ -8820,7 +11205,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/72999222",
-  "deezer": 72999222
+  "deezer": 72999222,
+  "isrc": "CAG609620205",
+  "apple": "1575307156",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/90/a5/0590a5f7-c832-f537-556b-e329b872c47d/mzaf_12749753386351969092.plus.aac.p.m4a"
  },
  {
   "id": 3870010941,
@@ -8831,7 +11219,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/69047aa0762608c5ec767dd42e5636ce/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3870010941",
-  "deezer": 3870010941
+  "deezer": 3870010941,
+  "isrc": "CAA501027003",
+  "apple": "1880482845",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/07/5c/b7075cc7-dfd5-9469-a3b2-ed4c779b0404/mzaf_7010061763037377072.plus.aac.p.m4a"
  },
  {
   "id": 2147853717,
@@ -8842,7 +11233,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a064f79011ffac1a67b7b816f571f9b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2147853717",
-  "deezer": 2147853717
+  "deezer": 2147853717,
+  "isrc": "CAH682300019",
+  "apple": "1671603969",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/87/05/1b870525-c011-7cb2-56f1-ff3664109124/mzaf_18366523472732159450.plus.aac.p.m4a"
  },
  {
   "id": 72999208,
@@ -8853,7 +11247,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/72999208",
-  "deezer": 72999208
+  "deezer": 72999208,
+  "isrc": "CADC41309559",
+  "apple": "766555161",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cd/a7/17/cda71752-5236-8960-7b48-87c6224f6f86/mzaf_17078066554958955380.plus.aac.p.m4a"
  },
  {
   "id": 1419411842,
@@ -8864,7 +11261,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f0a58fd953faf19f6b33020d800e2f56/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1419411842",
-  "deezer": 1419411842
+  "deezer": 1419411842,
+  "isrc": "CAG840600001",
+  "apple": "1574419831",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/70/11/7570110c-6970-e029-35c3-7ed78b4745e4/mzaf_9310098000522363505.plus.aac.p.m4a"
  },
  {
   "id": 1498021402,
@@ -8875,7 +11275,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/782cba032ac1537e035fb5c62a9ad191/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1498021402",
-  "deezer": 1498021402
+  "deezer": 1498021402,
+  "isrc": "CAP781100103",
+  "apple": "1715480103",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/de/4e/a1de4e92-b71d-1fe5-627f-cb95dc5c2a2f/mzaf_11353944506725551433.plus.aac.p.m4a"
  },
  {
   "id": 552817172,
@@ -8886,7 +11289,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/552817172",
-  "deezer": 552817172
+  "deezer": 552817172,
+  "isrc": "CAH681800047",
+  "apple": "1435827025",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/aa/20/48aa20ae-8d19-5e8d-8d2c-5a4b79577873/mzaf_15138903309723120373.plus.aac.p.m4a"
  },
  {
   "id": 668923792,
@@ -8897,7 +11303,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/77ae0e745000601f6eeb66824f95564c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/668923792",
-  "deezer": 668923792
+  "deezer": 668923792,
+  "isrc": "CAS741447003",
+  "apple": "1459892113",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/df/4f/30df4f87-3e88-90cf-bd93-f7c8716804d8/mzaf_14269652405262415995.plus.aac.p.m4a"
  },
  {
   "id": 128234859,
@@ -8908,7 +11317,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234859",
-  "deezer": 128234859
+  "deezer": 128234859,
+  "isrc": "CAP608802306",
+  "apple": "1551594051",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/bd/21/44/bd2144a8-64c9-d3f7-59ff-e0f2fbb9e40c/mzaf_9716163420658709466.plus.aac.p.m4a"
  },
  {
   "id": 72999224,
@@ -8919,7 +11331,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/72999224",
-  "deezer": 72999224
+  "deezer": 72999224,
+  "isrc": "CAG609620304",
+  "apple": "1575307164",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1c/d2/b2/1cd2b2fe-9ffc-780f-0bf9-efb7614490da/mzaf_7268194458434995770.plus.aac.p.m4a"
  },
  {
   "id": 2788042842,
@@ -8930,7 +11345,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2788042842",
-  "deezer": 2788042842
+  "deezer": 2788042842,
+  "isrc": "CA0RZ2400016",
+  "apple": "1745182853",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/d2/4f/ccd24f6a-b493-4ac5-a45b-6d8849c212f8/mzaf_8981656286216511776.plus.aac.p.m4a"
  },
  {
   "id": 3104618981,
@@ -8941,7 +11359,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9100546cfd277b5d056e4df4fe4b4159/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3104618981",
-  "deezer": 3104618981
+  "deezer": 3104618981,
+  "isrc": "USX9P1238053",
+  "apple": "1781045971",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/ea/51/40ea517a-d2ab-9522-d914-f2032020b006/mzaf_8162344194543005521.plus.aac.p.m4a"
  },
  {
   "id": 72999256,
@@ -8952,7 +11373,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/72999256",
-  "deezer": 72999256
+  "deezer": 72999256,
+  "isrc": "CAG609620707",
+  "apple": "766555229",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/d9/81/c8d9817d-5179-7f87-d7a7-dedd8487783a/mzaf_1014621677032528003.plus.aac.p.m4a"
  },
  {
   "id": 1935953137,
@@ -8963,7 +11387,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1935953137",
-  "deezer": 1935953137
+  "deezer": 1935953137,
+  "isrc": "CAKII2204007",
+  "apple": "1647255152",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bf/d1/2b/bfd12bc5-4197-b173-64bc-628041399aef/mzaf_12369635900823430412.plus.aac.p.m4a"
  },
  {
   "id": 1410660672,
@@ -8974,7 +11401,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d363e1329a31f102e40e0f2bef988d02/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1410660672",
-  "deezer": 1410660672
+  "deezer": 1410660672,
+  "isrc": "CAD941833001",
+  "apple": "1589250758",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/f0/6c/e4f06c5a-4db4-fdba-5040-b594d049f10a/mzaf_4864033263873668226.plus.aac.p.m4a"
  },
  {
   "id": 1497630902,
@@ -8985,7 +11415,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a8e7bffd0a6650c7e00a29403a7865cc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497630902",
-  "deezer": 1497630902
+  "deezer": 1497630902,
+  "isrc": "CAD520700283",
+  "apple": "1750073187",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/c2/59/9ac25974-749b-4c0a-7b72-046a6a795cbe/mzaf_6952828635702049248.plus.aac.p.m4a"
  },
  {
   "id": 2929318861,
@@ -8996,7 +11429,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2929318861",
-  "deezer": 2929318861
+  "deezer": 2929318861,
+  "isrc": "CAD432404406",
+  "apple": "1760606780",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/05/23/9105231e-e126-94f8-63c0-45ba37e1ced3/mzaf_8327582257575995701.plus.aac.p.m4a"
  },
  {
   "id": 1222624872,
@@ -9007,7 +11443,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e1c9d2312a911c9589e758729054332d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1222624872",
-  "deezer": 1222624872
+  "deezer": 1222624872,
+  "isrc": "QZES51974403",
+  "apple": "1550844458",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/f2/14/03f214ab-995a-6ef7-5b4c-7abdb0f39665/mzaf_12630823642703424744.plus.aac.p.m4a"
  },
  {
   "id": 2114310987,
@@ -9018,7 +11457,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c760196cc7c79b1b8e854d9574918a0a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2114310987",
-  "deezer": 2114310987
+  "deezer": 2114310987,
+  "isrc": "CAUM72200601",
+  "apple": "1664940889",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/30/c7/f730c783-5222-71da-1292-b7c1046f30fe/mzaf_5186472176088600513.plus.aac.p.m4a"
  },
  {
   "id": 1222625482,
@@ -9029,7 +11471,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2eaefda75932d6dd9e2c56dc8649cb11/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1222625482",
-  "deezer": 1222625482
+  "deezer": 1222625482,
+  "isrc": "QZDA51825511",
+  "apple": "1550842853",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/f1/40/9ff140b3-dfa0-db4b-20cf-0ae1ff39091d/mzaf_2708226514900124725.plus.aac.p.m4a"
  },
  {
   "id": 128221369,
@@ -9040,7 +11485,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221369",
-  "deezer": 128221369
+  "deezer": 128221369,
+  "isrc": "CAA500825903",
+  "apple": "1551598711",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/11/43/bd/1143bdb6-5096-07e1-a87d-2c05642fa4ef/mzaf_11182468500416230604.plus.aac.p.m4a"
  },
  {
   "id": 65760361,
@@ -9051,7 +11499,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/49bcc4fbc53c4448c71bd5ab452688f7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760361",
-  "deezer": 65760361
+  "deezer": 65760361,
+  "isrc": "CAD431292702",
+  "apple": "627026867",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/77/cf/6877cf5f-5059-cb1c-797f-9539ac86cfa4/mzaf_3704017330607114267.plus.aac.p.m4a"
  },
  {
   "id": 65760261,
@@ -9062,7 +11513,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bbe2954dd4836f75f5d126d30fd490da/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65760261",
-  "deezer": 65760261
+  "deezer": 65760261,
+  "isrc": "CA11P1100001",
+  "apple": "1690093544",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c5/23/11/c523117c-13e1-a3e2-715b-4525b233dd53/mzaf_4440984386848854410.plus.aac.p.m4a"
  },
  {
   "id": 72999253,
@@ -9073,7 +11527,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/72999253",
-  "deezer": 72999253
+  "deezer": 72999253,
+  "isrc": "CAG609620704",
+  "apple": "1575307203",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/cf/35/aecf35a1-62b5-682d-bedd-d344f587441f/mzaf_11286019616910272040.plus.aac.p.m4a"
  },
  {
   "id": 1407938492,
@@ -9084,7 +11541,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7db74ca092658762ca35b256f0d7bc75/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1407938492",
-  "deezer": 1407938492
+  "deezer": 1407938492,
+  "isrc": "CAQ520400026",
+  "apple": "1579132025",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/38/22/6e38228c-5d2f-1d91-559a-d0a734f3274f/mzaf_478557679744356230.plus.aac.p.m4a"
  },
  {
   "id": 2400330645,
@@ -9095,7 +11555,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2afdc273c878c148c908fe424a3ef821/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2400330645",
-  "deezer": 2400330645
+  "deezer": 2400330645,
+  "isrc": "CAH682300099",
+  "apple": "1701470844",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/a1/6d/8da16d5f-107e-3308-ef38-9f9b154eec4c/mzaf_16382649962589301218.plus.aac.p.m4a"
  },
  {
   "id": 1438970792,
@@ -9106,7 +11569,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a19e8bd25a7036c489d25fd6143cf89f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1438970792",
-  "deezer": 1438970792
+  "deezer": 1438970792,
+  "isrc": "CALTS2100006",
+  "apple": "1654054157",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/1f/e1/e0/1fe1e0c6-7684-0c4f-dd81-96d0b2c1e849/mzaf_16338010538570043010.plus.aac.p.m4a"
  },
  {
   "id": 3363213071,
@@ -9117,7 +11583,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/83739e63c94b914ca8a63f6d8e788854/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3363213071",
-  "deezer": 3363213071
+  "deezer": 3363213071,
+  "isrc": "CAH682500052",
+  "apple": "1813879346",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/60/55/6660553a-3d9f-fbb3-610c-95897398086c/mzaf_17032585834279560735.plus.aac.p.m4a"
  },
  {
   "id": 1406556462,
@@ -9128,7 +11597,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/31cadf553b49c1355ff5a0075cba4605/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1406556462",
-  "deezer": 1406556462
+  "deezer": 1406556462,
+  "isrc": "CA2HQ2000003",
+  "apple": "1715447071",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0b/da/d1/0bdad1b8-b50e-38bc-9a4b-3fbc932ecb30/mzaf_3730505285053722711.plus.aac.p.m4a"
  },
  {
   "id": 3399416231,
@@ -9139,7 +11611,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3399416231",
-  "deezer": 3399416231
+  "deezer": 3399416231,
+  "isrc": "CAZ700805959"
  },
  {
   "id": 3609086792,
@@ -9150,7 +11623,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3609086792",
-  "deezer": 3609086792
+  "deezer": 3609086792,
+  "isrc": "CA50N2540003",
+  "apple": "1847048844",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/bf/a2/51bfa245-309b-2cdb-29fe-3626ed3acef5/mzaf_17538128029345754404.plus.aac.p.m4a"
  },
  {
   "id": 521058672,
@@ -9161,7 +11637,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058672",
-  "deezer": 521058672
+  "deezer": 521058672,
+  "isrc": "CAA501841004",
+  "apple": "1551626714",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/18/08/9a/18089a0c-a5b1-0f15-c42f-ea72e19e7d5e/mzaf_15910588377101428550.plus.aac.p.m4a"
  },
  {
   "id": 4022760831,
@@ -9172,7 +11651,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3f49128830a2337b5c227e094fbaad21/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4022760831",
-  "deezer": 4022760831
+  "deezer": 4022760831,
+  "isrc": "CAR722563315",
+  "apple": "6765541125",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/bd/51/3bbd51c5-8cb0-7f97-e3de-99298620fa68/mzaf_15637712713511005778.plus.aac.p.m4a"
  },
  {
   "id": 1296825472,
@@ -9183,7 +11665,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1296825472",
-  "deezer": 1296825472
+  "deezer": 1296825472,
+  "isrc": "CAPWH2100008",
+  "apple": "1622206358",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9f/27/9b/9f279bcb-f6d1-9186-e6b1-3b0a11dd804d/mzaf_12989498395547851131.plus.aac.p.m4a"
  },
  {
   "id": 2992226001,
@@ -9194,7 +11679,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b06beae64a563be01a8ad28fd0f9591f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2992226001",
-  "deezer": 2992226001
+  "deezer": 2992226001,
+  "isrc": "CANIO2400010",
+  "apple": "1768127252",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/4f/68/4e4f681b-c6f4-950f-0697-c91a848ad044/mzaf_1233804953126775690.plus.aac.p.m4a"
  },
  {
   "id": 3509021201,
@@ -9205,7 +11693,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ca67cdea2c2cfccd1932864c74413de7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3509021201",
-  "deezer": 3509021201
+  "deezer": 3509021201,
+  "isrc": "CAPWH2500010",
+  "apple": "1834706065",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/ff/02/f0ff0248-1895-0b17-4acd-5483203818aa/mzaf_427568756310480218.plus.aac.p.m4a"
  },
  {
   "id": 1004059042,
@@ -9216,7 +11707,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1004059042",
-  "deezer": 1004059042
+  "deezer": 1004059042,
+  "isrc": "CAA502044803",
+  "apple": "1551664542",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/72/ce/e2/72cee210-c9f9-5ebb-53e7-3712ef929dbd/mzaf_5112878634734556915.plus.aac.p.m4a"
  },
  {
   "id": 109104334,
@@ -9227,7 +11721,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8b55d56ebea9bc339620a5e6d4f9590f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109104334",
-  "deezer": 109104334
+  "deezer": 109104334,
+  "isrc": "CAH681200008",
+  "apple": "1047231009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/89/69/3e89696f-1ce7-550d-0af3-e16627d814e3/mzaf_8175919607340850174.plus.aac.p.m4a"
  },
  {
   "id": 93081664,
@@ -9238,7 +11735,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1862159b9a4e0744f54843ca3242bb3d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/93081664",
-  "deezer": 93081664
+  "deezer": 93081664,
+  "isrc": "CAL541416609",
+  "apple": "956316500",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/fe/d7/23fed75c-48bc-c636-7e7c-75d684d09754/mzaf_10383844831528293363.plus.aac.p.m4a"
  },
  {
   "id": 2683161312,
@@ -9249,7 +11749,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2683161312",
-  "deezer": 2683161312
+  "deezer": 2683161312,
+  "isrc": "CAPMP2400001",
+  "apple": "1733706467",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/da/18/b7da18e1-4d06-1773-789a-cf453b284294/mzaf_13276661723325075588.plus.aac.p.m4a"
  },
  {
   "id": 1498027642,
@@ -9260,7 +11763,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1deb0accb71880ab8b0076576668840e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1498027642",
-  "deezer": 1498027642
+  "deezer": 1498027642,
+  "isrc": "CAP780900103",
+  "apple": "1715481692",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/ce/80/f9ce80ba-81d4-b8e0-f589-c703e6241d12/mzaf_4341186580915583343.plus.aac.p.m4a"
  },
  {
   "id": 1935953127,
@@ -9271,7 +11777,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1935953127",
-  "deezer": 1935953127
+  "deezer": 1935953127,
+  "isrc": "CAKII2204006",
+  "apple": "1647255150",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8a/80/dc/8a80dcb2-0a5b-4487-984b-6cd99a96cbff/mzaf_14113507719863107779.plus.aac.p.m4a"
  },
  {
   "id": 2397233275,
@@ -9282,7 +11791,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6860889407edb57bad307011fb372e4a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2397233275",
-  "deezer": 2397233275
+  "deezer": 2397233275,
+  "isrc": "CA60L2310008",
+  "apple": "1701384081",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/07/09/6f0709c9-9f72-8fd2-90bf-f201816513aa/mzaf_8509998106003376904.plus.aac.p.m4a"
  },
  {
   "id": 3027639621,
@@ -9293,7 +11805,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3998393dd54fd18a327642ef1ec65f0f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3027639621",
-  "deezer": 3027639621
+  "deezer": 3027639621,
+  "isrc": "CA7582400003",
+  "apple": "1771946205",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/1f/89/ff1f89d6-ec4d-76a3-76db-571043a71604/mzaf_5575352637624874619.plus.aac.p.m4a"
  },
  {
   "id": 128234833,
@@ -9304,7 +11819,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234833",
-  "deezer": 128234833
+  "deezer": 128234833,
+  "isrc": "CAP608802304",
+  "apple": "1551593352",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/ac/1f/70/ac1f7023-8c40-80fa-c2cc-96c363ba705c/mzaf_2143042724764774525.plus.aac.p.m4a"
  },
  {
   "id": 1287181022,
@@ -9315,7 +11833,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c87b833ffbf453828acae25e5eaa160b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1287181022",
-  "deezer": 1287181022
+  "deezer": 1287181022,
+  "isrc": "CAOUG2000002",
+  "apple": "1560254283",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/31/f1/6b/31f16b74-4afa-5034-6c99-dc8d882cf774/mzaf_8772656677463345772.plus.aac.p.m4a"
  },
  {
   "id": 3973054811,
@@ -9326,7 +11847,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054811",
-  "deezer": 3973054811
+  "deezer": 3973054811,
+  "isrc": "CA9L62600408",
+  "apple": "6762649758",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/a7/fc/35a7fc98-6e3c-2b07-1d3b-ca18ec6ff65e/mzaf_860514617706588793.plus.aac.p.m4a"
  },
  {
   "id": 3399416311,
@@ -9337,7 +11861,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3399416311",
-  "deezer": 3399416311
+  "deezer": 3399416311,
+  "isrc": "CAZ700805967"
  },
  {
   "id": 1407938352,
@@ -9348,7 +11873,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7db74ca092658762ca35b256f0d7bc75/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1407938352",
-  "deezer": 1407938352
+  "deezer": 1407938352,
+  "isrc": "CAQ520400012",
+  "apple": "1579131733",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/17/00/6d170063-863b-de7b-b494-e923a33f31a2/mzaf_6271513319425446796.plus.aac.p.m4a"
  },
  {
   "id": 2617600142,
@@ -9359,7 +11887,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a980f29890b2beb45dab9f8997246801/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2617600142",
-  "deezer": 2617600142
+  "deezer": 2617600142,
+  "isrc": "CAF661700437",
+  "apple": "1725046294",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d2/48/50/d24850ec-d04d-5119-df98-e2d1a437fb0c/mzaf_13729141930494388087.plus.aac.p.m4a"
  },
  {
   "id": 1723770967,
@@ -9370,7 +11901,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b22fd4084c831545061f41806dc4d10f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1723770967",
-  "deezer": 1723770967
+  "deezer": 1723770967,
+  "isrc": "CAC0C2200716",
+  "apple": "1619771663",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/be/e1/b6/bee1b6cc-f026-856c-36e0-a4fe354c2db8/mzaf_14030738739035950180.plus.aac.p.m4a"
  },
  {
   "id": 1497629622,
@@ -9381,7 +11915,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eedcd5f71daf952f57cdd3cc29dfc25/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1497629622",
-  "deezer": 1497629622
+  "deezer": 1497629622,
+  "isrc": "CAD520700174",
+  "apple": "1749637997",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/92/13/3f9213df-c46e-4211-cd2c-dee9efd5d434/mzaf_8007451289144710350.plus.aac.p.m4a"
  },
  {
   "id": 1570239932,
@@ -9392,7 +11929,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/83ba3db3dc6c127f1bd9ec328daa5e1a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1570239932",
-  "deezer": 1570239932
+  "deezer": 1570239932,
+  "isrc": "CAJDF2100025",
+  "apple": "1597837587",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9c/fe/1e/9cfe1e74-c8ec-a6e5-a5a8-316a1be8f341/mzaf_10037951223697560040.plus.aac.p.m4a"
  },
  {
   "id": 3945345791,
@@ -9403,7 +11943,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3945345791",
-  "deezer": 3945345791
+  "deezer": 3945345791,
+  "isrc": "CA60L2610007",
+  "apple": "1891156773",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/49/10/8b491074-c96e-a8ae-ff30-df77ecf3284d/mzaf_15909654543163681388.plus.aac.p.m4a"
  },
  {
   "id": 3278043881,
@@ -9414,7 +11957,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3278043881",
-  "deezer": 3278043881
+  "deezer": 3278043881,
+  "isrc": "CALXJ2520006",
+  "apple": "1871513947",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/4c/cc/364ccc4a-20bd-5d13-ba63-eca0eea27ab7/mzaf_4813673990903184455.plus.aac.p.m4a"
  },
  {
   "id": 432286622,
@@ -9425,7 +11971,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/432286622",
-  "deezer": 432286622
+  "deezer": 432286622,
+  "isrc": "CA1RF1600001",
+  "apple": "1316723435",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/79/fc/d5/79fcd598-8412-358d-5df1-99fb6e4b8045/mzaf_10109759696211299368.plus.aac.p.m4a"
  },
  {
   "id": 71903141,
@@ -9436,7 +11985,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/000ed0c8fad6d910748b6429c11e7e0f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/71903141",
-  "deezer": 71903141
+  "deezer": 71903141,
+  "isrc": "CAE601101211",
+  "apple": "1062364780",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/56/c4/ab56c4fd-6722-ecf1-1715-a343cba6fb68/mzaf_11057240318011103980.plus.aac.p.m4a"
  },
  {
   "id": 1036062742,
@@ -9447,7 +11999,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036062742",
-  "deezer": 1036062742
+  "deezer": 1036062742,
+  "isrc": "CA60L1760003",
+  "apple": "1525440917",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/80/11/82801182-016a-92d3-7997-0e6a3afa558e/mzaf_12572560117059707563.plus.aac.p.m4a"
  },
  {
   "id": 3115238601,
@@ -9458,7 +12013,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5e1ffac8c404d5f56828a22ee667e127/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3115238601",
-  "deezer": 3115238601
+  "deezer": 3115238601,
+  "isrc": "CBDXQ2400011",
+  "apple": "1782196621",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/e8/11/a2e811b5-c459-98d7-77ae-11eee757854c/mzaf_13626392908071410446.plus.aac.p.m4a"
  },
  {
   "id": 2267652787,
@@ -9469,7 +12027,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2267652787",
-  "deezer": 2267652787
+  "deezer": 2267652787,
+  "isrc": "CAA502349603",
+  "apple": "1686267564",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/3b/27/0b3b2743-fb32-271e-d5ba-45368518d773/mzaf_4685373193388109305.plus.aac.p.m4a"
  },
  {
   "id": 2873551932,
@@ -9480,7 +12041,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/da7250a1e6ee50bf4fe8bc57bf7cc9ca/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2873551932",
-  "deezer": 2873551932
+  "deezer": 2873551932,
+  "isrc": "CA60L2420003",
+  "apple": "1808739414",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/aa/91/d8aa9167-d122-6e2b-ec0d-14c3d4732e2d/mzaf_17481858288599328836.plus.aac.p.m4a"
  },
  {
   "id": 3102626831,
@@ -9491,7 +12055,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2c2f73513e5973051fca0023ba869403/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3102626831",
-  "deezer": 3102626831
+  "deezer": 3102626831,
+  "isrc": "USHM22221773",
+  "apple": "1780839843",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/a5/fd/9ea5fd5a-be5c-00a2-2842-d85a48158b63/mzaf_9149112359962141430.plus.aac.p.m4a"
  },
  {
   "id": 65802915,
@@ -9502,7 +12069,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/238a3b42c1fdecc1263fc40d8f928d2b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802915",
-  "deezer": 65802915
+  "deezer": 65802915,
+  "isrc": "FR6V81642452",
+  "apple": "627066071",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/8a/a6/148aa616-3d8f-5308-15d3-eb824dee4429/mzaf_3956593744493961601.plus.aac.p.m4a"
  },
  {
   "id": 3168460871,
@@ -9513,7 +12083,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e5ec0c0a2a0d79d136ebb96ca5effd30/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168460871",
-  "deezer": 3168460871
+  "deezer": 3168460871,
+  "isrc": "CAZ842200070",
+  "apple": "1659915428",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/6b/af/b06baf56-0e06-cd71-bc48-95d4bc1f69af/mzaf_18143916458208419194.plus.aac.p.m4a"
  },
  {
   "id": 2552255052,
@@ -9524,7 +12097,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5ee72adf9b6e8a09e0ea40b08848aeea/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2552255052",
-  "deezer": 2552255052
+  "deezer": 2552255052,
+  "isrc": "CAC0C2300857",
+  "apple": "1734226572",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3b/40/f0/3b40f081-d7aa-7bb5-ddcf-c4e02ad19881/mzaf_10141229104963543631.plus.aac.p.m4a"
  },
  {
   "id": 2397233235,
@@ -9535,7 +12111,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6860889407edb57bad307011fb372e4a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2397233235",
-  "deezer": 2397233235
+  "deezer": 2397233235,
+  "isrc": "CA60L2310004",
+  "apple": "1701383838",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/b8/50/70b850f6-3750-0328-09af-4f5b219ae152/mzaf_9748044219774337307.plus.aac.p.m4a"
  },
  {
   "id": 4256417661,
@@ -9546,7 +12125,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256417661",
-  "deezer": 4256417661
+  "deezer": 4256417661,
+  "isrc": "CAH682600180",
+  "apple": "6807454520",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/29/1d/75/291d7511-8b5f-4d0d-e5dd-08cb017642ce/mzaf_5567220223247689612.plus.aac.p.m4a"
  },
  {
   "id": 1253427822,
@@ -9557,7 +12139,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1253427822",
-  "deezer": 1253427822
+  "deezer": 1253427822,
+  "isrc": "CAC0C2000593",
+  "apple": "1555056035",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/14/a2/2914a28a-3f8a-e13f-9a8e-3400a22db81c/mzaf_5354662620296853661.plus.aac.p.m4a"
  },
  {
   "id": 129499602,
@@ -9568,7 +12153,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae78a89d49082fe78cc4a82025070e85/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/129499602",
-  "deezer": 129499602
+  "deezer": 129499602,
+  "isrc": "CAH681600046",
+  "apple": "1369264006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/af/f8/c9/aff8c99b-a4a1-b53a-7cb7-5b1750c64100/mzaf_10535334054609983950.plus.aac.p.m4a"
  },
  {
   "id": 1571256872,
@@ -9579,7 +12167,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6c4f686717028cdffb938ca222777da/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1571256872",
-  "deezer": 1571256872
+  "deezer": 1571256872,
+  "isrc": "CAJDF1800008",
+  "apple": "1598018892",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/32/54/5d325489-a13e-0249-39f6-ce3afb69b541/mzaf_7608696698631401819.plus.aac.p.m4a"
  },
  {
   "id": 128234595,
@@ -9590,7 +12181,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0799b2033da8e7c583c4a08aee31fc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234595",
-  "deezer": 128234595
+  "deezer": 128234595,
+  "isrc": "CAP609105101",
+  "apple": "1551595686",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/bd/03/f6/bd03f654-e857-47ef-abd8-1931e6af315e/mzaf_11977092837224088956.plus.aac.p.m4a"
  },
  {
   "id": 4092225421,
@@ -9601,7 +12195,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4092225421",
-  "deezer": 4092225421
+  "deezer": 4092225421,
+  "isrc": "CAA509269004",
+  "apple": "6781065401",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/22/41/6c224182-a6ca-4260-671c-842caaff8ae9/mzaf_15819453234693741132.plus.aac.p.m4a"
  },
  {
   "id": 128237359,
@@ -9612,7 +12209,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/953f7710115fc7e14bbd4cf1593b9b72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237359",
-  "deezer": 128237359
+  "deezer": 128237359,
+  "isrc": "CAA500417309",
+  "apple": "1551599440",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c7/47/d8/c747d88f-d862-42bd-e746-768ea0041092/mzaf_7964528654246730489.plus.aac.p.m4a"
  },
  {
   "id": 1543591562,
@@ -9623,7 +12223,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b200231462e943f6d4b9de442beb7cdb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1543591562",
-  "deezer": 1543591562
+  "deezer": 1543591562,
+  "isrc": "CAR722163104",
+  "apple": "1588294039",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/55/e7/3755e796-8867-463b-4f21-c0dc512df1b1/mzaf_2733083026451906400.plus.aac.p.m4a"
  },
  {
   "id": 843810202,
@@ -9634,7 +12237,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c783037e1c51499981acf730086efeec/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/843810202",
-  "deezer": 843810202
+  "deezer": 843810202,
+  "isrc": "FRX201999918"
  },
  {
   "id": 1662816462,
@@ -9645,7 +12249,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/950df83d63382213157ad477bb9015b7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1662816462",
-  "deezer": 1662816462
+  "deezer": 1662816462,
+  "isrc": "CAC0C2200706",
+  "apple": "1611031584",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7d/f0/a4/7df0a4f6-7361-b224-7458-007d4f7bb99c/mzaf_13594487603518499236.plus.aac.p.m4a"
  },
  {
   "id": 1481648752,
@@ -9656,7 +12263,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/90c9371dc8bfc777606bbc3b8d1a9ce7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1481648752",
-  "deezer": 1481648752
+  "deezer": 1481648752,
+  "isrc": "CAA502146204",
+  "apple": "1583856231",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/1a/04/261a0435-41b1-bdc4-0aa5-065bf89f5b5f/mzaf_7732062905711514093.plus.aac.p.m4a"
  },
  {
   "id": 3832550591,
@@ -9667,7 +12277,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df172965a1934a3992acb61495f540ed/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3832550591",
-  "deezer": 3832550591
+  "deezer": 3832550591,
+  "isrc": "CAPGR2600005",
+  "apple": "1875994232",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/37/2a/5a372a80-8037-6f14-acc9-12803b0254d5/mzaf_3191811350382686402.plus.aac.p.m4a"
  },
  {
   "id": 2929318801,
@@ -9678,7 +12291,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2929318801",
-  "deezer": 2929318801
+  "deezer": 2929318801,
+  "isrc": "CAD432404401",
+  "apple": "1756965080",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/13/a4/ea13a422-0cab-5b83-e337-56647593e615/mzaf_12733051748267324992.plus.aac.p.m4a"
  },
  {
   "id": 128220753,
@@ -9689,7 +12305,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a85e059ef13274a1f7e6fa7745225756/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128220753",
-  "deezer": 128220753
+  "deezer": 128220753,
+  "isrc": "CA7H51300177",
+  "apple": "1551599515",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/51/51/a2/5151a2ef-12d3-78cf-a29b-967e0b3a6dcf/mzaf_8139705344975496213.plus.aac.p.m4a"
  },
  {
   "id": 3945345771,
@@ -9700,7 +12319,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3945345771",
-  "deezer": 3945345771
+  "deezer": 3945345771,
+  "isrc": "CA60L2610001",
+  "apple": "1891156770",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/78/3f/f0783f94-5084-9ff6-5e2b-7903923c59d3/mzaf_4658783652176651043.plus.aac.p.m4a"
  },
  {
   "id": 847611262,
@@ -9711,7 +12333,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3804d693684fe73388ba7c1f30128cad/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/847611262",
-  "deezer": 847611262
+  "deezer": 847611262,
+  "isrc": "TCAEE1984377",
+  "apple": "1493877506",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/92/33/1d92337e-5a90-2f0b-9eb9-285097d372fc/mzaf_2368564837705441664.plus.aac.p.m4a"
  },
  {
   "id": 1666767502,
@@ -9722,7 +12347,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/08ae7fa3a62107522ce4b77eb5c8ffae/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1666767502",
-  "deezer": 1666767502
+  "deezer": 1666767502,
+  "isrc": "CAG600390211",
+  "apple": "254848999",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/81/c3/a081c3c5-7d50-77a5-05d7-d2347414252a/mzaf_10789444517242855546.plus.aac.p.m4a"
  },
  {
   "id": 66993159,
@@ -9733,7 +12361,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2100c114826725d6da783256e6cb051d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/66993159",
-  "deezer": 66993159
+  "deezer": 66993159,
+  "isrc": "CAY641300204",
+  "apple": "642890354",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0d/f8/f4/0df8f4cb-689b-00dc-1ff4-d28e009cd957/mzaf_5682656924348933627.plus.aac.p.m4a"
  },
  {
   "id": 2632364092,
@@ -9744,7 +12375,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f47b5c2311d3c44d57266d5b5eb10339/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2632364092",
-  "deezer": 2632364092
+  "deezer": 2632364092,
+  "isrc": "CAC6N2300104",
+  "apple": "1727170293",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fe/df/10/fedf102a-be4f-f273-22e5-ff58cfe1c462/mzaf_6908732974283100357.plus.aac.p.m4a"
  },
  {
   "id": 2448204225,
@@ -9755,7 +12389,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2448204225",
-  "deezer": 2448204225
+  "deezer": 2448204225,
+  "isrc": "CBBJH2300002",
+  "apple": "1706373978",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/72/dc/8e/72dc8e5d-7f00-7fc3-fdd5-b8dcf8e6660f/mzaf_1517714311677014888.plus.aac.p.m4a"
  },
  {
   "id": 2267652767,
@@ -9766,7 +12403,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2267652767",
-  "deezer": 2267652767
+  "deezer": 2267652767,
+  "isrc": "CAA502349601",
+  "apple": "1686267251",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/2a/1e/6d2a1ecf-a825-9e20-21b5-32fd79c27cfe/mzaf_1445900283201409644.plus.aac.p.m4a"
  },
  {
   "id": 93081586,
@@ -9777,7 +12417,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/27a80fe6102398f5ebe77c90c339dbc6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/93081586",
-  "deezer": 93081586
+  "deezer": 93081586,
+  "isrc": "CAI251313805",
+  "apple": "956320237",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/ae/a0/2daea087-e19d-c887-1963-69e5a5f1e3b4/mzaf_4076066325071061157.plus.aac.p.m4a"
  },
  {
   "id": 2047044887,
@@ -9788,7 +12431,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d89a8ce2487b731acccf8f35207bf45d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2047044887",
-  "deezer": 2047044887
+  "deezer": 2047044887,
+  "isrc": "CAG840600017",
+  "apple": "1653008987",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/19/68/88/19688863-a7a6-cabe-f5b4-7931b75e367c/mzaf_16539912597064955400.plus.aac.p.m4a"
  },
  {
   "id": 2617578132,
@@ -9799,7 +12445,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/91e8a22319606b6d962ffa43d2550088/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2617578132",
-  "deezer": 2617578132
+  "deezer": 2617578132,
+  "isrc": "CAF661500149",
+  "apple": "1724884271",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0b/05/a8/0b05a8e3-3ffa-9bfc-1919-bfbb45ec9801/mzaf_1239165929210228581.plus.aac.p.m4a"
  },
  {
   "id": 1237605082,
@@ -9810,7 +12459,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1237605082",
-  "deezer": 1237605082
+  "deezer": 1237605082,
+  "isrc": "CAEKX1900009",
+  "apple": "1552782463",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/3b/aa/673baa2e-594e-579b-a0bc-bd6d97be8750/mzaf_7759316846740054265.plus.aac.p.m4a"
  },
  {
   "id": 676387732,
@@ -9821,7 +12473,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f5604db798a2acbfd76a6df0e251e0ad/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/676387732",
-  "deezer": 676387732
+  "deezer": 676387732,
+  "isrc": "CAH681900058",
+  "apple": "1462790345",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/65/e3/d065e3bc-e208-4916-cbd9-dd06d84bcb7c/mzaf_17454865417251104842.plus.aac.p.m4a"
  },
  {
   "id": 1539650982,
@@ -9832,7 +12487,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/93351b6282f551324a025dbc9bd2b9ef/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1539650982",
-  "deezer": 1539650982
+  "deezer": 1539650982,
+  "isrc": "CAD430890803",
+  "apple": "1593602555",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/84/99/d4849912-06fa-7e51-570e-c83c08c35460/mzaf_5948151467505577368.plus.aac.p.m4a"
  },
  {
   "id": 3399416281,
@@ -9843,7 +12501,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3399416281",
-  "deezer": 3399416281
+  "deezer": 3399416281,
+  "isrc": "CAZ700805964"
  },
  {
   "id": 1424363532,
@@ -9854,7 +12513,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e297bbefdbab5188b2cb08d5fbf11620/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1424363532",
-  "deezer": 1424363532
+  "deezer": 1424363532,
+  "isrc": "CAC0C2100644",
+  "apple": "1575217701",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a8/91/26/a89126e4-56ae-03e9-a21c-f84e4495b898/mzaf_10334031963249296956.plus.aac.p.m4a"
  },
  {
   "id": 4064453041,
@@ -9865,7 +12527,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4064453041",
-  "deezer": 4064453041
+  "deezer": 4064453041,
+  "isrc": "CA1JS1900046",
+  "apple": "6777121754",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/ea/43/57ea4397-2aa1-1079-e589-b40cd91fc4a7/mzaf_17777302100397264231.plus.aac.p.m4a"
  },
  {
   "id": 1540443252,
@@ -9876,7 +12541,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1540443252",
-  "deezer": 1540443252
+  "deezer": 1540443252,
+  "isrc": "CA0U32100012",
+  "apple": "1594080681",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d6/95/e0/d695e087-25e3-f4f9-db1b-7e2de6b3c048/mzaf_2989962494114882904.plus.aac.p.m4a"
  },
  {
   "id": 4003519161,
@@ -9887,7 +12555,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4003519161",
-  "deezer": 4003519161
+  "deezer": 4003519161,
+  "isrc": "CAH682600072",
+  "apple": "6767221862",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/72/96/917296c4-f9a3-e226-ed78-a6f97ff394d7/mzaf_2817334393849843722.plus.aac.p.m4a"
  },
  {
   "id": 85615146,
@@ -9898,7 +12569,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/85615146",
-  "deezer": 85615146
+  "deezer": 85615146,
+  "isrc": "FRZ831409508"
  },
  {
   "id": 1424554722,
@@ -9909,7 +12581,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25c187352c2d3d027c4d53ad10a1018d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1424554722",
-  "deezer": 1424554722
+  "deezer": 1424554722,
+  "isrc": "CAH682000092",
+  "apple": "1575243598",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/26/e6/7e/26e67e11-cd54-6fe0-80e0-dd46db89ef2b/mzaf_16015876339194837472.plus.aac.p.m4a"
  },
  {
   "id": 2820309562,
@@ -9920,7 +12595,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6a31da363d3e7780bb751e64d0b9587d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2820309562",
-  "deezer": 2820309562
+  "deezer": 2820309562,
+  "isrc": "FRX872457523",
+  "apple": "1819501386",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/ea/5f/7dea5f19-29fc-8e7b-608e-d1fdd1e15f53/mzaf_1431195068112597740.plus.aac.p.m4a"
  },
  {
   "id": 1409440302,
@@ -9931,7 +12609,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1409440302",
-  "deezer": 1409440302
+  "deezer": 1409440302,
+  "isrc": "CAL641219931",
+  "apple": "1573038890",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/19/29/9f192908-5ef5-b86f-04aa-d47d068ee409/mzaf_17095112506972201895.plus.aac.p.m4a"
  },
  {
   "id": 15398210,
@@ -9942,7 +12623,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/746943ba0cb94117143b6cc422a0e904/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15398210",
-  "deezer": 15398210
+  "deezer": 15398210,
+  "isrc": "CAV160201651",
+  "apple": "253926477",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/0d/01/800d0162-f694-da77-bf5c-a829cf708966/mzaf_2810397438778514140.plus.aac.p.m4a"
  },
  {
   "id": 4015237811,
@@ -9953,7 +12637,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c9f4eb263626bc1247a86893094c787e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4015237811",
-  "deezer": 4015237811
+  "deezer": 4015237811,
+  "isrc": "CAQ520900139",
+  "apple": "6768449749",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/ba/bf/e5babf53-263e-73a0-8ce5-20f6fcef24ed/mzaf_5020461238355335822.plus.aac.p.m4a"
  },
  {
   "id": 1397329812,
@@ -9964,7 +12651,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1397329812",
-  "deezer": 1397329812
+  "deezer": 1397329812,
+  "isrc": "CAY9M2100005",
+  "apple": "1571213565",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/82/5f/d2825f30-8ee6-6dc9-1d0d-92facbc5bab2/mzaf_15345539380697825255.plus.aac.p.m4a"
  },
  {
   "id": 2788042902,
@@ -9975,7 +12665,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2788042902",
-  "deezer": 2788042902
+  "deezer": 2788042902,
+  "isrc": "CA0RZ2400022",
+  "apple": "1745183073",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/7e/1e/6e7e1e3a-8ed0-f336-8abf-0fcab3d12d1f/mzaf_7808418596575079853.plus.aac.p.m4a"
  },
  {
   "id": 371577241,
@@ -9986,7 +12679,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4e63371e3d27207b17583f4af183080e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/371577241",
-  "deezer": 371577241
+  "deezer": 371577241,
+  "isrc": "CAD431796402",
+  "apple": "1246467438",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/55/38/4255388d-dc43-2b6a-1099-b0c09783bf23/mzaf_12792715517613714702.plus.aac.p.m4a"
  },
  {
   "id": 15682851,
@@ -9997,7 +12693,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e16548fc4e7cdad1d3758aa39ecf7249/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15682851",
-  "deezer": 15682851
+  "deezer": 15682851,
+  "isrc": "CAEZ10800173",
+  "apple": "714740920",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9b/df/f0/9bdff054-f74c-388f-013f-b29c8394ed4f/mzaf_16138586434757305332.plus.aac.p.m4a"
  },
  {
   "id": 1237605072,
@@ -10008,7 +12707,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1237605072",
-  "deezer": 1237605072
+  "deezer": 1237605072,
+  "isrc": "CAEKX1900008",
+  "apple": "1552782183",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/0d/69/480d696a-6ba9-d514-8c0b-a5701487400d/mzaf_14626128254523259369.plus.aac.p.m4a"
  },
  {
   "id": 3234554581,
@@ -10019,7 +12721,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3234554581",
-  "deezer": 3234554581
+  "deezer": 3234554581,
+  "isrc": "CA6AG2500006",
+  "apple": "1796438721",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/45/73/70457326-a04f-6dab-10d9-8c08103ea491/mzaf_12824517513756786412.plus.aac.p.m4a"
  },
  {
   "id": 4045552031,
@@ -10030,7 +12735,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f561e778554ff124634b437122f5931e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4045552031",
-  "deezer": 4045552031
+  "deezer": 4045552031,
+  "isrc": "FRX202647020",
+  "apple": "6773384402",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/06/68/c40668fb-52cb-e559-6c2b-2540534c2d1c/mzaf_7025882460659953608.plus.aac.p.m4a"
  },
  {
   "id": 109118186,
@@ -10041,7 +12749,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ff7b92b3e58b83d892a310dcee9ec726/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/109118186",
-  "deezer": 109118186
+  "deezer": 109118186,
+  "isrc": "CAEZ10800170",
+  "apple": "1047336969",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4d/2c/bd4d2cc0-71a5-e4bb-7b6e-9fa2efe835d9/mzaf_8927548123076299838.plus.aac.p.m4a"
  },
  {
   "id": 128221373,
@@ -10052,7 +12763,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221373",
-  "deezer": 128221373
+  "deezer": 128221373,
+  "isrc": "CAA500825905",
+  "apple": "1551598825",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/6c/e2/05/6ce205e1-31a9-4492-81b1-ab6e76c7594b/mzaf_1134486825151678970.plus.aac.p.m4a"
  },
  {
   "id": 3618172252,
@@ -10063,7 +12777,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d1c081b0df28824f0a242bb628b43443/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3618172252",
-  "deezer": 3618172252
+  "deezer": 3618172252,
+  "isrc": "CALXJ2540007",
+  "apple": "1832006467",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/f1/3b/65f13b16-7c2c-0fd3-59b4-74bcadf07cbd/mzaf_2920838585023256243.plus.aac.p.m4a"
  },
  {
   "id": 2267652857,
@@ -10074,7 +12791,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2267652857",
-  "deezer": 2267652857
+  "deezer": 2267652857,
+  "isrc": "CAA502349610",
+  "apple": "1686268563",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/2f/26/fa2f263e-736e-aafe-406a-032c36d8a9af/mzaf_9135519239512801507.plus.aac.p.m4a"
  },
  {
   "id": 521058722,
@@ -10085,7 +12805,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058722",
-  "deezer": 521058722
+  "deezer": 521058722,
+  "isrc": "CAA501841009",
+  "apple": "1551626725",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/53/17/b2/5317b279-7c42-7d10-9740-14e97a634277/mzaf_9254937332789831327.plus.aac.p.m4a"
  },
  {
   "id": 4007956651,
@@ -10096,7 +12819,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4007956651",
-  "deezer": 4007956651
+  "deezer": 4007956651,
+  "isrc": "CARBL2100005",
+  "apple": "6767282418",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/d9/6e/78d96ed8-cfb1-76dd-8625-bc79a1e01654/mzaf_6952991417790385436.plus.aac.p.m4a"
  },
  {
   "id": 3167990181,
@@ -10107,7 +12833,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3481de50c9c3b2fc426fed195b5555e1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3167990181",
-  "deezer": 3167990181
+  "deezer": 3167990181,
+  "isrc": "CALP71400001",
+  "apple": "1333357636",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/d7/92/93/d79293f9-7631-944c-2e52-abbe331aa99c/mzaf_1401245147839283707.plus.aac.p.m4a"
  },
  {
   "id": 3892635051,
@@ -10118,7 +12847,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ab29a8342f9b148f37cbb4daea780475/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3892635051",
-  "deezer": 3892635051
+  "deezer": 3892635051,
+  "isrc": "CAPMP2600002",
+  "apple": "1884085192",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/ec/21/88ec21d0-954a-32a8-6b69-a96a49121bce/mzaf_2426119772279393101.plus.aac.p.m4a"
  },
  {
   "id": 4077793531,
@@ -10129,7 +12861,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b071d4bce6c28b04904314f2c1140de/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4077793531",
-  "deezer": 4077793531
+  "deezer": 4077793531,
+  "isrc": "CAD431595105",
+  "apple": "6778838276",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/16/97/92169732-a4e1-6f0d-c027-405204d3a910/mzaf_2116049671527039238.plus.aac.p.m4a"
  },
  {
   "id": 72999223,
@@ -10140,7 +12875,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/72999223",
-  "deezer": 72999223
+  "deezer": 72999223,
+  "isrc": "CAG609620206",
+  "apple": "1258823585",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/c2/85/77c2854f-17e7-a002-3de9-9772a108e6d6/mzaf_15743402229905638872.plus.aac.p.m4a"
  },
  {
   "id": 3801750382,
@@ -10151,7 +12889,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/51fb48f80a6692f643cfc2f7e89232e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3801750382",
-  "deezer": 3801750382
+  "deezer": 3801750382,
+  "isrc": "CAZ842600014",
+  "apple": "1870611969",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/0c/7e/170c7e7a-4472-6e99-cc65-27636d30980c/mzaf_3318615527528375312.plus.aac.p.m4a"
  },
  {
   "id": 3973054831,
@@ -10162,7 +12903,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054831",
-  "deezer": 3973054831
+  "deezer": 3973054831,
+  "isrc": "CA9L62600410",
+  "apple": "6762649761",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/5d/1d/7a5d1d82-9631-1e7e-9afc-62c9f9964a9a/mzaf_11624942637856615284.plus.aac.p.m4a"
  },
  {
   "id": 3801750392,
@@ -10173,7 +12917,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/51fb48f80a6692f643cfc2f7e89232e5/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3801750392",
-  "deezer": 3801750392
+  "deezer": 3801750392,
+  "isrc": "CAZ842600001",
+  "apple": "1869750738",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/6c/67/f46c6776-896f-b0fd-ad3f-353c31ee6c72/mzaf_5542778110963355688.plus.aac.p.m4a"
  },
  {
   "id": 65802834,
@@ -10184,7 +12931,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b181d6b08412d1a1bc99e4cac1b65e96/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802834",
-  "deezer": 65802834
+  "deezer": 65802834,
+  "isrc": "CAD430602305",
+  "apple": "627235238",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/32/bd/5032bd0c-1fb9-5c2d-9d06-102f5a360713/mzaf_13025735934765199589.plus.aac.p.m4a"
  },
  {
   "id": 3945345761,
@@ -10195,7 +12945,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3945345761",
-  "deezer": 3945345761
+  "deezer": 3945345761,
+  "isrc": "CA60L2610005",
+  "apple": "1891156769",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/4c/61/d24c6161-06a4-d031-9ac5-160323e1c901/mzaf_6376052284861059036.plus.aac.p.m4a"
  },
  {
   "id": 1563128122,
@@ -10206,7 +12959,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1563128122",
-  "deezer": 1563128122
+  "deezer": 1563128122,
+  "isrc": "CAC0C2100670",
+  "apple": "1596821853",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/53/48/b6/5348b60c-c6fa-af30-0653-6236022cab56/mzaf_9578204512373579884.plus.aac.p.m4a"
  },
  {
   "id": 128235055,
@@ -10217,7 +12973,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/345790e1704491d26e70c3fd51ccd6a4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128235055",
-  "deezer": 128235055
+  "deezer": 128235055,
+  "isrc": "CAA500619705",
+  "apple": "1551605174",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/44/40/ed444049-6541-3503-5542-b9b5c1570cd9/mzaf_17297281202589218765.plus.aac.p.m4a"
  },
  {
   "id": 4064453001,
@@ -10228,7 +12987,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4064453001",
-  "deezer": 4064453001
+  "deezer": 4064453001,
+  "isrc": "CA1JS1900050",
+  "apple": "6777121749",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/1f/b2/561fb2dd-c11a-ce8f-9618-585be98c00d8/mzaf_13128482342657529787.plus.aac.p.m4a"
  },
  {
   "id": 3869986211,
@@ -10239,7 +13001,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ac93bc0c89508b946689854ab32a2257/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3869986211",
-  "deezer": 3869986211
+  "deezer": 3869986211,
+  "isrc": "CAA500518904",
+  "apple": "1880478290",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/75/8c/b7758c60-80e4-1ef8-79e1-b4b376bedcb1/mzaf_17953147543098696019.plus.aac.p.m4a"
  },
  {
   "id": 3580394471,
@@ -10250,7 +13015,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a733ed4679bd44d5b0c9d577dd5fdc83/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3580394471",
-  "deezer": 3580394471
+  "deezer": 3580394471,
+  "isrc": "FR9W18100384",
+  "apple": "1843178861",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/eb/ad/90ebadc2-9e4d-cf35-b1eb-a003172e87eb/mzaf_5086152115804004529.plus.aac.p.m4a"
  },
  {
   "id": 3234554621,
@@ -10261,7 +13029,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3234554621",
-  "deezer": 3234554621
+  "deezer": 3234554621,
+  "isrc": "CA6AG2500010",
+  "apple": "1796438748",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/0e/17/f40e1737-5a81-faa2-f479-f8bb6064140a/mzaf_13109627800398592989.plus.aac.p.m4a"
  },
  {
   "id": 2400330675,
@@ -10272,7 +13043,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2afdc273c878c148c908fe424a3ef821/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2400330675",
-  "deezer": 2400330675
+  "deezer": 2400330675,
+  "isrc": "CAH682300102",
+  "apple": "1701471152",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/8b/62/a28b628e-a0ac-9833-c563-5871266bd98e/mzaf_2133103244446971660.plus.aac.p.m4a"
  },
  {
   "id": 4144375632,
@@ -10283,7 +13057,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4144375632",
-  "deezer": 4144375632
+  "deezer": 4144375632,
+  "isrc": "CAD432606808",
+  "apple": "6789289164",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/b7/ab/92b7ab89-66c5-b81a-ac56-7b226ed68e8d/mzaf_5282350005259653579.plus.aac.p.m4a"
  },
  {
   "id": 1999024847,
@@ -10294,7 +13071,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d58ee70b2d14da77aefc4747c11194ba/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1999024847",
-  "deezer": 1999024847
+  "deezer": 1999024847,
+  "isrc": "CAG840600002",
+  "apple": "1653008798",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/eb/fe/85/ebfe8556-f0be-3553-4553-e4c9a23060ca/mzaf_8477847823522855094.plus.aac.p.m4a"
  },
  {
   "id": 4256417641,
@@ -10305,7 +13085,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256417641",
-  "deezer": 4256417641
+  "deezer": 4256417641,
+  "isrc": "CAH682600178",
+  "apple": "6807454517",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/61/76/9161762f-8b9a-e89c-146e-943352ef73fa/mzaf_11917161495134905631.plus.aac.p.m4a"
  },
  {
   "id": 2929318851,
@@ -10316,7 +13099,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2929318851",
-  "deezer": 2929318851
+  "deezer": 2929318851,
+  "isrc": "CAD432404405",
+  "apple": "1760606502",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/87/ca/5487ca1b-2b30-e56e-0bfc-bda6921bb948/mzaf_4114832928628352841.plus.aac.p.m4a"
  },
  {
   "id": 1284099292,
@@ -10327,7 +13113,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1284099292",
-  "deezer": 1284099292
+  "deezer": 1284099292,
+  "isrc": "CAC0C1800453",
+  "apple": "1559737890",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/b1/f9/31b1f971-d58a-569c-bd8b-d90749e21bc9/mzaf_5598356506168897216.plus.aac.p.m4a"
  },
  {
   "id": 762604862,
@@ -10338,7 +13127,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/84b031aeed9e89722e4dee0b3f8cfcb2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/762604862",
-  "deezer": 762604862
+  "deezer": 762604862,
+  "isrc": "FRX201811807",
+  "apple": "1481322530",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/03/a2/0d03a2c9-f160-8d05-d14d-6b3140bfe39f/mzaf_9455181013369305246.plus.aac.p.m4a"
  },
  {
   "id": 2820288392,
@@ -10349,7 +13141,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6a31da363d3e7780bb751e64d0b9587d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2820288392",
-  "deezer": 2820288392
+  "deezer": 2820288392,
+  "isrc": "FRX872457533",
+  "apple": "1748566612",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/18/68/8a18680a-c315-f264-e9ae-987e251260c6/mzaf_2979088271366025316.plus.aac.p.m4a"
  },
  {
   "id": 3555510391,
@@ -10360,7 +13155,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3555510391",
-  "deezer": 3555510391
+  "deezer": 3555510391,
+  "isrc": "CAH682400006",
+  "apple": "1839763388",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8f/2a/77/8f2a7746-702e-7f27-ffdc-119b70f52daa/mzaf_2588416873417528753.plus.aac.p.m4a"
  },
  {
   "id": 85615112,
@@ -10371,7 +13169,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/85615112",
-  "deezer": 85615112
+  "deezer": 85615112,
+  "isrc": "FRZ831409494"
  },
  {
   "id": 2683161342,
@@ -10382,7 +13181,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2683161342",
-  "deezer": 2683161342
+  "deezer": 2683161342,
+  "isrc": "CAPMP2300005",
+  "apple": "1733706639",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/da/bd/72dabd74-ff04-7b83-4b1d-2a5f88fee48b/mzaf_15133560655688802089.plus.aac.p.m4a"
  },
  {
   "id": 1004059092,
@@ -10393,7 +13195,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1004059092",
-  "deezer": 1004059092
+  "deezer": 1004059092,
+  "isrc": "CAA502044808",
+  "apple": "1551664830",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/ce/b5/85/ceb585ec-dec4-0629-e086-98f14c13c87e/mzaf_87799579561260421.plus.aac.p.m4a"
  },
  {
   "id": 1397329842,
@@ -10404,7 +13209,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1397329842",
-  "deezer": 1397329842
+  "deezer": 1397329842,
+  "isrc": "CAY9M2100008",
+  "apple": "1571213890",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/af/98/3a/af983ae0-3a6f-50a2-e86d-576e7fac0ff2/mzaf_5182471126411648258.plus.aac.p.m4a"
  },
  {
   "id": 2683161362,
@@ -10415,7 +13223,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2683161362",
-  "deezer": 2683161362
+  "deezer": 2683161362,
+  "isrc": "CAPMP2400008",
+  "apple": "1733706820",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/10/8e/d6108e88-e43d-57b7-11d6-573b21bfdedc/mzaf_16441997474011300377.plus.aac.p.m4a"
  },
  {
   "id": 2929318891,
@@ -10426,7 +13237,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2929318891",
-  "deezer": 2929318891
+  "deezer": 2929318891,
+  "isrc": "CAD432404409",
+  "apple": "1760607034",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/24/e1/9a24e18d-b0b6-0785-71d0-32b2e00b24e1/mzaf_18323639160776697954.plus.aac.p.m4a"
  },
  {
   "id": 4007956611,
@@ -10437,7 +13251,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4007956611",
-  "deezer": 4007956611
+  "deezer": 4007956611,
+  "isrc": "CARBL2100001",
+  "apple": "6767282413",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/7e/89/407e89f2-7de2-98f3-1cb3-083ab3008ded/mzaf_8863619366272521629.plus.aac.p.m4a"
  },
  {
   "id": 2344894165,
@@ -10448,7 +13265,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2344894165",
-  "deezer": 2344894165
+  "deezer": 2344894165,
+  "isrc": "CAEKX2300003",
+  "apple": "1684547123",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ef/a1/69/efa1696b-36ab-ee13-fa4c-db58f4129687/mzaf_9142833546907271600.plus.aac.p.m4a"
  },
  {
   "id": 2267652797,
@@ -10459,7 +13279,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2267652797",
-  "deezer": 2267652797
+  "deezer": 2267652797,
+  "isrc": "CAA502349604",
+  "apple": "1686267569",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/d5/ee/7ed5ee88-aa10-5456-855e-de3fd6e029bf/mzaf_14945160869961821021.plus.aac.p.m4a"
  },
  {
   "id": 521058712,
@@ -10470,7 +13293,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058712",
-  "deezer": 521058712
+  "deezer": 521058712,
+  "isrc": "CAA501841008",
+  "apple": "1551626723",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/56/97/7f/56977fa2-5cf9-fe48-25ad-93a2ff45726b/mzaf_7502300674162455238.plus.aac.p.m4a"
  },
  {
   "id": 3850114781,
@@ -10481,7 +13307,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/18209282e0697c78a4e6c5c5647fb672/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3850114781",
-  "deezer": 3850114781
+  "deezer": 3850114781,
+  "isrc": "CBBJH2500001",
+  "apple": "1877948113",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/41/03/ad4103d1-e8fb-dcb2-3f7c-7d937067b6f0/mzaf_612868104597702748.plus.aac.p.m4a"
  },
  {
   "id": 2421012,
@@ -10492,7 +13321,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8246485411374216fa2cf02e0219cec6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2421012",
-  "deezer": 2421012
+  "deezer": 2421012,
+  "isrc": "FRZ036900270",
+  "apple": "1452864357",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/c8/86/d2c88694-7f4b-c1eb-d1c6-2346732188c4/mzaf_236249956513986132.plus.aac.p.m4a"
  },
  {
   "id": 552817242,
@@ -10503,7 +13335,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/552817242",
-  "deezer": 552817242
+  "deezer": 552817242,
+  "isrc": "CAH681800054",
+  "apple": "1434909850",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/73/87/8d7387a6-0722-6ea3-2d42-e7e3e3ec2955/mzaf_2723351246330618401.plus.aac.p.m4a"
  },
  {
   "id": 1470416332,
@@ -10514,7 +13349,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/37ba688e30a5004a82e8572cab7a5d74/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1470416332",
-  "deezer": 1470416332
+  "deezer": 1470416332,
+  "isrc": "CAJDF2000024",
+  "apple": "1599208476",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/20/64/f8/2064f820-feef-c7fe-136a-764b6eba755a/mzaf_5171503018143659454.plus.aac.p.m4a"
  },
  {
   "id": 4005914031,
@@ -10525,7 +13363,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1601cc7fe9db1b5b994fceafc2390cf9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4005914031",
-  "deezer": 4005914031
+  "deezer": 4005914031,
+  "isrc": "CARBL2400003",
+  "apple": "6767026153",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/3f/ad/7a3fad0f-739c-d307-4a02-38aa355d76b5/mzaf_7579543823962035969.plus.aac.p.m4a"
  },
  {
   "id": 15398015,
@@ -10536,7 +13377,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2f13aa2ccd541d27d69bb78c0f13345d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15398015",
-  "deezer": 15398015
+  "deezer": 15398015,
+  "isrc": "CAG549905114",
+  "apple": "254850532",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/d7/79/71d779c2-ed83-dac2-8b1c-92f21545aba3/mzaf_4276762933043558940.plus.aac.p.m4a"
  },
  {
   "id": 1296825412,
@@ -10547,7 +13391,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1296825412",
-  "deezer": 1296825412
+  "deezer": 1296825412,
+  "isrc": "CAPWH2100001",
+  "apple": "1622206092",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/63/6e/21/636e21aa-ee39-432e-869b-9258d0911628/mzaf_9012758870716257481.plus.aac.p.m4a"
  },
  {
   "id": 1480799972,
@@ -10558,7 +13405,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd52e595f50e2f9e9e2a832b284c777/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1480799972",
-  "deezer": 1480799972
+  "deezer": 1480799972,
+  "isrc": "CAD432101008",
+  "apple": "1583864642",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1a/62/da/1a62dab3-fa24-fb3a-55ed-b3308166426d/mzaf_4398550302214754678.plus.aac.p.m4a"
  },
  {
   "id": 62329286,
@@ -10569,7 +13419,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9af8eb8dce26058d2ff58f0fac0628ad/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/62329286",
-  "deezer": 62329286
+  "deezer": 62329286,
+  "isrc": "CAY641100132",
+  "apple": "579537682",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d5/f0/b3/d5f0b32f-48b6-f1bc-facf-d400c8b5425d/mzaf_5268387534752210265.plus.aac.p.m4a"
  },
  {
   "id": 1014458342,
@@ -10580,7 +13433,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9e9c697ce3cada304ce0d9e84cf8650a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1014458342",
-  "deezer": 1014458342
+  "deezer": 1014458342,
+  "isrc": "CA50N2010001",
+  "apple": "1522592886",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/c8/ef/5ac8ef42-514c-0127-983b-2ebb09309e74/mzaf_8327697051160026512.plus.aac.p.m4a"
  },
  {
   "id": 676387742,
@@ -10591,7 +13447,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f5604db798a2acbfd76a6df0e251e0ad/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/676387742",
-  "deezer": 676387742
+  "deezer": 676387742,
+  "isrc": "CAH681900059",
+  "apple": "1462790356",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/e1/49/5de149f9-386a-ecea-69bd-a9037110a77d/mzaf_3777574649281424597.plus.aac.p.m4a"
  },
  {
   "id": 4050944211,
@@ -10602,7 +13461,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3df78d61ae554153000ffc8ff485369a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4050944211",
-  "deezer": 4050944211
+  "deezer": 4050944211,
+  "isrc": "CAV902300005",
+  "apple": "6774289642",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/a2/59/d3a25931-812c-2be8-2037-a008b5861417/mzaf_14400431686642443495.plus.aac.p.m4a"
  },
  {
   "id": 4256417591,
@@ -10613,7 +13475,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4256417591",
-  "deezer": 4256417591
+  "deezer": 4256417591,
+  "isrc": "CAH682600174",
+  "apple": "6807454506",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/83/07/b483072a-5e82-2f4c-0fef-b473a71c0c26/mzaf_1246000139764030207.plus.aac.p.m4a"
  },
  {
   "id": 3973054841,
@@ -10624,7 +13489,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3973054841",
-  "deezer": 3973054841
+  "deezer": 3973054841,
+  "isrc": "CA9L62600411",
+  "apple": "6762649762",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/f9/af/7ef9af94-dc49-6bfe-c3b4-f4810c8efaa8/mzaf_6097980396400996011.plus.aac.p.m4a"
  },
  {
   "id": 2344894205,
@@ -10635,7 +13503,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2344894205",
-  "deezer": 2344894205
+  "deezer": 2344894205,
+  "isrc": "CAEKX2300007",
+  "apple": "1694579726",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/5d/d8/d05dd82c-91dc-c321-6e59-9039db117d0a/mzaf_16768227255944128704.plus.aac.p.m4a"
  },
  {
   "id": 71903131,
@@ -10646,7 +13517,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/000ed0c8fad6d910748b6429c11e7e0f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/71903131",
-  "deezer": 71903131
+  "deezer": 71903131,
+  "isrc": "CAE601101201",
+  "apple": "1062364971",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/30/02/c5300268-1af5-3de5-dc6d-7e86b9fad857/mzaf_12739145108044248025.plus.aac.p.m4a"
  },
  {
   "id": 1424857132,
@@ -10657,7 +13531,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0aeb9d79da6d6a3d643e584fc49796b9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1424857132",
-  "deezer": 1424857132
+  "deezer": 1424857132,
+  "isrc": "CAZ700500088",
+  "apple": "1575282739",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/3d/b8/f53db8d0-2387-36cb-aaf8-ac586565c494/mzaf_2331458875265346491.plus.aac.p.m4a"
  },
  {
   "id": 1090494332,
@@ -10668,7 +13545,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a0883ec97a66211a1ea564c0062c483/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1090494332",
-  "deezer": 1090494332
+  "deezer": 1090494332,
+  "isrc": "CAOWU2000000",
+  "apple": "1533281433",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/4f/56/284f5608-4964-be87-fafc-a406c07b814d/mzaf_9252214735174408660.plus.aac.p.m4a"
  },
  {
   "id": 128234741,
@@ -10679,7 +13559,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234741",
-  "deezer": 128234741
+  "deezer": 128234741,
+  "isrc": "CAA501333706",
+  "apple": "1551607527",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/95/78/7c/95787c55-f3c6-42e8-0fa4-ef11d754a67f/mzaf_7553824242095970705.plus.aac.p.m4a"
  },
  {
   "id": 3869986241,
@@ -10690,7 +13573,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ac93bc0c89508b946689854ab32a2257/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3869986241",
-  "deezer": 3869986241
+  "deezer": 3869986241,
+  "isrc": "CAA500518907",
+  "apple": "1880478544",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/14/c4/d714c4ab-bf50-b04e-600e-e888a619bf6a/mzaf_5159759446251779643.plus.aac.p.m4a"
  },
  {
   "id": 3345014391,
@@ -10701,7 +13587,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8c17c270de6c2bf474a465b89c71124d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3345014391",
-  "deezer": 3345014391
+  "deezer": 3345014391,
+  "isrc": "CA50N2510008",
+  "apple": "1811378279",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/0d/d1/db0dd141-5a2c-25a0-e67b-0c1c15bd5e53/mzaf_1160624067848132903.plus.aac.p.m4a"
  },
  {
   "id": 1563128052,
@@ -10712,7 +13601,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1563128052",
-  "deezer": 1563128052
+  "deezer": 1563128052,
+  "isrc": "CAC0C2100688",
+  "apple": "1596821733",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/49/e8/92/49e89218-ee89-84ad-0f61-365094583fba/mzaf_5243952660831080693.plus.aac.p.m4a"
  },
  {
   "id": 4096891491,
@@ -10723,7 +13615,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4096891491",
-  "deezer": 4096891491
+  "deezer": 4096891491,
+  "isrc": "CAA509003707",
+  "apple": "6781751916",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/4d/f2/9a4df28c-6ad2-080e-1ee2-9366c9db7f5c/mzaf_553307246787920050.plus.aac.p.m4a"
  },
  {
   "id": 3283927661,
@@ -10734,7 +13629,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b5bb959250452292f1fbdc6a8b63052b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3283927661",
-  "deezer": 3283927661
+  "deezer": 3283927661,
+  "isrc": "FR6V81998359",
+  "apple": "1802877583",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/c9/a8/d8c9a8e9-6195-a934-87df-fe10b667eca6/mzaf_5730705088254402310.plus.aac.p.m4a"
  },
  {
   "id": 4007956621,
@@ -10745,7 +13643,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4007956621",
-  "deezer": 4007956621
+  "deezer": 4007956621,
+  "isrc": "CARBL2100003",
+  "apple": "6767282415",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/96/54/74965446-b069-faf2-e7f0-fd0f10d9cd88/mzaf_7036880029023571471.plus.aac.p.m4a"
  },
  {
   "id": 2058882907,
@@ -10756,7 +13657,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bbd1bfc8ccc0a7317751a8d8b53291f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2058882907",
-  "deezer": 2058882907
+  "deezer": 2058882907,
+  "isrc": "CA9L62200304",
+  "apple": "1658617788",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/16/8d/7f168d43-08f5-b7e9-8395-901ecab5dad4/mzaf_15947559283102907630.plus.aac.p.m4a"
  },
  {
   "id": 2506659361,
@@ -10767,7 +13671,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bcbcdb28d51e5dd651992ccba307c860/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2506659361",
-  "deezer": 2506659361
+  "deezer": 2506659361,
+  "isrc": "CAR722363201",
+  "apple": "1685084830",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1a/cd/53/1acd5383-08b1-c33b-655c-740d78d3e9ab/mzaf_4177888558898837199.plus.aac.p.m4a"
  },
  {
   "id": 1222625132,
@@ -10778,7 +13685,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/48e8c53798a54799cc9d2a7fdc35a7bc/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1222625132",
-  "deezer": 1222625132
+  "deezer": 1222625132,
+  "isrc": "QZCE61882490",
+  "apple": "1550836468",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d2/e7/b4/d2e7b4be-ee74-3e17-9e5f-3c6cdb6d26db/mzaf_16669356790808933360.plus.aac.p.m4a"
  },
  {
   "id": 128325723,
@@ -10789,7 +13699,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128325723",
-  "deezer": 128325723
+  "deezer": 128325723,
+  "isrc": "CAA501435202",
+  "apple": "1551590254",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/7e/05/6e7e0511-bc33-12b2-e8a9-3a848c925845/mzaf_12494207581064759490.plus.aac.p.m4a"
  },
  {
   "id": 1721666577,
@@ -10800,7 +13713,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0ae956e23f43c4cff211bc0b3c40e23d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1721666577",
-  "deezer": 1721666577
+  "deezer": 1721666577,
+  "isrc": "CAAA12120509",
+  "apple": "1691816105",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/37/c1/c9/37c1c9a2-e60b-e05b-60d3-198ab68c5321/mzaf_13181131182562842192.plus.aac.p.m4a"
  },
  {
   "id": 1094805982,
@@ -10811,7 +13727,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/192ed2835d766eaa3a013a3fa56cc6cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1094805982",
-  "deezer": 1094805982
+  "deezer": 1094805982,
+  "isrc": "SEYOK2046038",
+  "apple": "1533801143",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/3c/ce/723cceb5-1a81-b836-b8ef-cc0b0b77ae41/mzaf_17856053560708784099.plus.aac.p.m4a"
  },
  {
   "id": 1498021392,
@@ -10822,7 +13741,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/782cba032ac1537e035fb5c62a9ad191/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1498021392",
-  "deezer": 1498021392
+  "deezer": 1498021392,
+  "isrc": "CAP781100102",
+  "apple": "1715480096",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/55/a5/7c55a5a2-bd19-ccc3-c46c-758e997a385f/mzaf_5943578216229175889.plus.aac.p.m4a"
  },
  {
   "id": 1870764,
@@ -10833,7 +13755,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8cc0047533f7aabbc592fe97562857e2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1870764",
-  "deezer": 1870764
+  "deezer": 1870764,
+  "isrc": "USA560658092",
+  "apple": "256528699",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/a4/5e/cea45e9c-10fb-3b12-c860-04757a38b530/mzaf_10076552355315111502.plus.aac.p.m4a"
  },
  {
   "id": 128221367,
@@ -10844,7 +13769,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221367",
-  "deezer": 128221367
+  "deezer": 128221367,
+  "isrc": "CAA500825902",
+  "apple": "1551598703",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/67/8d/dd/678ddde9-7c48-db91-a2ad-81b69a95e79c/mzaf_8598897763211782123.plus.aac.p.m4a"
  },
  {
   "id": 3870010961,
@@ -10855,7 +13783,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/69047aa0762608c5ec767dd42e5636ce/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3870010961",
-  "deezer": 3870010961
+  "deezer": 3870010961,
+  "isrc": "CAA501027005",
+  "apple": "1880482850",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/d7/8e/95d78e07-b3d3-c388-d914-fbbc64a97353/mzaf_13974658404462208192.plus.aac.p.m4a"
  },
  {
   "id": 3399416441,
@@ -10866,7 +13797,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4cfffd68ab847f48b263741221da747c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3399416441",
-  "deezer": 3399416441
+  "deezer": 3399416441,
+  "isrc": "CAZ700805871",
+  "apple": "1818590608",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/66/fd/3866fd19-397f-268b-b40b-a140366ca5e5/mzaf_3638205182737864416.plus.aac.p.m4a"
  },
  {
   "id": 1082316702,
@@ -10877,7 +13811,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2e64d8e55c0e64c7ec44855c025bc12c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1082316702",
-  "deezer": 1082316702
+  "deezer": 1082316702,
+  "isrc": "CA0U30900009",
+  "apple": "1532699831",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/a0/9e/4ba09ec4-bce6-0a7f-64d2-f337dfc4960a/mzaf_8556321596704537742.plus.aac.p.m4a"
  },
  {
   "id": 3282995221,
@@ -10888,7 +13825,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a2217947e07ac1dddf83c38e6881d1f7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3282995221",
-  "deezer": 3282995221
+  "deezer": 3282995221,
+  "isrc": "CA50N2510001",
+  "apple": "1807393600",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/9a/40/359a40b3-fdf8-274c-96fd-e7c43aa5a97a/mzaf_5427119429022554960.plus.aac.p.m4a"
  },
  {
   "id": 1222684862,
@@ -10899,7 +13839,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1222684862",
-  "deezer": 1222684862
+  "deezer": 1222684862,
+  "isrc": "CAC0C2000568",
+  "apple": "1550851678",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/aa/03/b6aa0310-eda9-ea58-6c0a-84bfe766b046/mzaf_6877713649253316362.plus.aac.p.m4a"
  },
  {
   "id": 1036062812,
@@ -10910,7 +13853,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036062812",
-  "deezer": 1036062812
+  "deezer": 1036062812,
+  "isrc": "CA60L1760010",
+  "apple": "1525440932",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/fa/e6/11fae633-adab-06b7-28e2-e97d1b837796/mzaf_7715638248296479874.plus.aac.p.m4a"
  },
  {
   "id": 2147853667,
@@ -10921,7 +13867,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a064f79011ffac1a67b7b816f571f9b0/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2147853667",
-  "deezer": 2147853667
+  "deezer": 2147853667,
+  "isrc": "CAH682300014",
+  "apple": "1671603488",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/1a/d4/651ad490-fdef-1e72-c50c-d90a80e810f0/mzaf_16607634022846903934.plus.aac.p.m4a"
  },
  {
   "id": 4117122691,
@@ -10932,7 +13881,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4117122691",
-  "deezer": 4117122691
+  "deezer": 4117122691,
+  "isrc": "CA46J2600004",
+  "apple": "6784753699",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/13/0d/e7130dc1-7b26-ee92-9120-d21961c29307/mzaf_8653323056290354771.plus.aac.p.m4a"
  },
  {
   "id": 2448204315,
@@ -10943,7 +13895,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2448204315",
-  "deezer": 2448204315
+  "deezer": 2448204315,
+  "isrc": "CBBJH2300010",
+  "apple": "1706375106",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/30/01/6e/30016e04-0a81-19e8-354d-04e8a5be4668/mzaf_18402791665575592586.plus.aac.p.m4a"
  },
  {
   "id": 3368820861,
@@ -10954,7 +13909,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7a0dde4dd1e2a883a6fd12bd9737f8d9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3368820861",
-  "deezer": 3368820861
+  "deezer": 3368820861,
+  "isrc": "CAL542525604",
+  "apple": "1814650063",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/ba/4b/2eba4b18-362b-eb78-4f3f-a8e817a279f3/mzaf_3181836083414894770.plus.aac.p.m4a"
  },
  {
   "id": 1222684832,
@@ -10965,7 +13923,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1222684832",
-  "deezer": 1222684832
+  "deezer": 1222684832,
+  "isrc": "CAC0C2000565",
+  "apple": "1550851664",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/81/28/c581283c-e498-dcde-61db-3695fcdcd322/mzaf_570560737284899712.plus.aac.p.m4a"
  },
  {
   "id": 15682847,
@@ -10976,7 +13937,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e16548fc4e7cdad1d3758aa39ecf7249/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/15682847",
-  "deezer": 15682847
+  "deezer": 15682847,
+  "isrc": "CAEZ10800143",
+  "apple": "6763374818",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/55/4e/0d554e85-d30c-5c23-bfdf-9f0a6e1d765a/mzaf_17690647070020883286.plus.aac.p.m4a"
  },
  {
   "id": 65802914,
@@ -10987,7 +13951,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/238a3b42c1fdecc1263fc40d8f928d2b/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/65802914",
-  "deezer": 65802914
+  "deezer": 65802914,
+  "isrc": "FR6V81642451",
+  "apple": "627065950",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/67/bd/ee67bd10-456c-39f7-a16e-c47d0e6ec3e8/mzaf_5212476793236038235.plus.aac.p.m4a"
  },
  {
   "id": 135094160,
@@ -10998,7 +13965,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ecc7790ce38215d006a234f9b0bb4c8a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/135094160",
-  "deezer": 135094160
+  "deezer": 135094160,
+  "isrc": "CAZ700803074",
+  "apple": "1170709292",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/4f/5f/084f5f48-5582-679c-f54d-02f3c15b4209/mzaf_15207381573379387182.plus.aac.p.m4a"
  },
  {
   "id": 3167674671,
@@ -11009,7 +13979,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0caf9bd984958e035b4516470cadf158/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3167674671",
-  "deezer": 3167674671
+  "deezer": 3167674671,
+  "isrc": "CAZ841300095",
+  "apple": "1333152531",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/3f/c9/1b3fc9c1-df31-9449-f62b-177d03b1cba4/mzaf_5902419431181199700.plus.aac.p.m4a"
  },
  {
   "id": 128221365,
@@ -11020,7 +13993,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128221365",
-  "deezer": 128221365
+  "deezer": 128221365,
+  "isrc": "CAA500825901",
+  "apple": "1551598689",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/d1/36/d3/d136d36d-fecd-5936-c7ac-4844bb052696/mzaf_6441862963848861007.plus.aac.p.m4a"
  },
  {
   "id": 2344894225,
@@ -11031,7 +14007,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2344894225",
-  "deezer": 2344894225
+  "deezer": 2344894225,
+  "isrc": "CAEKX2300009",
+  "apple": "1694579912",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/58/1a/19581a81-01bf-2910-5592-e92d39a0a436/mzaf_15879858088284629963.plus.aac.p.m4a"
  },
  {
   "id": 128234735,
@@ -11042,7 +14021,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128234735",
-  "deezer": 128234735
+  "deezer": 128234735,
+  "isrc": "CAA501333703",
+  "apple": "1551607232",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/1e/91/84/1e91847c-f734-c9f7-b59e-c1cc728895a1/mzaf_17645704969787860676.plus.aac.p.m4a"
  },
  {
   "id": 128325737,
@@ -11053,7 +14035,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128325737",
-  "deezer": 128325737
+  "deezer": 128325737,
+  "isrc": "CAA501435209",
+  "apple": "1551590780",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/3d/3f/3f3d3f18-d31a-eb63-1fb0-8b7706f67bea/mzaf_2407165648797545324.plus.aac.p.m4a"
  },
  {
   "id": 1024265312,
@@ -11064,7 +14049,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ea1ec1b67650a288f6b25e00b512c97d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1024265312",
-  "deezer": 1024265312
+  "deezer": 1024265312,
+  "isrc": "CAS740601007",
+  "apple": "1523946799",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/9b/0c/009b0cac-5538-381b-8290-923fa9223009/mzaf_6917026965635539618.plus.aac.p.m4a"
  },
  {
   "id": 3651471402,
@@ -11075,7 +14063,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e8045e596526e3dbe564441f1de66f9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3651471402",
-  "deezer": 3651471402
+  "deezer": 3651471402,
+  "isrc": "DGA072538109",
+  "apple": "1853664719",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/26/d9/0226d905-fa08-9457-2763-420724877d42/mzaf_2847519280467134706.plus.aac.p.m4a"
  },
  {
   "id": 3368820831,
@@ -11086,7 +14077,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7a0dde4dd1e2a883a6fd12bd9737f8d9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3368820831",
-  "deezer": 3368820831
+  "deezer": 3368820831,
+  "isrc": "CAL542525601",
+  "apple": "1814649632",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/38/88/9138884d-5286-bdf2-dda0-a9231e6faac5/mzaf_11471905699549208755.plus.aac.p.m4a"
  },
  {
   "id": 3619724612,
@@ -11097,7 +14091,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3619724612",
-  "deezer": 3619724612
+  "deezer": 3619724612,
+  "isrc": "CAC222500172",
+  "apple": "1848415579",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/71/f4/5071f447-67c8-ca6c-6ee3-85a0ecc09785/mzaf_10205544466504233500.plus.aac.p.m4a"
  },
  {
   "id": 3168596491,
@@ -11108,7 +14105,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/efd25fa8963892b56c9db5c092a789b8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168596491",
-  "deezer": 3168596491
+  "deezer": 3168596491,
+  "isrc": "USSUB2358706",
+  "apple": "1717868543",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/62/fd/ac/62fdac73-be5d-4ef3-69a8-e8ecdebecb13/mzaf_18101220540108037562.plus.aac.p.m4a"
  },
  {
   "id": 4005669811,
@@ -11119,7 +14119,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7cb3fe3d6c2b3040651bdd2de1828637/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4005669811",
-  "deezer": 4005669811
+  "deezer": 4005669811,
+  "isrc": "CAUY12310005",
+  "apple": "6766993616",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/b8/83/e9b8838a-d4c9-40ef-870c-472bccfdc258/mzaf_6627423285839805188.plus.aac.p.m4a"
  },
  {
   "id": 1483469862,
@@ -11130,7 +14133,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9b44fd35994afb7da47033d6f5c57b06/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1483469862",
-  "deezer": 1483469862
+  "deezer": 1483469862,
+  "isrc": "CAD432101101",
+  "apple": "1584199002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/96/67/789667ad-37ac-ef65-af7d-47a62f3db48d/mzaf_4379631406203229940.plus.aac.p.m4a"
  },
  {
   "id": 521058702,
@@ -11141,7 +14147,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/521058702",
-  "deezer": 521058702
+  "deezer": 521058702,
+  "isrc": "CAA501841007",
+  "apple": "1551626719",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/1d/3a/c0/1d3ac078-7e55-fda7-d582-0610c9f61fca/mzaf_7446558740580413201.plus.aac.p.m4a"
  },
  {
   "id": 1225315552,
@@ -11152,7 +14161,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/860430db3577438d3ddc319c07a37d8f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1225315552",
-  "deezer": 1225315552
+  "deezer": 1225315552,
+  "isrc": "CAC0C2000520",
+  "apple": "1551218680",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/08/84/27/08842776-95e2-1e8c-939b-505edc86a258/mzaf_17947279711608640757.plus.aac.p.m4a"
  },
  {
   "id": 85615126,
@@ -11163,7 +14175,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/85615126",
-  "deezer": 85615126
+  "deezer": 85615126,
+  "isrc": "FRZ831409498"
  },
  {
   "id": 3363569091,
@@ -11174,7 +14187,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5216ae76ddd62ee74616bcbece119f1f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3363569091",
-  "deezer": 3363569091
+  "deezer": 3363569091,
+  "isrc": "CA50N2520001",
+  "apple": "1813919716",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/58/54/125854ce-4b29-873a-0f17-4c55cf77d98f/mzaf_13938167145530632472.plus.aac.p.m4a"
  },
  {
   "id": 1651571862,
@@ -11185,7 +14201,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/913bb753e90bc327b98d10e8eb2609bd/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1651571862",
-  "deezer": 1651571862
+  "deezer": 1651571862,
+  "isrc": "CAK920801310",
+  "apple": "1609101697",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/89/1b/53/891b53d7-1f26-0141-1d7d-0c7b7426d3f2/mzaf_11869479041633049340.plus.aac.p.m4a"
  },
  {
   "id": 1481648722,
@@ -11196,7 +14215,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/90c9371dc8bfc777606bbc3b8d1a9ce7/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1481648722",
-  "deezer": 1481648722
+  "deezer": 1481648722,
+  "isrc": "CAA502146201",
+  "apple": "1583855764",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/f8/fa/7df8fa09-4926-1e7a-7e95-d9466ed43443/mzaf_3731986226451685684.plus.aac.p.m4a"
  },
  {
   "id": 3105115441,
@@ -11207,7 +14229,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0d575f4239525d29af48c56026eb631a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3105115441",
-  "deezer": 3105115441
+  "deezer": 3105115441,
+  "isrc": "USX9P1238044",
+  "apple": "1781100481",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/e4/c7/90e4c783-c7cc-02e4-44c6-80f472a4f537/mzaf_10524187867419015851.plus.aac.p.m4a"
  },
  {
   "id": 1496220742,
@@ -11218,7 +14243,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3f9c4b8f15eafc5f598817017e19c9ac/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1496220742",
-  "deezer": 1496220742
+  "deezer": 1496220742,
+  "isrc": "CAOBX2100006",
+  "apple": "1586207040",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/11/a5/6c11a520-b28b-72c6-cc60-1526456401c0/mzaf_12036960852595615184.plus.aac.p.m4a"
  },
  {
   "id": 2992226031,
@@ -11229,7 +14257,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b06beae64a563be01a8ad28fd0f9591f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2992226031",
-  "deezer": 2992226031
+  "deezer": 2992226031,
+  "isrc": "CANIO2400013",
+  "apple": "1768127256",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/2b/09/2d2b0921-eef5-394b-c30e-bf265d44ec10/mzaf_11400027896937730494.plus.aac.p.m4a"
  },
  {
   "id": 1225315542,
@@ -11240,7 +14271,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/860430db3577438d3ddc319c07a37d8f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1225315542",
-  "deezer": 1225315542
+  "deezer": 1225315542,
+  "isrc": "CAC0C2000519",
+  "apple": "1551218554",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c0/03/1d/c0031de8-34c6-d078-ede5-3e95d60a331b/mzaf_5769992616598558070.plus.aac.p.m4a"
  },
  {
   "id": 3027639631,
@@ -11251,7 +14285,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3998393dd54fd18a327642ef1ec65f0f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3027639631",
-  "deezer": 3027639631
+  "deezer": 3027639631,
+  "isrc": "CA7582400001",
+  "apple": "1771946206",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/fc/a5/5ffca5aa-8594-8589-9544-b8e24a7d5959/mzaf_14730453288872655825.plus.aac.p.m4a"
  },
  {
   "id": 1222684902,
@@ -11262,7 +14299,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1222684902",
-  "deezer": 1222684902
+  "deezer": 1222684902,
+  "isrc": "CAC0C2000572",
+  "apple": "1550851966",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/c1/ab/5cc1ab7d-cd4a-3cbd-6a46-be3d3956517b/mzaf_5828023352378011253.plus.aac.p.m4a"
  },
  {
   "id": 2206549787,
@@ -11273,7 +14313,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2a7de5d92cf19921a99f4a1b38d7700a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2206549787",
-  "deezer": 2206549787
+  "deezer": 2206549787,
+  "isrc": "CALXJ2330003",
+  "apple": "1677812162",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/91/a3/3091a32a-e83d-ecd5-0eec-ce9a9732d8e1/mzaf_8982246978962719955.plus.aac.p.m4a"
  },
  {
   "id": 128237467,
@@ -11284,7 +14327,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ba5bee87858453ed83cb5ed5c844c83a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128237467",
-  "deezer": 128237467
+  "deezer": 128237467,
+  "isrc": "CAM609214003",
+  "apple": "1551598865",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/2e/cc/90/2ecc902f-e12d-110d-fc91-91fd96aa727e/mzaf_5196467802624075493.plus.aac.p.m4a"
  },
  {
   "id": 4092225401,
@@ -11295,7 +14341,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4092225401",
-  "deezer": 4092225401
+  "deezer": 4092225401,
+  "isrc": "CAA509269002",
+  "apple": "6781065399",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/e6/da/eae6da07-b97a-58fc-1bcc-bbeee43331a6/mzaf_5031260750759358370.plus.aac.p.m4a"
  },
  {
   "id": 3001398891,
@@ -11306,7 +14355,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/48458c36649245d1ab3faebcc2fb7d64/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3001398891",
-  "deezer": 3001398891
+  "deezer": 3001398891,
+  "isrc": "CAJDF2400076",
+  "apple": "1769267237",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/ea/91/29ea91f0-e2af-522e-3415-a3fedb976a26/mzaf_6160902617459433735.plus.aac.p.m4a"
  },
  {
   "id": 1989125367,
@@ -11317,7 +14369,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/716b4ab0e26db06826cb558d754b9b87/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1989125367",
-  "deezer": 1989125367
+  "deezer": 1989125367,
+  "isrc": "CACEB1718758",
+  "apple": "1652077840",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b8/17/78/b8177860-30d6-89f7-a3b7-ea4470f38127/mzaf_17458764309424557510.plus.aac.p.m4a"
  },
  {
   "id": 1409440322,
@@ -11328,7 +14383,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1409440322",
-  "deezer": 1409440322
+  "deezer": 1409440322,
+  "isrc": "CAL641219933",
+  "apple": "1573038951",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/21/24/6e2124bd-5670-f4df-8e43-1d36dd834745/mzaf_11073393393841847864.plus.aac.p.m4a"
  },
  {
   "id": 432286662,
@@ -11339,7 +14397,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/432286662",
-  "deezer": 432286662
+  "deezer": 432286662,
+  "isrc": "CA1RF1600005",
+  "apple": "1316723571",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/61/a1/30/61a130f4-c76f-72cb-e38a-ba5e98c2482d/mzaf_15071536038662922751.plus.aac.p.m4a"
  },
  {
   "id": 1037121632,
@@ -11350,7 +14411,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dea52961c33146bc1961b0ceb2983537/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1037121632",
-  "deezer": 1037121632
+  "deezer": 1037121632,
+  "isrc": "CA60L1430002",
+  "apple": "1525618020",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/7a/3f/9f7a3fe3-b3b1-36b1-e088-53e2ce364b70/mzaf_7150419036386501819.plus.aac.p.m4a"
  },
  {
   "id": 1237605152,
@@ -11361,7 +14425,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1237605152",
-  "deezer": 1237605152
+  "deezer": 1237605152,
+  "isrc": "CAEKX1900016",
+  "apple": "1552782662",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/74/2b/80742b6f-ec41-e049-8d67-48ee775221d5/mzaf_1158238560942781041.plus.aac.p.m4a"
  },
  {
   "id": 63572378,
@@ -11372,7 +14439,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/aa03e5f65fb0c2efd2574470fbd8b93f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/63572378",
-  "deezer": 63572378
+  "deezer": 63572378,
+  "isrc": "CAL541214404",
+  "apple": "594665749",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/96/87/7c9687bd-c84c-cdff-c9f6-c52df0d4bd84/mzaf_12110726059279868576.plus.aac.p.m4a"
  },
  {
   "id": 3619724682,
@@ -11383,7 +14453,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3619724682",
-  "deezer": 3619724682
+  "deezer": 3619724682,
+  "isrc": "CAC222500179",
+  "apple": "1848415590",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/ad/00/a1ad0011-c483-c84d-c051-eab2edd830f0/mzaf_14778325502073386234.plus.aac.p.m4a"
  },
  {
   "id": 3455118581,
@@ -11394,7 +14467,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/827c0e07f5be8a9bda3c3e13405244b2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3455118581",
-  "deezer": 3455118581
+  "deezer": 3455118581,
+  "isrc": "FR05W2500514",
+  "apple": "1843441100",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/3f/55/673f5547-a523-5811-d52b-1e688a795d24/mzaf_273864546071154938.plus.aac.p.m4a"
  },
  {
   "id": 2072946837,
@@ -11405,7 +14481,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed95e6c17a24d00a1d8c2923c8475b4a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2072946837",
-  "deezer": 2072946837
+  "deezer": 2072946837,
+  "isrc": "CAS741786506",
+  "apple": "1658905457",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/e4/b4/a1e4b473-9d0e-086d-a386-1f569d55fb52/mzaf_7215004971281603252.plus.aac.p.m4a"
  },
  {
   "id": 2072946797,
@@ -11416,7 +14495,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c13aaf32c79f13f727177c0e5710ae5a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2072946797",
-  "deezer": 2072946797
+  "deezer": 2072946797,
+  "isrc": "CAS741786501",
+  "apple": "1658906466",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5e/48/89/5e4889be-58e8-76ea-4548-8aa73413e772/mzaf_15300022278984230130.plus.aac.p.m4a"
  },
  {
   "id": 4117122671,
@@ -11427,7 +14509,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4117122671",
-  "deezer": 4117122671
+  "deezer": 4117122671,
+  "isrc": "CA46J2600002",
+  "apple": "6784753688",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/69/a6/6d69a649-d823-8653-c0a9-565f306df7bd/mzaf_363433563390957065.plus.aac.p.m4a"
  },
  {
   "id": 1397329822,
@@ -11438,7 +14523,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1397329822",
-  "deezer": 1397329822
+  "deezer": 1397329822,
+  "isrc": "CAY9M2100001",
+  "apple": "1571213572",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/10/97/8e/10978e34-ede6-e516-9336-8793c171923b/mzaf_708871815187623207.plus.aac.p.m4a"
  },
  {
   "id": 3168535591,
@@ -11449,7 +14537,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/095b2fa42045afe25c33ca56f7dd5234/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168535591",
-  "deezer": 3168535591
+  "deezer": 3168535591,
+  "isrc": "CAZ842300058",
+  "apple": "1686968471",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/9f/b4/4a9fb4bd-291a-6b34-a61b-ccf8174679a5/mzaf_16822283512079444269.plus.aac.p.m4a"
  },
  {
   "id": 4003519211,
@@ -11460,7 +14551,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4003519211",
-  "deezer": 4003519211
+  "deezer": 4003519211,
+  "isrc": "CAH682600126",
+  "apple": "6767222294",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/89/47/ca8947dc-83bf-e543-b4d3-cb0aef4c7832/mzaf_7299807205945576852.plus.aac.p.m4a"
  },
  {
   "id": 3555510461,
@@ -11471,7 +14565,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3555510461",
-  "deezer": 3555510461
+  "deezer": 3555510461,
+  "isrc": "CAH682400010",
+  "apple": "1733669031",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/61/a1/6861a130-d306-193f-0826-35b5b7f19948/mzaf_5322473596341991152.plus.aac.p.m4a"
  },
  {
   "id": 85615124,
@@ -11482,7 +14579,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/85615124",
-  "deezer": 85615124
+  "deezer": 85615124,
+  "isrc": "FRZ831409496"
  },
  {
   "id": 4117122681,
@@ -11493,7 +14591,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4117122681",
-  "deezer": 4117122681
+  "deezer": 4117122681,
+  "isrc": "CA46J2600003",
+  "apple": "6784753690",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/86/7a/13867aa2-f64e-3f8f-a3e2-cf53c926bb0b/mzaf_459769440824733467.plus.aac.p.m4a"
  },
  {
   "id": 2685200012,
@@ -11504,7 +14605,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e198b64db6c6b7e3304270b1623caef/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2685200012",
-  "deezer": 2685200012
+  "deezer": 2685200012,
+  "isrc": "CAL542424305",
+  "apple": "1733921799",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0e/b0/bb/0eb0bbd2-b29e-4960-aac1-c133d47825d7/mzaf_6850275827360562217.plus.aac.p.m4a"
  },
  {
   "id": 3168535571,
@@ -11515,7 +14619,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/095b2fa42045afe25c33ca56f7dd5234/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3168535571",
-  "deezer": 3168535571
+  "deezer": 3168535571,
+  "isrc": "CAZ842300056",
+  "apple": "1686968466",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c5/1b/7e/c51b7e40-9877-a717-6892-dee59d681bce/mzaf_18113898323814009785.plus.aac.p.m4a"
  },
  {
   "id": 128325727,
@@ -11526,7 +14633,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128325727",
-  "deezer": 128325727
+  "deezer": 128325727,
+  "isrc": "CAA501435204",
+  "apple": "1551590448",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/b5/63/54b56363-5b8b-71b9-5dd9-c9142ff1672f/mzaf_15182434905215596671.plus.aac.p.m4a"
  },
  {
   "id": 1989125377,
@@ -11537,7 +14647,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/716b4ab0e26db06826cb558d754b9b87/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1989125377",
-  "deezer": 1989125377
+  "deezer": 1989125377,
+  "isrc": "CACEB1718759",
+  "apple": "1652077841",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/64/13/da/6413da8c-475b-abbd-f147-7beea34a9e50/mzaf_15567488672481903279.plus.aac.p.m4a"
  },
  {
   "id": 2448204255,
@@ -11548,7 +14661,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2448204255",
-  "deezer": 2448204255
+  "deezer": 2448204255,
+  "isrc": "CBBJH2300004",
+  "apple": "1699489523",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c5/ff/ac/c5ffac42-8a47-ccfb-8329-12e10f3706dd/mzaf_2668743791208819931.plus.aac.p.m4a"
  },
  {
   "id": 3399416291,
@@ -11559,7 +14675,8 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3399416291",
-  "deezer": 3399416291
+  "deezer": 3399416291,
+  "isrc": "CAZ700805965"
  },
  {
   "id": 1406556442,
@@ -11570,7 +14687,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/31cadf553b49c1355ff5a0075cba4605/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1406556442",
-  "deezer": 1406556442
+  "deezer": 1406556442,
+  "isrc": "CA2HQ2000001",
+  "apple": "1715447059",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/68/14/f8/6814f8b9-6874-3753-a389-4f4ee1583a10/mzaf_7873626640820888580.plus.aac.p.m4a"
  },
  {
   "id": 2391652075,
@@ -11581,7 +14701,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e1ebeba35d50f27e636d870d45eb50fa/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2391652075",
-  "deezer": 2391652075
+  "deezer": 2391652075,
+  "isrc": "CAUY12000002",
+  "apple": "1700504777",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/2b/ea/272bea8a-03fc-d1a6-2d02-b7f36fe73ba5/mzaf_739966631787875152.plus.aac.p.m4a"
  },
  {
   "id": 2514451911,
@@ -11592,7 +14715,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2514451911",
-  "deezer": 2514451911
+  "deezer": 2514451911,
+  "isrc": "CAY9M2300009",
+  "apple": "1713583121",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/f0/db/35f0dbb9-13b5-445e-dc59-f8679953d951/mzaf_10573684220869442439.plus.aac.p.m4a"
  },
  {
   "id": 1563128102,
@@ -11603,7 +14729,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1563128102",
-  "deezer": 1563128102
+  "deezer": 1563128102,
+  "isrc": "CAC0C2100669",
+  "apple": "1596821838",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/34/40/56/344056d2-8b3d-5081-cf84-823b9b752e34/mzaf_7593570634578590342.plus.aac.p.m4a"
  },
  {
   "id": 1030788532,
@@ -11614,7 +14743,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/11ef7081ae314215b94ddb2488584a59/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1030788532",
-  "deezer": 1030788532
+  "deezer": 1030788532,
+  "isrc": "CAH682000082",
+  "apple": "1524692554",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/de/19/57/de195782-4ac1-0d3b-f327-63e329e37ebb/mzaf_7705553378538688928.plus.aac.p.m4a"
  },
  {
   "id": 762622892,
@@ -11625,7 +14757,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/48768b93c214d811aa8e8f127586d49c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/762622892",
-  "deezer": 762622892
+  "deezer": 762622892,
+  "isrc": "SEYOK1780045",
+  "apple": "1481326717",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/74/33/217433a9-ce3a-d855-037a-c38addd4da72/mzaf_2026214355372768948.plus.aac.p.m4a"
  },
  {
   "id": 2994060791,
@@ -11636,7 +14771,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d5ca3bf3f45559144c31b3f19f941551/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2994060791",
-  "deezer": 2994060791
+  "deezer": 2994060791,
+  "isrc": "CAG602465404",
+  "apple": "1768312822",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/19/ea/7119eaea-788f-7582-cba3-81bc15c43d00/mzaf_11105732677847190335.plus.aac.p.m4a"
  },
  {
   "id": 4094317951,
@@ -11647,7 +14785,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f06d5fc1cefe60d51335a5f424bb76c3/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4094317951",
-  "deezer": 4094317951
+  "deezer": 4094317951,
+  "isrc": "CAZ700906440",
+  "apple": "6781354801",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/6c/47/886c4751-bda3-d7d2-0795-e1c9a32818d5/mzaf_17900507949787746853.plus.aac.p.m4a"
  },
  {
   "id": 1036046832,
@@ -11658,7 +14799,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b4d595c816ea6bfd3b637ecb44fc9f3f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1036046832",
-  "deezer": 1036046832
+  "deezer": 1036046832,
+  "isrc": "CA60L1710003",
+  "apple": "1525441172",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/87/ae/ef87ae23-7f72-da17-e780-a283a2b0bc53/mzaf_12179080498324652610.plus.aac.p.m4a"
  },
  {
   "id": 128325729,
@@ -11669,7 +14813,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/128325729",
-  "deezer": 128325729
+  "deezer": 128325729,
+  "isrc": "CAA501435205",
+  "apple": "1551590617",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/9a/c5/a89ac535-8149-9eb3-d011-730649d056a9/mzaf_1587967395267645966.plus.aac.p.m4a"
  },
  {
   "id": 3945345691,
@@ -11680,7 +14827,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3945345691",
-  "deezer": 3945345691
+  "deezer": 3945345691,
+  "isrc": "CA60L2610008",
+  "apple": "1891156762",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/ab/38/49ab3818-a5de-c9a3-7ae1-0c6122dd7cbb/mzaf_540782839226511756.plus.aac.p.m4a"
  },
  {
   "id": 1648758692,
@@ -11691,7 +14841,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/857bee1bf050a07188bd73ca27e18ad8/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1648758692",
-  "deezer": 1648758692
+  "deezer": 1648758692,
+  "isrc": "CAD432101103",
+  "apple": "1609070974",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8e/c1/24/8ec12441-d4bc-5d90-4215-bc4573787d37/mzaf_3696048068386627539.plus.aac.p.m4a"
  },
  {
   "id": 4117122701,
@@ -11702,7 +14855,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4117122701",
-  "deezer": 4117122701
+  "deezer": 4117122701,
+  "isrc": "CA46J2600005",
+  "apple": "6784753764",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/87/82/4c87825b-024b-78d8-998d-e151ddc85382/mzaf_1264974329106466697.plus.aac.p.m4a"
  },
  {
   "id": 432286692,
@@ -11713,7 +14869,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/432286692",
-  "deezer": 432286692
+  "deezer": 432286692,
+  "isrc": "CA1RF1600008",
+  "apple": "1316723574",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/8a/56/d58a5624-ee31-72bb-992c-8a8cbe9591b9/mzaf_15852406065340999109.plus.aac.p.m4a"
  },
  {
   "id": 432286632,
@@ -11724,7 +14883,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/432286632",
-  "deezer": 432286632
+  "deezer": 432286632,
+  "isrc": "CA1RF1600002",
+  "apple": "1316723437",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2b/f5/9c/2bf59c39-c2e7-ae8a-1124-ff82dacbdc83/mzaf_12533935841601830025.plus.aac.p.m4a"
  },
  {
   "id": 2178403997,
@@ -11735,7 +14897,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/64aea65c07478abc7a8cd9d414662e88/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2178403997",
-  "deezer": 2178403997
+  "deezer": 2178403997,
+  "isrc": "CAH682300046",
+  "apple": "1675916401",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/02/36/33/02363393-829f-9201-c60f-5f3a833ca881/mzaf_3410220923273405848.plus.aac.p.m4a"
  },
  {
   "id": 1844502567,
@@ -11746,7 +14911,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/119e2688354888b8ba73938a4d462997/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1844502567",
-  "deezer": 1844502567
+  "deezer": 1844502567,
+  "isrc": "CAH682200049",
+  "apple": "1637081255",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4a/29/b8/4a29b847-4a06-e85f-d025-046e31540f80/mzaf_3058384181234277808.plus.aac.p.m4a"
  },
  {
   "id": 3658348442,
@@ -11757,7 +14925,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2627088f4ac8242f0098c88248ae162d/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/3658348442",
-  "deezer": 3658348442
+  "deezer": 3658348442,
+  "isrc": "CAH682500080",
+  "apple": "1853251353",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/7a/34/1d7a3438-574a-0554-4b72-58b55fd86069/mzaf_6193949740593937100.plus.aac.p.m4a"
  },
  {
   "id": 1438970782,
@@ -11768,7 +14939,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a19e8bd25a7036c489d25fd6143cf89f/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1438970782",
-  "deezer": 1438970782
+  "deezer": 1438970782,
+  "isrc": "CALTS2100005",
+  "apple": "1577284285",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/99/a9/6999a96b-e2b1-60ac-6985-69901f6b95e9/mzaf_2610461554184139547.plus.aac.p.m4a"
  },
  {
   "id": 1296825452,
@@ -11779,7 +14953,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1296825452",
-  "deezer": 1296825452
+  "deezer": 1296825452,
+  "isrc": "CAPWH2100006",
+  "apple": "1622206106",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6a/52/79/6a527901-0faf-1ce7-413e-2878b9df8c76/mzaf_723413878906014987.plus.aac.p.m4a"
  },
  {
   "id": 2465723715,
@@ -11790,7 +14967,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/efe02a8759f36e8b7e1323a7c73b0b58/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/2465723715",
-  "deezer": 2465723715
+  "deezer": 2465723715,
+  "isrc": "CAS742391009",
+  "apple": "1708473228",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/83/1b/c6/831bc6a4-f86e-a7bb-c4a1-98ddec7021f9/mzaf_9747072138411365400.plus.aac.p.m4a"
  },
  {
   "id": 4005669801,
@@ -11801,7 +14981,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7cb3fe3d6c2b3040651bdd2de1828637/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/4005669801",
-  "deezer": 4005669801
+  "deezer": 4005669801,
+  "isrc": "CAUY12310004",
+  "apple": "6766993615",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/fb/d8/91fbd81d-1f6c-625f-db71-43be06f70b39/mzaf_16590232697272005377.plus.aac.p.m4a"
  },
  {
   "id": 1065567432,
@@ -11812,7 +14995,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1065567432",
-  "deezer": 1065567432
+  "deezer": 1065567432,
+  "isrc": "CAS741585206",
+  "apple": "1528642747",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fd/e4/e0/fde4e02f-4bc2-8f33-20e2-380ff7e50c28/mzaf_1475545245233494610.plus.aac.p.m4a"
  },
  {
   "id": 983563042,
@@ -11823,7 +15009,10 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/20cc6e2f70d80596a0cacd132767d47a/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/983563042",
-  "deezer": 983563042
+  "deezer": 983563042,
+  "isrc": "CA0RZ1900141",
+  "apple": "1511588366",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/05/be/9905be9f-f4f5-740a-08e4-b28de14d6f45/mzaf_5819434063715543395.plus.aac.p.m4a"
  },
  {
   "id": 1077430422,
@@ -11834,6 +15023,6099 @@ window.SONGS = [
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/058ca96d45e5bea2d1baa3e9b8221ceb/250x250-000000-80-0-0.jpg",
   "link": "https://www.deezer.com/track/1077430422",
-  "deezer": 1077430422
+  "deezer": 1077430422,
+  "isrc": "CAA500417812",
+  "apple": "1531460740",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/25/e6/58/25e658e9-bac3-7a21-5417-65472c45225e/mzaf_6126297116778162988.plus.aac.p.m4a"
+ },
+ {
+  "id": 2364246885,
+  "deezer": 2364246885,
+  "apple": "1697031702",
+  "isrc": "CAJSV2300006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/85/7d/f9857dc5-ebbb-d39f-2b22-e1728270b17f/mzaf_6728745288834271478.plus.aac.p.m4a",
+  "title": "Diable",
+  "artist": "Valse Fréquence",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/60/53/d8605390-56da-f44d-7fff-ae37bf8fa240/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/diable/1697030995?i=1697031702"
+ },
+ {
+  "id": 2364246865,
+  "deezer": 2364246865,
+  "apple": "1697031521",
+  "isrc": "CAJSV2300004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/c8/30/fbc830f5-308a-c30b-a28f-c46eb05bf4b5/mzaf_11743413802856395338.plus.aac.p.m4a",
+  "title": "Prison de verre",
+  "artist": "Valse Fréquence",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/60/53/d8605390-56da-f44d-7fff-ae37bf8fa240/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/prison-de-verre/1697030995?i=1697031521"
+ },
+ {
+  "id": 2266954657,
+  "deezer": 2266954657,
+  "apple": "1697031213",
+  "isrc": "CAJSV2300002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/6d/66/716d66f4-6b6e-bc7d-9bab-0b49c7f3191e/mzaf_18215043661541255793.plus.aac.p.m4a",
+  "title": "Mirage",
+  "artist": "Valse Fréquence",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/60/53/d8605390-56da-f44d-7fff-ae37bf8fa240/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mirage/1697030995?i=1697031213"
+ },
+ {
+  "id": 2182154977,
+  "deezer": 2182154977,
+  "apple": "1697031199",
+  "isrc": "CAJSV2300001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/27/37/fe27378c-ec60-a907-5ec9-0314498f671e/mzaf_3496676917136869206.plus.aac.p.m4a",
+  "title": "Jamais t'oublier",
+  "artist": "Valse Fréquence",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/60/53/d8605390-56da-f44d-7fff-ae37bf8fa240/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jamais-toublier/1697030995?i=1697031199"
+ },
+ {
+  "id": 1037112982,
+  "deezer": 1037112982,
+  "apple": "1525618365",
+  "isrc": "CA60L1530013",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/6d/0d/0c6d0d5a-28ae-1618-ca3f-ebc6077e0f8f/mzaf_2123016556157849524.plus.aac.p.m4a",
+  "title": "Montagne russe",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/montagne-russe/1525618064?i=1525618365"
+ },
+ {
+  "id": 1037112962,
+  "deezer": 1037112962,
+  "apple": "1525618360",
+  "isrc": "CA60L1530011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/2e/6c/e82e6c1a-6e37-6132-bad9-996771e491c4/mzaf_390597868365032882.plus.aac.p.m4a",
+  "title": "Deux saisons trois quarts",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/deux-saisons-trois-quarts/1525618064?i=1525618360"
+ },
+ {
+  "id": 1037112942,
+  "deezer": 1037112942,
+  "apple": "1525618357",
+  "isrc": "CA60L1530009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/5e/e0/485ee0db-121e-abec-927d-38994c5519e4/mzaf_4512237469354079776.plus.aac.p.m4a",
+  "title": "Jouer des tours",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jouer-des-tours/1525618064?i=1525618357"
+ },
+ {
+  "id": 1037112922,
+  "deezer": 1037112922,
+  "apple": "1525618082",
+  "isrc": "CA60L1530007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/36/8e/6e368eb2-2c49-0b45-78be-af031cd6e30d/mzaf_1943452404183281757.plus.aac.p.m4a",
+  "title": "Faire semblant",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/faire-semblant/1525618064?i=1525618082"
+ },
+ {
+  "id": 1037112912,
+  "deezer": 1037112912,
+  "apple": "1525618080",
+  "isrc": "CA60L1530006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/ef/c8/bfefc850-5ab9-78e0-ae28-dec8e0260732/mzaf_7526137070169476732.plus.aac.p.m4a",
+  "title": "Le jour où elle m'a dit je pars",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-jour-o%C3%B9-elle-ma-dit-je-pars/1525618064?i=1525618080"
+ },
+ {
+  "id": 1037112892,
+  "deezer": 1037112892,
+  "apple": "1525618074",
+  "isrc": "CA60L1530004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/a3/2c/37a32c4e-cb82-fdae-c7d1-0c4833f1e830/mzaf_17122813025695204286.plus.aac.p.m4a",
+  "title": "La fanfare",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-fanfare/1525618064?i=1525618074"
+ },
+ {
+  "id": 1037112882,
+  "deezer": 1037112882,
+  "apple": "1525618073",
+  "isrc": "CA60L1530003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/3d/fa/9e3dfa78-f0d8-6c5e-8327-9854e9693615/mzaf_13181256038831310494.plus.aac.p.m4a",
+  "title": "Tête première",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/t%C3%AAte-premi%C3%A8re/1525618064?i=1525618073"
+ },
+ {
+  "id": 1037112872,
+  "deezer": 1037112872,
+  "apple": "1525618071",
+  "isrc": "CA60L1530002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/d1/e0/6ad1e0c4-979b-7578-0f78-541e413b98ff/mzaf_16471102894427165676.plus.aac.p.m4a",
+  "title": "St-Michel",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/st-michel/1525618064?i=1525618071"
+ },
+ {
+  "id": 1891001617,
+  "deezer": 1891001617,
+  "apple": "1642246714",
+  "isrc": "QZNWT2257919",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/36/65/83/366583ed-7a98-89d6-c403-658a696180d1/mzaf_5470395622183710585.plus.aac.p.m4a",
+  "title": "Squalor",
+  "artist": "TransQueb",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/ba/ec/99baec48-3b74-389e-840a-b528075ae05e/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/squalor/1642246706?i=1642246714"
+ },
+ {
+  "id": 1891001607,
+  "deezer": 1891001607,
+  "apple": "1642246713",
+  "isrc": "QZNWT2257918",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/81/07/bf/8107bfe5-e06c-ead3-80c5-af2355ea0195/mzaf_10786606971917650411.plus.aac.p.m4a",
+  "title": "Pandora",
+  "artist": "TransQueb",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/ba/ec/99baec48-3b74-389e-840a-b528075ae05e/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pandora/1642246706?i=1642246713"
+ },
+ {
+  "id": 1891001597,
+  "deezer": 1891001597,
+  "apple": "1642246712",
+  "isrc": "QZNWT2257917",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e0/91/3d/e0913dd2-2169-3cec-6d6a-d71d7d5179b0/mzaf_12685588469478964597.plus.aac.p.m4a",
+  "title": "Monolithe",
+  "artist": "TransQueb",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/ba/ec/99baec48-3b74-389e-840a-b528075ae05e/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/monolithe/1642246706?i=1642246712"
+ },
+ {
+  "id": 1891001567,
+  "deezer": 1891001567,
+  "apple": "1642246709",
+  "isrc": "QZNWT2257914",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/86/6a/01/866a01b0-8315-6a8d-2e15-3ec16c790d74/mzaf_5291632330189059800.plus.aac.p.m4a",
+  "title": "Windgardium",
+  "artist": "TransQueb",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/ba/ec/99baec48-3b74-389e-840a-b528075ae05e/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/windgardium/1642246706?i=1642246709"
+ },
+ {
+  "id": 1891001557,
+  "deezer": 1891001557,
+  "apple": "1642246707",
+  "isrc": "QZNWT2257913",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d2/5f/b1/d25fb159-f572-e69f-628a-370a5f8f0617/mzaf_7141396136108906789.plus.aac.p.m4a",
+  "title": "Station",
+  "artist": "TransQueb",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/ba/ec/99baec48-3b74-389e-840a-b528075ae05e/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/station/1642246706?i=1642246707"
+ },
+ {
+  "id": 1912895077,
+  "deezer": 1912895077,
+  "apple": "1645079502",
+  "isrc": "CAL542223207",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/3a/62/da3a62f6-f991-8822-479b-f6143e1a22cc/mzaf_4646269780780449854.plus.aac.p.m4a",
+  "title": "Pâté chinois",
+  "artist": "Les Trois Accords",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/a2/68/00a268a9-32cc-7c1f-721b-9acb68c966ed/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/p%C3%A2t%C3%A9-chinois/1645078899?i=1645079502"
+ },
+ {
+  "id": 1912895017,
+  "deezer": 1912895017,
+  "apple": "1645079155",
+  "isrc": "CAL542223202",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/23/3b/a8233b66-7b5e-89c6-6f3b-a544f6427a3e/mzaf_11236614806706657610.plus.aac.p.m4a",
+  "title": "Internet",
+  "artist": "Les Trois Accords",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/a2/68/00a268a9-32cc-7c1f-721b-9acb68c966ed/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/internet/1645078899?i=1645079155"
+ },
+ {
+  "id": 1498318802,
+  "deezer": 1498318802,
+  "apple": "1749636677",
+  "isrc": "CAD520700209",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/c9/02/6bc9024b-84d4-914c-bdb7-801e7012ea2c/mzaf_1973175931127016342.plus.aac.p.m4a",
+  "title": "La descente aux enfers",
+  "artist": "Plume Latraverse",
+  "year": 1989,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/1e/cc/881ecc61-0c77-0b44-1fb8-bb06c9f658d0/1427.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-descente-aux-enfers/1749636669?i=1749636677"
+ },
+ {
+  "id": 1498318792,
+  "deezer": 1498318792,
+  "apple": "1749636672",
+  "isrc": "CAD520700208",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/aa/5d/6baa5d2d-7dde-c19d-4e2f-3d429d043e65/mzaf_6434458192489868846.plus.aac.p.m4a",
+  "title": "Le gros flash mauve",
+  "artist": "Plume Latraverse",
+  "year": 1974,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/1e/cc/881ecc61-0c77-0b44-1fb8-bb06c9f658d0/1427.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-gros-flash-mauve/1749636669?i=1749636672"
+ },
+ {
+  "id": 1734864587,
+  "deezer": 1734864587,
+  "apple": "1623438308",
+  "isrc": "CACFX2200003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/37/01/9a/37019a97-4604-453a-1982-c82c9797bef8/mzaf_5547802195394249283.plus.aac.p.m4a",
+  "title": "Antifa",
+  "artist": "Orloge Simard",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/8d/4d/718d4dce-a68b-dbd6-7cc2-b8ec52bfb69d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/antifa/1623437915?i=1623438308"
+ },
+ {
+  "id": 1425507772,
+  "deezer": 1425507772,
+  "apple": "1575366505",
+  "isrc": "CAYJ91500018",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/13/7c/c3/137cc3cb-d53f-09e0-9e5a-8f8807f7791a/mzaf_9724614580637563913.plus.aac.p.m4a",
+  "title": "Moto à vendre",
+  "artist": "Orloge Simard",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/f3/44/30f344ed-30b7-6e69-aac2-b085ac947bec/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/moto-%C3%A0-vendre/1575366494?i=1575366505"
+ },
+ {
+  "id": 1425507752,
+  "deezer": 1425507752,
+  "apple": "1575366496",
+  "isrc": "CAYJ91500016",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/71/85/42/718542e0-d6e2-9710-d050-d9826cf59a10/mzaf_13366590483159225723.plus.aac.p.m4a",
+  "title": "Saguenay River",
+  "artist": "Orloge Simard",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/f3/44/30f344ed-30b7-6e69-aac2-b085ac947bec/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/saguenay-river/1575366494?i=1575366496"
+ },
+ {
+  "id": 1083644022,
+  "deezer": 1083644022,
+  "apple": "1532277383",
+  "isrc": "CAL541819610",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/f3/6d/aaf36d85-3aa2-6159-e0f6-8feb94bdda9e/mzaf_9272985833210028256.plus.aac.p.m4a",
+  "title": "Activité de groupe",
+  "artist": "Les Trois Accords",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/a6/b8/74a6b860-4010-aa48-7fe9-c5075040a46d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/activit%C3%A9-de-groupe/1532277119?i=1532277383"
+ },
+ {
+  "id": 1083644012,
+  "deezer": 1083644012,
+  "apple": "1532277381",
+  "isrc": "CAL541819609",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/99/25/1a9925b8-2dd1-ea09-00c9-11ed36f86403/mzaf_13410967675357214624.plus.aac.p.m4a",
+  "title": "Albino trois-quarts",
+  "artist": "Les Trois Accords",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/a6/b8/74a6b860-4010-aa48-7fe9-c5075040a46d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/albino-trois-quarts/1532277119?i=1532277381"
+ },
+ {
+  "id": 1083644002,
+  "deezer": 1083644002,
+  "apple": "1532277380",
+  "isrc": "CAL541819608",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/de/2e/5cde2e0e-57aa-5b08-cbf6-9e0eedd6fbf9/mzaf_1312110728182839787.plus.aac.p.m4a",
+  "title": "Automobile",
+  "artist": "Les Trois Accords",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/a6/b8/74a6b860-4010-aa48-7fe9-c5075040a46d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/automobile/1532277119?i=1532277380"
+ },
+ {
+  "id": 1763121527,
+  "deezer": 1763121527,
+  "apple": "1440866889",
+  "isrc": "CAEZ10800123",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/30/fc/1930fca3-993e-f662-2280-3ff746e98b06/mzaf_3872585130345429181.plus.aac.p.m4a",
+  "title": "Chinatown (2008 Digital Remaster)",
+  "artist": "Beau Dommage",
+  "year": 1974,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/bb/a8/43/bba843ea-1ea5-37de-46d1-6ade840eb92d/00602557155303.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/chinatown-2008-digital-remaster/1440866767?i=1440866889"
+ },
+ {
+  "id": 661492512,
+  "deezer": 661492512,
+  "apple": "1458399439",
+  "isrc": "CAS740913010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/37/fe/6237fe50-edff-575e-6af0-7b947c32b254/mzaf_1989494269602132109.plus.aac.p.m4a",
+  "title": "Table tournante",
+  "artist": "Vincent Vallières",
+  "year": 2009,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/22/1c/1d221c29-d3d9-8150-635f-708be9b26d6b/19UMGIM30879.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/table-tournante/1458399384?i=1458399439"
+ },
+ {
+  "id": 661492482,
+  "deezer": 661492482,
+  "apple": "1458399430",
+  "isrc": "CAS740913007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/6b/e8/116be882-9b47-638b-83ba-9614069e493c/mzaf_11802228289815093609.plus.aac.p.m4a",
+  "title": "L'espace et le temps",
+  "artist": "Vincent Vallières",
+  "year": 2009,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/22/1c/1d221c29-d3d9-8150-635f-708be9b26d6b/19UMGIM30879.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lespace-et-le-temps/1458399384?i=1458399430"
+ },
+ {
+  "id": 661492462,
+  "deezer": 661492462,
+  "apple": "1458399428",
+  "isrc": "CAS740913005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/ad/5d/4cad5d09-908d-f8db-eb19-f0d6f37c29ab/mzaf_16694758391504806182.plus.aac.p.m4a",
+  "title": "L'espace qui reste",
+  "artist": "Vincent Vallières",
+  "year": 2009,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/22/1c/1d221c29-d3d9-8150-635f-708be9b26d6b/19UMGIM30879.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lespace-qui-reste/1458399384?i=1458399428"
+ },
+ {
+  "id": 661492442,
+  "deezer": 661492442,
+  "apple": "1458399426",
+  "isrc": "CAS740913003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/35/8c/a1358c45-1dc7-e207-0ea6-1fd363dd3626/mzaf_780482385720073678.plus.aac.p.m4a",
+  "title": "Sortir du bois",
+  "artist": "Vincent Vallières",
+  "year": 2009,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/22/1c/1d221c29-d3d9-8150-635f-708be9b26d6b/19UMGIM30879.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/sortir-du-bois/1458399384?i=1458399426"
+ },
+ {
+  "id": 3278043921,
+  "deezer": 3278043921,
+  "apple": "1784743563",
+  "isrc": "CALXJ2520011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/ab/3a/7aab3ab5-9a05-235a-024a-a37b825e0bdb/mzaf_13140264911798425958.plus.aac.p.m4a",
+  "title": "Berceuse",
+  "artist": "Ariane Roy",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/07/f2/3407f241-a1f1-c7a5-f690-908a5f8ed31c/24SYMIM16980.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/berceuse/1784742880?i=1784743563"
+ },
+ {
+  "id": 3278043861,
+  "deezer": 3278043861,
+  "apple": "1784743285",
+  "isrc": "CALXJ2520004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/8c/4f/678c4feb-af46-1b9a-493f-3ce349da0f00/mzaf_13635748883201672152.plus.aac.p.m4a",
+  "title": "I.W.Y.B.",
+  "artist": "Ariane Roy",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/07/f2/3407f241-a1f1-c7a5-f690-908a5f8ed31c/24SYMIM16980.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/i-w-y-b/1784742880?i=1784743285"
+ },
+ {
+  "id": 2788042922,
+  "deezer": 2788042922,
+  "apple": "1745183083",
+  "isrc": "CA0RZ2400024",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/a1/30/aca13097-5ed7-f592-b988-f26abf9c4b19/mzaf_11363078138566200824.plus.aac.p.m4a",
+  "title": "Deux jours et deux nuits",
+  "artist": "Klô Pelgag",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/fb/18/43fb18ae-2245-3321-0371-dc92695267ac/774.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/deux-jours-et-deux-nuits/1745182711?i=1745183083"
+ },
+ {
+  "id": 2788042912,
+  "deezer": 2788042912,
+  "apple": "1745183078",
+  "isrc": "CA0RZ2400023",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/02/65/86026511-c53e-5454-2e9e-33b0705fe8ea/mzaf_6752025738072784682.plus.aac.p.m4a",
+  "title": "Jim Morrison",
+  "artist": "Klô Pelgag",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/fb/18/43fb18ae-2245-3321-0371-dc92695267ac/774.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jim-morrison/1745182711?i=1745183078"
+ },
+ {
+  "id": 2788042892,
+  "deezer": 2788042892,
+  "apple": "1745183072",
+  "isrc": "CA0RZ2400021",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/3f/72/0c3f72d0-9f4e-befc-2f69-30b48218ed4c/mzaf_7708819736739068246.plus.aac.p.m4a",
+  "title": "Lettre à une jeune poète",
+  "artist": "Klô Pelgag",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/fb/18/43fb18ae-2245-3321-0371-dc92695267ac/774.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lettre-%C3%A0-une-jeune-po%C3%A8te/1745182711?i=1745183072"
+ },
+ {
+  "id": 2788042852,
+  "deezer": 2788042852,
+  "apple": "1745182855",
+  "isrc": "CA0RZ2400017",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/be/2c/1abe2c0a-ff55-4648-604f-c1c29a48f1cd/mzaf_7620111551530713061.plus.aac.p.m4a",
+  "title": "Coupable",
+  "artist": "Klô Pelgag",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/fb/18/43fb18ae-2245-3321-0371-dc92695267ac/774.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/coupable/1745182711?i=1745182855"
+ },
+ {
+  "id": 65295657,
+  "deezer": 65295657,
+  "apple": "616312400",
+  "isrc": "CAC227600034",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/43/a3/d443a3db-a4b4-4106-949e-6bc5a984e167/mzaf_8570043406853872581.plus.aac.p.m4a",
+  "title": "L'exil",
+  "artist": "Harmonium",
+  "year": 1976,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/cf/9a/93/cf9a93e9-80f2-53eb-822d-ce8ed1ecb0ab/886443915688.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lexil/616311988?i=616312400"
+ },
+ {
+  "id": 112426116,
+  "deezer": 112426116,
+  "apple": "1057645371",
+  "isrc": "CAL541517103",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/43/00/5c430007-1c67-bb74-076a-c02a11c675d1/mzaf_1878490017344441297.plus.aac.p.m4a",
+  "title": "J'épile ton nom",
+  "artist": "Les Trois Accords",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/98/00/51/980051a9-e30e-b0a9-592d-883d5eb3274c/mzm.opxhiroi.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/j%C3%A9pile-ton-nom/1057645365?i=1057645371"
+ },
+ {
+  "id": 45114661,
+  "deezer": 45114661,
+  "apple": "197016914",
+  "isrc": "CAP680524012",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/0e/e4/2d0ee4a1-9b56-d319-1ad3-0d2c3deefd42/mzaf_10531451831371140022.plus.aac.p.m4a",
+  "title": "Christophe Colomb",
+  "artist": "Kaïn",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/3d/c1/f23dc18e-a0fd-75b3-1266-1a103c6479e9/mzi.dppashmr.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/christophe-colomb/196985746?i=197016914"
+ },
+ {
+  "id": 45114651,
+  "deezer": 45114651,
+  "apple": "197016423",
+  "isrc": "CAP680524011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/50/2b/cb502b15-8b5c-8445-9ad7-cae797cdbea8/mzaf_10816352071236789669.plus.aac.p.m4a",
+  "title": "Ailleurs",
+  "artist": "Kaïn",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/3d/c1/f23dc18e-a0fd-75b3-1266-1a103c6479e9/mzi.dppashmr.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ailleurs/196985746?i=197016423"
+ },
+ {
+  "id": 45114641,
+  "deezer": 45114641,
+  "apple": "197012639",
+  "isrc": "CAP680524010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/90/8a/6b908a6c-f30e-f37b-c35f-3f1c03bbf4f9/mzaf_12419755648065625092.plus.aac.p.m4a",
+  "title": "L'autre bord",
+  "artist": "Kaïn",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/3d/c1/f23dc18e-a0fd-75b3-1266-1a103c6479e9/mzi.dppashmr.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lautre-bord/196985746?i=197012639"
+ },
+ {
+  "id": 45114631,
+  "deezer": 45114631,
+  "apple": "197010126",
+  "isrc": "CAP680524009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/88/83/4c8883aa-afe5-efa9-b620-17a7b7d05794/mzaf_3087130355725413017.plus.aac.p.m4a",
+  "title": "L'épopée du j'pense à moi",
+  "artist": "Kaïn",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/3d/c1/f23dc18e-a0fd-75b3-1266-1a103c6479e9/mzi.dppashmr.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/l%C3%A9pop%C3%A9e-du-jpense-%C3%A0-moi/196985746?i=197010126"
+ },
+ {
+  "id": 45114601,
+  "deezer": 45114601,
+  "apple": "196999520",
+  "isrc": "CAP680524006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/cb/87/5acb873b-95cd-e553-ea46-f5bac003b651/mzaf_6089311964858230411.plus.aac.p.m4a",
+  "title": "Comme dans le temps",
+  "artist": "Kaïn",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/3d/c1/f23dc18e-a0fd-75b3-1266-1a103c6479e9/mzi.dppashmr.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/comme-dans-le-temps/196985746?i=196999520"
+ },
+ {
+  "id": 45114581,
+  "deezer": 45114581,
+  "apple": "196995391",
+  "isrc": "CAP680524004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/fa/96/aafa96bc-2596-9ff5-57d3-c007246e6c4a/mzaf_903984929852195790.plus.aac.p.m4a",
+  "title": "Mexico",
+  "artist": "Kaïn",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/3d/c1/f23dc18e-a0fd-75b3-1266-1a103c6479e9/mzi.dppashmr.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mexico/196985746?i=196995391"
+ },
+ {
+  "id": 45114571,
+  "deezer": 45114571,
+  "apple": "196993893",
+  "isrc": "CAP680524003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/26/da/7226da18-3fd3-fa1d-a71a-6e2e132c9c22/mzaf_258297367103508144.plus.aac.p.m4a",
+  "title": "Le bal du vieillard",
+  "artist": "Kaïn",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/3d/c1/f23dc18e-a0fd-75b3-1266-1a103c6479e9/mzi.dppashmr.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-bal-du-vieillard/196985746?i=196993893"
+ },
+ {
+  "id": 45114551,
+  "deezer": 45114551,
+  "apple": "196986423",
+  "isrc": "CAP680524001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/98/8a/88988a15-863b-0612-b9dc-b68065c82955/mzaf_6511708754779679882.plus.aac.p.m4a",
+  "title": "Adam et Ève",
+  "artist": "Kaïn",
+  "year": 2005,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/3d/c1/f23dc18e-a0fd-75b3-1266-1a103c6479e9/mzi.dppashmr.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/adam-et-%C3%A8ve/196985746?i=196986423"
+ },
+ {
+  "id": 1829016767,
+  "deezer": 1829016767,
+  "apple": "1635262820",
+  "isrc": "CAD432201710",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/15/46/9f154697-3edc-c0f6-0ed0-8b314a0373f9/mzaf_14380350602501016618.plus.aac.p.m4a",
+  "title": "Neige",
+  "artist": "Gab Bouchard",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ea/ba/07/eaba078c-b686-69f9-a7b1-4629baf108c0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/neige/1635261819?i=1635262820"
+ },
+ {
+  "id": 1829016747,
+  "deezer": 1829016747,
+  "apple": "1635262534",
+  "isrc": "CAD432201708",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/9c/13/599c13f6-f338-77f4-ed6a-095a46e7713e/mzaf_11200816328418107990.plus.aac.p.m4a",
+  "title": "Pas grave",
+  "artist": "Gab Bouchard",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ea/ba/07/eaba078c-b686-69f9-a7b1-4629baf108c0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pas-grave/1635261819?i=1635262534"
+ },
+ {
+  "id": 1829016737,
+  "deezer": 1829016737,
+  "apple": "1635262522",
+  "isrc": "CAD432201707",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/c1/e3/25c1e310-c585-fd1e-a513-a25f07f2d8a2/mzaf_4622232567388723483.plus.aac.p.m4a",
+  "title": "Ton shift est pas fini",
+  "artist": "Gab Bouchard",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ea/ba/07/eaba078c-b686-69f9-a7b1-4629baf108c0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ton-shift-est-pas-fini/1635261819?i=1635262522"
+ },
+ {
+  "id": 4238263702,
+  "deezer": 4238263702,
+  "apple": "6803981513",
+  "isrc": "CAD432606606",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/d6/4b/41d64b65-b883-0ff3-a302-4e8b308cea49/mzaf_18023388323134200428.plus.aac.p.m4a",
+  "title": "Le X du Y 2",
+  "artist": "Thierry Larose",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/c9/f2/3cc9f258-dc7d-3039-d6f1-8c719d48b190/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-x-du-y-2/6803981456?i=6803981513"
+ },
+ {
+  "id": 1036963882,
+  "deezer": 1036963882,
+  "apple": "1525588363",
+  "isrc": "CA60L1810009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/4e/3c/d84e3cb3-e24a-683e-6d6f-8a82be7ca3ee/mzaf_3188049426786758608.plus.aac.p.m4a",
+  "title": "Viaduc",
+  "artist": "Ariane Moffatt",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/be/66/60be66bb-8b46-b9b4-84e7-84ce3520fabb/195081695716.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/viaduc/1525587600?i=1525588363"
+ },
+ {
+  "id": 1036963872,
+  "deezer": 1036963872,
+  "apple": "1525588359",
+  "isrc": "CA60L1810008",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/b4/ee/c5b4ee42-3c41-1e7c-8542-1a1a8b3ffa0e/mzaf_15871899422988798612.plus.aac.p.m4a",
+  "title": "ONO",
+  "artist": "Ariane Moffatt",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/be/66/60be66bb-8b46-b9b4-84e7-84ce3520fabb/195081695716.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ono/1525587600?i=1525588359"
+ },
+ {
+  "id": 1036963862,
+  "deezer": 1036963862,
+  "apple": "1525588151",
+  "isrc": "CA60L1810007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/0e/4e/cc0e4e86-0dc8-2d77-4999-8c77c2d9a79a/mzaf_1574876714490013195.plus.aac.p.m4a",
+  "title": "Cyborg",
+  "artist": "Ariane Moffatt",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/be/66/60be66bb-8b46-b9b4-84e7-84ce3520fabb/195081695716.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cyborg/1525587600?i=1525588151"
+ },
+ {
+  "id": 1036963842,
+  "deezer": 1036963842,
+  "apple": "1525588147",
+  "isrc": "CA60L1810005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/19/ae/da19aeb1-1da8-3e9d-3f10-fb53f84f88be/mzaf_15133569266404377286.plus.aac.p.m4a",
+  "title": "Pneumatique noir",
+  "artist": "Ariane Moffatt",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/be/66/60be66bb-8b46-b9b4-84e7-84ce3520fabb/195081695716.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pneumatique-noir/1525587600?i=1525588147"
+ },
+ {
+  "id": 1036963822,
+  "deezer": 1036963822,
+  "apple": "1525587604",
+  "isrc": "CA60L1810003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/cd/52/8bcd52f6-6e34-31da-15bb-7de2edf944c5/mzaf_13832502097776714865.plus.aac.p.m4a",
+  "title": "La statue",
+  "artist": "Ariane Moffatt",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/be/66/60be66bb-8b46-b9b4-84e7-84ce3520fabb/195081695716.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-statue/1525587600?i=1525587604"
+ },
+ {
+  "id": 1036926472,
+  "deezer": 1036926472,
+  "apple": "1525587603",
+  "isrc": "CA60L1810002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/f0/6c/e5f06c0c-1cde-f3c3-2bb9-91b16119d213/mzaf_2920091946994428475.plus.aac.p.m4a",
+  "title": "Les apparences",
+  "artist": "Ariane Moffatt",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/be/66/60be66bb-8b46-b9b4-84e7-84ce3520fabb/195081695716.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-apparences/1525587600?i=1525587603"
+ },
+ {
+  "id": 1036963802,
+  "deezer": 1036963802,
+  "apple": "1525587602",
+  "isrc": "CA60L1810001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/73/92/887392e3-09d9-0827-6391-828695647013/mzaf_10638619914287551614.plus.aac.p.m4a",
+  "title": "Du souffle pour deux",
+  "artist": "Ariane Moffatt",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/be/66/60be66bb-8b46-b9b4-84e7-84ce3520fabb/195081695716.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/du-souffle-pour-deux/1525587600?i=1525587602"
+ },
+ {
+  "id": 3629522952,
+  "deezer": 3629522952,
+  "apple": "1849697519",
+  "isrc": "CAA500619613",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/c9/55/bcc95546-ed71-6728-bb68-7b019fd7dce0/mzaf_3857990965622322038.plus.aac.p.m4a",
+  "title": "L'équipage",
+  "artist": "Pierre Lapointe",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/a0/ae/fda0ae5d-1d83-7412-7c4b-1e9bc54350a6/199806281611.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/l%C3%A9quipage/1849697162?i=1849697519"
+ },
+ {
+  "id": 3629522922,
+  "deezer": 3629522922,
+  "apple": "1849697516",
+  "isrc": "CAA500619611",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/60/35/ad60356a-de6a-9ca6-05cb-bfd4defd578a/mzaf_14987600639840933092.plus.aac.p.m4a",
+  "title": "Au nom des cieux galvanisés",
+  "artist": "Pierre Lapointe",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/a0/ae/fda0ae5d-1d83-7412-7c4b-1e9bc54350a6/199806281611.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/au-nom-des-cieux-galvanis%C3%A9s/1849697162?i=1849697516"
+ },
+ {
+  "id": 3629522882,
+  "deezer": 3629522882,
+  "apple": "1849697508",
+  "isrc": "CAA500619608",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/b6/61/33b661e3-2ae4-ec58-632d-bf4c788447b0/mzaf_5529746305269195041.plus.aac.p.m4a",
+  "title": "Moi, je t'aimerai",
+  "artist": "Pierre Lapointe",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/a0/ae/fda0ae5d-1d83-7412-7c4b-1e9bc54350a6/199806281611.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/moi-je-taimerai/1849697162?i=1849697508"
+ },
+ {
+  "id": 3629522852,
+  "deezer": 3629522852,
+  "apple": "1849697505",
+  "isrc": "CAA500619606",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/e7/74/0de77448-4240-5014-b834-60d2940a7140/mzaf_5547081073902039829.plus.aac.p.m4a",
+  "title": "L'endomètre rebelle",
+  "artist": "Pierre Lapointe",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/a0/ae/fda0ae5d-1d83-7412-7c4b-1e9bc54350a6/199806281611.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lendom%C3%A8tre-rebelle/1849697162?i=1849697505"
+ },
+ {
+  "id": 3629522812,
+  "deezer": 3629522812,
+  "apple": "1849697500",
+  "isrc": "CAA500619603",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/ed/50/f7ed50af-f5be-d688-c6c7-c8607dffa2ff/mzaf_10127116930376845312.plus.aac.p.m4a",
+  "title": "Le lion imberbe",
+  "artist": "Pierre Lapointe",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/a0/ae/fda0ae5d-1d83-7412-7c4b-1e9bc54350a6/199806281611.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-lion-imberbe/1849697162?i=1849697500"
+ },
+ {
+  "id": 1082531072,
+  "deezer": 1082531072,
+  "apple": "1532142014",
+  "isrc": "CAL541920504",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/5f/e2/cf5fe241-5a8d-f57f-f1b2-680d6c734e0d/mzaf_2652623779862761462.plus.aac.p.m4a",
+  "title": "Ici-bas",
+  "artist": "Les Cowboys Fringants",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/4d/f3/624df342-6037-d0bf-462e-0b888415a9d7/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ici-bas/1532141697?i=1532142014"
+ },
+ {
+  "id": 1438970912,
+  "deezer": 1438970912,
+  "apple": "1577284911",
+  "isrc": "CALTS2100018",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/9a/ad/f19aadb1-59f8-9b71-0f92-8fe1dde394bf/mzaf_479943505393062933.plus.aac.p.m4a",
+  "title": "SUCRE + SEL",
+  "artist": "Hubert Lenoir",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/77/84/7277843e-f96a-2c68-0bf3-9ddeff0ffc66/196006500542.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/sucre-sel/1577283926?i=1577284911"
+ },
+ {
+  "id": 1438970902,
+  "deezer": 1438970902,
+  "apple": "1577284904",
+  "isrc": "CALTS2100017",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3c/f9/31/3cf93158-343f-dd14-2f7d-f1839d836b06/mzaf_16491630064459027125.plus.aac.p.m4a",
+  "title": "GOLDEN DAYS",
+  "artist": "Hubert Lenoir",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/77/84/7277843e-f96a-2c68-0bf3-9ddeff0ffc66/196006500542.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/golden-days/1577283926?i=1577284904"
+ },
+ {
+  "id": 1438970882,
+  "deezer": 1438970882,
+  "apple": "1577284563",
+  "isrc": "CALTS2100015",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/f8/83/3df8832c-6265-b19f-3558-734f472b831d/mzaf_3869051145877673315.plus.aac.p.m4a",
+  "title": "BOI",
+  "artist": "Hubert Lenoir",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/77/84/7277843e-f96a-2c68-0bf3-9ddeff0ffc66/196006500542.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/boi/1577283926?i=1577284563"
+ },
+ {
+  "id": 1379353412,
+  "deezer": 1379353412,
+  "apple": "1577284266",
+  "isrc": "CALTS2100002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b6/0c/4f/b60c4fa3-33ca-51e2-3021-365dc3dedb2e/mzaf_18152870815471775682.plus.aac.p.m4a",
+  "title": "SECRET",
+  "artist": "Hubert Lenoir",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/77/84/7277843e-f96a-2c68-0bf3-9ddeff0ffc66/196006500542.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/secret/1577283926?i=1577284266"
+ },
+ {
+  "id": 3995105701,
+  "deezer": 3995105701,
+  "apple": "6766062410",
+  "isrc": "QZWFU2648410",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/d5/0c/bad50c37-f6da-1ae3-9934-b9f953659c04/mzaf_16466118984011954355.plus.aac.p.m4a",
+  "title": "Best buddé",
+  "artist": "Orange Sanguine",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/5e/3b/745e3b80-c80f-e1b7-ff79-0ac0a4240801/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/best-budd%C3%A9/1896181629?i=6766062410"
+ },
+ {
+  "id": 1425509242,
+  "deezer": 1425509242,
+  "apple": "1575372144",
+  "isrc": "CAM5E1400013",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/9d/ff/449dff58-36b0-4624-5d3b-13433ae75c36/mzaf_12914729107411152730.plus.aac.p.m4a",
+  "title": "Crisse que chu ben",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/crisse-que-chu-ben/1575371671?i=1575372144"
+ },
+ {
+  "id": 1425509222,
+  "deezer": 1425509222,
+  "apple": "1575372140",
+  "isrc": "CAM5E1400011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/0b/40/520b4050-4721-9add-7efe-d4e131aa9770/mzaf_2092442450656698611.plus.aac.p.m4a",
+  "title": "Lac otis",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lac-otis/1575371671?i=1575372140"
+ },
+ {
+  "id": 1425509212,
+  "deezer": 1425509212,
+  "apple": "1575372136",
+  "isrc": "CAM5E1400010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/07/02/58070213-1664-bb52-47c4-2c1d204ee0fa/mzaf_4664403478320642243.plus.aac.p.m4a",
+  "title": "Plotte au bic",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/plotte-au-bic/1575371671?i=1575372136"
+ },
+ {
+  "id": 1425509202,
+  "deezer": 1425509202,
+  "apple": "1575372135",
+  "isrc": "CAM5E1400009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/86/74/598674d0-9217-c4ae-af80-56e238570210/mzaf_4278427042270203952.plus.aac.p.m4a",
+  "title": "Neige et peanut",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/neige-et-peanut/1575371671?i=1575372135"
+ },
+ {
+  "id": 1425509182,
+  "deezer": 1425509182,
+  "apple": "1575372132",
+  "isrc": "CAM5E1400007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/8a/32/808a3246-d93e-c282-46be-fb5b2126847c/mzaf_6538915783845899200.plus.aac.p.m4a",
+  "title": "Mireille",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mireille/1575371671?i=1575372132"
+ },
+ {
+  "id": 1425509172,
+  "deezer": 1425509172,
+  "apple": "1575372131",
+  "isrc": "CAM5E1400006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/e7/dc/8ce7dc5f-92f7-12f4-3c69-ca1588cf2367/mzaf_6798345499144048015.plus.aac.p.m4a",
+  "title": "J.R.",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/j-r/1575371671?i=1575372131"
+ },
+ {
+  "id": 1425509162,
+  "deezer": 1425509162,
+  "apple": "1575372127",
+  "isrc": "CAM5E1400005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/ed/ea/86edea2a-440d-b607-82f1-39d805af700c/mzaf_11173957652118424201.plus.aac.p.m4a",
+  "title": "12 pouces",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/12-pouces/1575371671?i=1575372127"
+ },
+ {
+  "id": 1425509152,
+  "deezer": 1425509152,
+  "apple": "1575372003",
+  "isrc": "CAM5E1400004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/9b/cc/e19bcc9f-df8c-fa27-e22d-b612166491ac/mzaf_11052689664447756688.plus.aac.p.m4a",
+  "title": "Bancs de brouillard",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bancs-de-brouillard/1575371671?i=1575372003"
+ },
+ {
+  "id": 1425509142,
+  "deezer": 1425509142,
+  "apple": "1575372001",
+  "isrc": "CAM5E1400003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/d9/c1/4dd9c133-1cc0-fb74-adb8-032e85a34cc4/mzaf_11621685775654171293.plus.aac.p.m4a",
+  "title": "Hymne à la bière",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/hymne-%C3%A0-la-bi%C3%A8re/1575371671?i=1575372001"
+ },
+ {
+  "id": 4298715492,
+  "deezer": 4298715492,
+  "apple": "6814621570",
+  "isrc": "CBGVC2600002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/c5/15/e2c51560-1093-4472-d373-692cfe4fdd60/mzaf_6095967477023806474.plus.aac.p.m4a",
+  "title": "Solstice",
+  "artist": "Nic Laflamme",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/cf/a9/d5cfa977-a994-c55b-04a7-7230b0571c3a/13304.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/solstice/6814621565?i=6814621570"
+ },
+ {
+  "id": 4298715482,
+  "deezer": 4298715482,
+  "apple": "6814621568",
+  "isrc": "CBGVC2600001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/c1/10/d8c11037-a24d-acb1-38cc-cbee30954e17/mzaf_15945901594110416840.plus.aac.p.m4a",
+  "title": "Boîte en bois",
+  "artist": "Nic Laflamme",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/cf/a9/d5cfa977-a994-c55b-04a7-7230b0571c3a/13304.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/boi-te-en-bois/6814621565?i=6814621568"
+ },
+ {
+  "id": 109523460,
+  "deezer": 109523460,
+  "apple": "1048238445",
+  "isrc": "CAL541517012",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/07/0b/e2070b53-13f2-fa78-e330-eede6796ccef/mzaf_5892554901349685480.plus.aac.p.m4a",
+  "title": "Mon grand-père",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mon-grand-p%C3%A8re/1048236643?i=1048238445"
+ },
+ {
+  "id": 109523458,
+  "deezer": 109523458,
+  "apple": "1048238329",
+  "isrc": "CAL541517011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/8d/a7/788da76d-d9f9-e135-d2d8-5e0c5d729ee4/mzaf_3020858744229588696.plus.aac.p.m4a",
+  "title": "La dévisse",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-d%C3%A9visse/1048236643?i=1048238329"
+ },
+ {
+  "id": 109523452,
+  "deezer": 109523452,
+  "apple": "1048237583",
+  "isrc": "CAL541517008",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/2f/ea/1c2fea5b-f340-ba2b-e9b6-16b8670ffc1c/mzaf_18302148262751777263.plus.aac.p.m4a",
+  "title": "La cave",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-cave/1048236643?i=1048237583"
+ },
+ {
+  "id": 109523444,
+  "deezer": 109523444,
+  "apple": "1048237511",
+  "isrc": "CAL541517004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/05/6f/6b056f6d-ad2a-3139-5b29-493cfa0669a0/mzaf_11865540555958776217.plus.aac.p.m4a",
+  "title": "Les vers de terre",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-vers-de-terre/1048236643?i=1048237511"
+ },
+ {
+  "id": 109523442,
+  "deezer": 109523442,
+  "apple": "1048237507",
+  "isrc": "CAL541517003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/ce/e1/90cee15c-aefe-6911-9820-ac4a83324ece/mzaf_9726520390800556987.plus.aac.p.m4a",
+  "title": "La la la",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-la-la/1048236643?i=1048237507"
+ },
+ {
+  "id": 109374062,
+  "deezer": 109374062,
+  "apple": "1048262942",
+  "isrc": "CAL540102114",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/65/3d/3e653d13-9600-9f8a-aadd-64fb71007395/mzaf_14293973043668640509.plus.aac.p.m4a",
+  "title": "Ruelle Laurier",
+  "artist": "Les Cowboys Fringants",
+  "year": 2002,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/74/2e/e2/742ee285-01c2-bfa6-6795-58ad6d598f9d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ruelle-laurier/1048261666?i=1048262942"
+ },
+ {
+  "id": 2206549827,
+  "deezer": 2206549827,
+  "apple": "1677812172",
+  "isrc": "CALXJ2330007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/bf/39/a5bf3972-95be-7880-4127-7096d283a39a/mzaf_5280775546654080948.plus.aac.p.m4a",
+  "title": "J'ai de l'air",
+  "artist": "Philippe Brach",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/23/ee/5323ee6e-ca94-b428-bf24-c8c438beea8b/23SYMIM03722.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jai-de-lair/1677812157?i=1677812172"
+ },
+ {
+  "id": 2206549767,
+  "deezer": 2206549767,
+  "apple": "1677812159",
+  "isrc": "CALXJ2330001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/e2/b5/85e2b522-9be2-894a-4d01-55559289a2d5/mzaf_2907018529268412524.plus.aac.p.m4a",
+  "title": "Les gens qu'on aime",
+  "artist": "Philippe Brach",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/23/ee/5323ee6e-ca94-b428-bf24-c8c438beea8b/23SYMIM03722.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-gens-quon-aime/1677812157?i=1677812159"
+ },
+ {
+  "id": 63509443,
+  "deezer": 63509443,
+  "apple": "593956957",
+  "isrc": "CAL541214108",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/10/d3/4d10d3e0-9c05-06a4-b385-b58cf44f55d3/mzaf_4645823550724885522.plus.aac.p.m4a",
+  "title": "C'était magique (Nuit de la poésie II)",
+  "artist": "Les Trois Accords",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/9b/5c/3a/9b5c3a41-cf43-0a64-48e8-94d68b7bdad5/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/c%C3%A9tait-magique-nuit-de-la-po%C3%A9sie-ii/593956662?i=593956957"
+ },
+ {
+  "id": 63509442,
+  "deezer": 63509442,
+  "apple": "593956955",
+  "isrc": "CAL541214107",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/55/8f/49558f81-a38f-4eda-36ac-e08a9fdf3e93/mzaf_1671579833394628777.plus.aac.p.m4a",
+  "title": "Son visage était parfait",
+  "artist": "Les Trois Accords",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/9b/5c/3a/9b5c3a41-cf43-0a64-48e8-94d68b7bdad5/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/son-visage-%C3%A9tait-parfait/593956662?i=593956955"
+ },
+ {
+  "id": 128237785,
+  "deezer": 128237785,
+  "apple": "1551618276",
+  "isrc": "CAA500823202",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/a3/df/8c/a3df8c54-3787-7fde-b2e9-21aa56741d8e/mzaf_15328933676872092371.plus.aac.p.m4a",
+  "title": "Job Steady",
+  "artist": "Zébulon",
+  "year": 2008,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/85/8f/0d858f78-6366-73b1-4ea3-e10873b7d047/190374952644.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/job-steady/1551617937?i=1551618276"
+ },
+ {
+  "id": 830242622,
+  "deezer": 830242622,
+  "apple": "1491350647",
+  "isrc": "CA5VC1903012",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/5a/be/185abe69-5602-d84c-b684-93b1b9d4d1de/mzaf_8393378642931829569.plus.aac.p.m4a",
+  "title": "Notre-Dame-des-Sept-Douleurs II",
+  "artist": "Klô Pelgag",
+  "year": 2020,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/2b/bf/9a2bbfab-a71f-30de-8dd0-c4b2cf0b9464/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/notre-dame-des-sept-douleurs-ii/1491350324?i=1491350647"
+ },
+ {
+  "id": 830242602,
+  "deezer": 830242602,
+  "apple": "1491350424",
+  "isrc": "CA5VC1903010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/4b/52/444b5285-499a-88ca-810d-2035478ad448/mzaf_3592259885440649310.plus.aac.p.m4a",
+  "title": "Où vas-tu quand tu dors ?",
+  "artist": "Klô Pelgag",
+  "year": 2020,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/2b/bf/9a2bbfab-a71f-30de-8dd0-c4b2cf0b9464/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/o%C3%B9-vas-tu-quand-tu-dors/1491350324?i=1491350424"
+ },
+ {
+  "id": 830242582,
+  "deezer": 830242582,
+  "apple": "1491350419",
+  "isrc": "CA5VC1903008",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/c1/12/5cc112ec-df1f-ca66-a034-f9f423a86562/mzaf_10519440165801835239.plus.aac.p.m4a",
+  "title": "Für Élise",
+  "artist": "Klô Pelgag",
+  "year": 2020,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/2b/bf/9a2bbfab-a71f-30de-8dd0-c4b2cf0b9464/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/f%C3%BCr-%C3%A9lise/1491350324?i=1491350419"
+ },
+ {
+  "id": 830242542,
+  "deezer": 830242542,
+  "apple": "1491350338",
+  "isrc": "CA5VC1903004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/1d/75/2c1d7559-0538-46b6-8364-86fbdc44d6ca/mzaf_6676199611862210861.plus.aac.p.m4a",
+  "title": "J'aurai les cheveux longs",
+  "artist": "Klô Pelgag",
+  "year": 2020,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/2b/bf/9a2bbfab-a71f-30de-8dd0-c4b2cf0b9464/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jaurai-les-cheveux-longs/1491350324?i=1491350338"
+ },
+ {
+  "id": 3949556231,
+  "deezer": 3949556231,
+  "apple": "1891774745",
+  "isrc": "CAFWG2600050",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/e0/7f/e9e07fb4-9f17-ae44-c585-ab4f242ad8f6/mzaf_2487637830267576673.plus.aac.p.m4a",
+  "title": "Harfang",
+  "artist": "Lydia Képinski",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/5d/d6/e55dd6c6-c29d-79f9-6405-d16cf1ff5b8a/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/harfang/1891774110?i=1891774745"
+ },
+ {
+  "id": 3949556211,
+  "deezer": 3949556211,
+  "apple": "1891774732",
+  "isrc": "CAFWG2600049",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/12/cb/6212cba0-182e-5aa4-bd2c-c454e17ed3cc/mzaf_15591791687380655952.plus.aac.p.m4a",
+  "title": "Gdańsk",
+  "artist": "Lydia Képinski",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/5d/d6/e55dd6c6-c29d-79f9-6405-d16cf1ff5b8a/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/gdan-sk/1891774110?i=1891774732"
+ },
+ {
+  "id": 4170056002,
+  "deezer": 4170056002,
+  "apple": "6793537507",
+  "isrc": "CBF6M2400007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/1d/66/181d668c-f07d-bf8b-3117-cdf7da9064fa/mzaf_1085112593575591636.plus.aac.p.m4a",
+  "title": "Maintenant",
+  "artist": "MARIE NEIGES",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/c0/e2/37c0e286-2793-3f38-6a55-77da24dcedea/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/maintenant/6793537304?i=6793537507"
+ },
+ {
+  "id": 3804861992,
+  "deezer": 3804861992,
+  "apple": "6793537505",
+  "isrc": "CBF6M2400005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/79/20/457920ae-c2ba-608f-8385-f45b05ab7207/mzaf_9862101246890801616.plus.aac.p.m4a",
+  "title": "Aurais-tu dû pleurer?",
+  "artist": "MARIE NEIGES",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/c0/e2/37c0e286-2793-3f38-6a55-77da24dcedea/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/aurais-tu-d%C3%BB-pleurer/6793537304?i=6793537505"
+ },
+ {
+  "id": 4170055952,
+  "deezer": 4170055952,
+  "apple": "6793537496",
+  "isrc": "CBF6M2400002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/66/8d/db668d07-4564-3dd9-b1fe-8898c6a49807/mzaf_1309163432914933490.plus.aac.p.m4a",
+  "title": "Bruit",
+  "artist": "MARIE NEIGES",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/c0/e2/37c0e286-2793-3f38-6a55-77da24dcedea/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bruit/6793537304?i=6793537496"
+ },
+ {
+  "id": 4003846001,
+  "deezer": 4003846001,
+  "apple": "6793537307",
+  "isrc": "CBF6M2400001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/37/00/fa37008d-fab3-e4bc-cb9a-145e7877963d/mzaf_7914065042073572459.plus.aac.p.m4a",
+  "title": "Emporte-moi",
+  "artist": "MARIE NEIGES",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/c0/e2/37c0e286-2793-3f38-6a55-77da24dcedea/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/emporte-moi/6793537304?i=6793537307"
+ },
+ {
+  "id": 1542107652,
+  "deezer": 1542107652,
+  "apple": "1593489965",
+  "isrc": "CA5VC1600011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/00/e5/9900e595-940a-1d94-52d1-7436fbc77efd/mzaf_2736489355740064669.plus.aac.p.m4a",
+  "title": "Insomnie",
+  "artist": "Klô Pelgag",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/87/8f/9b/878f9b4e-4676-ebb7-1bde-1eae5a287084/dj.hhnfpoha.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/insomnie/1593489439?i=1593489965"
+ },
+ {
+  "id": 1542107622,
+  "deezer": 1542107622,
+  "apple": "1593489941",
+  "isrc": "CA5VC1600008",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/69/ce/0069cecc-3dd8-953f-4fcc-317150395bb4/mzaf_11630071818062408694.plus.aac.p.m4a",
+  "title": "Les Animaux",
+  "artist": "Klô Pelgag",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/87/8f/9b/878f9b4e-4676-ebb7-1bde-1eae5a287084/dj.hhnfpoha.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-animaux/1593489439?i=1593489941"
+ },
+ {
+  "id": 1542107602,
+  "deezer": 1542107602,
+  "apple": "1593489663",
+  "isrc": "CA5VC1600006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/e8/77/bce87791-2abc-8604-6c36-e1433286fb0d/mzaf_12738357798532920764.plus.aac.p.m4a",
+  "title": "Incendie",
+  "artist": "Klô Pelgag",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/87/8f/9b/878f9b4e-4676-ebb7-1bde-1eae5a287084/dj.hhnfpoha.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/incendie/1593489439?i=1593489663"
+ },
+ {
+  "id": 109374186,
+  "deezer": 109374186,
+  "apple": "1048262299",
+  "isrc": "CAL540810214",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/11/dd/fb11dd93-9212-5708-67e2-25c223913413/mzaf_8307713827993349193.plus.aac.p.m4a",
+  "title": "Une autre journée qui se lève",
+  "artist": "Les Cowboys Fringants",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/f3/d4/a8f3d464-c205-99b3-18aa-ff9e6fb35a4b/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/une-autre-journ%C3%A9e-qui-se-l%C3%A8ve/1048262106?i=1048262299"
+ },
+ {
+  "id": 109374178,
+  "deezer": 109374178,
+  "apple": "1048262133",
+  "isrc": "CAL540810210",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/c0/7d/68c07d8c-4cdd-21a6-cfc7-131abc10f6ed/mzaf_10569465800178623752.plus.aac.p.m4a",
+  "title": "Les hirondelles",
+  "artist": "Les Cowboys Fringants",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/f3/d4/a8f3d464-c205-99b3-18aa-ff9e6fb35a4b/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-hirondelles/1048262106?i=1048262133"
+ },
+ {
+  "id": 109374174,
+  "deezer": 109374174,
+  "apple": "1048262131",
+  "isrc": "CAL540810208",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/be/9a/ccbe9a9d-afbb-1ae9-03a4-a04c5d7301c8/mzaf_16477247131634860707.plus.aac.p.m4a",
+  "title": "Monsieur",
+  "artist": "Les Cowboys Fringants",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/f3/d4/a8f3d464-c205-99b3-18aa-ff9e6fb35a4b/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/monsieur/1048262106?i=1048262131"
+ },
+ {
+  "id": 109374170,
+  "deezer": 109374170,
+  "apple": "1048262125",
+  "isrc": "CAL540810206",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/b9/95/02b995e6-b33d-94b6-4e7c-0f88d536d5de/mzaf_1414609909529572309.plus.aac.p.m4a",
+  "title": "Bobo",
+  "artist": "Les Cowboys Fringants",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/f3/d4/a8f3d464-c205-99b3-18aa-ff9e6fb35a4b/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bobo/1048262106?i=1048262125"
+ },
+ {
+  "id": 109374162,
+  "deezer": 109374162,
+  "apple": "1048262120",
+  "isrc": "CAL540810202",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/21/e7/a021e7fa-f79c-0f78-a09c-d5131fced977/mzaf_13340448711166802485.plus.aac.p.m4a",
+  "title": "Chêne et roseau",
+  "artist": "Les Cowboys Fringants",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/f3/d4/a8f3d464-c205-99b3-18aa-ff9e6fb35a4b/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ch%C3%AAne-et-roseau/1048262106?i=1048262120"
+ },
+ {
+  "id": 109374160,
+  "deezer": 109374160,
+  "apple": "1048262119",
+  "isrc": "CAL540810201",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/1e/d6/2d1ed6ab-fb25-607d-6367-0a05af0f2e17/mzaf_9745415378129720292.plus.aac.p.m4a",
+  "title": "Droit devant",
+  "artist": "Les Cowboys Fringants",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/f3/d4/a8f3d464-c205-99b3-18aa-ff9e6fb35a4b/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/droit-devant/1048262106?i=1048262119"
+ },
+ {
+  "id": 2117809817,
+  "deezer": 2117809817,
+  "apple": "1666997308",
+  "isrc": "CAD432201809",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/69/ff/85/69ff85d5-ef7c-9fca-8020-8dbcbc563236/mzaf_15467801821827187912.plus.aac.p.m4a",
+  "title": "Parfaitement intacte",
+  "artist": "Thierry Larose",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/7b/40/d87b4076-6dab-79ea-73a7-9b3551a58331/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/parfaitement-intacte/1666996909?i=1666997308"
+ },
+ {
+  "id": 3663832702,
+  "deezer": 3663832702,
+  "apple": "1855145409",
+  "isrc": "QT6EZ2539954",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/b5/40/59b54093-397a-5d51-d9a2-ea36f3f7ef85/mzaf_12993490822305500809.plus.aac.p.m4a",
+  "title": "Gazon Orange",
+  "artist": "Plumette De La Rue",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/a3/9c/99a39c27-e62a-9b1a-3cab-c1ac1043745a/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/gazon-orange/1855145408?i=1855145409"
+ },
+ {
+  "id": 4264171592,
+  "deezer": 4264171592,
+  "apple": "6808257526",
+  "isrc": "CBHTB2600003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/c1/ed/65c1ed9a-4867-2e92-5793-491f0c08b84d/mzaf_10936588294468395054.plus.aac.p.m4a",
+  "title": "Donne-moi tes clés",
+  "artist": "FAIS D'QUOI",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/2e/77/eb2e77c2-69c7-daf8-63a2-54559358f6cc/13058.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/donne-moi-tes-cle-s/6808257042?i=6808257526"
+ },
+ {
+  "id": 4264518782,
+  "deezer": 4264518782,
+  "apple": "1818128903",
+  "isrc": "CACZV1700053",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/2a/2a/cd2a2af5-ad5d-bdbd-c5f8-b7370e25a874/mzaf_8957581711502276079.plus.aac.p.m4a",
+  "title": "Les vautours",
+  "artist": "Les Chiens de Ruelles",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/4c/0e/ed4c0e85-c676-e0bc-648c-be96494af62d/8578.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-vautours/1818128780?i=1818128903"
+ },
+ {
+  "id": 4264518742,
+  "deezer": 4264518742,
+  "apple": "1818128863",
+  "isrc": "CACZV1700049",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/f6/5d/09f65d53-673d-e383-d4cd-3ad7bdd1c1e2/mzaf_10342405946369179686.plus.aac.p.m4a",
+  "title": "Crasse FM",
+  "artist": "Les Chiens de Ruelles",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/4c/0e/ed4c0e85-c676-e0bc-648c-be96494af62d/8578.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/crasse-fm/1818128780?i=1818128863"
+ },
+ {
+  "id": 4264518722,
+  "deezer": 4264518722,
+  "apple": "1818128853",
+  "isrc": "CACZV1700047",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/48/5b/28485b3d-ce9c-1e11-a82d-a1c40d83b33d/mzaf_2595100393427072006.plus.aac.p.m4a",
+  "title": "Comme Dans L'film",
+  "artist": "Les Chiens de Ruelles",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/4c/0e/ed4c0e85-c676-e0bc-648c-be96494af62d/8578.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/comme-dans-lfilm/1818128780?i=1818128853"
+ },
+ {
+  "id": 4264518712,
+  "deezer": 4264518712,
+  "apple": "1818128850",
+  "isrc": "CACZV1700046",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/e0/98/f9e098e8-f792-2525-c97a-b63a353e2aea/mzaf_5047433189487250449.plus.aac.p.m4a",
+  "title": "L'cœur sua table",
+  "artist": "Les Chiens de Ruelles",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/4c/0e/ed4c0e85-c676-e0bc-648c-be96494af62d/8578.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lc%C5%93ur-sua-table/1818128780?i=1818128850"
+ },
+ {
+  "id": 4264518702,
+  "deezer": 4264518702,
+  "apple": "1818128849",
+  "isrc": "CACZV1700045",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/ed/6f/2eed6f3b-eb95-7f04-5f8c-f0a78f9f6c5f/mzaf_1828475135063425445.plus.aac.p.m4a",
+  "title": "Selfie",
+  "artist": "Les Chiens de Ruelles",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/4c/0e/ed4c0e85-c676-e0bc-648c-be96494af62d/8578.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/selfie/1818128780?i=1818128849"
+ },
+ {
+  "id": 3395872611,
+  "deezer": 3395872611,
+  "apple": "1818128847",
+  "isrc": "CACZV1700043",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/8c/d1/498cd1be-b457-a334-e7c1-8260eaf224c7/mzaf_15960800085388176680.plus.aac.p.m4a",
+  "title": "Nos histoires",
+  "artist": "Les Chiens de Ruelles",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/4c/0e/ed4c0e85-c676-e0bc-648c-be96494af62d/8578.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/nos-histoires/1818128780?i=1818128847"
+ },
+ {
+  "id": 4264518672,
+  "deezer": 4264518672,
+  "apple": "1818128845",
+  "isrc": "CACZV1700042",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/24/cb/c724cb79-ec5b-751d-6ac2-d41122e9b198/mzaf_18221311106367075772.plus.aac.p.m4a",
+  "title": "Zombies",
+  "artist": "Les Chiens de Ruelles",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/4c/0e/ed4c0e85-c676-e0bc-648c-be96494af62d/8578.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/zombies/1818128780?i=1818128845"
+ },
+ {
+  "id": 2072946897,
+  "deezer": 2072946897,
+  "apple": "1658905755",
+  "isrc": "CAS741786512",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/3b/b7/e33bb777-d422-3aad-af12-3a826a942de4/mzaf_12258367367582584454.plus.aac.p.m4a",
+  "title": "Joyeux anniversaire",
+  "artist": "Philippe Brach",
+  "year": 2017,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/94/33/1c/94331c36-c741-8821-4999-d5fb67949110/22UM1IM39132.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/joyeux-anniversaire/1658903915?i=1658905755"
+ },
+ {
+  "id": 131066300,
+  "deezer": 131066300,
+  "apple": "1148624367",
+  "isrc": "CAD431695703",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/05/7e/77057e93-b5e0-8128-12ed-e56599ecdcc4/mzaf_15388883521323705176.plus.aac.p.m4a",
+  "title": "Amour de félin",
+  "artist": "Émile Bilodeau",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/05/13/2e/05132edc-3efc-56c0-af66-b2c159711fd6/dj.axwczlnw.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/amour-de-f%C3%A9lin/1148624249?i=1148624367"
+ },
+ {
+  "id": 119400256,
+  "deezer": 119400256,
+  "apple": "1085165484",
+  "isrc": "CAE561661005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/14/58/ff145870-f25f-bf84-a276-932e6d0db88a/mzaf_1554121794538656754.plus.aac.p.m4a",
+  "title": "Perds pas ton temps",
+  "artist": "Rouge Pompier",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/8f/c3/09/8fc30942-07e8-efbb-633f-131ab3548303/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/perds-pas-ton-temps/1085165108?i=1085165484"
+ },
+ {
+  "id": 62825041,
+  "deezer": 62825041,
+  "apple": "584901337",
+  "isrc": "CAE560302002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/7b/a3/527ba372-8dd9-c5f1-526d-377c0587f7fb/mzaf_8771926940056908200.plus.aac.p.m4a",
+  "title": "Bonhomme 7h",
+  "artist": "eXterio",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/dc/99/7bdc993d-ca63-0d44-3e90-339e5bfa7d39/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bonhomme-7h-feat-ok-volca/584901333?i=584901337"
+ },
+ {
+  "id": 3318050711,
+  "deezer": 3318050711,
+  "apple": "1807709710",
+  "isrc": "QZMEM2560004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/58/88/a35888cd-c1e8-6077-f1aa-914e7f916394/mzaf_4687275912943186068.plus.aac.p.m4a",
+  "title": "Une nuit sous les cimes",
+  "artist": "Mr. Pinklady",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/e9/a6/0be9a682-5cf9-5a7a-8ee6-4a7626dc0a46/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/une-nuit-sous-les-cimes/1807709709?i=1807709710"
+ },
+ {
+  "id": 2378836495,
+  "deezer": 2378836495,
+  "apple": "1698780830",
+  "isrc": "QZNWV2375877",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/73/17/8f/73178faf-c4c3-a2d6-0986-ce43eea08151/mzaf_6797353792314898454.plus.aac.p.m4a",
+  "title": "BEAT PSYCHODYNAMIQUE",
+  "artist": "Mr. Pinklady",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/bc/28/82bc28be-e293-ea6c-68fa-337d618332a1/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/beat-psychodynamique/1698780640?i=1698780830"
+ },
+ {
+  "id": 1576173872,
+  "deezer": 1576173872,
+  "apple": "1598653760",
+  "isrc": "CAQ520776203",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/30/bf/0d30bfad-d57a-2429-d3fa-79afea39132d/mzaf_8932546992121824858.plus.aac.p.m4a",
+  "title": "Qui prendra ma place",
+  "artist": "Marie-Mai",
+  "year": 2003,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/06/d5/2a06d5e9-7b55-9bde-708c-83b80c7432ca/196292679052.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/qui-prendra-ma-place/1598653558?i=1598653760"
+ },
+ {
+  "id": 73116750,
+  "deezer": 73116750,
+  "apple": "769767272",
+  "isrc": "FR6V82088791",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/66/ed/2d66ed1b-60e5-71b2-b658-424394a74fd4/mzaf_11236688913156295169.plus.aac.p.m4a",
+  "title": "La ballade de Jonathan Lewis",
+  "artist": "Bodh'aktan",
+  "year": 2011,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/52/6b/4f/526b4f2e-e246-a63b-260c-afb5e1ec64c9/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-ballade-de-jonathan-lewis/769766885?i=769767272"
+ },
+ {
+  "id": 463897142,
+  "deezer": 463897142,
+  "apple": "1350557047",
+  "isrc": "CAI250606914",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cd/00/4e/cd004ed8-1f18-0286-e242-064a6c82bc2f/mzaf_14194989243515872115.plus.aac.p.m4a",
+  "title": "Mer de fumistes",
+  "artist": "Les Vulgaires Machins",
+  "year": 2006,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/03/4e/89/034e89aa-7509-a9ad-ae60-9e6669280752/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mer-de-fumistes/1350556173?i=1350557047"
+ },
+ {
+  "id": 463897132,
+  "deezer": 463897132,
+  "apple": "1350557041",
+  "isrc": "CAI250606913",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/23/f0/1823f0cf-6398-812c-b9f9-817a0ee63a9b/mzaf_216621208361120943.plus.aac.p.m4a",
+  "title": "Soleil",
+  "artist": "Les Vulgaires Machins",
+  "year": 2006,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/03/4e/89/034e89aa-7509-a9ad-ae60-9e6669280752/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/soleil/1350556173?i=1350557041"
+ },
+ {
+  "id": 463897112,
+  "deezer": 463897112,
+  "apple": "1350556972",
+  "isrc": "CAI250606911",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/16/69/bd16697b-ba1b-2dc4-3b82-40e02ef51c8d/mzaf_5780806633164118944.plus.aac.p.m4a",
+  "title": "Être un comme",
+  "artist": "Les Vulgaires Machins",
+  "year": 2006,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/03/4e/89/034e89aa-7509-a9ad-ae60-9e6669280752/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/%C3%AAtre-un-comme/1350556173?i=1350556972"
+ },
+ {
+  "id": 463897102,
+  "deezer": 463897102,
+  "apple": "1350556969",
+  "isrc": "CAI250606910",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/58/a8/fe58a8ad-270e-6f4e-9ae2-790a99cfe470/mzaf_5319492526740590497.plus.aac.p.m4a",
+  "title": "Les mains pleines de sang",
+  "artist": "Les Vulgaires Machins",
+  "year": 2006,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/03/4e/89/034e89aa-7509-a9ad-ae60-9e6669280752/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-mains-pleines-de-sang/1350556173?i=1350556969"
+ },
+ {
+  "id": 463897062,
+  "deezer": 463897062,
+  "apple": "1350556773",
+  "isrc": "CAI250606906",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f0/3d/3d/f03d3d56-6565-2730-50af-d336e6037e5c/mzaf_11573508081375367121.plus.aac.p.m4a",
+  "title": "Légaliser l'héroïne",
+  "artist": "Les Vulgaires Machins",
+  "year": 2006,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/03/4e/89/034e89aa-7509-a9ad-ae60-9e6669280752/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/l%C3%A9galiser-lh%C3%A9ro%C3%AFne/1350556173?i=1350556773"
+ },
+ {
+  "id": 463897052,
+  "deezer": 463897052,
+  "apple": "1350556772",
+  "isrc": "CAI250606905",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/75/0c/47750ca9-a814-30b2-fe5d-9128d6192bdd/mzaf_17277290858039058928.plus.aac.p.m4a",
+  "title": "Arrachez-moi les yeux",
+  "artist": "Les Vulgaires Machins",
+  "year": 2006,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/03/4e/89/034e89aa-7509-a9ad-ae60-9e6669280752/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/arrachez-moi-les-yeux/1350556173?i=1350556772"
+ },
+ {
+  "id": 463897022,
+  "deezer": 463897022,
+  "apple": "1350556760",
+  "isrc": "CAI250606902",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/19/64/851964f8-7a57-931d-5b27-00b8effc10b3/mzaf_6774261432751422908.plus.aac.p.m4a",
+  "title": "Anéantir le dogme",
+  "artist": "Les Vulgaires Machins",
+  "year": 2006,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/03/4e/89/034e89aa-7509-a9ad-ae60-9e6669280752/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/an%C3%A9antir-le-dogme/1350556173?i=1350556760"
+ },
+ {
+  "id": 2397233285,
+  "deezer": 2397233285,
+  "apple": "1701384084",
+  "isrc": "CA60L2310009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/5b/d0/9a5bd04d-4995-bb5f-8617-03c0f7401c36/mzaf_409697364959438288.plus.aac.p.m4a",
+  "title": "Du courage pour deux",
+  "artist": "Karkwa",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/e1/94/26e19499-43fb-1192-b53f-1c944554e48f/197189065460.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/du-courage-pour-deux/1701383406?i=1701384084"
+ },
+ {
+  "id": 2397233265,
+  "deezer": 2397233265,
+  "apple": "1701383864",
+  "isrc": "CA60L2310007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/63/cc/e363cccf-1aa0-080f-a64b-cdea30af1469/mzaf_12008551689371900992.plus.aac.p.m4a",
+  "title": "Dans la seconde",
+  "artist": "Karkwa",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/e1/94/26e19499-43fb-1192-b53f-1c944554e48f/197189065460.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/dans-la-seconde/1701383406?i=1701383864"
+ },
+ {
+  "id": 2397233255,
+  "deezer": 2397233255,
+  "apple": "1701383858",
+  "isrc": "CA60L2310006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/d6/b3/6dd6b3b6-3027-9a11-711c-166d85802b63/mzaf_3781537321337570151.plus.aac.p.m4a",
+  "title": "Nouvelle vague",
+  "artist": "Karkwa",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/e1/94/26e19499-43fb-1192-b53f-1c944554e48f/197189065460.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/nouvelle-vague/1701383406?i=1701383858"
+ },
+ {
+  "id": 2397233245,
+  "deezer": 2397233245,
+  "apple": "1701383846",
+  "isrc": "CA60L2310005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b2/a9/26/b2a926cc-4342-da0a-fb04-42899ad001f5/mzaf_17513264166590624563.plus.aac.p.m4a",
+  "title": "Miroir de John Wayne",
+  "artist": "Karkwa",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/e1/94/26e19499-43fb-1192-b53f-1c944554e48f/197189065460.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/miroir-de-john-wayne/1701383406?i=1701383846"
+ },
+ {
+  "id": 2397233225,
+  "deezer": 2397233225,
+  "apple": "1701383706",
+  "isrc": "CA60L2310003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/85/7a/0d857a69-1ff8-7562-eafa-e3d7cb87bf00/mzaf_15821990886990969142.plus.aac.p.m4a",
+  "title": "À bout portant",
+  "artist": "Karkwa",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/e1/94/26e19499-43fb-1192-b53f-1c944554e48f/197189065460.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/%C3%A0-bout-portant/1701383406?i=1701383706"
+ },
+ {
+  "id": 1644543952,
+  "deezer": 1644543952,
+  "apple": "1606956013",
+  "isrc": "CALXJ2120012",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/6e/6f/da6e6ff7-2df7-2b03-6452-ba722ea18f0e/mzaf_5325770812662986833.plus.aac.p.m4a",
+  "title": "Eli",
+  "artist": "Ariane Roy",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/fc/03/2afc03a6-93bf-c0f7-593b-5ddf826fcfcb/22UMGIM04684.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/eli/1606954978?i=1606956013"
+ },
+ {
+  "id": 1644543932,
+  "deezer": 1644543932,
+  "apple": "1606955811",
+  "isrc": "CALXJ2120001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/5f/30/2b5f3046-cf92-56b6-e5a9-f9c36ba748aa/mzaf_5009262205897239222.plus.aac.p.m4a",
+  "title": "Je me réveille",
+  "artist": "Ariane Roy",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/fc/03/2afc03a6-93bf-c0f7-593b-5ddf826fcfcb/22UMGIM04684.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/je-me-r%C3%A9veille/1606954978?i=1606955811"
+ },
+ {
+  "id": 1644543912,
+  "deezer": 1644543912,
+  "apple": "1606955796",
+  "isrc": "CALXJ2120009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/9d/59/409d59e9-65e3-e686-6c10-36aea8ce6b6b/mzaf_11096921381783156605.plus.aac.p.m4a",
+  "title": "Apprendre encore",
+  "artist": "Ariane Roy",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/fc/03/2afc03a6-93bf-c0f7-593b-5ddf826fcfcb/22UMGIM04684.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/apprendre-encore/1606954978?i=1606955796"
+ },
+ {
+  "id": 3195087341,
+  "deezer": 3195087341,
+  "apple": "1790908013",
+  "isrc": "CAZC31700005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/af/5c/4faf5c49-a2a9-f217-7aed-5d5beafb7442/mzaf_123212046811747415.plus.aac.p.m4a",
+  "title": "Encéphaline",
+  "artist": "Les Louanges",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/c4/f8/5dc4f8b1-cba1-aec8-62d2-17dff2a6565d/592.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ence-phaline/1790907808?i=1790908013"
+ },
+ {
+  "id": 3195087331,
+  "deezer": 3195087331,
+  "apple": "1790907826",
+  "isrc": "CAZC31700004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/a5/b1/f5a5b107-4168-b32c-56a3-4703ae93ca44/mzaf_1114265455234468163.plus.aac.p.m4a",
+  "title": "Les RDV manqués de Babylone",
+  "artist": "Les Louanges",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/c4/f8/5dc4f8b1-cba1-aec8-62d2-17dff2a6565d/592.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-rdv-manque-s-de-babylone/1790907808?i=1790907826"
+ },
+ {
+  "id": 3195087321,
+  "deezer": 3195087321,
+  "apple": "1790907825",
+  "isrc": "CAZC31700003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/e8/c1/7ae8c193-24f0-8e8b-6a64-cea60a7f761a/mzaf_7144060460432129337.plus.aac.p.m4a",
+  "title": "Andromède",
+  "artist": "Les Louanges",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/c4/f8/5dc4f8b1-cba1-aec8-62d2-17dff2a6565d/592.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/androme-de/1790907808?i=1790907825"
+ },
+ {
+  "id": 4156311582,
+  "deezer": 4156311582,
+  "apple": "6791265293",
+  "isrc": "CBDDV2500016",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/16/e5/4c16e552-a81b-899e-8d93-4c04dd5f6fbf/mzaf_3880613124835072719.plus.aac.p.m4a",
+  "title": "Désert",
+  "artist": "Malaimé Soleil",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a7/c9/1ca7c95a-d4bc-382b-c31a-80f1046a6eea/12538.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/d%C3%A9sert/6791265064?i=6791265293"
+ },
+ {
+  "id": 4156311572,
+  "deezer": 4156311572,
+  "apple": "6791265286",
+  "isrc": "CBDDV2500015",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/9a/e6/0f9ae6c3-9f4d-af5f-984a-6e3f176bd685/mzaf_1661917090362279330.plus.aac.p.m4a",
+  "title": "L'élève de la douceur",
+  "artist": "Malaimé Soleil",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a7/c9/1ca7c95a-d4bc-382b-c31a-80f1046a6eea/12538.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/l%C3%A9l%C3%A8ve-de-la-douceur/6791265064?i=6791265286"
+ },
+ {
+  "id": 4156311562,
+  "deezer": 4156311562,
+  "apple": "6791265280",
+  "isrc": "CBDDV2500014",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/cf/d2/22cfd264-ab93-2bb9-ca7d-288fd7352ae0/mzaf_16569024164709228551.plus.aac.p.m4a",
+  "title": "Je t'en veux",
+  "artist": "Malaimé Soleil",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a7/c9/1ca7c95a-d4bc-382b-c31a-80f1046a6eea/12538.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/je-ten-veux/6791265064?i=6791265280"
+ },
+ {
+  "id": 4156311552,
+  "deezer": 4156311552,
+  "apple": "6791265279",
+  "isrc": "CBDDV2500013",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/1b/3b/9c1b3b02-1be3-2101-9900-b46871424c7e/mzaf_18064852235940451447.plus.aac.p.m4a",
+  "title": "Gaguar",
+  "artist": "Malaimé Soleil",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a7/c9/1ca7c95a-d4bc-382b-c31a-80f1046a6eea/12538.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/gaguar/6791265064?i=6791265279"
+ },
+ {
+  "id": 4156311462,
+  "deezer": 4156311462,
+  "apple": "6791265068",
+  "isrc": "CBDDV2500010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/1c/82/141c82f8-5126-ca15-dc75-4a9e7e813e61/mzaf_13084883175186224682.plus.aac.p.m4a",
+  "title": "Tout rattraper",
+  "artist": "Malaimé Soleil",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a7/c9/1ca7c95a-d4bc-382b-c31a-80f1046a6eea/12538.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tout-rattraper/6791265064?i=6791265068"
+ },
+ {
+  "id": 4156311472,
+  "deezer": 4156311472,
+  "apple": "6791265067",
+  "isrc": "CBDDV2500012",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/54/c6/8654c669-a89f-b380-4e6b-49311ffd2503/mzaf_5497503627815275998.plus.aac.p.m4a",
+  "title": "L'amour en sang",
+  "artist": "Malaimé Soleil",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a7/c9/1ca7c95a-d4bc-382b-c31a-80f1046a6eea/12538.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lamour-en-sang/6791265064?i=6791265067"
+ },
+ {
+  "id": 4156311322,
+  "deezer": 4156311322,
+  "apple": "6791265066",
+  "isrc": "CBDDV2500009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/38/93/f338937f-c6ba-fafb-1534-4e7bdfc1bc79/mzaf_7948452492758029802.plus.aac.p.m4a",
+  "title": "Quessé",
+  "artist": "Malaimé Soleil",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a7/c9/1ca7c95a-d4bc-382b-c31a-80f1046a6eea/12538.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/quess%C3%A9/6791265064?i=6791265066"
+ },
+ {
+  "id": 4156311512,
+  "deezer": 4156311512,
+  "apple": "6791265065",
+  "isrc": "CBDDV2500011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/be/5d/b3be5d88-8caa-1bae-e1c6-2da0f3a1f754/mzaf_4754587430949667822.plus.aac.p.m4a",
+  "title": "Pissou",
+  "artist": "Malaimé Soleil",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a7/c9/1ca7c95a-d4bc-382b-c31a-80f1046a6eea/12538.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pissou/6791265064?i=6791265065"
+ },
+ {
+  "id": 3763867432,
+  "deezer": 3763867432,
+  "apple": "6765541136",
+  "isrc": "CAR722563304",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/8e/53/578e539d-6db9-381c-bed8-b99537eea4ef/mzaf_4369577987767002084.plus.aac.p.m4a",
+  "title": "<3",
+  "artist": "Marco Ema",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/4c/3e/1c4c3e6d-8ba4-8e1a-6d73-8c98f4b610b9/26SYMIM27333.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/3/1895986128?i=6765541136"
+ },
+ {
+  "id": 4022760861,
+  "deezer": 4022760861,
+  "apple": "6765541128",
+  "isrc": "CAR722563318",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/c4/e6/54c4e68b-672a-32d1-af97-6bb40e9570e1/mzaf_11219193252745959662.plus.aac.p.m4a",
+  "title": "Sans vraiment savoir",
+  "artist": "Marco Ema",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/4c/3e/1c4c3e6d-8ba4-8e1a-6d73-8c98f4b610b9/26SYMIM27333.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/sans-vraiment-savoir/1895986128?i=6765541128"
+ },
+ {
+  "id": 4022760851,
+  "deezer": 4022760851,
+  "apple": "6765541127",
+  "isrc": "CAR722563317",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/68/95/7b689506-becd-e7c2-bcb4-239729be4cbc/mzaf_15792920159619782193.plus.aac.p.m4a",
+  "title": "La journée finira jamais",
+  "artist": "Marco Ema",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/4c/3e/1c4c3e6d-8ba4-8e1a-6d73-8c98f4b610b9/26SYMIM27333.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-journ%C3%A9e-finira-jamais/1895986128?i=6765541127"
+ },
+ {
+  "id": 3967306841,
+  "deezer": 3967306841,
+  "apple": "1894426028",
+  "isrc": "CBHA92600001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/c6/69/93c66982-f098-be90-5033-9d0b22023f1e/mzaf_9574616585321980378.plus.aac.p.m4a",
+  "title": "Canadien de Mtl (Radio Edit)",
+  "artist": "Castor Groupe Rock",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/4b/b8/804bb8df-fba5-da28-94d1-a7a977ee01a3/artwork.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/canadien-de-mtl-radio-edit/1894426027?i=1894426028"
+ },
+ {
+  "id": 3843368691,
+  "deezer": 3843368691,
+  "apple": "1877125108",
+  "isrc": "QZK6H2419836",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/0d/d6/130dd6e1-4d00-c418-d694-99fcd28587e2/mzaf_13973054698243685773.plus.aac.p.m4a",
+  "title": "Lucky Charms",
+  "artist": "Dauphins",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/4b/5f/d44b5f7a-2554-7cdf-490c-03bb48224470/11199.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lucky-charms/1877125102?i=1877125108"
+ },
+ {
+  "id": 2782091922,
+  "deezer": 2782091922,
+  "apple": "1745356168",
+  "isrc": "CAD432403707",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/7d/4b/2e7d4bcc-8f80-5634-1235-6a13769ab16a/mzaf_16860056262907259838.plus.aac.p.m4a",
+  "title": "L'île à vingt-cinq sous - Théâtre Petit-Champlain, Québec, 11-11-2023 (Live)",
+  "artist": "Ariane Roy",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/ea/dd/eeeadda7-dd5d-4f80-b02d-8b9a6d5874ab/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/l%C3%AEle-%C3%A0-vingt-cinq-sous-th%C3%A9%C3%A2tre-petit-champlain-qu%C3%A9bec/1745355388?i=1745356168"
+ },
+ {
+  "id": 2782091902,
+  "deezer": 2782091902,
+  "apple": "1745355733",
+  "isrc": "CAD432403705",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/46/54/4c46541d-330c-288f-5b8e-51390c933bce/mzaf_9141611088707843510.plus.aac.p.m4a",
+  "title": "Plein prix - Théâtre Desjardins, Lasalle, 02-11-2023 (Live)",
+  "artist": "Ariane Roy",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/ea/dd/eeeadda7-dd5d-4f80-b02d-8b9a6d5874ab/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/plein-prix-th%C3%A9%C3%A2tre-desjardins-lasalle-02-11-2023-live/1745355388?i=1745355733"
+ },
+ {
+  "id": 2782091892,
+  "deezer": 2782091892,
+  "apple": "1745355717",
+  "isrc": "CAD432403704",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/ee/64/06ee64ea-bcc8-323e-acdc-9b573aa6ad24/mzaf_8808246417906554129.plus.aac.p.m4a",
+  "title": "La pluie ne tombe jamais sur toi - Théâtre Petit-Champlain, Québec, 12-11-2023 (Live)",
+  "artist": "Ariane Roy",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/ea/dd/eeeadda7-dd5d-4f80-b02d-8b9a6d5874ab/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-pluie-ne-tombe-jamais-sur-toi-th%C3%A9%C3%A2tre-petit-champlain/1745355388?i=1745355717"
+ },
+ {
+  "id": 3643028232,
+  "deezer": 3643028232,
+  "apple": "1851050868",
+  "isrc": "CAZ842500100",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/ad/09/15ad0923-8d18-6402-c807-6a2f817cc26c/mzaf_15095039803399280741.plus.aac.p.m4a",
+  "title": "Je bouge pas",
+  "artist": "Les Louanges",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/e3/40/0ee34014-f868-189f-a18d-5bbe1395c9ea/783.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/je-bouge-pas/1851050581?i=1851050868"
+ },
+ {
+  "id": 128233607,
+  "deezer": 128233607,
+  "apple": "1551592640",
+  "isrc": "CAA500115011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a4/9b/18/a49b18ee-ee45-f911-efa9-4688178f7060/mzaf_15173128307492314402.plus.aac.p.m4a",
+  "title": "Air pur",
+  "artist": "Daniel Bélanger",
+  "year": 2001,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/44/98/6a44987c-6b14-7609-f285-39a4d38530f1/190374950268.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/air-pur/1551592276?i=1551592640"
+ },
+ {
+  "id": 128233599,
+  "deezer": 128233599,
+  "apple": "1551592633",
+  "isrc": "CAA500115007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/59/a5/67/59a567b5-82d9-3c53-a14b-608c4d457d98/mzaf_1753589781669009608.plus.aac.p.m4a",
+  "title": "Une chanson pour moi",
+  "artist": "Daniel Bélanger",
+  "year": 2001,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/44/98/6a44987c-6b14-7609-f285-39a4d38530f1/190374950268.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/une-chanson-pour-moi/1551592276?i=1551592633"
+ },
+ {
+  "id": 128233597,
+  "deezer": 128233597,
+  "apple": "1551592632",
+  "isrc": "CAA500115006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/24/75/27/2475272d-9369-a987-f9c3-9a5b911fc05a/mzaf_3022371030598031689.plus.aac.p.m4a",
+  "title": "Tu tombes",
+  "artist": "Daniel Bélanger",
+  "year": 2001,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/44/98/6a44987c-6b14-7609-f285-39a4d38530f1/190374950268.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tu-tombes/1551592276?i=1551592632"
+ },
+ {
+  "id": 1028335222,
+  "deezer": 1028335222,
+  "apple": "1524333578",
+  "isrc": "CA60L1200032",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/c4/67/49c467bd-1a95-be63-26fa-e1b5c3f7075d/mzaf_7813313418628349087.plus.aac.p.m4a",
+  "title": "L'air",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lair/1524333047?i=1524333578"
+ },
+ {
+  "id": 1028335212,
+  "deezer": 1028335212,
+  "apple": "1524333065",
+  "isrc": "CA60L1200031",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/a7/09/f5a709d9-d0fe-5f33-271e-ffc740b34498/mzaf_9625029746141848579.plus.aac.p.m4a",
+  "title": "Un refrain trop long",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/un-refrain-trop-long/1524333047?i=1524333065"
+ },
+ {
+  "id": 1028335192,
+  "deezer": 1028335192,
+  "apple": "1524333061",
+  "isrc": "CA60L1200029",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/28/2b/65282b4f-2616-4c4d-660a-d985193d3371/mzaf_3371932665754435034.plus.aac.p.m4a",
+  "title": "L'ascenseur",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lascenseur/1524333047?i=1524333061"
+ },
+ {
+  "id": 1028335172,
+  "deezer": 1028335172,
+  "apple": "1524333057",
+  "isrc": "CA60L1200027",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/92/0f/e1920fa9-daef-83fe-2457-3ab4ecf390c8/mzaf_9481528038257324084.plus.aac.p.m4a",
+  "title": "Tout le monde en même temps",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tout-le-monde-en-m%C3%AAme-temps/1524333047?i=1524333057"
+ },
+ {
+  "id": 1028335152,
+  "deezer": 1028335152,
+  "apple": "1524333053",
+  "isrc": "CA60L1200025",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/38/57/7338571a-c8e6-ed20-dbfa-e9606876095f/mzaf_1795384354878216538.plus.aac.p.m4a",
+  "title": "J'haïs les happy ends",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jha%C3%AFs-les-happy-ends/1524333047?i=1524333053"
+ },
+ {
+  "id": 3167719151,
+  "deezer": 3167719151,
+  "apple": "1332847209",
+  "isrc": "CAZ841201611",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/e5/d8/01e5d81e-0eaf-bef1-adc1-f18c41eb509f/mzaf_15982766712118596832.plus.aac.p.m4a",
+  "title": "Kraft Dinner",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/kraft-dinner/1332846396?i=1332847209"
+ },
+ {
+  "id": 1638406392,
+  "deezer": 1638406392,
+  "apple": "1607570201",
+  "isrc": "CAFWG2100033",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/8f/20/968f2075-ddf4-8be6-57da-77fdc32e0f77/mzaf_5045526150047542356.plus.aac.p.m4a",
+  "title": "Vacances-travail",
+  "artist": "Lydia Képinski",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/vacances-travail/1607569840?i=1607570201"
+ },
+ {
+  "id": 1533036182,
+  "deezer": 1533036182,
+  "apple": "1607570197",
+  "isrc": "CAFWG2100023",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/f7/58/5af75893-2d91-f41c-d692-e34ad6c3209a/mzaf_10358369279305201361.plus.aac.p.m4a",
+  "title": "Arbol",
+  "artist": "Lydia Képinski",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/arbol/1607569840?i=1607570197"
+ },
+ {
+  "id": 1638406362,
+  "deezer": 1638406362,
+  "apple": "1607569865",
+  "isrc": "CAFWG2100030",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/1f/4d/721f4d88-2c58-f525-1970-ac8906d50b84/mzaf_11337060372086909390.plus.aac.p.m4a",
+  "title": "Vaslaw",
+  "artist": "Lydia Képinski",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/vaslaw/1607569840?i=1607569865"
+ },
+ {
+  "id": 128230035,
+  "deezer": 128230035,
+  "apple": "1551595788",
+  "isrc": "CAA500416813",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/1e/36/27/1e3627d8-65ad-99e1-5409-6decaa0f6251/mzaf_12389484235545106717.plus.aac.p.m4a",
+  "title": "Engouement",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/engouement/1551595537?i=1551595788"
+ },
+ {
+  "id": 128230033,
+  "deezer": 128230033,
+  "apple": "1551595786",
+  "isrc": "CAA500416812",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/bc/d8/d4/bcd8d497-bbd5-2fee-d265-8e31728588f5/mzaf_14675567567282416301.plus.aac.p.m4a",
+  "title": "Libérez-nous des libéraux",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lib%C3%A9rez-nous-des-lib%C3%A9raux/1551595537?i=1551595786"
+ },
+ {
+  "id": 128230031,
+  "deezer": 128230031,
+  "apple": "1551595781",
+  "isrc": "CAA500416811",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/0d/71/ec/0d71ec7d-2cf5-067e-198e-7c50f3110567/mzaf_4442220311905741366.plus.aac.p.m4a",
+  "title": "Antigone",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/antigone/1551595537?i=1551595781"
+ },
+ {
+  "id": 128230027,
+  "deezer": 128230027,
+  "apple": "1551595776",
+  "isrc": "CAA500416809",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/a6/97/64/a697643a-5928-1e4c-032a-1e2d8d8450b4/mzaf_17471273142293468468.plus.aac.p.m4a",
+  "title": "Maison et idéal",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/maison-et-id%C3%A9al/1551595537?i=1551595776"
+ },
+ {
+  "id": 128230025,
+  "deezer": 128230025,
+  "apple": "1551595561",
+  "isrc": "CAA500416808",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e4/a1/53/e4a1531f-e5ce-8e01-e0b2-6b1e0e5c5b67/mzaf_13663197321803283797.plus.aac.p.m4a",
+  "title": "Spleen et Montréal",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/spleen-et-montr%C3%A9al/1551595537?i=1551595561"
+ },
+ {
+  "id": 128230023,
+  "deezer": 128230023,
+  "apple": "1551595557",
+  "isrc": "CAA500416807",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b8/5e/e8/b85ee8d9-3863-c014-69fb-b734772dca5a/mzaf_17210812389692516963.plus.aac.p.m4a",
+  "title": "La censure pour l'échafaud",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-censure-pour-l%C3%A9chafaud/1551595537?i=1551595557"
+ },
+ {
+  "id": 128230021,
+  "deezer": 128230021,
+  "apple": "1551595552",
+  "isrc": "CAA500416806",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/42/3a/d8/423ad8b6-62a6-b062-af57-f11c36931fae/mzaf_7051386489367121948.plus.aac.p.m4a",
+  "title": "Bonzaïon",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bonza%C3%AFon/1551595537?i=1551595552"
+ },
+ {
+  "id": 128230019,
+  "deezer": 128230019,
+  "apple": "1551595547",
+  "isrc": "CAA500416805",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/c7/69/c2/c769c2ae-7584-bc57-c511-6992089d6b31/mzaf_15236138303013736447.plus.aac.p.m4a",
+  "title": "Groove Grave",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/groove-grave/1551595537?i=1551595547"
+ },
+ {
+  "id": 128230013,
+  "deezer": 128230013,
+  "apple": "1551595542",
+  "isrc": "CAA500416802",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/10/b8/50/10b8503d-712c-e2bc-32f2-70d52870a8b2/mzaf_9203895648241494291.plus.aac.p.m4a",
+  "title": "La bataille des murailles",
+  "artist": "Loco Locass",
+  "year": 2004,
+  "genre": "Rap",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/33/48/c8334890-6867-dc0b-056b-301fbf17a29b/190374951258.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-bataille-des-murailles/1551595537?i=1551595542"
+ },
+ {
+  "id": 856732942,
+  "deezer": 856732942,
+  "apple": "1495694793",
+  "isrc": "CAD431998210",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/52/a2/0952a25f-bb60-e0d5-b742-dd6c283b39d7/mzaf_2786904422413194257.plus.aac.p.m4a",
+  "title": "Triste pareil",
+  "artist": "Gab Bouchard",
+  "year": 2020,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0a/d7/b1/0ad7b1cb-5ab0-afea-9c17-019c7e1347cb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/triste-pareil/1495694279?i=1495694793"
+ },
+ {
+  "id": 856732902,
+  "deezer": 856732902,
+  "apple": "1495694596",
+  "isrc": "CAD431998206",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/74/fb/e474fb41-0755-5e7b-4cc9-f4840c66c006/mzaf_9306182675227179714.plus.aac.p.m4a",
+  "title": "Une valse pour toi",
+  "artist": "Gab Bouchard",
+  "year": 2020,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0a/d7/b1/0ad7b1cb-5ab0-afea-9c17-019c7e1347cb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/une-valse-pour-toi/1495694279?i=1495694596"
+ },
+ {
+  "id": 856732882,
+  "deezer": 856732882,
+  "apple": "1495694588",
+  "isrc": "CAD431998205",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/a7/21/28a72191-72dc-96b7-5e08-7b1a9018a664/mzaf_10497480147850483345.plus.aac.p.m4a",
+  "title": "Yé passé où l'soleil ?",
+  "artist": "Gab Bouchard",
+  "year": 2020,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0a/d7/b1/0ad7b1cb-5ab0-afea-9c17-019c7e1347cb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/y%C3%A9-pass%C3%A9-o%C3%B9-lsoleil/1495694279?i=1495694588"
+ },
+ {
+  "id": 2364246855,
+  "deezer": 2364246855,
+  "apple": "1697031223",
+  "isrc": "CAJSV2300003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/45/99/07459988-5e40-8202-52c2-9e5a77f9e858/mzaf_2694747153165389547.plus.aac.p.m4a",
+  "title": "Tache d'encre",
+  "artist": "Valse Fréquence",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/60/53/d8605390-56da-f44d-7fff-ae37bf8fa240/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tache-dencre/1697030995?i=1697031223"
+ },
+ {
+  "id": 65802840,
+  "deezer": 65802840,
+  "apple": "627235261",
+  "isrc": "CAD430602311",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/e3/08/95e30862-4c3a-8a28-0453-e47499b2732c/mzaf_16158581975108372682.plus.aac.p.m4a",
+  "title": "St-Fortunat",
+  "artist": "Malajube",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/b0/b7/74b0b700-d655-f134-46ab-5241b2194ba6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/st-fortunat/627234883?i=627235261"
+ },
+ {
+  "id": 65802838,
+  "deezer": 65802838,
+  "apple": "627235254",
+  "isrc": "CAD430602309",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/4b/e6/5e4be6f2-36f1-53ae-86c8-2ee712ade897/mzaf_8281052797135895868.plus.aac.p.m4a",
+  "title": "Casse-cou",
+  "artist": "Malajube",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/b0/b7/74b0b700-d655-f134-46ab-5241b2194ba6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/casse-cou/627234883?i=627235254"
+ },
+ {
+  "id": 65802835,
+  "deezer": 65802835,
+  "apple": "627235242",
+  "isrc": "CAD430602306",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/c7/8b/c6c78b31-5ad5-4cb4-396f-e0d5ba7b186c/mzaf_10467663074642539847.plus.aac.p.m4a",
+  "title": "Ton plat favori",
+  "artist": "Malajube",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/b0/b7/74b0b700-d655-f134-46ab-5241b2194ba6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ton-plat-favori/627234883?i=627235242"
+ },
+ {
+  "id": 65802833,
+  "deezer": 65802833,
+  "apple": "627235236",
+  "isrc": "CAD430602304",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/85/8f/dd858f46-79de-cbe0-608e-b6fa435a11d8/mzaf_1600031350996819495.plus.aac.p.m4a",
+  "title": "Le crabe",
+  "artist": "Malajube",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/b0/b7/74b0b700-d655-f134-46ab-5241b2194ba6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-crabe/627234883?i=627235236"
+ },
+ {
+  "id": 131066316,
+  "deezer": 131066316,
+  "apple": "1148624894",
+  "isrc": "CAD431695711",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/b5/a2/fcb5a28b-0131-020e-2c59-f8b1bb63ef59/mzaf_14198698254350085143.plus.aac.p.m4a",
+  "title": "Bière",
+  "artist": "Émile Bilodeau",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/05/13/2e/05132edc-3efc-56c0-af66-b2c159711fd6/dj.axwczlnw.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bi%C3%A8re/1148624249?i=1148624894"
+ },
+ {
+  "id": 109374156,
+  "deezer": 109374156,
+  "apple": "1048262442",
+  "isrc": "CAL540405315",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/24/b7/f924b787-aa3b-b730-ad91-f9f030e8e487/mzaf_17946092834823131997.plus.aac.p.m4a",
+  "title": "Si la vie vous intéresse",
+  "artist": "Les Cowboys Fringants",
+  "year": 2004,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/8e/37/99/8e379991-126a-ee7b-6f83-ef5260fa707c/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/si-la-vie-vous-int%C3%A9resse/1048261778?i=1048262442"
+ },
+ {
+  "id": 109374146,
+  "deezer": 109374146,
+  "apple": "1048261799",
+  "isrc": "CAL540405310",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/98/82/fa988200-270e-5a96-db2f-df78d9733298/mzaf_17758121737173992562.plus.aac.p.m4a",
+  "title": "Lettre à Lévesque",
+  "artist": "Les Cowboys Fringants",
+  "year": 2004,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/8e/37/99/8e379991-126a-ee7b-6f83-ef5260fa707c/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lettre-%C3%A0-l%C3%A9vesque/1048261778?i=1048261799"
+ },
+ {
+  "id": 2682858242,
+  "deezer": 2682858242,
+  "apple": "1839763793",
+  "isrc": "CAH682400012",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/72/ce/3a72ce3f-410b-4862-addd-4e5f10c7efba/mzaf_4385781697350338557.plus.aac.p.m4a",
+  "title": "Revenir",
+  "artist": "Rau_Ze",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/e5/f2/bae5f275-1776-ec32-dcb1-e090e1ee0c1d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/revenir/1839763386?i=1839763793"
+ },
+ {
+  "id": 2506376201,
+  "deezer": 2506376201,
+  "apple": "1839763394",
+  "isrc": "CAH682300148",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/03/e1/fd03e164-ecd0-39c1-4813-e59d1056df5a/mzaf_12025651348407930335.plus.aac.p.m4a",
+  "title": "Pas la peine",
+  "artist": "Rau_Ze",
+  "year": 2023,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/e5/f2/bae5f275-1776-ec32-dcb1-e090e1ee0c1d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pas-la-peine/1839763386?i=1839763394"
+ },
+ {
+  "id": 1425509422,
+  "deezer": 1425509422,
+  "apple": "1575372557",
+  "isrc": "CACFX1700014",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/0e/44/dc0e44e2-bcb1-cd81-b065-9a12f31692f5/mzaf_6135810256216011432.plus.aac.p.m4a",
+  "title": "Titoeuf",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/titoeuf/1575372017?i=1575372557"
+ },
+ {
+  "id": 1425509412,
+  "deezer": 1425509412,
+  "apple": "1575372552",
+  "isrc": "CACFX1700013",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/b8/dd/3ab8dd87-7563-bd41-c1a6-52eb2723cbbe/mzaf_6335303610504967146.plus.aac.p.m4a",
+  "title": "Fuir ses problèmes",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/fuir-ses-probl%C3%A8mes/1575372017?i=1575372552"
+ },
+ {
+  "id": 1425509362,
+  "deezer": 1425509362,
+  "apple": "1575372265",
+  "isrc": "CACFX1700008",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/a3/d1/90a3d1c4-3b93-517b-2b4b-409c8611db7b/mzaf_17600708575116684561.plus.aac.p.m4a",
+  "title": "Dents dures",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/dents-dures/1575372017?i=1575372265"
+ },
+ {
+  "id": 1425509342,
+  "deezer": 1425509342,
+  "apple": "1575372256",
+  "isrc": "CACFX1700006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/d8/b4/c1d8b44a-9c56-ec78-3d0e-26f0ad076eaf/mzaf_14276207769627257042.plus.aac.p.m4a",
+  "title": "Le vin",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-vin/1575372017?i=1575372256"
+ },
+ {
+  "id": 1425509332,
+  "deezer": 1425509332,
+  "apple": "1575372254",
+  "isrc": "CACFX1700005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/89/64/b989640a-7f87-aeab-092e-9149888b76dc/mzaf_4625330300768205647.plus.aac.p.m4a",
+  "title": "Eurk! Un condom",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/eurk-un-condom/1575372017?i=1575372254"
+ },
+ {
+  "id": 1425509322,
+  "deezer": 1425509322,
+  "apple": "1575372248",
+  "isrc": "CACFX1700004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/9f/a1/aa9fa12a-dc73-1614-4438-ee68bd2fe056/mzaf_8558758373227840029.plus.aac.p.m4a",
+  "title": "Fabrice Bouchard",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/fabrice-bouchard/1575372017?i=1575372248"
+ },
+ {
+  "id": 1425509312,
+  "deezer": 1425509312,
+  "apple": "1575372035",
+  "isrc": "CACFX1700003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/25/89/1d25893b-4b42-98e5-29b4-d66e4949ba69/mzaf_2070285913651242085.plus.aac.p.m4a",
+  "title": "Organic Music",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/organic-music/1575372017?i=1575372035"
+ },
+ {
+  "id": 1425509302,
+  "deezer": 1425509302,
+  "apple": "1575372032",
+  "isrc": "CACFX1700002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/45/6b/05456b54-6bed-130a-7ace-dfa20c1fe194/mzaf_6131431952818099125.plus.aac.p.m4a",
+  "title": "Vincent",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/vincent/1575372017?i=1575372032"
+ },
+ {
+  "id": 1425509292,
+  "deezer": 1425509292,
+  "apple": "1575372030",
+  "isrc": "CACFX1700001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/f6/a3/faf6a38b-e11b-5473-4f9b-f215f23571e6/mzaf_9168499872910442973.plus.aac.p.m4a",
+  "title": "Crescendo",
+  "artist": "Orloge Simard",
+  "year": 2017,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/26/57/fc265734-835a-48a7-ef68-87ee4a022173/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/crescendo/1575372017?i=1575372030"
+ },
+ {
+  "id": 4117027811,
+  "deezer": 4117027811,
+  "apple": "6784857050",
+  "isrc": "GXBDS2605375",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/e3/83/c4e383d9-59e4-abb9-d0a8-74188d0763c9/mzaf_1684051480427323050.plus.aac.p.m4a",
+  "title": "Silence",
+  "artist": "Silence",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/07/c1/b507c1f0-880f-5498-ac53-c91b1c13fa44/5064010341008_cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/silence/6784857047?i=6784857050"
+ },
+ {
+  "id": "am1857748102",
+  "deezer": null,
+  "apple": "1857748102",
+  "isrc": "CBCXA2300006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/8c/9a/3d8c9a1a-9cd7-f264-5fef-18b8ae05185b/mzaf_6913944748681313898.plus.aac.p.m4a",
+  "title": "La saison des pêches",
+  "artist": "Sara et Rebecca",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/41/eb/7341eb5e-4631-a48e-5df3-f3cf6aba9104/10417.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-saison-des-p%C3%AAches/1857748098?i=1857748102"
+ },
+ {
+  "id": 2695136742,
+  "deezer": 2695136742,
+  "apple": "1734995735",
+  "isrc": "CBCXA2300004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/de/37/a1/de37a1f4-db03-2d75-29e1-0c77c5d7a014/mzaf_106090499028095289.plus.aac.p.m4a",
+  "title": "Vague de froid",
+  "artist": "Sara et Rebecca",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/e3/e7/3ee3e732-dd1f-a494-2219-c2aa319df7c8/5733.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/vague-de-froid/1734995726?i=1734995735"
+ },
+ {
+  "id": 2695136752,
+  "deezer": 2695136752,
+  "apple": "1734995739",
+  "isrc": "CBCXA2300005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ea/54/95/ea54958a-e9a3-9884-ffd9-7ce01c304739/mzaf_6868657253836281190.plus.aac.p.m4a",
+  "title": "Burnout",
+  "artist": "Sara et Rebecca",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/e3/e7/3ee3e732-dd1f-a494-2219-c2aa319df7c8/5733.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/burnout/1734995726?i=1734995739"
+ },
+ {
+  "id": 1083643942,
+  "deezer": 1083643942,
+  "apple": "1532277121",
+  "isrc": "CAL541819601",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/dd/e0/9edde087-3acb-3e2d-51e2-de7f8073a403/mzaf_4043003005776454744.plus.aac.p.m4a",
+  "title": "Corinne",
+  "artist": "Les Trois Accords",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/a6/b8/74a6b860-4010-aa48-7fe9-c5075040a46d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/corinne/1532277119?i=1532277121"
+ },
+ {
+  "id": 1830906947,
+  "deezer": 1830906947,
+  "apple": "1635363602",
+  "isrc": "CAL542223201",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/e7/cd/05e7cd5c-e1e8-c7fd-8f8d-15bfdf30c540/mzaf_13588662545248144794.plus.aac.p.m4a",
+  "title": "Piscine hors terre",
+  "artist": "Les Trois Accords",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1c/6a/b8/1c6ab86f-a325-e151-de7e-1ba7bf62c5c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/piscine-hors-terre/1635363592?i=1635363602"
+ },
+ {
+  "id": 3917251121,
+  "deezer": 3917251121,
+  "apple": "6765669732",
+  "isrc": "CAWK82600313",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/8c/fd/fc8cfd01-e84c-e34d-9c7c-f1f9ba345ee8/mzaf_13324259859703885605.plus.aac.p.m4a",
+  "title": "P'us d'planète",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pus-dplan%C3%A8te/1896030895?i=6765669732"
+ },
+ {
+  "id": 3996586431,
+  "deezer": 3996586431,
+  "apple": "6765669730",
+  "isrc": "CAWK82600312",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/0b/f9/1c0bf9a6-a1bd-de1f-ef1e-98369ff13d25/mzaf_14245472225963452168.plus.aac.p.m4a",
+  "title": "Pas sorti du bois",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pas-sorti-du-bois/1896030895?i=6765669730"
+ },
+ {
+  "id": 3996586421,
+  "deezer": 3996586421,
+  "apple": "6765669729",
+  "isrc": "CAWK82600311",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/f8/80/59f880c3-1d1c-6b8f-a268-da393ce40e4b/mzaf_414910609122679828.plus.aac.p.m4a",
+  "title": "Trop vieux pour vieillir",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/trop-vieux-pour-vieillir/1896030895?i=6765669729"
+ },
+ {
+  "id": 3996586411,
+  "deezer": 3996586411,
+  "apple": "6765669728",
+  "isrc": "CAWK82600310",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/17/fe/d617feae-55f3-e83d-1543-7ce47c3e7e72/mzaf_2731535008607635311.plus.aac.p.m4a",
+  "title": "La ferme du moindre effort",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-ferme-du-moindre-effort/1896030895?i=6765669728"
+ },
+ {
+  "id": 3996586401,
+  "deezer": 3996586401,
+  "apple": "6765669727",
+  "isrc": "CAWK82600309",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/9e/72/af9e7264-60c3-df28-d36b-bd82088b8f10/mzaf_3274820409222577908.plus.aac.p.m4a",
+  "title": "C'tait une fois un gars comprends-tu",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ctait-une-fois-un-gars-comprends-tu/1896030895?i=6765669727"
+ },
+ {
+  "id": 3996586391,
+  "deezer": 3996586391,
+  "apple": "6765669543",
+  "isrc": "CAWK82600308",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/9c/06/4c9c065c-e906-0a3d-9144-47478936d4ea/mzaf_2360664518962249265.plus.aac.p.m4a",
+  "title": "Babounas",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/babounas/1896030895?i=6765669543"
+ },
+ {
+  "id": 3996586381,
+  "deezer": 3996586381,
+  "apple": "6765669541",
+  "isrc": "CAWK82600307",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/07/50/14075087-627b-463b-e63f-63d074a6243a/mzaf_8360688527497935444.plus.aac.p.m4a",
+  "title": "Le brasseux d'vaisselle",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-brasseux-dvaisselle/1896030895?i=6765669541"
+ },
+ {
+  "id": 3996586371,
+  "deezer": 3996586371,
+  "apple": "6765669536",
+  "isrc": "CAWK82600306",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/b5/aa/79b5aab5-6670-be94-1a9e-6569ff77d69d/mzaf_14380626075072116540.plus.aac.p.m4a",
+  "title": "J'te watch",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jte-watch/1896030895?i=6765669536"
+ },
+ {
+  "id": 3996586361,
+  "deezer": 3996586361,
+  "apple": "6765669533",
+  "isrc": "CAWK82600315",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/df/4f/64df4f8f-62f5-c58b-b11e-ca8430214280/mzaf_2333427891143909649.plus.aac.p.m4a",
+  "title": "J'te trippe dessus",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jte-trippe-dessus/1896030895?i=6765669533"
+ },
+ {
+  "id": 3996586351,
+  "deezer": 3996586351,
+  "apple": "6765669530",
+  "isrc": "CAWK82600304",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/55/5e/1e555eca-1dfa-6a45-b297-c4f1fc79b766/mzaf_3284888483231982602.plus.aac.p.m4a",
+  "title": "Les beaux dimanches",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-beaux-dimanches/1896030895?i=6765669530"
+ },
+ {
+  "id": 3996586341,
+  "deezer": 3996586341,
+  "apple": "6765669527",
+  "isrc": "CAWK82600303",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/84/6f/66846fc7-1671-e928-7db3-a06bd271e0bf/mzaf_5102469412632341003.plus.aac.p.m4a",
+  "title": "J'chiale su'es chialeux",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jchiale-sues-chialeux/1896030895?i=6765669527"
+ },
+ {
+  "id": 128234305,
+  "deezer": 128234305,
+  "apple": "1551611357",
+  "isrc": "CAA500907706",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/63/4e/68/634e68a5-f69c-b308-5ec3-9642c1d06ff5/mzaf_14252151642079994456.plus.aac.p.m4a",
+  "title": "Tout seul",
+  "artist": "Les Colocs",
+  "year": 1998,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9e/c2/6c/9ec26cea-aad2-5679-ed0b-a9742ed01e4b/190374951197.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tout-seul/1551611108?i=1551611357"
+ },
+ {
+  "id": 93081572,
+  "deezer": 93081572,
+  "apple": "1238762311",
+  "isrc": "CAD431493508",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/24/e0/c424e0a5-010b-d4a6-31ad-5b8830c901a2/mzaf_18290431285830747726.plus.aac.p.m4a",
+  "title": "Retour à la maison",
+  "artist": "Jean Leloup",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/00/c2/08/00c208db-633a-ba22-1814-cf5a71aaa023/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/retour-%C3%A0-la-maison/1238762299?i=1238762311"
+ },
+ {
+  "id": 93081560,
+  "deezer": 93081560,
+  "apple": "1238762302",
+  "isrc": "CAD431493502",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/bd/35/adbd3547-68bf-8c72-78f4-7a2adcb0ee50/mzaf_16348494046038765709.plus.aac.p.m4a",
+  "title": "Les flamants roses",
+  "artist": "Jean Leloup",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/00/c2/08/00c208db-633a-ba22-1814-cf5a71aaa023/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-flamants-roses/1238762299?i=1238762302"
+ },
+ {
+  "id": 93081558,
+  "deezer": 93081558,
+  "apple": "1238762300",
+  "isrc": "CAD431493501",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/bb/87/b7bb8714-90f5-aedc-5e10-1c14546e3fc6/mzaf_2334896062883453416.plus.aac.p.m4a",
+  "title": "Willie",
+  "artist": "Jean Leloup",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/00/c2/08/00c208db-633a-ba22-1814-cf5a71aaa023/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/willie/1238762299?i=1238762300"
+ },
+ {
+  "id": 617423202,
+  "deezer": 617423202,
+  "apple": "1443505682",
+  "isrc": "CAU160300280",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/53/d7/90/53d79030-d99e-ea1e-490a-075495beccaa/mzaf_1685679990136569716.plus.aac.p.m4a",
+  "title": "De la Chambre Au Salon",
+  "artist": "Harmonium",
+  "year": 1974,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/e3/1a/f0e31a43-aaf4-b72c-1853-2ce02ef1960e/00042283399129.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/de-la-chambre-au-salon/1443504921?i=1443505682"
+ },
+ {
+  "id": 617423182,
+  "deezer": 617423182,
+  "apple": "1443505667",
+  "isrc": "CAU160300278",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/ea/3b/bdea3b5d-d86a-8e2f-255c-288e1186fa95/mzaf_6633131598017646010.plus.aac.p.m4a",
+  "title": "Attends Moi",
+  "artist": "Harmonium",
+  "year": 1974,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/e3/1a/f0e31a43-aaf4-b72c-1853-2ce02ef1960e/00042283399129.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/attends-moi/1443504921?i=1443505667"
+ },
+ {
+  "id": 617423162,
+  "deezer": 617423162,
+  "apple": "1443504937",
+  "isrc": "CAU160300285",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/24/c4/d424c4f1-34fc-8c10-5319-4a34b3d6f3d5/mzaf_15866520693288028174.plus.aac.p.m4a",
+  "title": "Vieilles Courroies",
+  "artist": "Harmonium",
+  "year": 1974,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/e3/1a/f0e31a43-aaf4-b72c-1853-2ce02ef1960e/00042283399129.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/vieilles-courroies/1443504921?i=1443504937"
+ },
+ {
+  "id": 617423152,
+  "deezer": 617423152,
+  "apple": "1443504933",
+  "isrc": "CAU160300279",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/c8/a9/5dc8a94d-d91c-4867-d351-61b29d9b480f/mzaf_3908878119077159030.plus.aac.p.m4a",
+  "title": "Aujourd Hui Je Dis Bonjour a la Vie",
+  "artist": "Harmonium",
+  "year": 1974,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/e3/1a/f0e31a43-aaf4-b72c-1853-2ce02ef1960e/00042283399129.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/aujourd-hui-je-dis-bonjour-a-la-vie/1443504921?i=1443504933"
+ },
+ {
+  "id": 3870011031,
+  "deezer": 3870011031,
+  "apple": "1880482945",
+  "isrc": "CAA501027012",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/51/f7/f751f72b-a658-08f9-b5f4-9312b0917f29/mzaf_50049435526404588.plus.aac.p.m4a",
+  "title": "Le vrai bonheur",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/6a/27/786a2722-1b36-8a8d-fe05-13ce3b03bdb5/199806778340.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-vrai-bonheur/1880482620?i=1880482945"
+ },
+ {
+  "id": 3870011021,
+  "deezer": 3870011021,
+  "apple": "1880482943",
+  "isrc": "CAA501027011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/74/6c/e5746cf4-608a-675a-a84b-4e090760457c/mzaf_16042082125685057810.plus.aac.p.m4a",
+  "title": "28 jours",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/6a/27/786a2722-1b36-8a8d-fe05-13ce3b03bdb5/199806778340.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/28-jours/1880482620?i=1880482943"
+ },
+ {
+  "id": 3870011001,
+  "deezer": 3870011001,
+  "apple": "1880482936",
+  "isrc": "CAA501027009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/1b/f8/1d1bf836-7bd7-66f1-8986-5ab7a4e2dacb/mzaf_6559686252780492024.plus.aac.p.m4a",
+  "title": "Les enfants de Beyrouth",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/6a/27/786a2722-1b36-8a8d-fe05-13ce3b03bdb5/199806778340.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-enfants-de-beyrouth/1880482620?i=1880482936"
+ },
+ {
+  "id": 3870010991,
+  "deezer": 3870010991,
+  "apple": "1880482934",
+  "isrc": "CAA501027008",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/8a/7a/6d8a7af7-82f0-c952-d31f-53f1a0cb9b02/mzaf_12967837977574182800.plus.aac.p.m4a",
+  "title": "La piqûre",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/6a/27/786a2722-1b36-8a8d-fe05-13ce3b03bdb5/199806778340.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-piq%C3%BBre/1880482620?i=1880482934"
+ },
+ {
+  "id": 3870010971,
+  "deezer": 3870010971,
+  "apple": "1880482862",
+  "isrc": "CAA501027006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/b5/b5/85b5b509-6dc5-d481-44df-e6f7841d098e/mzaf_1239593119301192212.plus.aac.p.m4a",
+  "title": "Les chemins de verre",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/6a/27/786a2722-1b36-8a8d-fe05-13ce3b03bdb5/199806778340.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-chemins-de-verre/1880482620?i=1880482862"
+ },
+ {
+  "id": 3870010931,
+  "deezer": 3870010931,
+  "apple": "1880482841",
+  "isrc": "CAA501027002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/4a/b1/894ab141-6bb5-631e-eaaa-01cc3390da77/mzaf_12944293729685078487.plus.aac.p.m4a",
+  "title": "L'acouphène",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/6a/27/786a2722-1b36-8a8d-fe05-13ce3b03bdb5/199806778340.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lacouph%C3%A8ne/1880482620?i=1880482841"
+ },
+ {
+  "id": 3870010921,
+  "deezer": 3870010921,
+  "apple": "1880482622",
+  "isrc": "CAA501027001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/d2/5f/1ed25f7c-f90f-dd11-9875-841a50e38b62/mzaf_4419048360656837371.plus.aac.p.m4a",
+  "title": "Le pyromane",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/6a/27/786a2722-1b36-8a8d-fe05-13ce3b03bdb5/199806778340.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-pyromane/1880482620?i=1880482622"
+ },
+ {
+  "id": 541811932,
+  "deezer": 541811932,
+  "apple": "1427661387",
+  "isrc": "CAH681800045",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/a2/27/c6a2277e-189a-9dbd-4c32-e8c38f62d17f/mzaf_16578147116149104554.plus.aac.p.m4a",
+  "title": "Bref",
+  "artist": "Koriass",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/65/03/7a/65037abd-6886-1ee2-247e-3016049a64c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bref/1427660654?i=1427661387"
+ },
+ {
+  "id": 541811922,
+  "deezer": 541811922,
+  "apple": "1427661386",
+  "isrc": "CAH681800044",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/d8/11/16d811b1-b606-99eb-3632-2391790bde41/mzaf_6556480271073996474.plus.aac.p.m4a",
+  "title": "Cause perdue",
+  "artist": "Koriass",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/65/03/7a/65037abd-6886-1ee2-247e-3016049a64c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cause-perdue/1427660654?i=1427661386"
+ },
+ {
+  "id": 541811912,
+  "deezer": 541811912,
+  "apple": "1427661382",
+  "isrc": "CAH681800043",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/6e/f3/4b6ef3c0-b0c4-cb69-409e-e23de601e236/mzaf_15174132444292545991.plus.aac.p.m4a",
+  "title": "Tout donné",
+  "artist": "Koriass",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/65/03/7a/65037abd-6886-1ee2-247e-3016049a64c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tout-donn%C3%A9/1427660654?i=1427661382"
+ },
+ {
+  "id": 541811892,
+  "deezer": 541811892,
+  "apple": "1427661378",
+  "isrc": "CAH681800041",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/11/5e/31115e45-1ff1-5572-b009-cfd540dd6a1f/mzaf_568584080470275083.plus.aac.p.m4a",
+  "title": "Alerte amber",
+  "artist": "Koriass",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/65/03/7a/65037abd-6886-1ee2-247e-3016049a64c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/alerte-amber/1427660654?i=1427661378"
+ },
+ {
+  "id": 541811882,
+  "deezer": 541811882,
+  "apple": "1427661377",
+  "isrc": "CAH681800040",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/bd/30/0ebd30a1-7af8-8df1-2514-81a230da1b75/mzaf_11378863758697905621.plus.aac.p.m4a",
+  "title": "Lait de chèvre",
+  "artist": "Koriass",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/65/03/7a/65037abd-6886-1ee2-247e-3016049a64c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lait-de-ch%C3%A8vre-feat-fouki/1427660654?i=1427661377"
+ },
+ {
+  "id": 541811872,
+  "deezer": 541811872,
+  "apple": "1427661279",
+  "isrc": "CAH681800039",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/e4/28/3ae42893-dd08-b9c8-3140-0225c6a87496/mzaf_7687392850863344090.plus.aac.p.m4a",
+  "title": "Ennemis",
+  "artist": "Koriass",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/65/03/7a/65037abd-6886-1ee2-247e-3016049a64c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ennemis/1427660654?i=1427661279"
+ },
+ {
+  "id": 497886742,
+  "deezer": 497886742,
+  "apple": "1427660673",
+  "isrc": "CAH681800024",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/25/8c/87258c91-1952-6110-87bf-9fd3e06fb332/mzaf_4032748566348630334.plus.aac.p.m4a",
+  "title": "Éléphant",
+  "artist": "Koriass",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/65/03/7a/65037abd-6886-1ee2-247e-3016049a64c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/%C3%A9l%C3%A9phant/1427660654?i=1427660673"
+ },
+ {
+  "id": 541811822,
+  "deezer": 541811822,
+  "apple": "1427660669",
+  "isrc": "CAH681800035",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/92/9f/ed929f6d-1352-24a0-c211-8e1d803b3ba0/mzaf_18287973734441198293.plus.aac.p.m4a",
+  "title": "J-3000",
+  "artist": "Koriass",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/65/03/7a/65037abd-6886-1ee2-247e-3016049a64c2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/j-3000/1427660654?i=1427660669"
+ },
+ {
+  "id": "am1551592469",
+  "deezer": null,
+  "apple": "1551592469",
+  "isrc": "CAA503231203",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/1a/67/fa/1a67fa8c-0e66-ddfc-7ce6-e7e5fe2e3fc0/mzaf_8409408082193319564.plus.aac.p.m4a",
+  "title": "Heureux d'1 printemps (version Loco Locass)",
+  "artist": "Paul Piché",
+  "year": 2012,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/45/76/93457637-6f39-504b-c57f-7af727d62ed2/190374951708.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/heureux-d1-printemps-version-loco-locass/1551591451?i=1551592469"
+ },
+ {
+  "id": "am1551592298",
+  "deezer": null,
+  "apple": "1551592298",
+  "isrc": "CAA509001709",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/00/68/cc/0068cce4-7b0e-d009-c3e7-002926e8bbd3/mzaf_2013748405494349218.plus.aac.p.m4a",
+  "title": "Chu pas mal parti",
+  "artist": "Paul Piché",
+  "year": 1977,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/45/76/93457637-6f39-504b-c57f-7af727d62ed2/190374951708.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/chu-pas-mal-parti/1551591451?i=1551592298"
+ },
+ {
+  "id": "am1551592073",
+  "deezer": null,
+  "apple": "1551592073",
+  "isrc": "CAA509001707",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/7f/fd/c3/7ffdc316-5ade-357c-857e-8ff02c948e0a/mzaf_2303922243168003771.plus.aac.p.m4a",
+  "title": "Jean-Guy Léger",
+  "artist": "Paul Piché",
+  "year": 1977,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/45/76/93457637-6f39-504b-c57f-7af727d62ed2/190374951708.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jean-guy-l%C3%A9ger/1551591451?i=1551592073"
+ },
+ {
+  "id": 3818431341,
+  "deezer": 3818431341,
+  "apple": "6765669523",
+  "isrc": "CAWK82600302",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/97/59/d3975986-2301-bbe0-5ea3-098b7dac43e8/mzaf_8178294274259450446.plus.aac.p.m4a",
+  "title": "Tu seul",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tu-seul/1896030895?i=6765669523"
+ },
+ {
+  "id": 3996586321,
+  "deezer": 3996586321,
+  "apple": "6765669516",
+  "isrc": "CAWK82600301",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/cd/71/90cd71b1-4024-18ce-9f97-9ad2bbc0ceec/mzaf_872122359756292568.plus.aac.p.m4a",
+  "title": "Faut c'qui folk",
+  "artist": "Québec Redneck Bluegrass Project",
+  "year": 2026,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/5f/4b/595f4bc5-0b77-dedc-a582-5d302c4dd8a0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/faut-cqui-folk/1896030895?i=6765669516"
+ },
+ {
+  "id": 1912895097,
+  "deezer": 1912895097,
+  "apple": "1645079774",
+  "isrc": "CAL542223208",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/92/5b/dd925b22-7184-4e0d-3f29-45bfeac4c1d3/mzaf_1698547410893280775.plus.aac.p.m4a",
+  "title": "Vedette pop",
+  "artist": "Les Trois Accords",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/a2/68/00a268a9-32cc-7c1f-721b-9acb68c966ed/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/vedette-pop/1645078899?i=1645079774"
+ },
+ {
+  "id": 3629522842,
+  "deezer": 3629522842,
+  "apple": "1849697504",
+  "isrc": "CAA500619605",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/7d/f0/9f7df09a-3983-2fa1-bd9f-5f98cf441e55/mzaf_340548547821959679.plus.aac.p.m4a",
+  "title": "Qu'en est-il de la chance?",
+  "artist": "Pierre Lapointe",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/a0/ae/fda0ae5d-1d83-7412-7c4b-1e9bc54350a6/199806281611.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/quen-est-il-de-la-chance/1849697162?i=1849697504"
+ },
+ {
+  "id": 112426118,
+  "deezer": 112426118,
+  "apple": "1057645372",
+  "isrc": "CAL541517104",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/aa/95/76aa95ab-3360-ee41-c59c-b11cac49630d/mzaf_248743757822298800.plus.aac.p.m4a",
+  "title": "Les dauphins et les licornes",
+  "artist": "Les Trois Accords",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/98/00/51/980051a9-e30e-b0a9-592d-883d5eb3274c/mzm.opxhiroi.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-dauphins-et-les-licornes/1057645365?i=1057645372"
+ },
+ {
+  "id": 109374038,
+  "deezer": 109374038,
+  "apple": "1048261675",
+  "isrc": "CAL540102102",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/cb/57/31cb5716-237c-a375-f875-8d6a2c3e6474/mzaf_10119667323372693638.plus.aac.p.m4a",
+  "title": "La tête à Papineau",
+  "artist": "Les Cowboys Fringants",
+  "year": 2002,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/74/2e/e2/742ee285-01c2-bfa6-6795-58ad6d598f9d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-t%C3%AAte-%C3%A0-papineau/1048261666?i=1048261675"
+ },
+ {
+  "id": 109374182,
+  "deezer": 109374182,
+  "apple": "1048262285",
+  "isrc": "CAL540810212",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/6c/ff/7f6cffea-bd69-29e9-b316-5fc24696d8ff/mzaf_18169779833828425338.plus.aac.p.m4a",
+  "title": "La bonne pomme",
+  "artist": "Les Cowboys Fringants",
+  "year": 2008,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/f3/d4/a8f3d464-c205-99b3-18aa-ff9e6fb35a4b/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-bonne-pomme/1048262106?i=1048262285"
+ },
+ {
+  "id": 109523438,
+  "deezer": 109523438,
+  "apple": "1048236650",
+  "isrc": "CAL541517002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/3d/fd/373dfd84-2db2-3d5e-bf18-4ea1ef900de9/mzaf_11589321185737203478.plus.aac.p.m4a",
+  "title": "Octobre",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/octobre/1048236643?i=1048236650"
+ },
+ {
+  "id": 1082531102,
+  "deezer": 1082531102,
+  "apple": "1532142121",
+  "isrc": "CAL541920507",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/27/c4/0627c482-20a4-a615-be15-33d40d9635e6/mzaf_11570413001455498653.plus.aac.p.m4a",
+  "title": "La traversée (de l'Atlantique en 1774)",
+  "artist": "Les Cowboys Fringants",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/4d/f3/624df342-6037-d0bf-462e-0b888415a9d7/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-travers%C3%A9e-de-latlantique-en-1774/1532141697?i=1532142121"
+ },
+ {
+  "id": 1082531092,
+  "deezer": 1082531092,
+  "apple": "1532142115",
+  "isrc": "CAL541920506",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/a4/21/73a421ee-4e9e-5a17-9308-798b481a9422/mzaf_12327503257261784848.plus.aac.p.m4a",
+  "title": "Mononc' André",
+  "artist": "Les Cowboys Fringants",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/4d/f3/624df342-6037-d0bf-462e-0b888415a9d7/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mononc-andr%C3%A9/1532141697?i=1532142115"
+ },
+ {
+  "id": 3958273941,
+  "deezer": 3958273941,
+  "apple": "1891781819",
+  "isrc": "CBDNQ2600007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/52/3a/f4523a84-f852-8b90-6f1b-a7d27cbe7a81/mzaf_15422772067272523908.plus.aac.p.m4a",
+  "title": "Voz de mi vida",
+  "artist": "Luan Larobina",
+  "year": 2026,
+  "genre": "Chanson",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/86/c5/5886c528-30c4-78a6-fc91-3535ac358c2b/dj.cwkmltta.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/voz-de-mi-vida/1891781816?i=1891781819"
+ },
+ {
+  "id": 3629522902,
+  "deezer": 3629522902,
+  "apple": "1849697512",
+  "isrc": "CAA500619609",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/f8/90/d7f89038-1954-21b3-bdaa-e707a5f65724/mzaf_10180234124504566625.plus.aac.p.m4a",
+  "title": "Nous n'irons pas",
+  "artist": "Pierre Lapointe",
+  "year": 2006,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/a0/ae/fda0ae5d-1d83-7412-7c4b-1e9bc54350a6/199806281611.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/nous-nirons-pas/1849697162?i=1849697512"
+ },
+ {
+  "id": 1480799942,
+  "deezer": 1480799942,
+  "apple": "1583864633",
+  "isrc": "CAD432101005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5b/33/a3/5b33a33b-268e-b95b-df64-37f3b3f01e5f/mzaf_17920324109029468676.plus.aac.p.m4a",
+  "title": "Le corps en mouvement",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/0e/01/110e01bf-5bdf-4afe-08be-141b0c700524/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-corps-en-mouvement/1583864283?i=1583864633"
+ },
+ {
+  "id": 93081576,
+  "deezer": 93081576,
+  "apple": "1238762316",
+  "isrc": "CAD431493510",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/94/fa/4394fa25-8235-1cd6-3137-b173a0acb833/mzaf_9960107996364526526.plus.aac.p.m4a",
+  "title": "Zone zéro",
+  "artist": "Jean Leloup",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/00/c2/08/00c208db-633a-ba22-1814-cf5a71aaa023/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/zone-z%C3%A9ro/1238762299?i=1238762316"
+ },
+ {
+  "id": 109523462,
+  "deezer": 109523462,
+  "apple": "1048238560",
+  "isrc": "CAL541517013",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/be/e6/f5bee6c7-641c-f8ef-c9db-6f670579a1a4/mzaf_13713345594086923884.plus.aac.p.m4a",
+  "title": "Louis Hébert",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/louis-h%C3%A9bert/1048236643?i=1048238560"
+ },
+ {
+  "id": 856732922,
+  "deezer": 856732922,
+  "apple": "1495694780",
+  "isrc": "CAD431998208",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/1c/e0/e61ce01b-a869-d8ac-31aa-9f6ea1ab8601/mzaf_114209405968544059.plus.aac.p.m4a",
+  "title": "Tête vide",
+  "artist": "Gab Bouchard",
+  "year": 2020,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0a/d7/b1/0ad7b1cb-5ab0-afea-9c17-019c7e1347cb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/t%C3%AAte-vide/1495694279?i=1495694780"
+ },
+ {
+  "id": 1638406302,
+  "deezer": 1638406302,
+  "apple": "1607569846",
+  "isrc": "CAFWG2100024",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/a2/97/efa29770-a8dd-2d09-c95c-01454de1503b/mzaf_16250880387818437285.plus.aac.p.m4a",
+  "title": "Depuis",
+  "artist": "Lydia Képinski",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/depuis/1607569840?i=1607569846"
+ },
+ {
+  "id": 107433912,
+  "deezer": 107433912,
+  "apple": "1038981792",
+  "isrc": "CAU111556989",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/1c/91/361c91f8-5460-eff1-ddc1-ab9c41be1abd/mzaf_13817634665785066670.plus.aac.p.m4a",
+  "title": "La belle et l'Anglais",
+  "artist": "Okoumé",
+  "year": 1997,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f9/9d/c1f99de3-7df3-1e44-e4ce-aadf11e08155/00_MACD-5821.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-belle-et-langlais/1038980842?i=1038981792"
+ },
+ {
+  "id": 107433910,
+  "deezer": 107433910,
+  "apple": "1038981791",
+  "isrc": "CAU111556988",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/60/d0/d660d020-50a5-e90d-acab-9e0988314bd1/mzaf_11701967891844456374.plus.aac.p.m4a",
+  "title": "Reste",
+  "artist": "Okoumé",
+  "year": 1997,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f9/9d/c1f99de3-7df3-1e44-e4ce-aadf11e08155/00_MACD-5821.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/reste/1038980842?i=1038981791"
+ },
+ {
+  "id": 107433908,
+  "deezer": 107433908,
+  "apple": "1038981790",
+  "isrc": "CAU111556987",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/5d/51/7d5d5193-672e-7f8e-3b38-d81d22eaa3fa/mzaf_17407536120491166326.plus.aac.p.m4a",
+  "title": "Mr. Bigshot",
+  "artist": "Okoumé",
+  "year": 1997,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f9/9d/c1f99de3-7df3-1e44-e4ce-aadf11e08155/00_MACD-5821.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mr-bigshot/1038980842?i=1038981790"
+ },
+ {
+  "id": 107433902,
+  "deezer": 107433902,
+  "apple": "1038981787",
+  "isrc": "CAU111556984",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/ba/3b/e2ba3bf0-505d-df7a-0a50-78a0d220bc12/mzaf_1299470239205521576.plus.aac.p.m4a",
+  "title": "La lune pleure",
+  "artist": "Okoumé",
+  "year": 1997,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f9/9d/c1f99de3-7df3-1e44-e4ce-aadf11e08155/00_MACD-5821.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-lune-pleure/1038980842?i=1038981787"
+ },
+ {
+  "id": 107433898,
+  "deezer": 107433898,
+  "apple": "1038981785",
+  "isrc": "CAU111556982",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/03/42/8203423d-83c4-3262-52fd-92263e5370d8/mzaf_666974385938762711.plus.aac.p.m4a",
+  "title": "À l'enfant que j'aurai",
+  "artist": "Okoumé",
+  "year": 1997,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f9/9d/c1f99de3-7df3-1e44-e4ce-aadf11e08155/00_MACD-5821.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/%C3%A0-lenfant-que-jaurai/1038980842?i=1038981785"
+ },
+ {
+  "id": 107433896,
+  "deezer": 107433896,
+  "apple": "1038980854",
+  "isrc": "CAU111556981",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/2b/56/572b5627-3a73-eaf8-345a-114ba7f53f9c/mzaf_8084244681902524125.plus.aac.p.m4a",
+  "title": "Dis-moi pas ça",
+  "artist": "Okoumé",
+  "year": 1997,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f9/9d/c1f99de3-7df3-1e44-e4ce-aadf11e08155/00_MACD-5821.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/dis-moi-pas-%C3%A7a/1038980842?i=1038980854"
+ },
+ {
+  "id": 107433894,
+  "deezer": 107433894,
+  "apple": "1038980853",
+  "isrc": "CAU111556980",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/5a/d3/fa5ad3c2-1de3-a5d0-d68b-1dedb1443789/mzaf_14926490227003088335.plus.aac.p.m4a",
+  "title": "Le bruit des origines",
+  "artist": "Okoumé",
+  "year": 1997,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f9/9d/c1f99de3-7df3-1e44-e4ce-aadf11e08155/00_MACD-5821.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-bruit-des-origines/1038980842?i=1038980853"
+ },
+ {
+  "id": 3168115611,
+  "deezer": 3168115611,
+  "apple": "1394711181",
+  "isrc": "CAZ841800052",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/1b/8a/4c1b8a8e-fd9f-fba8-ff5c-8fdbc6315d6d/mzaf_8706360500090117095.plus.aac.p.m4a",
+  "title": "Westcott",
+  "artist": "Les Louanges",
+  "year": 2018,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/3e/2c/163e2c7d-7808-7073-1d8a-936999ba6582/172.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/westcott/1394710085?i=1394711181"
+ },
+ {
+  "id": 3168115551,
+  "deezer": 3168115551,
+  "apple": "1394710692",
+  "isrc": "CAZ841800045",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/06/95/d90695ae-75d6-fb0f-e405-7f73281515ae/mzaf_16941280966080418442.plus.aac.p.m4a",
+  "title": "Pâle",
+  "artist": "Les Louanges",
+  "year": 2018,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/3e/2c/163e2c7d-7808-7073-1d8a-936999ba6582/172.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/p%C3%A2le/1394710085?i=1394710692"
+ },
+ {
+  "id": 124233790,
+  "deezer": 124233790,
+  "apple": "1111346418",
+  "isrc": "CAL541617409",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/c2/71/8bc271e3-ca3e-8328-6e7d-d49a5a201486/mzaf_5361986216016622994.plus.aac.p.m4a",
+  "title": "La lune",
+  "artist": "Les Trois Accords",
+  "year": 2009,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/b5/55/14/b555140b-5c45-8ba8-3aa6-bd4dacee8939/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-lune/1111346204?i=1111346418"
+ },
+ {
+  "id": 124233788,
+  "deezer": 124233788,
+  "apple": "1111346415",
+  "isrc": "CAL541617408",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/14/09/af1409e4-231f-98bf-b98c-9e01dd376471/mzaf_11181739748632722904.plus.aac.p.m4a",
+  "title": "Pas capable d'arrêter",
+  "artist": "Les Trois Accords",
+  "year": 2009,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/b5/55/14/b555140b-5c45-8ba8-3aa6-bd4dacee8939/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pas-capable-darr%C3%AAter/1111346204?i=1111346415"
+ },
+ {
+  "id": 1533043462,
+  "deezer": 1533043462,
+  "apple": "1592184193",
+  "isrc": "CAWK82100113",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/99/db/8b99dbe4-9e7d-4908-e4fe-297b070b628a/mzaf_13497643781095342839.plus.aac.p.m4a",
+  "title": "Dull",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/dull/1592183291?i=1592184193"
+ },
+ {
+  "id": 1533043452,
+  "deezer": 1533043452,
+  "apple": "1592184033",
+  "isrc": "CAWK82100112",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/3f/bd/863fbded-2069-2e71-d31d-70f045bf0959/mzaf_12722215249545324195.plus.aac.p.m4a",
+  "title": "Cave à vin",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cave-%C3%A0-vin/1592183291?i=1592184033"
+ },
+ {
+  "id": 1533043432,
+  "deezer": 1533043432,
+  "apple": "1592184015",
+  "isrc": "CAWK82100110",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/22/5f/29225f67-85ab-b9cf-2bd9-dbaeb5bc1653/mzaf_10359637003332940330.plus.aac.p.m4a",
+  "title": "Montagne",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/montagne/1592183291?i=1592184015"
+ },
+ {
+  "id": 1533043412,
+  "deezer": 1533043412,
+  "apple": "1592183698",
+  "isrc": "CAWK82100109",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/e5/67/6ee567ec-ede6-a633-4378-2d1a812bb8e6/mzaf_16922192202125704867.plus.aac.p.m4a",
+  "title": "La grasse après-midi",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-grasse-apr%C3%A8s-midi/1592183291?i=1592183698"
+ },
+ {
+  "id": 1533043402,
+  "deezer": 1533043402,
+  "apple": "1592183687",
+  "isrc": "CAWK82100108",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/9f/54/799f5431-82fa-5b1c-30c4-be2351849bdd/mzaf_15083100645160752478.plus.aac.p.m4a",
+  "title": "J'cours après d'quoi",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jcours-apr%C3%A8s-dquoi/1592183291?i=1592183687"
+ },
+ {
+  "id": 1533043392,
+  "deezer": 1533043392,
+  "apple": "1592183682",
+  "isrc": "CAWK82100107",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/b2/30/6db23045-be85-0b23-c9de-39de06031276/mzaf_1796880066326999896.plus.aac.p.m4a",
+  "title": "T'en as tout c'qu'y faut",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ten-as-tout-cquy-faut/1592183291?i=1592183682"
+ },
+ {
+  "id": 1533043382,
+  "deezer": 1533043382,
+  "apple": "1592183679",
+  "isrc": "CAWK82100106",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/45/9d/78459d33-55de-f198-32be-7e9db2923731/mzaf_4096458509543834256.plus.aac.p.m4a",
+  "title": "Révolution agricole",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/r%C3%A9volution-agricole/1592183291?i=1592183679"
+ },
+ {
+  "id": 1533043372,
+  "deezer": 1533043372,
+  "apple": "1592183487",
+  "isrc": "CAWK82100105",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/2e/d1/032ed16b-acce-2eaa-3b67-bbebabc3476b/mzaf_630400284708430737.plus.aac.p.m4a",
+  "title": "Ma yeule",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ma-yeule/1592183291?i=1592183487"
+ },
+ {
+  "id": 1533043352,
+  "deezer": 1533043352,
+  "apple": "1592183467",
+  "isrc": "CAWK82100103",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/b9/1c/74b91cd2-03e3-9e38-eba4-5beedfc8b0b8/mzaf_9083849915425623267.plus.aac.p.m4a",
+  "title": "Démon",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/d%C3%A9mon/1592183291?i=1592183467"
+ },
+ {
+  "id": 1510291472,
+  "deezer": 1510291472,
+  "apple": "1592183307",
+  "isrc": "CAWK82100102",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/40/75/ca407565-e42b-5fdb-d15d-edd6fd679249/mzaf_2003549829402848710.plus.aac.p.m4a",
+  "title": "Tu sens bon",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tu-sens-bon/1592183291?i=1592183307"
+ },
+ {
+  "id": 1510291342,
+  "deezer": 1510291342,
+  "apple": "1592183304",
+  "isrc": "CAWK82100101",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/91/a4/b091a424-5a89-3ffb-6b10-74dcfe9b01ae/mzaf_8445645590016202031.plus.aac.p.m4a",
+  "title": "Maladie mentale",
+  "artist": "JP \"Le Pad\" Tremblay",
+  "year": 2021,
+  "genre": "Folk & trad",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ef/3b/96ef3b7c-d65b-a4b2-2533-274d373b099f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/maladie-mentale/1592183291?i=1592183304"
+ },
+ {
+  "id": 1033152552,
+  "deezer": 1033152552,
+  "apple": "1525011640",
+  "isrc": "CAF661300132",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/53/6a/7b/536a7b6e-2b40-f2be-88e4-d1f5ab45296e/mzaf_4699450427051121353.plus.aac.p.m4a",
+  "title": "La neige tombe sans se faire mal",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-neige-tombe-sans-se-faire-mal/1525011458?i=1525011640"
+ },
+ {
+  "id": 1033152542,
+  "deezer": 1033152542,
+  "apple": "1525011638",
+  "isrc": "CAF661300131",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e1/b6/8c/e1b68cb3-6802-6885-ab86-ea354ef2dc0b/mzaf_10074974934462323481.plus.aac.p.m4a",
+  "title": "Le tronc",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-tronc/1525011458?i=1525011638"
+ },
+ {
+  "id": 1033152532,
+  "deezer": 1033152532,
+  "apple": "1525011485",
+  "isrc": "CAF661300130",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/88/be/2c/88be2cda-fda5-a1a3-0602-cc69df3f97c8/mzaf_6853936572293910183.plus.aac.p.m4a",
+  "title": "Les mariages d’oiseaux",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-mariages-doiseaux/1525011458?i=1525011485"
+ },
+ {
+  "id": 1033152522,
+  "deezer": 1033152522,
+  "apple": "1525011484",
+  "isrc": "CAF661300129",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/24/7b/40/247b40c9-45ee-a61f-44e3-38d421fdeffa/mzaf_6517626349678510156.plus.aac.p.m4a",
+  "title": "Taxidermie",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/taxidermie/1525011458?i=1525011484"
+ },
+ {
+  "id": 1033152502,
+  "deezer": 1033152502,
+  "apple": "1525011480",
+  "isrc": "CAF661300127",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9b/dd/7f/9bdd7f1a-9927-da3a-41a8-2ce2cb426154/mzaf_7663258691339406985.plus.aac.p.m4a",
+  "title": "Rayon X",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/rayon-x/1525011458?i=1525011480"
+ },
+ {
+  "id": 1033152492,
+  "deezer": 1033152492,
+  "apple": "1525011471",
+  "isrc": "CAF661300126",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/3f/97/983f979a-a56a-d0ff-7de7-2524d9e4f6e6/mzaf_3839156497055350969.plus.aac.p.m4a",
+  "title": "Le soleil incontinent",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-soleil-incontinent/1525011458?i=1525011471"
+ },
+ {
+  "id": 1033152472,
+  "deezer": 1033152472,
+  "apple": "1525011468",
+  "isrc": "CAF661300124",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/10/92/6e1092c7-01d1-ba5b-6777-abc74d082507/mzaf_13695595510953315225.plus.aac.p.m4a",
+  "title": "Tunnel",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tunnel/1525011458?i=1525011468"
+ },
+ {
+  "id": 1033152452,
+  "deezer": 1033152452,
+  "apple": "1525011465",
+  "isrc": "CAF661300122",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5c/1f/54/5c1f54c6-ad34-a647-3453-334a8fb1472b/mzaf_12291411760120295014.plus.aac.p.m4a",
+  "title": "Les corbeaux",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-corbeaux/1525011458?i=1525011465"
+ },
+ {
+  "id": 1033152442,
+  "deezer": 1033152442,
+  "apple": "1525011463",
+  "isrc": "CAF661300121",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/25/ec/1425ec25-9f98-ecb1-8abc-bf1e30795564/mzaf_6883752125594848751.plus.aac.p.m4a",
+  "title": "La fièvre des fleurs",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-fi%C3%A8vre-des-fleurs/1525011458?i=1525011463"
+ },
+ {
+  "id": 1033152432,
+  "deezer": 1033152432,
+  "apple": "1525011460",
+  "isrc": "CAF661300120",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/5e/29/d45e2961-266b-f4b6-c320-51a770e2e8a8/mzaf_12469227974111185044.plus.aac.p.m4a",
+  "title": "Le dermatologue",
+  "artist": "Klô Pelgag",
+  "year": 2013,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/5d/17/e35d1795-0636-acc8-94a3-3251057e43f2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-dermatologue/1525011458?i=1525011460"
+ },
+ {
+  "id": 1238512762,
+  "deezer": 1238512762,
+  "apple": "1552915932",
+  "isrc": "CAD431998510",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/be/a0/9cbea04f-b707-0f0e-f0bb-fc216dd51751/mzaf_12239210760542359717.plus.aac.p.m4a",
+  "title": "Les éléphants",
+  "artist": "Thierry Larose",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6c/ae/05/6cae058a-2e78-0e68-152e-14a24ebbca24/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-%C3%A9l%C3%A9phants/1552915611?i=1552915932"
+ },
+ {
+  "id": 1238512752,
+  "deezer": 1238512752,
+  "apple": "1552915707",
+  "isrc": "CAD431998509",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/b3/95/3bb3955f-b85a-3a03-ced8-caa8834063f4/mzaf_14598178877136516286.plus.aac.p.m4a",
+  "title": "Rachel",
+  "artist": "Thierry Larose",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6c/ae/05/6cae058a-2e78-0e68-152e-14a24ebbca24/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/rachel/1552915611?i=1552915707"
+ },
+ {
+  "id": 1238512732,
+  "deezer": 1238512732,
+  "apple": "1552915701",
+  "isrc": "CAD431998507",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/69/60/b66960e9-6c42-5d3e-69a1-e696513a5a8a/mzaf_3682470786374694.plus.aac.p.m4a",
+  "title": "De la perspective d'un vieil homme",
+  "artist": "Thierry Larose",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6c/ae/05/6cae058a-2e78-0e68-152e-14a24ebbca24/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/de-la-perspective-dun-vieil-homme/1552915611?i=1552915701"
+ },
+ {
+  "id": 3623588322,
+  "deezer": 3623588322,
+  "apple": "1852572470",
+  "isrc": "CAD432505102",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/35/9f/11359f6b-b4e4-1ed1-d492-a87e029f9033/mzaf_12242005562456675292.plus.aac.p.m4a",
+  "title": "2 goélands",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/2-go%C3%A9lands/1852572102?i=1852572470"
+ },
+ {
+  "id": 4156311272,
+  "deezer": 4156311272,
+  "apple": "6791265268",
+  "isrc": "CBDDV2300008",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/98/9c/23989c08-0e0c-e1cd-5c3a-2a6dc968d901/mzaf_11642421100798315051.plus.aac.p.m4a",
+  "title": "Minable",
+  "artist": "Malaimé Soleil",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/6c/29/8d6c295c-bcdd-62c8-c586-fe74ed7bc937/12534.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/minable/6791265252?i=6791265268"
+ },
+ {
+  "id": 4156311262,
+  "deezer": 4156311262,
+  "apple": "6791265264",
+  "isrc": "CBDDV2300007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/f7/ec/f5f7ec89-eb05-c562-bb39-56253828db36/mzaf_4183774995313421479.plus.aac.p.m4a",
+  "title": "Pluie acide",
+  "artist": "Malaimé Soleil",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/6c/29/8d6c295c-bcdd-62c8-c586-fe74ed7bc937/12534.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pluie-acide/6791265252?i=6791265264"
+ },
+ {
+  "id": 4156311252,
+  "deezer": 4156311252,
+  "apple": "6791265261",
+  "isrc": "CBDDV2300006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/13/78/6e137857-ac57-739c-abf3-b7726bd3dbd0/mzaf_1263336264627438192.plus.aac.p.m4a",
+  "title": "Monotonie",
+  "artist": "Malaimé Soleil",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/6c/29/8d6c295c-bcdd-62c8-c586-fe74ed7bc937/12534.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/monotonie/6791265252?i=6791265261"
+ },
+ {
+  "id": 4156311242,
+  "deezer": 4156311242,
+  "apple": "6791265260",
+  "isrc": "CBDDV2300004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/80/7c/a1807c05-54d5-8a89-abb6-08a33d6f65c7/mzaf_8729906480952274762.plus.aac.p.m4a",
+  "title": "Porte-clé",
+  "artist": "Malaimé Soleil",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/6c/29/8d6c295c-bcdd-62c8-c586-fe74ed7bc937/12534.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/porte-cl%C3%A9/6791265252?i=6791265260"
+ },
+ {
+  "id": 4156311232,
+  "deezer": 4156311232,
+  "apple": "6791265259",
+  "isrc": "CBDDV2300003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/79/a1/1979a1dd-17c1-3cef-690b-b93427476242/mzaf_3867155053791938266.plus.aac.p.m4a",
+  "title": "Démons",
+  "artist": "Malaimé Soleil",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/6c/29/8d6c295c-bcdd-62c8-c586-fe74ed7bc937/12534.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/d%C3%A9mons/6791265252?i=6791265259"
+ },
+ {
+  "id": 4156311222,
+  "deezer": 4156311222,
+  "apple": "6791265257",
+  "isrc": "CBDDV2300002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/68/35/3e6835eb-c1aa-aa3a-0798-27044fba717e/mzaf_10737230172752274353.plus.aac.p.m4a",
+  "title": "Mots",
+  "artist": "Malaimé Soleil",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/6c/29/8d6c295c-bcdd-62c8-c586-fe74ed7bc937/12534.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mots/6791265252?i=6791265257"
+ },
+ {
+  "id": 4156311202,
+  "deezer": 4156311202,
+  "apple": "6791265254",
+  "isrc": "CBDDV2300001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/d5/26/07d5261d-f9f9-eeef-a479-9c9c57e9c5b1/mzaf_4200788240066172222.plus.aac.p.m4a",
+  "title": "Pansement",
+  "artist": "Malaimé Soleil",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/6c/29/8d6c295c-bcdd-62c8-c586-fe74ed7bc937/12534.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pansement/6791265252?i=6791265254"
+ },
+ {
+  "id": 3652253632,
+  "deezer": 3652253632,
+  "apple": "1852572489",
+  "isrc": "CAD432505113",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/2c/6c/072c6cd3-f68b-0213-2a50-c648737bd661/mzaf_13028438616909241678.plus.aac.p.m4a",
+  "title": "Et si toi aussi...",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/et-si-toi-aussi/1852572102?i=1852572489"
+ },
+ {
+  "id": 3652253622,
+  "deezer": 3652253622,
+  "apple": "1852572487",
+  "isrc": "CAD432505112",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/a6/c0/68a6c08c-e38a-c7fe-d3f9-63c2f62ca9fe/mzaf_13085890168665929932.plus.aac.p.m4a",
+  "title": "Cast Your Fate",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cast-your-fate/1852572102?i=1852572487"
+ },
+ {
+  "id": 3652253612,
+  "deezer": 3652253612,
+  "apple": "1852572485",
+  "isrc": "CAD432505111",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/e6/c6/17e6c6cb-f8b9-6941-ef77-f92f7c01f7f1/mzaf_7891560660232703734.plus.aac.p.m4a",
+  "title": "Tout ce qui brille",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tout-ce-qui-brille/1852572102?i=1852572485"
+ },
+ {
+  "id": 3652253602,
+  "deezer": 3652253602,
+  "apple": "1852572483",
+  "isrc": "CAD432505110",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/e4/70/b9e47068-7631-3c5b-d2ca-529fb23d3c1c/mzaf_18357977641880409296.plus.aac.p.m4a",
+  "title": "Oublier encore",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/oublier-encore/1852572102?i=1852572483"
+ },
+ {
+  "id": 3380707431,
+  "deezer": 3380707431,
+  "apple": "1852572476",
+  "isrc": "CAD432505101",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/31/bf/3431bf2b-877a-1108-2503-6ba19688cc5c/mzaf_17282008497141541584.plus.aac.p.m4a",
+  "title": "La lumière",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-lumi%C3%A8re/1852572102?i=1852572476"
+ },
+ {
+  "id": 3652253572,
+  "deezer": 3652253572,
+  "apple": "1852572475",
+  "isrc": "CAD432505108",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/e6/bf/13e6bf5a-b7c8-ba7d-999a-f026ffdea8f3/mzaf_16657704382481382351.plus.aac.p.m4a",
+  "title": "À la longue",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/%C3%A0-la-longue/1852572102?i=1852572475"
+ },
+ {
+  "id": 3652253552,
+  "deezer": 3652253552,
+  "apple": "1852572472",
+  "isrc": "CAD432505106",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/a5/eb/18a5eb90-f639-c665-d266-9a64ca4851b2/mzaf_870825912634804497.plus.aac.p.m4a",
+  "title": "LO",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/lo/1852572102?i=1852572472"
+ },
+ {
+  "id": 3652253542,
+  "deezer": 3652253542,
+  "apple": "1852572471",
+  "isrc": "CAD432505105",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/19/06/c5190633-4881-6054-2e6f-b79052ee1ef6/mzaf_8596685756489219573.plus.aac.p.m4a",
+  "title": "CAM",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cam/1852572102?i=1852572471"
+ },
+ {
+  "id": 3652253522,
+  "deezer": 3652253522,
+  "apple": "1852572107",
+  "isrc": "CAD432505104",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/73/8e/fc738e0e-a5e1-333f-34b3-80b720005a65/mzaf_8933798739453510779.plus.aac.p.m4a",
+  "title": "Combien de temps?",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/combien-de-temps/1852572102?i=1852572107"
+ },
+ {
+  "id": 3652253512,
+  "deezer": 3652253512,
+  "apple": "1852572104",
+  "isrc": "CAD432505103",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/5f/62/c05f622f-376f-d93c-74ae-3b25e53fbe9e/mzaf_16317193500593869773.plus.aac.p.m4a",
+  "title": "Ciao bye bonsoir!",
+  "artist": "Marie Celeste",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/d4/b5/9cd4b501-1085-3d55-535f-5de07bd5be68/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ciao-bye-bonsoir/1852572102?i=1852572104"
+ },
+ {
+  "id": 830242592,
+  "deezer": 830242592,
+  "apple": "1491350423",
+  "isrc": "CA5VC1903009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/b0/36/bbb03611-d52b-f791-2a68-2568c8f0eba3/mzaf_3040128421094268051.plus.aac.p.m4a",
+  "title": "Mélamine",
+  "artist": "Klô Pelgag",
+  "year": 2020,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/2b/bf/9a2bbfab-a71f-30de-8dd0-c4b2cf0b9464/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/m%C3%A9lamine/1491350324?i=1491350423"
+ },
+ {
+  "id": 586424302,
+  "deezer": 586424302,
+  "apple": "1442305433",
+  "isrc": "CAD431897103",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/e0/70/63e0702f-c3fd-8d44-3a65-805cb7d5788c/mzaf_3066519079637725815.plus.aac.p.m4a",
+  "title": "Respiration",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/17/a0/0e17a04d-6dc6-cb53-926f-5bcdf694f39f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/respiration/1442305001?i=1442305433"
+ },
+ {
+  "id": 128221109,
+  "deezer": 128221109,
+  "apple": "1551592571",
+  "isrc": "CAG600911308",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/d4/5e/45/d45e4519-0c7f-1284-4000-5e9ad9483689/mzaf_283644156279846778.plus.aac.p.m4a",
+  "title": "Y'a des jours",
+  "artist": "Jean-Pierre Ferland",
+  "year": 1970,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/eb/69/cbeb69d3-8e91-c624-22cf-311307171161/190374950756.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ya-des-jours/1551592007?i=1551592571"
+ },
+ {
+  "id": 128221105,
+  "deezer": 128221105,
+  "apple": "1551592343",
+  "isrc": "CAG600911306",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/72/e6/74/72e6747b-e2f5-0e09-73f2-447b4209870c/mzaf_2296806577566713209.plus.aac.p.m4a",
+  "title": "Le chat du café des artistes",
+  "artist": "Jean-Pierre Ferland",
+  "year": 1970,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/eb/69/cbeb69d3-8e91-c624-22cf-311307171161/190374950756.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-chat-du-caf%C3%A9-des-artistes/1551592007?i=1551592343"
+ },
+ {
+  "id": 128221103,
+  "deezer": 128221103,
+  "apple": "1551592334",
+  "isrc": "CAG600911305",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/0a/95/f8/0a95f839-7b07-eda9-edd5-591bffd3afa3/mzaf_11460986076075961004.plus.aac.p.m4a",
+  "title": "God Is an American",
+  "artist": "Jean-Pierre Ferland",
+  "year": 1970,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/eb/69/cbeb69d3-8e91-c624-22cf-311307171161/190374950756.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/god-is-an-american/1551592007?i=1551592334"
+ },
+ {
+  "id": 128221101,
+  "deezer": 128221101,
+  "apple": "1551592328",
+  "isrc": "CAG600911304",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b6/5c/b4/b65cb474-a62b-1c22-ab22-67962c322c8d/mzaf_3923263271403232077.plus.aac.p.m4a",
+  "title": "Sing sing",
+  "artist": "Jean-Pierre Ferland",
+  "year": 1970,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/eb/69/cbeb69d3-8e91-c624-22cf-311307171161/190374950756.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/sing-sing/1551592007?i=1551592328"
+ },
+ {
+  "id": 1935953107,
+  "deezer": 1935953107,
+  "apple": "1647255144",
+  "isrc": "CAKII2204004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6a/5a/5d/6a5a5de3-149f-630f-6323-c7aa0ea0419f/mzaf_17658319739761917169.plus.aac.p.m4a",
+  "title": "SOLIDE",
+  "artist": "Alphonse Bisaillon",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/dc/57/8a/dc578ae9-7e76-bf24-56ce-318db2de7fda/196925224703.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/solide/1647254945?i=1647255144"
+ },
+ {
+  "id": 1935953087,
+  "deezer": 1935953087,
+  "apple": "1647255136",
+  "isrc": "CAKII2204002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/23/1a/f6/231af602-967f-6cbf-790b-6c5420808915/mzaf_5257364528574601302.plus.aac.p.m4a",
+  "title": "Pour aimer",
+  "artist": "Alphonse Bisaillon",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/dc/57/8a/dc578ae9-7e76-bf24-56ce-318db2de7fda/196925224703.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pour-aimer/1647254945?i=1647255136"
+ },
+ {
+  "id": 1498174862,
+  "deezer": 1498174862,
+  "apple": "1715509481",
+  "isrc": "CAL540506423",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/26/8f/92268fb3-d181-8b64-658f-2aa826c2e0f7/mzaf_16428724086817460194.plus.aac.p.m4a",
+  "title": "Cinq Cordes",
+  "artist": "Pépé et sa guitare",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/33/2e/85332ebb-f8c3-ee70-6a7d-ec0d7046ba64/1287.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cinq-cordes/1715508475?i=1715509481"
+ },
+ {
+  "id": 1498174822,
+  "deezer": 1498174822,
+  "apple": "1715509463",
+  "isrc": "CAL540506419",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4b/2f/d0/4b2fd04c-5650-a286-3232-d5f540c86a83/mzaf_5626450663241636216.plus.aac.p.m4a",
+  "title": "Potatoe in my chest",
+  "artist": "Pépé et sa guitare",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/33/2e/85332ebb-f8c3-ee70-6a7d-ec0d7046ba64/1287.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/potatoe-in-my-chest/1715508475?i=1715509463"
+ },
+ {
+  "id": 1498174812,
+  "deezer": 1498174812,
+  "apple": "1715509459",
+  "isrc": "CAL540506418",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/f2/20/fef220c2-021a-0404-7d61-8e55f93b877d/mzaf_14785373363526272806.plus.aac.p.m4a",
+  "title": "Slide",
+  "artist": "Pépé et sa guitare",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/33/2e/85332ebb-f8c3-ee70-6a7d-ec0d7046ba64/1287.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/slide/1715508475?i=1715509459"
+ },
+ {
+  "id": 1498174752,
+  "deezer": 1498174752,
+  "apple": "1715508946",
+  "isrc": "CAL540506412",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/88/9f/e9889f9e-04c0-3261-543d-41ef2dad9a08/mzaf_15694174664076959346.plus.aac.p.m4a",
+  "title": "La c*****e",
+  "artist": "Pépé et sa guitare",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/33/2e/85332ebb-f8c3-ee70-6a7d-ec0d7046ba64/1287.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-c-e/1715508475?i=1715508946"
+ },
+ {
+  "id": 1498174682,
+  "deezer": 1498174682,
+  "apple": "1715508917",
+  "isrc": "CAL540506405",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/e1/68/fce16892-5beb-3677-f5fe-8346aaf425c8/mzaf_11435595275377416716.plus.aac.p.m4a",
+  "title": "La grosse Carole",
+  "artist": "Pépé et sa guitare",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/33/2e/85332ebb-f8c3-ee70-6a7d-ec0d7046ba64/1287.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-grosse-carole/1715508475?i=1715508917"
+ },
+ {
+  "id": 1498174672,
+  "deezer": 1498174672,
+  "apple": "1715508822",
+  "isrc": "CAL540506404",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/db/86/6fdb86cb-66b4-1e51-16fd-b03e455b4cca/mzaf_7583078563102954794.plus.aac.p.m4a",
+  "title": "Le ciel est bleu",
+  "artist": "Pépé et sa guitare",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/33/2e/85332ebb-f8c3-ee70-6a7d-ec0d7046ba64/1287.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-ciel-est-bleu/1715508475?i=1715508822"
+ },
+ {
+  "id": 1498174652,
+  "deezer": 1498174652,
+  "apple": "1715508813",
+  "isrc": "CAL540506402",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/b7/43/2db7431d-3c4e-7f0e-eaa0-c8c807170c58/mzaf_1656893177793687816.plus.aac.p.m4a",
+  "title": "Notre Paris",
+  "artist": "Pépé et sa guitare",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/33/2e/85332ebb-f8c3-ee70-6a7d-ec0d7046ba64/1287.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/notre-paris/1715508475?i=1715508813"
+ },
+ {
+  "id": 1498174642,
+  "deezer": 1498174642,
+  "apple": "1715508478",
+  "isrc": "CAL540506401",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/62/a6/1462a6eb-b549-9ad1-91cb-88f162543cbf/mzaf_1603706986964315170.plus.aac.p.m4a",
+  "title": "Y fait beau",
+  "artist": "Pépé et sa guitare",
+  "year": 2003,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/33/2e/85332ebb-f8c3-ee70-6a7d-ec0d7046ba64/1287.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/y-fait-beau/1715508475?i=1715508478"
+ },
+ {
+  "id": 1425509132,
+  "deezer": 1425509132,
+  "apple": "1575371983",
+  "isrc": "CAM5E1400002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/27/af/6127af3c-eec4-251a-fd57-c5be18048351/mzaf_17211689679951045765.plus.aac.p.m4a",
+  "title": "La rue Bagot",
+  "artist": "Orloge Simard",
+  "year": 2014,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/37/96/8f379689-5809-e4d1-ea3e-10c77e95d5fb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-rue-bagot/1575371671?i=1575371983"
+ },
+ {
+  "id": 586424372,
+  "deezer": 586424372,
+  "apple": "1442306161",
+  "isrc": "CAD431897110",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/25/54/18255405-5383-0f6d-e41c-31ccc2c75b60/mzaf_4246740376166542047.plus.aac.p.m4a",
+  "title": "La petite mort",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/17/a0/0e17a04d-6dc6-cb53-926f-5bcdf694f39f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-petite-mort/1442305001?i=1442306161"
+ },
+ {
+  "id": 1028335142,
+  "deezer": 1028335142,
+  "apple": "1524333050",
+  "isrc": "CA60L1200024",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/9d/2d/ac9d2d67-b258-f58e-c4e6-5036706b312b/mzaf_1029831562876625545.plus.aac.p.m4a",
+  "title": "Transistors",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/transistors/1524333047?i=1524333050"
+ },
+ {
+  "id": 112426114,
+  "deezer": 112426114,
+  "apple": "1057645370",
+  "isrc": "CAL541517102",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/d6/72/53d672ce-8145-c9c7-b043-98c00d88255d/mzaf_10233685131614425085.plus.aac.p.m4a",
+  "title": "Dans le coin",
+  "artist": "Les Trois Accords",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/98/00/51/980051a9-e30e-b0a9-592d-883d5eb3274c/mzm.opxhiroi.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/dans-le-coin/1057645365?i=1057645370"
+ },
+ {
+  "id": 2761742821,
+  "deezer": 2761742821,
+  "apple": "1742576515",
+  "isrc": "CAL542424810",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/8a/82/818a82f9-2798-6eca-a13e-58fae6da183b/mzaf_11757062449911717286.plus.aac.p.m4a",
+  "title": "(re)Bienvenue chez vous",
+  "artist": "Les Cowboys Fringants",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/59/e3/3259e3d4-5dac-3806-12eb-bc1af5b25218/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/re-bienvenue-chez-vous/1742575522?i=1742576515"
+ },
+ {
+  "id": 3195087311,
+  "deezer": 3195087311,
+  "apple": "1790907823",
+  "isrc": "CAZC31700001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/bf/9a/63bf9ad0-5863-4c7d-79a3-dee3f54d8878/mzaf_16585574818273617019.plus.aac.p.m4a",
+  "title": "Le mercure",
+  "artist": "Les Louanges",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/c4/f8/5dc4f8b1-cba1-aec8-62d2-17dff2a6565d/592.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-mercure/1790907808?i=1790907823"
+ },
+ {
+  "id": 3168115601,
+  "deezer": 3168115601,
+  "apple": "1394711179",
+  "isrc": "CAZ841800051",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/4d/59/744d5937-e24a-7f58-def6-3f0698a0edb4/mzaf_13523472770331412819.plus.aac.p.m4a",
+  "title": "Jupiter",
+  "artist": "Les Louanges",
+  "year": 2018,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/3e/2c/163e2c7d-7808-7073-1d8a-936999ba6582/172.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jupiter/1394710085?i=1394711179"
+ },
+ {
+  "id": 3870010981,
+  "deezer": 3870010981,
+  "apple": "1880482930",
+  "isrc": "CAA501027007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/77/b8/b677b835-916e-421c-cb1d-ac4fbb80a3af/mzaf_14220911221302416969.plus.aac.p.m4a",
+  "title": "Dors dans mon sang",
+  "artist": "Karkwa",
+  "year": 2010,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/6a/27/786a2722-1b36-8a8d-fe05-13ce3b03bdb5/199806778340.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/dors-dans-mon-sang/1880482620?i=1880482930"
+ },
+ {
+  "id": 1028335162,
+  "deezer": 1028335162,
+  "apple": "1524333056",
+  "isrc": "CA60L1200026",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/88/6c/46886cab-1915-ddc0-a9d1-1b63571a24e8/mzaf_11093818224472249472.plus.aac.p.m4a",
+  "title": "Les chansons folles",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-chansons-folles/1524333047?i=1524333056"
+ },
+ {
+  "id": 3706017542,
+  "deezer": 3706017542,
+  "apple": "1860103820",
+  "isrc": "CAL642601001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/64/9a/a9649a17-e8ec-1e31-4131-96b1c8643d25/mzaf_1079898779057485757.plus.aac.p.m4a",
+  "title": "reel talk",
+  "artist": "Alphonse Bisaillon",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/23/e6/fa23e647-cfc0-10e8-3753-ca9dff412930/199806326671.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/reel-talk/1860103818?i=1860103820"
+ },
+ {
+  "id": 109374138,
+  "deezer": 109374138,
+  "apple": "1048261795",
+  "isrc": "CAL540405306",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/1e/e7/961ee703-5eb5-d49b-3e57-cc0bf6dc3f6d/mzaf_14200564585714139300.plus.aac.p.m4a",
+  "title": "Hannah",
+  "artist": "Les Cowboys Fringants",
+  "year": 2004,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/8e/37/99/8e379991-126a-ee7b-6f83-ef5260fa707c/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/hannah/1048261778?i=1048261795"
+ },
+ {
+  "id": 1037112952,
+  "deezer": 1037112952,
+  "apple": "1525618358",
+  "isrc": "CA60L1530010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/07/51/e307510c-5333-0a52-a66d-6aad53a3014c/mzaf_17234221763118293524.plus.aac.p.m4a",
+  "title": "Traverser les travaux",
+  "artist": "Louis-Jean Cormier",
+  "year": 2015,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/d1/9f/63d19f54-1f48-cd47-e00b-7b0bd961d584/779913771429.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/traverser-les-travaux/1525618064?i=1525618358"
+ },
+ {
+  "id": 1829016697,
+  "deezer": 1829016697,
+  "apple": "1635262281",
+  "isrc": "CAD432201703",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/41/04/9f410411-5161-52ef-d8a0-d11b54847549/mzaf_15651232865553623672.plus.aac.p.m4a",
+  "title": "C'est cool",
+  "artist": "Gab Bouchard",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ea/ba/07/eaba078c-b686-69f9-a7b1-4629baf108c0/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cest-cool/1635261819?i=1635262281"
+ },
+ {
+  "id": 4156311212,
+  "deezer": 4156311212,
+  "apple": "6791265256",
+  "isrc": "CANMX2000009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/ff/85/45ff85ca-1f8f-d351-676f-19805ad75a6e/mzaf_559855837054591023.plus.aac.p.m4a",
+  "title": "Coin coin",
+  "artist": "Malaimé Soleil",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/6c/29/8d6c295c-bcdd-62c8-c586-fe74ed7bc937/12534.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/coin-coin/6791265252?i=6791265256"
+ },
+ {
+  "id": 1028335182,
+  "deezer": 1028335182,
+  "apple": "1524333060",
+  "isrc": "CA60L1200028",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/7c/7b/797c7b50-0c51-389e-f2ea-a68520a92dd3/mzaf_15609397423207817265.plus.aac.p.m4a",
+  "title": "Le cœur en téflon",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-c%C5%93ur-en-t%C3%A9flon/1524333047?i=1524333060"
+ },
+ {
+  "id": 2866815142,
+  "deezer": 2866815142,
+  "apple": "1754353157",
+  "isrc": "CBCUB2400005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/01/5d/c8/015dc8ee-3708-7d63-3c84-7eae07c60bf4/mzaf_9374639567103372748.plus.aac.p.m4a",
+  "title": "Sur la \"Main\"",
+  "artist": "Marie Celeste",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/14/70/af147051-6270-046f-dfdd-6baf3ac37c16/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/sur-la-main/1754352465?i=1754353157"
+ },
+ {
+  "id": 2866815132,
+  "deezer": 2866815132,
+  "apple": "1754353148",
+  "isrc": "CBCUB2300002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/36/a6/9536a676-f6a7-22f5-38e9-86893efd2021/mzaf_9529603487668608377.plus.aac.p.m4a",
+  "title": "Maison-monde",
+  "artist": "Marie Celeste",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/14/70/af147051-6270-046f-dfdd-6baf3ac37c16/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/maison-monde/1754352465?i=1754353148"
+ },
+ {
+  "id": 2866815112,
+  "deezer": 2866815112,
+  "apple": "1754353135",
+  "isrc": "CBCUB2300001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/a1/99/cda1992e-7b2b-33cc-6e06-b76a1356ce98/mzaf_17748693902363788679.plus.aac.p.m4a",
+  "title": "Elle vit dans les bois",
+  "artist": "Marie Celeste",
+  "year": 2023,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/14/70/af147051-6270-046f-dfdd-6baf3ac37c16/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/elle-vit-dans-les-bois/1754352465?i=1754353135"
+ },
+ {
+  "id": 2866815102,
+  "deezer": 2866815102,
+  "apple": "1754352850",
+  "isrc": "CBCUB2400003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/80/d5/5080d5e3-6fde-66db-defb-bd14aaea8d7e/mzaf_14936652419796523271.plus.aac.p.m4a",
+  "title": "Philadelphie",
+  "artist": "Marie Celeste",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/14/70/af147051-6270-046f-dfdd-6baf3ac37c16/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/philadelphie/1754352465?i=1754352850"
+ },
+ {
+  "id": 2866815092,
+  "deezer": 2866815092,
+  "apple": "1754352847",
+  "isrc": "CBCUB2400002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/15/75/4f1575f3-0c39-1f18-844b-e345ba1c626d/mzaf_14571174556403101341.plus.aac.p.m4a",
+  "title": "Kérosène",
+  "artist": "Marie Celeste",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/14/70/af147051-6270-046f-dfdd-6baf3ac37c16/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/k%C3%A9ros%C3%A8ne/1754352465?i=1754352847"
+ },
+ {
+  "id": 2866815082,
+  "deezer": 2866815082,
+  "apple": "1754352843",
+  "isrc": "CBCUB2400001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/41/5c/60415c64-69fa-bd13-5870-2ac1b71a53a7/mzaf_13260793167298832640.plus.aac.p.m4a",
+  "title": "Feu de joie",
+  "artist": "Marie Celeste",
+  "year": 2024,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/14/70/af147051-6270-046f-dfdd-6baf3ac37c16/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/feu-de-joie/1754352465?i=1754352843"
+ },
+ {
+  "id": 1083643952,
+  "deezer": 1083643952,
+  "apple": "1532277123",
+  "isrc": "CAL541819603",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/ae/7f/5aae7f03-4392-d91d-3335-858433ccc3bc/mzaf_2384726359505656762.plus.aac.p.m4a",
+  "title": "Ouvre tes yeux Simon !",
+  "artist": "Les Trois Accords",
+  "year": 2018,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/a6/b8/74a6b860-4010-aa48-7fe9-c5075040a46d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ouvre-tes-yeux-simon/1532277119?i=1532277123"
+ },
+ {
+  "id": 1065567492,
+  "deezer": 1065567492,
+  "apple": "1528642764",
+  "isrc": "CAS741585212",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/20/6f/1e206f19-6ec4-f08e-77ee-01de30ffe7da/mzaf_3211843826695456632.plus.aac.p.m4a",
+  "title": "Nos bleus désirs",
+  "artist": "Philippe Brach",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/00/d8/7900d8bb-45fc-eca9-eb4e-c508f152ce71/20UMGIM71884.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/nos-bleus-d%C3%A9sirs/1528642283?i=1528642764"
+ },
+ {
+  "id": 2682858212,
+  "deezer": 2682858212,
+  "apple": "1839763398",
+  "isrc": "CAH682400009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/fb/43/82fb43a3-7aa6-2b1a-ec9e-0297cc436ffb/mzaf_2400287521280750176.plus.aac.p.m4a",
+  "title": "Crève",
+  "artist": "Rau_Ze",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/e5/f2/bae5f275-1776-ec32-dcb1-e090e1ee0c1d/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cr%C3%A8ve/1839763386?i=1839763398"
+ },
+ {
+  "id": 3051805351,
+  "deezer": 3051805351,
+  "apple": "1774757160",
+  "isrc": "CAD432405308",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/4d/28/254d2897-e47c-5fc6-ff9a-d5cbdf37e3ee/mzaf_6314724168899170874.plus.aac.p.m4a",
+  "title": "Prière quotidienne",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2025,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/ca/9e/90ca9ebf-6ff0-c6c1-1cb0-7a21107f43f7/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pri%C3%A8re-quotidienne/1774756861?i=1774757160"
+ },
+ {
+  "id": 1480799982,
+  "deezer": 1480799982,
+  "apple": "1583864946",
+  "isrc": "CAD432101009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b3/d8/74/b3d874b0-953d-0a1b-b268-397eca94837e/mzaf_3940925062959965687.plus.aac.p.m4a",
+  "title": "Écoute",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/0e/01/110e01bf-5bdf-4afe-08be-141b0c700524/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/%C3%A9coute/1583864283?i=1583864946"
+ },
+ {
+  "id": 1480799962,
+  "deezer": 1480799962,
+  "apple": "1583864635",
+  "isrc": "CAD432101007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/dd/bc/12/ddbc1219-bb2e-b7d8-adb4-92fe90d13469/mzaf_16940363329532219213.plus.aac.p.m4a",
+  "title": "Alors",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/0e/01/110e01bf-5bdf-4afe-08be-141b0c700524/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/alors/1583864283?i=1583864635"
+ },
+ {
+  "id": 586424362,
+  "deezer": 586424362,
+  "apple": "1442306154",
+  "isrc": "CAD431897109",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/6d/e0/936de0dc-60d3-dedc-6a5e-1e1cafdc9f28/mzaf_1020240508216930725.plus.aac.p.m4a",
+  "title": "Ce qu'il reste",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/17/a0/0e17a04d-6dc6-cb53-926f-5bcdf694f39f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ce-quil-reste/1442305001?i=1442306154"
+ },
+ {
+  "id": 586424342,
+  "deezer": 586424342,
+  "apple": "1442305992",
+  "isrc": "CAD431897107",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/14/91/56149173-43d6-3df5-1f9e-aa8d8fc25aae/mzaf_628948077909693294.plus.aac.p.m4a",
+  "title": "Les amours immatures",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/17/a0/0e17a04d-6dc6-cb53-926f-5bcdf694f39f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/les-amours-immatures/1442305001?i=1442305992"
+ },
+ {
+  "id": 586424322,
+  "deezer": 586424322,
+  "apple": "1442305676",
+  "isrc": "CAD431897105",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/a6/7b/fba67b52-b4d4-eb96-91bf-af07685b5bfc/mzaf_12369703401180085654.plus.aac.p.m4a",
+  "title": "Mon bel antidote",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/17/a0/0e17a04d-6dc6-cb53-926f-5bcdf694f39f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mon-bel-antidote/1442305001?i=1442305676"
+ },
+ {
+  "id": 586424312,
+  "deezer": 586424312,
+  "apple": "1442305662",
+  "isrc": "CAD431897104",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/a2/79/9ba279c7-62a7-9f1d-85c7-a38fbf8e800c/mzaf_3678629677142118658.plus.aac.p.m4a",
+  "title": "Il pleut",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/17/a0/0e17a04d-6dc6-cb53-926f-5bcdf694f39f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/il-pleut/1442305001?i=1442305662"
+ },
+ {
+  "id": 586424292,
+  "deezer": 586424292,
+  "apple": "1442305423",
+  "isrc": "CAD431897102",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/3a/1d/013a1d56-74c4-8016-f7d7-330e66b1cd2e/mzaf_3944489547321359194.plus.aac.p.m4a",
+  "title": "Poussière",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/17/a0/0e17a04d-6dc6-cb53-926f-5bcdf694f39f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/poussi%C3%A8re/1442305001?i=1442305423"
+ },
+ {
+  "id": 586424282,
+  "deezer": 586424282,
+  "apple": "1442305018",
+  "isrc": "CAD431897101",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/68/0b/15680b3c-a44c-d023-50ee-9ace44a4b583/mzaf_7222291140616019155.plus.aac.p.m4a",
+  "title": "La fin du monde à tous les jours",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/17/a0/0e17a04d-6dc6-cb53-926f-5bcdf694f39f/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-fin-du-monde-%C3%A0-tous-les-jours/1442305001?i=1442305018"
+ },
+ {
+  "id": 1425507762,
+  "deezer": 1425507762,
+  "apple": "1575366501",
+  "isrc": "CAYJ91500017",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ec/9e/6d/ec9e6d0d-312a-c5ab-b523-c6f85c640152/mzaf_14690635884099135655.plus.aac.p.m4a",
+  "title": "Rose flash",
+  "artist": "Orloge Simard",
+  "year": 2016,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/f3/44/30f344ed-30b7-6e69-aac2-b085ac947bec/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/rose-flash/1575366494?i=1575366501"
+ },
+ {
+  "id": 2761742841,
+  "deezer": 2761742841,
+  "apple": "1742576781",
+  "isrc": "CAL542424812",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/fc/3d/4bfc3da2-c260-a64c-27cc-8a144bcd0c0a/mzaf_2739622453837456925.plus.aac.p.m4a",
+  "title": "Merci ben !",
+  "artist": "Les Cowboys Fringants",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/59/e3/3259e3d4-5dac-3806-12eb-bc1af5b25218/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/merci-ben/1742575522?i=1742576781"
+ },
+ {
+  "id": 2761742811,
+  "deezer": 2761742811,
+  "apple": "1742576508",
+  "isrc": "CAL542424809",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/2a/a8/1e2aa8ea-acac-f138-b97a-185933cff020/mzaf_10600576194971701677.plus.aac.p.m4a",
+  "title": "Loulou (partie II)",
+  "artist": "Les Cowboys Fringants",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/59/e3/3259e3d4-5dac-3806-12eb-bc1af5b25218/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/loulou-partie-ii/1742575522?i=1742576508"
+ },
+ {
+  "id": 2761742801,
+  "deezer": 2761742801,
+  "apple": "1742576332",
+  "isrc": "CAL542424808",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/84/da/5f84da70-e4e3-46f7-32be-2c9602ff461f/mzaf_14387192049833786312.plus.aac.p.m4a",
+  "title": "Vie et mort de Gina Pinard",
+  "artist": "Les Cowboys Fringants",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/59/e3/3259e3d4-5dac-3806-12eb-bc1af5b25218/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/vie-et-mort-de-gina-pinard/1742575522?i=1742576332"
+ },
+ {
+  "id": 2761742781,
+  "deezer": 2761742781,
+  "apple": "1742576016",
+  "isrc": "CAL542424806",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/b3/33/0db33351-d7c6-bd93-248a-e72ab88bc1e9/mzaf_3548169948647429554.plus.aac.p.m4a",
+  "title": "On fait quoi maintenant ?",
+  "artist": "Les Cowboys Fringants",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/59/e3/3259e3d4-5dac-3806-12eb-bc1af5b25218/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/on-fait-quoi-maintenant/1742575522?i=1742576016"
+ },
+ {
+  "id": 2761742761,
+  "deezer": 2761742761,
+  "apple": "1742575998",
+  "isrc": "CAL542424804",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/87/05/5f8705f9-f6e3-294b-dfdb-c1c0322c3797/mzaf_16291233619860510315.plus.aac.p.m4a",
+  "title": "Y'est 3 heures on ferme !",
+  "artist": "Les Cowboys Fringants",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/59/e3/3259e3d4-5dac-3806-12eb-bc1af5b25218/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/yest-3-heures-on-ferme/1742575522?i=1742575998"
+ },
+ {
+  "id": 2761742741,
+  "deezer": 2761742741,
+  "apple": "1742575762",
+  "isrc": "CAL542424802",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/77/73/3677737b-6abc-3e5f-dba7-37d3c44a1bb7/mzaf_17024685567480459123.plus.aac.p.m4a",
+  "title": "Bienvenue chez nous",
+  "artist": "Les Cowboys Fringants",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/59/e3/3259e3d4-5dac-3806-12eb-bc1af5b25218/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bienvenue-chez-nous/1742575522?i=1742575762"
+ },
+ {
+  "id": 1082531112,
+  "deezer": 1082531112,
+  "apple": "1532142284",
+  "isrc": "CAL541920508",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/50/1f/83501f06-d87c-ad28-54b8-afbd38004d7c/mzaf_14245415178743486297.plus.aac.p.m4a",
+  "title": "D'une tristesse",
+  "artist": "Les Cowboys Fringants",
+  "year": 2019,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/4d/f3/624df342-6037-d0bf-462e-0b888415a9d7/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/dune-tristesse/1532141697?i=1532142284"
+ },
+ {
+  "id": 109523464,
+  "deezer": 109523464,
+  "apple": "1048238565",
+  "isrc": "CAL541517014",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/e1/24/73e12426-f108-21de-e9ef-64467312b8f4/mzaf_10027137636017528249.plus.aac.p.m4a",
+  "title": "Pub Royal",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pub-royal/1048236643?i=1048238565"
+ },
+ {
+  "id": 109523446,
+  "deezer": 109523446,
+  "apple": "1048237568",
+  "isrc": "CAL541517005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/18/ef/9918ef2c-0408-c544-9dba-50bcbbbd1a2b/mzaf_7393537676175932483.plus.aac.p.m4a",
+  "title": "Pizza galaxie",
+  "artist": "Les Cowboys Fringants",
+  "year": 2015,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/bf/4c/7fbf4cce-e127-70bf-640f-ac1a37e1ba76/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pizza-galaxie/1048236643?i=1048237568"
+ },
+ {
+  "id": 2117809737,
+  "deezer": 2117809737,
+  "apple": "1666996912",
+  "isrc": "CAD432201802",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/af/67/f3/af67f356-7d3a-686c-8166-ae2b0f06414e/mzaf_6751791362863193963.plus.aac.p.m4a",
+  "title": "Portrait d'une Marianne",
+  "artist": "Thierry Larose",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/7b/40/d87b4076-6dab-79ea-73a7-9b3551a58331/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/portrait-dune-marianne/1666996909?i=1666996912"
+ },
+ {
+  "id": 1638406352,
+  "deezer": 1638406352,
+  "apple": "1607569864",
+  "isrc": "CAFWG2100029",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/cb/d3/e7cbd3d8-219b-2f1e-96d7-c24841ec2d10/mzaf_11964469018003209671.plus.aac.p.m4a",
+  "title": "La saison des huîtres",
+  "artist": "Lydia Képinski",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-saison-des-hu%C3%AEtres/1607569840?i=1607569864"
+ },
+ {
+  "id": 1638406342,
+  "deezer": 1638406342,
+  "apple": "1607569858",
+  "isrc": "CAFWG2100028",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/ef/6c/69ef6cd7-d810-8519-91e1-5076e3308fc5/mzaf_7141616491873198807.plus.aac.p.m4a",
+  "title": "Anthony",
+  "artist": "Lydia Képinski",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/anthony/1607569840?i=1607569858"
+ },
+ {
+  "id": 1472709592,
+  "deezer": 1472709592,
+  "apple": "1607569852",
+  "isrc": "CAFWG1800022",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/e8/a8/76e8a8ee-831c-1218-9074-a9053c56b28c/mzaf_7455510354659834011.plus.aac.p.m4a",
+  "title": "MTL me déteste",
+  "artist": "Lydia Képinski",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/mtl-me-d%C3%A9teste/1607569840?i=1607569852"
+ },
+ {
+  "id": 1638406332,
+  "deezer": 1638406332,
+  "apple": "1607569856",
+  "isrc": "CAFWG2100027",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/ae/9b/43ae9ba4-6802-febe-62da-5d345b1f7a0a/mzaf_12533544471675377825.plus.aac.p.m4a",
+  "title": "Deux jours",
+  "artist": "Lydia Képinski",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/deux-jours/1607569840?i=1607569856"
+ },
+ {
+  "id": 1638406312,
+  "deezer": 1638406312,
+  "apple": "1607569847",
+  "isrc": "CAFWG2100025",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/d8/20/afd820bf-0bc9-1771-64b3-da553a0eddd3/mzaf_15014688252241626680.plus.aac.p.m4a",
+  "title": "L'imposture",
+  "artist": "Lydia Képinski",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/d0/a7/6ed0a70e-ab2f-f989-fe29-f5466acfb898/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/limposture/1607569840?i=1607569847"
+ },
+ {
+  "id": 1480799922,
+  "deezer": 1480799922,
+  "apple": "1583864625",
+  "isrc": "CAD432101003",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/61/5b/86/615b860e-499f-82a7-dfd8-38b2413480cc/mzaf_12434022781933912627.plus.aac.p.m4a",
+  "title": "Oui le serpent nous guette",
+  "artist": "Lou-Adriane Cassidy",
+  "year": 2021,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/0e/01/110e01bf-5bdf-4afe-08be-141b0c700524/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/oui-le-serpent-nous-guette/1583864283?i=1583864625"
+ },
+ {
+  "id": 1028335132,
+  "deezer": 1028335132,
+  "apple": "1524333049",
+  "isrc": "CA60L1200023",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/5e/a1/095ea1c8-b34d-3616-90d1-dea310ca71b1/mzaf_5872494591977746125.plus.aac.p.m4a",
+  "title": "Bull's eye",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bulls-eye/1524333047?i=1524333049"
+ },
+ {
+  "id": 1028335122,
+  "deezer": 1028335122,
+  "apple": "1524333048",
+  "isrc": "CA60L1200022",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/a6/01/baa60104-68a0-a2fe-a35b-127dd6442ef8/mzaf_5758223750247879038.plus.aac.p.m4a",
+  "title": "La cassette",
+  "artist": "Louis-Jean Cormier",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/90/2b/d8902b61-ca1d-0e09-fbce-14ebfa376190/779913778220.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-cassette/1524333047?i=1524333048"
+ },
+ {
+  "id": 2782091912,
+  "deezer": 2782091912,
+  "apple": "1745356160",
+  "isrc": "CAD432403706",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/ec/61/e1ec6199-c5c4-a68a-f7b1-d5ef3ae1aadc/mzaf_15764224946899942332.plus.aac.p.m4a",
+  "title": "Ce n'est pas de la chance - Salle Odyssée, Gatineau, 03-11-2023 (Live)",
+  "artist": "Ariane Roy",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/ea/dd/eeeadda7-dd5d-4f80-b02d-8b9a6d5874ab/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ce-nest-pas-de-la-chance-salle-odyss%C3%A9e-gatineau-03/1745355388?i=1745356160"
+ },
+ {
+  "id": 2782091882,
+  "deezer": 2782091882,
+  "apple": "1745355712",
+  "isrc": "CAD432403703",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/29/88/b6298834-f74f-ffb1-c0b7-bcece879525a/mzaf_13959774389770073669.plus.aac.p.m4a",
+  "title": "Fille à porter - Centre des arts Juliette-Lassonde, Saint-Hyacinthe, 09-11-2023 (Live)",
+  "artist": "Ariane Roy",
+  "year": 2024,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/ea/dd/eeeadda7-dd5d-4f80-b02d-8b9a6d5874ab/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/fille-%C3%A0-porter-centre-des-arts-juliette-lassonde-saint/1745355388?i=1745355712"
+ },
+ {
+  "id": 856732912,
+  "deezer": 856732912,
+  "apple": "1495694730",
+  "isrc": "CAD431998207",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/ef/c6/b9efc68e-9928-3d6d-24eb-e91204df71a8/mzaf_3036901174127714852.plus.aac.p.m4a",
+  "title": "La vie c't'une peine d'amour",
+  "artist": "Gab Bouchard",
+  "year": 2020,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0a/d7/b1/0ad7b1cb-5ab0-afea-9c17-019c7e1347cb/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/la-vie-ctune-peine-damour/1495694279?i=1495694730"
+ },
+ {
+  "id": 1644543942,
+  "deezer": 1644543942,
+  "apple": "1606955822",
+  "isrc": "CALXJ2120011",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/07/c5/ce07c5a4-a34f-73aa-18aa-8584db76ed23/mzaf_8608214423052804479.plus.aac.p.m4a",
+  "title": "Automne",
+  "artist": "Ariane Roy",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/fc/03/2afc03a6-93bf-c0f7-593b-5ddf826fcfcb/22UMGIM04684.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/automne/1606954978?i=1606955822"
+ },
+ {
+  "id": 1644543882,
+  "deezer": 1644543882,
+  "apple": "1606955532",
+  "isrc": "CALXJ2120007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/12/b3/8212b385-f86c-c40e-ef36-28819ec8b5e9/mzaf_15301517871210179296.plus.aac.p.m4a",
+  "title": "Tu as le droit",
+  "artist": "Ariane Roy",
+  "year": 2022,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/fc/03/2afc03a6-93bf-c0f7-593b-5ddf826fcfcb/22UMGIM04684.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tu-as-le-droit/1606954978?i=1606955532"
+ },
+ {
+  "id": 63509439,
+  "deezer": 63509439,
+  "apple": "593956949",
+  "isrc": "CAL541214101",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/a3/0a/0ea30a4b-b134-7f64-0113-c0bef3e56e2d/mzaf_265663997382882155.plus.aac.p.m4a",
+  "title": "Bamboula",
+  "artist": "Les Trois Accords",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/9b/5c/3a/9b5c3a41-cf43-0a64-48e8-94d68b7bdad5/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/bamboula/593956662?i=593956949"
+ },
+ {
+  "id": 3167719171,
+  "deezer": 3167719171,
+  "apple": "1332847301",
+  "isrc": "CAZ841201613",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/81/58/308158a4-eb46-564b-3bd3-4a99ef9a3a68/mzaf_1898071642951353731.plus.aac.p.m4a",
+  "title": "Aujourd'hui ma vie c'est d'la marde",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/aujourdhui-ma-vie-cest-dla-marde/1332846396?i=1332847301"
+ },
+ {
+  "id": 3167719161,
+  "deezer": 3167719161,
+  "apple": "1332847210",
+  "isrc": "CAZ841201612",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/09/88/9c098835-7391-9c79-d43e-3a82c50fe579/mzaf_1973413797557160348.plus.aac.p.m4a",
+  "title": "J't'écris une chanson d'amour",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jt%C3%A9cris-une-chanson-damour/1332846396?i=1332847210"
+ },
+ {
+  "id": 3167719141,
+  "deezer": 3167719141,
+  "apple": "1332847208",
+  "isrc": "CAZ841201610",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/3a/28/283a28cb-eec4-91af-e89b-d5270f88ae37/mzaf_3986422143142816697.plus.aac.p.m4a",
+  "title": "Avoir su",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/avoir-su/1332846396?i=1332847208"
+ },
+ {
+  "id": 3167719131,
+  "deezer": 3167719131,
+  "apple": "1332847207",
+  "isrc": "CAZ841201609",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/7a/1c/8d7a1c7c-bc05-986b-3914-a79dca1b9dff/mzaf_17742555630083439710.plus.aac.p.m4a",
+  "title": "Y fait chaud",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/y-fait-chaud/1332846396?i=1332847207"
+ },
+ {
+  "id": 3167719111,
+  "deezer": 3167719111,
+  "apple": "1332847205",
+  "isrc": "CAZ841201607",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/8e/72/b78e7297-3716-649b-f5bc-c5c8d015c755/mzaf_11039944986238735242.plus.aac.p.m4a",
+  "title": "Chanson d'une rouspéteuse",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/chanson-dune-rousp%C3%A9teuse/1332846396?i=1332847205"
+ },
+ {
+  "id": 3167719101,
+  "deezer": 3167719101,
+  "apple": "1332847204",
+  "isrc": "CAZ841201606",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/33/f6/6633f632-ea15-4691-eaf1-bb5eaa87864f/mzaf_5906627213507375766.plus.aac.p.m4a",
+  "title": "J'pas un cowboy",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jpas-un-cowboy/1332846396?i=1332847204"
+ },
+ {
+  "id": 3167719091,
+  "deezer": 3167719091,
+  "apple": "1332847203",
+  "isrc": "CAZ841201605",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/6c/55/5f6c552f-981d-d054-5490-ba9fbfeecf0f/mzaf_10039275791773046601.plus.aac.p.m4a",
+  "title": "C*****e-moi là",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/c-e-moi-l%C3%A0/1332846396?i=1332847203"
+ },
+ {
+  "id": 3167719081,
+  "deezer": 3167719081,
+  "apple": "1332847202",
+  "isrc": "CAZ841201604",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/4c/c5/d34cc5e7-2a79-903a-9b5b-5d2885d7f21b/mzaf_410937067574040812.plus.aac.p.m4a",
+  "title": "Juste parce que j'peux",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/juste-parce-que-jpeux/1332846396?i=1332847202"
+ },
+ {
+  "id": 3167719071,
+  "deezer": 3167719071,
+  "apple": "1332847182",
+  "isrc": "CAZ841201603",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/11/70/30117022-c417-e1fd-56b5-f77aaa6c4c81/mzaf_3278973783744462863.plus.aac.p.m4a",
+  "title": "Motel",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/motel/1332846396?i=1332847182"
+ },
+ {
+  "id": 3167719061,
+  "deezer": 3167719061,
+  "apple": "1332847175",
+  "isrc": "CAZ841201602",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/3f/42/1e3f42a8-6be2-870a-f42a-115f65611312/mzaf_67472526685150301.plus.aac.p.m4a",
+  "title": "Du duvet dans les poches",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/du-duvet-dans-les-poches/1332846396?i=1332847175"
+ },
+ {
+  "id": 3167719051,
+  "deezer": 3167719051,
+  "apple": "1332847105",
+  "isrc": "CAZ841201601",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/70/44/5d7044a6-d5fd-a77d-a69f-b05b757e52b6/mzaf_16330531083481926287.plus.aac.p.m4a",
+  "title": "Cerveau ramolli",
+  "artist": "Lisa LeBlanc",
+  "year": 2012,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/88/b2/c188b2b1-9647-9f8f-148f-2fd1bc2dc8c6/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cerveau-ramolli/1332846396?i=1332847105"
+ },
+ {
+  "id": 131066314,
+  "deezer": 131066314,
+  "apple": "1148624757",
+  "isrc": "CAD431695710",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/38/87/f6388746-a382-5bfa-d1aa-41ccdb885e2a/mzaf_1988606293767467726.plus.aac.p.m4a",
+  "title": "Passer à TV",
+  "artist": "Émile Bilodeau",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/05/13/2e/05132edc-3efc-56c0-af66-b2c159711fd6/dj.axwczlnw.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/passer-%C3%A0-tv/1148624249?i=1148624757"
+ },
+ {
+  "id": 131066312,
+  "deezer": 131066312,
+  "apple": "1148624751",
+  "isrc": "CAD431695709",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/ad/2f/6dad2f31-e803-980b-8ba5-0946b6366a1a/mzaf_11617434083373990462.plus.aac.p.m4a",
+  "title": "Je suis un fou",
+  "artist": "Émile Bilodeau",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/05/13/2e/05132edc-3efc-56c0-af66-b2c159711fd6/dj.axwczlnw.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/je-suis-un-fou/1148624249?i=1148624751"
+ },
+ {
+  "id": 131066308,
+  "deezer": 131066308,
+  "apple": "1148624521",
+  "isrc": "CAD431695707",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/e7/a6/7ee7a6f0-9d3e-7183-5753-a2a6a5835193/mzaf_2588068790735777084.plus.aac.p.m4a",
+  "title": "Rosie",
+  "artist": "Émile Bilodeau",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/05/13/2e/05132edc-3efc-56c0-af66-b2c159711fd6/dj.axwczlnw.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/rosie/1148624249?i=1148624521"
+ },
+ {
+  "id": 131066304,
+  "deezer": 131066304,
+  "apple": "1148624504",
+  "isrc": "CAD431695705",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8f/12/a6/8f12a6b4-68f0-e88d-59a2-866206982925/mzaf_1084292275684814977.plus.aac.p.m4a",
+  "title": "Tu me diras-tu",
+  "artist": "Émile Bilodeau",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/05/13/2e/05132edc-3efc-56c0-af66-b2c159711fd6/dj.axwczlnw.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tu-me-diras-tu/1148624249?i=1148624504"
+ },
+ {
+  "id": 131066298,
+  "deezer": 131066298,
+  "apple": "1148624364",
+  "isrc": "CAD431695702",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/f3/3f/03f33fab-01d4-c49e-6a0b-a23d2c1da426/mzaf_9612312707944297840.plus.aac.p.m4a",
+  "title": "Crise existentielle",
+  "artist": "Émile Bilodeau",
+  "year": 2016,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/05/13/2e/05132edc-3efc-56c0-af66-b2c159711fd6/dj.axwczlnw.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/crise-existentielle/1148624249?i=1148624364"
+ },
+ {
+  "id": 1397329852,
+  "deezer": 1397329852,
+  "apple": "1571213903",
+  "isrc": "CAY9M2100009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/64/b8/7964b822-7a59-2840-8f61-215b506f3c44/mzaf_12053462252507993443.plus.aac.p.m4a",
+  "title": "Pêle-mêle",
+  "artist": "Valence",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/7c/0e/a07c0e5e-06d0-4486-aad6-14234f861e02/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/p%C3%AAle-m%C3%AAle/1571212982?i=1571213903"
+ },
+ {
+  "id": 1397329862,
+  "deezer": 1397329862,
+  "apple": "1571214036",
+  "isrc": "CAY9M2100007",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e8/84/b5/e884b5b3-8952-8e53-00f8-42da2e878ef3/mzaf_974171005041748374.plus.aac.p.m4a",
+  "title": "Le Miracle du soleil victorien",
+  "artist": "Valence",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/7c/0e/a07c0e5e-06d0-4486-aad6-14234f861e02/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-miracle-du-soleil-victorien/1571212982?i=1571214036"
+ },
+ {
+  "id": 1397329872,
+  "deezer": 1397329872,
+  "apple": "1571214053",
+  "isrc": "CAY9M2100010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/32/d9/be/32d9be54-679c-4475-f01f-ba00b46cb40b/mzaf_12892728781210682714.plus.aac.p.m4a",
+  "title": "Interlude (so-to-oh-oh-oh-oh)",
+  "artist": "Valence",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/7c/0e/a07c0e5e-06d0-4486-aad6-14234f861e02/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/interlude-so-to-oh-oh-oh-oh/1571212982?i=1571214053"
+ },
+ {
+  "id": 4274470592,
+  "deezer": 4274470592,
+  "apple": "6809942610",
+  "isrc": "CAY9M2600001",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9b/c0/48/9bc04876-96fe-705d-7419-57a67b11834a/mzaf_6715406510715970244.plus.aac.p.m4a",
+  "title": "Tu choisis comment tu aimes",
+  "artist": "Valence",
+  "year": 2026,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/fb/f1/e5fbf12d-62a6-e2d0-2b0d-cc7228ffda97/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/tu-choisis-comment-tu-aimes/6809942606?i=6809942610"
+ },
+ {
+  "id": 3168302201,
+  "deezer": 3168302201,
+  "apple": "1580812396",
+  "isrc": "CAZ842100034",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/47/10/d547107d-0a00-8cb7-604c-c3da1a67c741/mzaf_2342126918153162743.plus.aac.p.m4a",
+  "title": "Chaussée",
+  "artist": "Les Louanges",
+  "year": 2021,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/e4/e1/73e4e1e6-313d-e9f7-fcaf-1630430b4d8b/326.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/chauss%C3%A9e/1580812393?i=1580812396"
+ },
+ {
+  "id": 668923782,
+  "deezer": 668923782,
+  "apple": "1459892111",
+  "isrc": "CAS741447002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/36/26/5d362631-4f68-0884-02be-3552d16fe288/mzaf_8599080006225868877.plus.aac.p.m4a",
+  "title": "Dans ma tête",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/0d/2d/f70d2d44-4eb6-e7e0-990e-58a145127d68/00044003211568.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/dans-ma-t%C3%AAte/1459892105?i=1459892111"
+ },
+ {
+  "id": 668923802,
+  "deezer": 668923802,
+  "apple": "1459892117",
+  "isrc": "CAS741447004",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/01/1e/24011e5d-ced0-e10e-ecd1-95f808d8372f/mzaf_14142463720000723563.plus.aac.p.m4a",
+  "title": "Race-Pape",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/0d/2d/f70d2d44-4eb6-e7e0-990e-58a145127d68/00044003211568.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/race-pape/1459892105?i=1459892117"
+ },
+ {
+  "id": 668923812,
+  "deezer": 668923812,
+  "apple": "1459892119",
+  "isrc": "CAS741447005",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/e1/ac/dce1ace8-2854-bbfb-fb16-7450d9f35b65/mzaf_13036485313669643499.plus.aac.p.m4a",
+  "title": "T'aurais pas pu nous prendre à deux",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/0d/2d/f70d2d44-4eb6-e7e0-990e-58a145127d68/00044003211568.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/taurais-pas-pu-nous-prendre-%C3%A0-deux/1459892105?i=1459892119"
+ },
+ {
+  "id": 668923822,
+  "deezer": 668923822,
+  "apple": "1459892120",
+  "isrc": "CAS741447006",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/a0/06/19a0063f-732b-7df2-3d4c-a9dcde406575/mzaf_1483009457366770065.plus.aac.p.m4a",
+  "title": "Ravin",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/0d/2d/f70d2d44-4eb6-e7e0-990e-58a145127d68/00044003211568.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ravin/1459892105?i=1459892120"
+ },
+ {
+  "id": 668923842,
+  "deezer": 668923842,
+  "apple": "1459892123",
+  "isrc": "CAS741447008",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/80/a9/ab80a910-2bf2-40e2-2fb1-bbf180230c7d/mzaf_6056497177782462495.plus.aac.p.m4a",
+  "title": "C'est tout oublié",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/0d/2d/f70d2d44-4eb6-e7e0-990e-58a145127d68/00044003211568.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/cest-tout-oubli%C3%A9/1459892105?i=1459892123"
+ },
+ {
+  "id": 668923852,
+  "deezer": 668923852,
+  "apple": "1459892124",
+  "isrc": "CAS741447009",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/a1/9c/afa19cd7-5882-1db3-b8d4-c06d8e165415/mzaf_6472467885631515332.plus.aac.p.m4a",
+  "title": "Gaston",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/0d/2d/f70d2d44-4eb6-e7e0-990e-58a145127d68/00044003211568.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/gaston/1459892105?i=1459892124"
+ },
+ {
+  "id": 668923862,
+  "deezer": 668923862,
+  "apple": "1459892125",
+  "isrc": "CAS741447010",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/01/ab/1b/01ab1ba5-71a4-03e0-5b43-a6313b527d22/mzaf_16072757051824037216.plus.aac.p.m4a",
+  "title": "Ressac sur ta peau",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/0d/2d/f70d2d44-4eb6-e7e0-990e-58a145127d68/00044003211568.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ressac-sur-ta-peau/1459892105?i=1459892125"
+ },
+ {
+  "id": 668923882,
+  "deezer": 668923882,
+  "apple": "1459892277",
+  "isrc": "CAS741447012",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/f4/97/57f49721-fcd7-0181-84a7-0e2dcee39fdb/mzaf_4144671848377706587.plus.aac.p.m4a",
+  "title": "Downtown",
+  "artist": "Philippe Brach",
+  "year": 2014,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/0d/2d/f70d2d44-4eb6-e7e0-990e-58a145127d68/00044003211568.rgb.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/downtown/1459892105?i=1459892277"
+ },
+ {
+  "id": 4285742402,
+  "deezer": 4285742402,
+  "apple": "6811953316",
+  "isrc": "CAPAJ2600002",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/42/a2/2542a27e-d9f8-3250-d10f-2e00fc1b8057/mzaf_8897266175330199540.plus.aac.p.m4a",
+  "title": "Ambre",
+  "artist": "Maelydée",
+  "year": 2026,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/43/84/e1438461-45d0-4ee3-a263-9bfd0f86f2dc/885288570519.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/ambre/6811953315?i=6811953316"
+ },
+ {
+  "id": 1497900732,
+  "deezer": 1497900732,
+  "apple": "1572928430",
+  "isrc": "CAL540709401",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/4b/ac/184bac7f-d45f-2ec7-d366-d8a71acdce2d/mzaf_5844870667931150043.plus.aac.p.m4a",
+  "title": "Je m'demande",
+  "artist": "Martin Léon",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/11/b2/8711b233-7a24-d82a-855a-038169a465f8/1208.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/je-mdemande/1572928428?i=1572928430"
+ },
+ {
+  "id": 1497900742,
+  "deezer": 1497900742,
+  "apple": "1572928431",
+  "isrc": "CAL540709402",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/54/c8/c554c85f-edbf-75c8-c300-e371b0894dbd/mzaf_1534630198596818541.plus.aac.p.m4a",
+  "title": "Le râteleur",
+  "artist": "Martin Léon",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/11/b2/8711b233-7a24-d82a-855a-038169a465f8/1208.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-r%C3%A2teleur/1572928428?i=1572928431"
+ },
+ {
+  "id": 1497900762,
+  "deezer": 1497900762,
+  "apple": "1572928434",
+  "isrc": "CAL540709404",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/6f/9e/8a6f9e1e-6c6c-c629-83c7-a6f92a6f2dac/mzaf_1781954217129991723.plus.aac.p.m4a",
+  "title": "Entre les joncs",
+  "artist": "Martin Léon",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/11/b2/8711b233-7a24-d82a-855a-038169a465f8/1208.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/entre-les-joncs/1572928428?i=1572928434"
+ },
+ {
+  "id": 1497900772,
+  "deezer": 1497900772,
+  "apple": "1572928566",
+  "isrc": "CAL540709405",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/9d/37/fb9d3796-a2b4-21fd-3555-ebb19f450c65/mzaf_13250796272201298893.plus.aac.p.m4a",
+  "title": "Oui je le veux",
+  "artist": "Martin Léon",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/11/b2/8711b233-7a24-d82a-855a-038169a465f8/1208.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/oui-je-le-veux/1572928428?i=1572928566"
+ },
+ {
+  "id": 1497900782,
+  "deezer": 1497900782,
+  "apple": "1572928567",
+  "isrc": "CAL540709406",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/f3/55/c0f355b0-7d34-08ce-cf90-ebae176f7dcc/mzaf_12070195061524322182.plus.aac.p.m4a",
+  "title": "Pour mieux s'aimer",
+  "artist": "Martin Léon",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/11/b2/8711b233-7a24-d82a-855a-038169a465f8/1208.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/pour-mieux-saimer/1572928428?i=1572928567"
+ },
+ {
+  "id": 1497900792,
+  "deezer": 1497900792,
+  "apple": "1572928573",
+  "isrc": "CAL540709408",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/b1/a0/36b1a02e-4311-ac5b-148e-a123d389a47e/mzaf_3213721393482253048.plus.aac.p.m4a",
+  "title": "Félicie",
+  "artist": "Martin Léon",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/11/b2/8711b233-7a24-d82a-855a-038169a465f8/1208.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/f%C3%A9licie/1572928428?i=1572928573"
+ },
+ {
+  "id": 1497900802,
+  "deezer": 1497900802,
+  "apple": "1572928574",
+  "isrc": "CAL540709409",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/59/cb/3859cba7-8d24-6bd7-069b-2b275ecd4111/mzaf_2123263644506745521.plus.aac.p.m4a",
+  "title": "Jamais pour toujours",
+  "artist": "Martin Léon",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/11/b2/8711b233-7a24-d82a-855a-038169a465f8/1208.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jamais-pour-toujours/1572928428?i=1572928574"
+ },
+ {
+  "id": 1497900812,
+  "deezer": 1497900812,
+  "apple": "1572928577",
+  "isrc": "CAL540709407",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/07/73/2f0773a2-67c2-b584-b893-4401d895c47a/mzaf_15656025626825128234.plus.aac.p.m4a",
+  "title": "Jackie",
+  "artist": "Martin Léon",
+  "year": 2007,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/11/b2/8711b233-7a24-d82a-855a-038169a465f8/1208.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/jackie/1572928428?i=1572928577"
+ },
+ {
+  "id": 3558373531,
+  "deezer": 3558373531,
+  "apple": "1840200198",
+  "isrc": "CAL542525804",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/71/1c/44711cdc-b0b2-a7ea-ee50-74d91a54b95b/mzaf_8184104612174006622.plus.aac.p.m4a",
+  "title": "Stéphanie",
+  "artist": "Les Trois Accords",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/c6/66/27c666cd-6eb3-3ebf-f2ac-73a02c4947d2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/st%C3%A9phanie/1840200191?i=1840200198"
+ },
+ {
+  "id": 3558373591,
+  "deezer": 3558373591,
+  "apple": "1840201059",
+  "isrc": "CAL542525809",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/6c/27/bb6c27c7-5510-b481-b920-089921b3a48e/mzaf_14410153813710671856.plus.aac.p.m4a",
+  "title": "Marrakech",
+  "artist": "Les Trois Accords",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/c6/66/27c666cd-6eb3-3ebf-f2ac-73a02c4947d2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/marrakech/1840200191?i=1840201059"
+ },
+ {
+  "id": 3558373601,
+  "deezer": 3558373601,
+  "apple": "1840201063",
+  "isrc": "CAL542525810",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/59/49/6f5949d7-437d-0833-d980-ff592a445d01/mzaf_18399473043498312353.plus.aac.p.m4a",
+  "title": "L'accordeur de piano",
+  "artist": "Les Trois Accords",
+  "year": 2025,
+  "genre": "Pop",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/c6/66/27c666cd-6eb3-3ebf-f2ac-73a02c4947d2/cover.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/laccordeur-de-piano/1840200191?i=1840201063"
  }
 ];
