@@ -267,8 +267,7 @@ svg { fill: currentColor; stroke: currentColor; }
 
 .fineprint { padding: 8px 20px max(18px, env(safe-area-inset-bottom)); font-size: 12px; color: var(--label-3); text-align: center; }
 /* Install as an app: a link in the footer; on iPhone it reveals how (Share → Add to Home Screen). */
-.fineprint .install { color: var(--label-2); text-decoration: underline; text-underline-offset: 3px; }
-.fineprint .install:hover { color: var(--label); }
+.fineprint .install { text-decoration: underline; } /* same gray and underline as the footer's other links */
 .install-hint {
   margin: 0 auto 10px; max-width: 320px; padding: 10px 14px; border-radius: 12px;
   background: var(--fill); color: var(--label-2); font-size: 13px; line-height: 1.4; animation: rise .35s var(--spring);
