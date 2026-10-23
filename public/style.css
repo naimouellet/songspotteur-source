@@ -325,6 +325,8 @@ svg { fill: currentColor; stroke: currentColor; }
     justify-content: center; align-content: start; column-gap: clamp(40px, 6vw, 88px); row-gap: 22px;
   }
   .artwork { grid-row: 1 / span 6; align-self: start; border-radius: 18px; }
+  /* In the stretchy last row: only as tall as their content, not the whole row. */
+  .attempts, .actions { align-self: start; }
   .artwork.idle { transform: scale(.94); }
   /* As tall as the question (eyebrow, two-line title, hint), so the controls below
      don't jump up when it is replaced by a shorter song title. */
