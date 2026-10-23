@@ -125,6 +125,7 @@ def write_js():
 
 
 def main():
+    """Look up only artists not yet in bandcamp.tsv (found pages and "-" are both kept)."""
     artists = catalog_artists()
     kept = {}
     if OUT.exists():
@@ -132,25 +133,35 @@ def main():
             if line.strip() and not line.startswith("#"):
                 a, url = line.split("\t")[:2]
                 kept[a] = url
-    found = {**from_wikidata(artists), **kept}
-    print(f"Wikidata + existant : {len(found)}", flush=True)
-    for artist in artists:
-        if artist in found:
-            continue
-        try:
-            url = from_musicbrainz(artist)
-        except Exception as e:
-            print(f"  {artist}: MusicBrainz indisponible ({e})", flush=True)
-            time.sleep(3)
-            url = None
+    todo = [a for a in artists if a not in kept]
+    print(f"{len(todo)} artiste(s) sans entrée Bandcamp", flush=True)
+    found = dict(kept)
+    wikidata = from_wikidata(todo) if todo else {}
+    for artist in todo:
+        url, searched = wikidata.get(artist), True
+        if url:
+            # Wikidata can match a namesake (a "Silence" from Slovenia): check the page's location.
+            try:
+                info = page_artist(url)
+            except Exception:
+                info = None
+            if not (info and QUEBEC.search(info[1])):
+                url = None
+        if not url:
+            try:
+                url = from_musicbrainz(artist)
+            except Exception as e:
+                print(f"  {artist}: MusicBrainz indisponible ({e})", flush=True)
+                searched = False  # on réessaiera la prochaine fois
+                time.sleep(3)
         url = url or from_guess(artist)
         print(("✓ " if url else "· ") + artist + (f" → {url}" if url else ""), flush=True)
-        if url:
-            found[artist] = url
+        if url or searched:
+            found[artist] = url or "-"  # "-" : cherché sans résultat, on ne recherche plus
             save(found)  # au fur et à mesure : une interruption ne perd rien
     save(found)
     write_js()
-    print(f"{len(found)} artistes sur {len(artists)} → {OUT.relative_to(ROOT)}, public/bandcamp.js")
+    print(f"{sum(1 for v in found.values() if v.startswith('https'))} artistes avec une page Bandcamp → public/bandcamp.js")
 
 
 if __name__ == "__main__":

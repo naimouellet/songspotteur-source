@@ -59,6 +59,7 @@ scripts/
   apple_music.py     jeton et requêtes de l'API Apple Music
   apple_migrate.py   ajoute l'extrait Apple aux chansons qui n'en ont pas (par ISRC)
   playlist_import.py ajoute les chansons de la playlist TOP QUEB qui manquent
+  weekly_update.sh   mise à jour hebdomadaire : playlist, catalogue, Bandcamp, publication
   discover.py        liste les chansons populaires d'une liste d'artistes
   expand.py          propose de nouvelles chansons à ajouter au catalogue
   bandcamp.py        trouve les pages Bandcamp (Wikidata, MusicBrainz, vérification de la page)
@@ -87,10 +88,10 @@ Publier (nécessite `gh` connecté) : le site est hébergé sur GitHub Pages, à
 scripts/deploy.sh
 ```
 
-Ajouter les nouvelles chansons de la playlist :
+Ajouter les nouvelles chansons de la playlist, chercher les pages Bandcamp des nouveaux artistes et publier, en une commande (c'est ce que fait la tâche planifiée chaque semaine) :
 
 ```bash
-python3 scripts/playlist_import.py && python3 scripts/build_catalog.py
+scripts/weekly_update.sh
 ```
 
 Les scripts Apple Music ont besoin d'une clé MusicKit (`AuthKey_<KEY_ID>.p8`). Elle n'est jamais dans le dépôt : ils la lisent dans `~/.songspotteur/` ou dans la variable d'environnement `APPLE_MUSIC_KEY`.
