@@ -251,8 +251,12 @@
   let interacted = false;
   for (const ev of ["pointerdown", "keydown"]) addEventListener(ev, () => (interacted = true), { once: true, capture: true });
 
+  // Extraits qui ne chargent pas, de suite. Après trois, on arrête (pas de connexion,
+  // sans doute) au lieu d'enchaîner les chansons sans fin ; ▶ ou le retour du réseau
+  // relancent. Une chanson ratée ainsi ne compte pas comme une manche.
+  let failures = 0, stalled = false;
   let loadToken = 0;
-  async function newRound() {
+  async function newRound(retry = false) {
     stop();
     state.stage = 0;
     state.over = false;
@@ -264,7 +268,8 @@
     preload = null;
     state.song = pre && !played.has(pre.song.id) ? pre.song : pickSong();
     if (state.song) markPlayed(state.song);
-    state.round += 1;
+    if (!retry) state.round += 1;
+    stalled = false;
     $("round").textContent = `Chanson ${state.round}`;
     $("attempts").innerHTML = "";
     $("reveal").hidden = true;
@@ -292,6 +297,7 @@
     try {
       const buf = (pre && pre.song === song && (await pre.buf)) || (await load(song));
       if (token !== loadToken) return;
+      failures = 0;
       state.buffer = buf;
       state.offset = loudStart(buf);
       const room = buf.duration - state.offset;
@@ -306,7 +312,10 @@
     } catch (e) {
       if (token !== loadToken) return;
       console.warn("Extrait introuvable, on passe à la suivante", song, e);
-      return newRound();
+      if (++failures < 3) return newRound(true);
+      stalled = true;
+      setStatus("Pas de connexion");
+      $("songArtist").textContent = "Impossible de charger les extraits. Vérifie ta connexion, puis touche ▶ pour réessayer.";
     } finally {
       if (token === loadToken) $("play").classList.remove("loading");
       $("play").disabled = false;
@@ -703,6 +712,7 @@
 
   // ---------- Contrôles ----------
   $("play").onclick = () => {
+    if (stalled) return newRound(true);
     if (state.source) return stop();
     if (state.over) return play(Math.min(REVEAL_LEN, state.buffer?.duration ?? REVEAL_LEN));
     play(stages()[state.stage]);
@@ -717,7 +727,8 @@
     sfx.skip();
     advance();
   };
-  $("next").onclick = newRound;
+  $("next").onclick = () => newRound();
+  addEventListener("online", () => { if (stalled) newRound(true); });
 
   document.addEventListener("keydown", (e) => {
     if (e.target.tagName === "INPUT") return;
