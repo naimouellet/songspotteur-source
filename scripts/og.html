@@ -1,9 +1,14 @@
 <!doctype html>
-<!-- Image d'aperçu des liens (public/og.png) et icône (public/icon.png).
+<!-- Image d'aperçu des liens (public/og.png) et icônes de l'app (public/icon*.png).
      Régénérer :
        chrome="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
        "$chrome" --headless --hide-scrollbars --window-size=1200,630 --screenshot=public/og.png "file://$PWD/scripts/og.html"
-       "$chrome" --headless --hide-scrollbars --window-size=180,180 --screenshot=public/icon.png "file://$PWD/scripts/og.html#icon" -->
+       "$chrome" --headless --hide-scrollbars --window-size=180,180 --screenshot=public/icon.png "file://$PWD/scripts/og.html#icon"
+       "$chrome" --headless --hide-scrollbars --window-size=192,192 --screenshot=public/icon-192.png "file://$PWD/scripts/og.html#icon-192"
+       "$chrome" --headless --hide-scrollbars --window-size=512,512 --screenshot=public/icon-512.png "file://$PWD/scripts/og.html#icon-512"
+       "$chrome" --headless --hide-scrollbars --window-size=512,512 --screenshot=public/icon-maskable.png "file://$PWD/scripts/og.html#maskable-512"
+     « maskable » : Android découpe l'icône en cercle ou en carré arrondi ; la grille
+     reste alors dans le cercle central (80 % de la largeur). -->
 <html lang="fr-CA">
 <head>
 <meta charset="utf-8">
@@ -31,9 +36,9 @@
   }
   .pill svg { width: 22px; height: 22px; fill: #fff; }
 
-  /* Icône : seulement la grille de points, sur fond bleu. */
-  body.icon { width: 180px; height: 180px; padding: 0; background: #1257e0; justify-content: center; }
-  body.icon .art { width: 180px; height: 180px; border-radius: 0; background: none; box-shadow: none; }
+  /* Icône : seulement la grille de points, sur fond bleu, à la taille demandée. */
+  body.icon { width: var(--size); height: var(--size); padding: 0; background: #1257e0; justify-content: center; }
+  body.icon .art { width: var(--size); height: var(--size); border-radius: 0; background: none; box-shadow: none; }
   body.icon .text { display: none; }
 </style>
 </head>
@@ -46,11 +51,16 @@
   </div>
 <script>
   // Même dessin que public/viz.js, figé sur une forme de chanson.
-  const icon = location.hash === "#icon";
-  if (icon) document.body.classList.add("icon");
+  // #icon (180 px), #icon-512, #maskable-512 : icône à cette taille ; sinon l'aperçu.
+  const [, kind, px] = location.hash.match(/^#(icon|maskable)(?:-(\d+))?$/) || [];
+  const icon = !!kind, size = Number(px) || 180;
+  if (icon) {
+    document.body.classList.add("icon");
+    document.body.style.setProperty("--size", `${size}px`);
+  }
   const c = document.getElementById("c"), g = c.getContext("2d");
   // Moins de points, plus gros, que dans le jeu : l'aperçu s'affiche souvent en petit.
-  const N = icon ? 12 : 20, S = (icon ? 180 : 430) * 2, M = icon ? 0.2 : 0.14;
+  const N = icon ? 12 : 20, S = (icon ? size : 430) * 2, M = kind === "maskable" ? 0.27 : icon ? 0.2 : 0.14;
   c.width = c.height = S;
   const side = S * (1 - M * 2), x0 = (S - side) / 2, step = side / (N - 1), mid = (N - 1) / 2;
   const dot = step * (icon ? 0.2 : 0.17);

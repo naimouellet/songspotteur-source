@@ -725,6 +725,24 @@
     else if (e.key === "Enter" && state.over) { e.preventDefault(); newRound(); }
   });
 
+  // Installation comme une app. Android et ordinateur : le navigateur propose sa
+  // propre fenêtre d'installation, gardée pour le lien du pied de page. iPhone : pas
+  // de telle fenêtre, seulement Partager → « Sur l'écran d'accueil » ; le lien l'explique.
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+  const installed = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  const iOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  let installPrompt = null;
+  addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); installPrompt = e; $("installWrap").hidden = false; });
+  addEventListener("appinstalled", () => { installPrompt = null; $("installWrap").hidden = true; });
+  if (iOS && !installed) $("installWrap").hidden = false;
+  $("install").onclick = async () => {
+    if (!installPrompt) { $("installHint").hidden = !$("installHint").hidden; return; }
+    installPrompt.prompt();
+    await installPrompt.userChoice;
+    installPrompt = null;
+    $("installWrap").hidden = true;
+  };
+
   renderScore();
   renderOpenButton();
   newRound();
