@@ -62,4 +62,4 @@ if ! gh api "repos/$REPO/pages" >/dev/null 2>&1; then
   gh api -X POST "repos/$REPO/pages" -f "source[branch]=main" -f "source[path]=/" >/dev/null
 fi
 
-echo "En ligne sous peu : https://naimouellet.github.io/songspotteur/"
+echo "En ligne sous peu : https://$DOMAIN/"
