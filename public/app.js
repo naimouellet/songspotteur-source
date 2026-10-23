@@ -272,6 +272,7 @@
     $("searchBox").classList.remove("shake");
     $("verdict").hidden = true;
     $("songMeta").hidden = true;
+    $("songShows").hidden = true;
     $("songTitle").textContent = QUESTION;
     $("songArtist").textContent = HINT;
     document.querySelector(".heading").classList.remove("revealed");
@@ -352,6 +353,30 @@
     }
   }
 
+  // Prochains spectacles de l'artiste (scripts/shows.py, mis à jour chaque semaine) :
+  // seulement ceux à venir et dans les six prochains mois, au plus deux.
+  const localDate = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  function renderShows(artist) {
+    const now = new Date(), until = new Date(now);
+    until.setMonth(until.getMonth() + 6);
+    const from = localDate(now), to = localDate(until);
+    const shows = ((window.SHOWS || {})[artist] || []).filter((s) => s.date >= from && s.date <= to).slice(0, 2);
+    const p = $("songShows");
+    p.replaceChildren();
+    shows.forEach((show, i) => {
+      const [y, m, d] = show.date.split("-").map(Number);
+      const a = document.createElement("a");
+      a.href = show.url;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = new Date(y, m - 1, d).toLocaleDateString("fr-CA", { day: "numeric", month: "short" })
+        + (show.city ? ` à ${show.city}` : "");
+      a.title = [show.venue, show.city].filter(Boolean).join(", ");
+      p.append(i ? " · " : "En spectacle : ", a);
+    });
+    p.hidden = !shows.length;
+  }
+
   function finish(won) {
     const stage = state.stage;
     state.over = true;
@@ -394,6 +419,7 @@
       $("songMeta").append(" · ", a);
     }
     $("songMeta").hidden = false;
+    renderShows(s.artist);
     document.querySelector(".heading").classList.add("revealed");
     $("art").src = bigArt(s.art);
     $("art").alt = `Pochette — ${s.title}`;
