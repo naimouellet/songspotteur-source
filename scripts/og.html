@@ -8,7 +8,7 @@
        "$chrome" --headless --hide-scrollbars --window-size=512,512 --screenshot=public/icon-512.png "file://$PWD/scripts/og.html#icon-512"
        "$chrome" --headless --hide-scrollbars --window-size=512,512 --screenshot=public/icon-maskable.png "file://$PWD/scripts/og.html#maskable-512"
      « maskable » : Android découpe l'icône en cercle ou en carré arrondi ; la grille
-     reste alors dans le cercle central (80 % de la largeur). -->
+     couvre toute l'icône, et la forme allumée reste au centre, dans la partie gardée. -->
 <html lang="fr-CA">
 <head>
 <meta charset="utf-8">
@@ -60,14 +60,21 @@
   }
   const c = document.getElementById("c"), g = c.getContext("2d");
   // Moins de points, plus gros, que dans le jeu : l'aperçu s'affiche souvent en petit.
-  const N = icon ? 12 : 20, S = (icon ? size : 430) * 2, M = kind === "maskable" ? 0.27 : icon ? 0.2 : 0.14;
+  // Icônes : la grille couvre toute l'icône, chaque point au centre de sa case (comme
+  // dans le jeu) ; l'aperçu garde une marge autour de la grille.
+  // « maskable » : Android n'en garde que les 80 % du centre. Grille plus grande
+  // (20 points) et forme dessinée dans ces 80 % : une fois découpée, elle ressemble
+  // à l'icône normale (16 points).
+  const maskable = kind === "maskable";
+  const N = maskable ? 20 : icon ? 16 : 20, S = (icon ? size : 430) * 2;
   c.width = c.height = S;
-  const side = S * (1 - M * 2), x0 = (S - side) / 2, step = side / (N - 1), mid = (N - 1) / 2;
+  const step = icon ? S / N : S * 0.72 / (N - 1), x0 = icon ? step / 2 : S * 0.14, mid = (N - 1) / 2;
   const dot = step * (icon ? 0.2 : 0.17);
   const level = (x) => 0.18 + 0.5 * Math.exp(-((x - 0.2) ** 2) / 0.02) + 0.38 * Math.exp(-((x - 0.62) ** 2) / 0.03)
     + 0.06 * Math.sin(x * 40) - 0.12 * x;
   for (let col = 0; col < N; col++) {
-    const lv = Math.max(0, Math.min(1, level(col / (N - 1))));
+    const u = maskable ? (col - 2) / (N - 5) : col / (N - 1); // maskable : 16 colonnes du centre
+    const lv = u < 0 || u > 1 ? 0 : Math.max(0, Math.min(1, level(u)));
     for (let r = 0; r < N; r++) {
       const d = Math.abs(r - mid) / mid;
       const lit = Math.max(0, Math.min(1, (lv - d) * 5 + 0.5));
