@@ -7,8 +7,7 @@ window.Viz = (() => {
   const g = canvas.getContext("2d");
 
   const COLS = 32, ROWS = 32;
-  const F_LO = 60, F_HI = 5000;   // plage utile, en Hz
-  const MARGIN = 0.14;            // marge autour de la grille, en fraction du côté
+  const F_LO = 50, F_HI = 4000;   // plage utile, en Hz
   const EDGE = [91, 149, 255];    // bleu du « QC » : teinte les points vers les bords
 
   const pos = new Float32Array(COLS);
@@ -35,10 +34,12 @@ window.Viz = (() => {
     canvas.width = w;
     canvas.height = h;
 
-    const side = Math.min(w, h) * (1 - MARGIN * 2);
-    x0 = (w - side) / 2;
-    y0 = (h - side) / 2;
-    step = side / (COLS - 1);
+    // La grille couvre toute la pochette : chaque point au centre de sa case,
+    // donc une demi-case aux bords, comme entre deux points.
+    const side = Math.min(w, h);
+    step = side / COLS;
+    x0 = (w - side) / 2 + step / 2;
+    y0 = (h - side) / 2 + step / 2;
     dot = Math.max(0.75, step * 0.13);
 
     // La grille éteinte ne bouge pas : dessinée une fois, puis recopiée à chaque image.
@@ -105,7 +106,7 @@ window.Viz = (() => {
       let a = 0;
       if (freq) {
         const [b0, b1, gain] = bands[i];
-        a = Math.min(1, 0.9 * Math.pow(Math.min(1, energy(b0, b1) * gain), 1.8));
+        a = Math.min(1, 0.9 * Math.pow(Math.min(1, energy(b0, b1) * gain), 2.4));
       }
       raw[i] = a;
     }
