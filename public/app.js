@@ -520,7 +520,6 @@
   const HISTORY_MAX = 24;
   function addToHistory(entry) {
     state.history.unshift(entry);
-    $("historyWrap").hidden = false;
     const list = $("history");
     list.prepend(historyCard(entry));
     while (list.children.length > HISTORY_MAX) list.lastElementChild.remove();
@@ -630,7 +629,8 @@
     $("guess").setAttribute("aria-activedescendant", "opt-0");
   }
 
-  // Ouvre la liste là où elle tient : en dessous du champ si la place suffit,
+  // Ouvre la liste là où elle tient : en dessous du champ si la place suffit
+  // (ou s'il y a de quoi montrer ~5 suggestions, pour ne pas cacher les commandes),
   // sinon au-dessus, et jamais plus haute que l'espace disponible.
   function placeSuggest() {
     const ul = $("suggest");
@@ -641,7 +641,7 @@
     const above = field.top - gap - margin;
     ul.style.maxHeight = "";
     const wanted = Math.min(ul.scrollHeight, 330);
-    const up = below < wanted && above > below;
+    const up = below < Math.min(wanted, 220) && above > below;
     ul.classList.toggle("up", up);
     ul.style.maxHeight = `${Math.max(120, Math.min(330, up ? above : below))}px`;
   }

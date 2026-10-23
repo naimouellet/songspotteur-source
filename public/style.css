@@ -273,9 +273,15 @@ svg { fill: currentColor; stroke: currentColor; }
 }
 
 /* Songs of this session: a strip of small cards under the player. */
-.history { width: 100%; max-width: 480px; padding: 0 20px 8px; animation: rise .45s var(--spring); }
-.history[hidden] { display: none; }
+/* Always laid out, even before the first song, so the game above never shifts when it fills. */
+.history { width: 100%; max-width: 480px; padding: 0 20px 8px; }
 .history h2 { margin: 0 0 10px; font: 600 15px/1 var(--display); color: var(--label-2); }
+#history:empty { grid-auto-columns: 100%; }
+#history:empty::before {
+  content: "Les chansons jouées s'afficheront ici."; display: flex; align-items: center; height: 64px; padding: 0 16px;
+  box-sizing: border-box; /* same height as a card; the global rule doesn't reach pseudo-elements */
+  border: 1px dashed var(--separator); border-radius: 12px; font-size: 14px; color: var(--label-3);
+}
 #history {
   list-style: none; margin: 0; padding: 0; display: grid; grid-auto-flow: column; grid-auto-columns: 232px;
   gap: 10px; overflow-x: auto; scroll-snap-type: x proximity; scrollbar-width: none;
@@ -310,13 +316,19 @@ svg { fill: currentColor; stroke: currentColor; }
 @media (min-width: 860px) {
   .toolbar, .history { max-width: 1180px; padding-left: 40px; padding-right: 40px; }
   .now-playing {
-    max-width: 1180px; padding: 24px 40px 32px;
+    max-width: 1180px; padding: clamp(16px, 10vh, 110px) 40px 32px;
     display: grid; grid-template-columns: minmax(0, min(620px, 62vh)) minmax(340px, 500px);
-    justify-content: center; align-content: center; column-gap: clamp(40px, 6vw, 88px); row-gap: 22px;
+    /* Anchored to the top, not centred: nothing moves as attempts or the history fill in,
+       and the suggestion list has room to open below the search field. The last row
+       (attempts) takes whatever height the artwork leaves over. */
+    grid-template-rows: repeat(5, auto) 1fr;
+    justify-content: center; align-content: start; column-gap: clamp(40px, 6vw, 88px); row-gap: 22px;
   }
-  .artwork { grid-row: 1 / span 6; align-self: center; border-radius: 18px; }
+  .artwork { grid-row: 1 / span 6; align-self: start; border-radius: 18px; }
   .artwork.idle { transform: scale(.94); }
-  .heading { min-height: 0; }
+  /* As tall as the question (eyebrow, two-line title, hint), so the controls below
+     don't jump up when it is replaced by a shorter song title. */
+  .heading { min-height: calc(58px + 2.16 * clamp(34px, 3.4vw, 48px)); }
   .eyebrow { font-size: 15px; }
   .heading h1 { font-size: clamp(34px, 3.4vw, 48px); line-height: 1.08; }
   .subline { font-size: 22px; margin-top: 4px; }
