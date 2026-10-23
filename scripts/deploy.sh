@@ -6,6 +6,7 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 REPO="naimouellet/songspotteur"
+DOMAIN="musiquizqc.com"
 WORK="$ROOT/.deploy"
 
 python3 "$ROOT/scripts/build_dist.py"
@@ -25,7 +26,7 @@ fi
 find "$WORK" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
 cp -R "$ROOT/dist/." "$WORK/"
 cat > "$WORK/README.md" <<'MD'
-# Musiquiz QC (ancienne adresse)
+# Musiquiz QC (version publiée)
 
 Reconnais une chanson québécoise à partir d'un extrait d'une demi-seconde.
 
@@ -36,6 +37,14 @@ Le code source, le catalogue et les scripts sont dans
 [naimouellet/songspotteur-source](https://github.com/naimouellet/songspotteur-source).
 MD
 touch "$WORK/.nojekyll"
+
+# Custom domain: only once its DNS points to GitHub Pages. Publishing the CNAME
+# earlier would redirect the github.io address to a domain that doesn't work yet.
+if dig +short A "$DOMAIN" | grep -Eq '^185\.199\.(108|109|110|111)\.153$'; then
+  echo "$DOMAIN" > "$WORK/CNAME"
+else
+  echo "DNS de $DOMAIN pas encore vers GitHub Pages : publication à l'adresse github.io pour l'instant."
+fi
 
 cd "$WORK"
 git add -A
