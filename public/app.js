@@ -137,10 +137,23 @@
     });
   }
 
-  async function load(song) {
-    const res = await fetch(await previewUrl(song.id));
+  // Identifiant Deezer d'une chanson (les plus anciennes entrées n'ont que `id`).
+  const deezerId = (song) => song.deezer ?? (typeof song.id === "number" ? song.id : null);
+
+  async function fetchAudio(url) {
+    const res = await fetch(url);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     return audio().decodeAudioData(await res.arrayBuffer());
+  }
+
+  // Extrait Apple Music (AAC ~256 kb/s, lien stable) en priorité ; Deezer en secours
+  // si la chanson n'a pas d'extrait Apple ou si celui-ci ne charge pas.
+  async function load(song) {
+    if (song.preview) {
+      try { return await fetchAudio(song.preview); }
+      catch (e) { if (!deezerId(song)) throw e; console.warn("Extrait Apple indisponible, secours Deezer", song.title, e); }
+    }
+    return fetchAudio(await previewUrl(deezerId(song)));
   }
 
   // Les aperçus Deezer commencent souvent par un fondu : on saute au premier
@@ -398,9 +411,9 @@
   // passe directement à l'app, sans détour réseau au moment du clic.
   const query = (song) => encodeURIComponent(`${song.artist} ${song.title}`);
   const APPS = {
-    apple: { name: "Apple Music", link: (song, exact) => exact ? exact.replace(/^https:/, "music:") : `music://music.apple.com/ca/search?term=${query(song)}` },
+    apple: { name: "Apple Music", link: (song, exact) => song.apple ? `music://music.apple.com/ca/song/${song.apple}` : exact ? exact.replace(/^https:/, "music:") : `music://music.apple.com/ca/search?term=${query(song)}` },
     spotify: { name: "Spotify", link: (song) => `spotify:search:${query(song)}` },
-    deezer: { name: "Deezer", link: (song) => `deezer://www.deezer.com/track/${song.id}` },
+    deezer: { name: "Deezer", link: (song) => deezerId(song) ? `deezer://www.deezer.com/track/${deezerId(song)}` : `deezer://www.deezer.com/search/${query(song)}` },
     youtube: { name: "YouTube Music", web: true, link: (song) => `https://music.youtube.com/search?q=${query(song)}` },
   };
   let app = APPS[store.get("app", "")] ? store.get("app", "") : null;
@@ -439,7 +452,7 @@
     const def = APPS[app];
     a.href = def.link(song);
     if (def.web) { a.target = "_blank"; a.rel = "noopener"; } else a.removeAttribute("target");
-    if (app === "apple") lookupApple(song).then((exact) => { if (exact && app === "apple" && linkSongs.get(a) === song) a.href = def.link(song, exact); });
+    if (app === "apple" && !song.apple) lookupApple(song).then((exact) => { if (exact && app === "apple" && linkSongs.get(a) === song) a.href = def.link(song, exact); });
   }
 
   function renderOpenButton() {

@@ -8,7 +8,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/252a64764337eeac41dcb5835e04e4c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/7183901"
+  "link": "https://www.deezer.com/track/7183901",
+  "deezer": 7183901
  },
  {
   "id": 16918592,
@@ -18,7 +19,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/604029490204a7d357cda1d74a0fd0a3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/16918592"
+  "link": "https://www.deezer.com/track/16918592",
+  "deezer": 16918592
  },
  {
   "id": 1410660772,
@@ -28,7 +30,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d363e1329a31f102e40e0f2bef988d02/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1410660772"
+  "link": "https://www.deezer.com/track/1410660772",
+  "deezer": 1410660772
  },
  {
   "id": 1713040637,
@@ -38,7 +41,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/a03d1363caeed425205a3dda958503b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1713040637"
+  "link": "https://www.deezer.com/track/1713040637",
+  "deezer": 1713040637
  },
  {
   "id": 879923,
@@ -48,7 +52,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/620bf1076bca90aeab29971037e444db/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/879923"
+  "link": "https://www.deezer.com/track/879923",
+  "deezer": 879923
  },
  {
   "id": 84508223,
@@ -58,7 +63,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c21274ba2ac6ff47572e1846215406d1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/84508223"
+  "link": "https://www.deezer.com/track/84508223",
+  "deezer": 84508223
  },
  {
   "id": 1425097172,
@@ -68,7 +74,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/744adac970257e2238378627d0f5c26d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1425097172"
+  "link": "https://www.deezer.com/track/1425097172",
+  "deezer": 1425097172
  },
  {
   "id": 1425097372,
@@ -78,7 +85,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/744adac970257e2238378627d0f5c26d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1425097372"
+  "link": "https://www.deezer.com/track/1425097372",
+  "deezer": 1425097372
  },
  {
   "id": 1132762552,
@@ -88,7 +96,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/1522d01f3060057723d438f275bed41a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1132762552"
+  "link": "https://www.deezer.com/track/1132762552",
+  "deezer": 1132762552
  },
  {
   "id": 128228263,
@@ -98,7 +107,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/1d53491e5fb439d385d6cd59dbb80d51/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128228263"
+  "link": "https://www.deezer.com/track/128228263",
+  "deezer": 128228263
  },
  {
   "id": 128221097,
@@ -108,7 +118,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcc3905b55870da27861a08fbbbcccc3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221097"
+  "link": "https://www.deezer.com/track/128221097",
+  "deezer": 128221097
  },
  {
   "id": 128229091,
@@ -118,7 +129,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/fe2aa85fb3262fd05b433e7602a03fe9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128229091"
+  "link": "https://www.deezer.com/track/128229091",
+  "deezer": 128229091
  },
  {
   "id": 71903005,
@@ -128,7 +140,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e7381f9a7515ea0f29e54478af1019bd/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/71903005"
+  "link": "https://www.deezer.com/track/71903005",
+  "deezer": 71903005
  },
  {
   "id": 3393958,
@@ -138,7 +151,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3393958"
+  "link": "https://www.deezer.com/track/3393958",
+  "deezer": 3393958
  },
  {
   "id": 3393959,
@@ -148,7 +162,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3393959"
+  "link": "https://www.deezer.com/track/3393959",
+  "deezer": 3393959
  },
  {
   "id": 3060700051,
@@ -158,7 +173,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b3824f57fd747ac1ff36d768b92c6429/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3060700051"
+  "link": "https://www.deezer.com/track/3060700051",
+  "deezer": 3060700051
  },
  {
   "id": 617423192,
@@ -168,7 +184,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/420e9641de9be262f3d9ee9a468e14d5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/617423192"
+  "link": "https://www.deezer.com/track/617423192",
+  "deezer": 617423192
  },
  {
   "id": 822636532,
@@ -178,7 +195,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/39642275717f230f9fcb60ff9a81269c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/822636532"
+  "link": "https://www.deezer.com/track/822636532",
+  "deezer": 822636532
  },
  {
   "id": 516228722,
@@ -188,7 +206,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ef5d440324b3b47f5376a7d1a59dee94/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/516228722"
+  "link": "https://www.deezer.com/track/516228722",
+  "deezer": 516228722
  },
  {
   "id": 1663446852,
@@ -198,7 +217,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/847082a6aec4a5dd526df6a408b3b94e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1663446852"
+  "link": "https://www.deezer.com/track/1663446852",
+  "deezer": 1663446852
  },
  {
   "id": 3679983272,
@@ -208,7 +228,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d038fb9394992876c1e551678d32ae9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3679983272"
+  "link": "https://www.deezer.com/track/3679983272",
+  "deezer": 3679983272
  },
  {
   "id": 3679982792,
@@ -218,7 +239,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/052e325f7f454afb228948fcc62be944/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3679982792"
+  "link": "https://www.deezer.com/track/3679982792",
+  "deezer": 3679982792
  },
  {
   "id": 789203032,
@@ -228,7 +250,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d55824e52e5173826f7e586e3b585e8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/789203032"
+  "link": "https://www.deezer.com/track/789203032",
+  "deezer": 789203032
  },
  {
   "id": 789203152,
@@ -238,7 +261,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d55824e52e5173826f7e586e3b585e8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/789203152"
+  "link": "https://www.deezer.com/track/789203152",
+  "deezer": 789203152
  },
  {
   "id": 1405589902,
@@ -248,7 +272,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/39cbccf2aff830ca00f6f99d8cfbcaa7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1405589902"
+  "link": "https://www.deezer.com/track/1405589902",
+  "deezer": 1405589902
  },
  {
   "id": 15556979,
@@ -258,7 +283,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/02aec6f3cff149d633d280cc4a8e8f4d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15556979"
+  "link": "https://www.deezer.com/track/15556979",
+  "deezer": 15556979
  },
  {
   "id": 128234611,
@@ -268,7 +294,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/0799b2033da8e7c583c4a08aee31fc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234611"
+  "link": "https://www.deezer.com/track/128234611",
+  "deezer": 128234611
  },
  {
   "id": 4094305051,
@@ -278,7 +305,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b8f38258146651058b171b49fe011ac/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4094305051"
+  "link": "https://www.deezer.com/track/4094305051",
+  "deezer": 4094305051
  },
  {
   "id": 897720,
@@ -288,7 +316,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/b275e93e48d2fc82054e306490e56245/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/897720"
+  "link": "https://www.deezer.com/track/897720",
+  "deezer": 897720
  },
  {
   "id": 4762933,
@@ -298,7 +327,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4762933"
+  "link": "https://www.deezer.com/track/4762933",
+  "deezer": 4762933
  },
  {
   "id": 627441,
@@ -308,7 +338,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/48661a4a6672225ea9d189892c99044b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/627441"
+  "link": "https://www.deezer.com/track/627441",
+  "deezer": 627441
  },
  {
   "id": 1652871722,
@@ -318,7 +349,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/0467fb08aac768a6614b7d27d45f7cb0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1652871722"
+  "link": "https://www.deezer.com/track/1652871722",
+  "deezer": 1652871722
  },
  {
   "id": 4094316941,
@@ -328,7 +360,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/1e4de278e086a31c4f1a463cbf1d3e6c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4094316941"
+  "link": "https://www.deezer.com/track/4094316941",
+  "deezer": 4094316941
  },
  {
   "id": 1507557302,
@@ -338,7 +371,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/e5366643fe4da070fdf2b31f0092a54b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1507557302"
+  "link": "https://www.deezer.com/track/1507557302",
+  "deezer": 1507557302
  },
  {
   "id": 1500511642,
@@ -348,7 +382,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04fc17ee69ee0d2e14eff965492756e6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1500511642"
+  "link": "https://www.deezer.com/track/1500511642",
+  "deezer": 1500511642
  },
  {
   "id": 69484660,
@@ -358,7 +393,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/f7e7f2ce8228d9f266894f3616feedb6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/69484660"
+  "link": "https://www.deezer.com/track/69484660",
+  "deezer": 69484660
  },
  {
   "id": 74379375,
@@ -368,7 +404,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/7054c09b44ed6db2fd38ff56a0e3c621/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/74379375"
+  "link": "https://www.deezer.com/track/74379375",
+  "deezer": 74379375
  },
  {
   "id": 128236305,
@@ -378,7 +415,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/ced9792f0d874bfada411853e8a7ed7f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128236305"
+  "link": "https://www.deezer.com/track/128236305",
+  "deezer": 128236305
  },
  {
   "id": 128237709,
@@ -388,7 +426,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a09ddefc5d881df25f8859323fb71fc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237709"
+  "link": "https://www.deezer.com/track/128237709",
+  "deezer": 128237709
  },
  {
   "id": 93081564,
@@ -398,7 +437,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/93081564"
+  "link": "https://www.deezer.com/track/93081564",
+  "deezer": 93081564
  },
  {
   "id": 3487751331,
@@ -408,7 +448,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cf78719f8a1948bae380bbfdf4c31b3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487751331"
+  "link": "https://www.deezer.com/track/3487751331",
+  "deezer": 3487751331
  },
  {
   "id": 1071748082,
@@ -418,7 +459,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2c37527a3e3cf5cdf27c25272641eaf8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1071748082"
+  "link": "https://www.deezer.com/track/1071748082",
+  "deezer": 1071748082
  },
  {
   "id": 4096891401,
@@ -428,7 +470,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4096891401"
+  "link": "https://www.deezer.com/track/4096891401",
+  "deezer": 4096891401
  },
  {
   "id": 128228071,
@@ -438,7 +481,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d4f6dc78d21916a78183b817bc2d7a4f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128228071"
+  "link": "https://www.deezer.com/track/128228071",
+  "deezer": 128228071
  },
  {
   "id": 128233473,
@@ -448,7 +492,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/d806f40a87972cea5c9f5867f22180a6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233473"
+  "link": "https://www.deezer.com/track/128233473",
+  "deezer": 128233473
  },
  {
   "id": 128233609,
@@ -458,7 +503,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233609"
+  "link": "https://www.deezer.com/track/128233609",
+  "deezer": 128233609
  },
  {
   "id": 15397677,
@@ -468,7 +514,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15397677"
+  "link": "https://www.deezer.com/track/15397677",
+  "deezer": 15397677
  },
  {
   "id": 15397671,
@@ -478,7 +525,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15397671"
+  "link": "https://www.deezer.com/track/15397671",
+  "deezer": 15397671
  },
  {
   "id": 15397747,
@@ -488,7 +536,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f055e87920ccc0815aefbfda8e810f1c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15397747"
+  "link": "https://www.deezer.com/track/15397747",
+  "deezer": 15397747
  },
  {
   "id": 128234295,
@@ -498,7 +547,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234295"
+  "link": "https://www.deezer.com/track/128234295",
+  "deezer": 128234295
  },
  {
   "id": 128234299,
@@ -508,7 +558,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234299"
+  "link": "https://www.deezer.com/track/128234299",
+  "deezer": 128234299
  },
  {
   "id": 1497676382,
@@ -518,7 +569,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/c97b922eab501eb8bb984ef51e5da9ae/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497676382"
+  "link": "https://www.deezer.com/track/1497676382",
+  "deezer": 1497676382
  },
  {
   "id": 1497676222,
@@ -528,7 +580,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/c97b922eab501eb8bb984ef51e5da9ae/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497676222"
+  "link": "https://www.deezer.com/track/1497676222",
+  "deezer": 1497676222
  },
  {
   "id": 1406255662,
@@ -538,7 +591,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/7ffe5019f7d2bf325feb5dc91623532a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1406255662"
+  "link": "https://www.deezer.com/track/1406255662",
+  "deezer": 1406255662
  },
  {
   "id": 87485105,
@@ -548,7 +602,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/359368b0059cd69f699ee3ebf981943d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/87485105"
+  "link": "https://www.deezer.com/track/87485105",
+  "deezer": 87485105
  },
  {
   "id": 87485113,
@@ -558,7 +613,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/359368b0059cd69f699ee3ebf981943d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/87485113"
+  "link": "https://www.deezer.com/track/87485113",
+  "deezer": 87485113
  },
  {
   "id": 1138845492,
@@ -568,7 +624,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/789242707f408ae2fac0fb873bb47452/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1138845492"
+  "link": "https://www.deezer.com/track/1138845492",
+  "deezer": 1138845492
  },
  {
   "id": 3736695062,
@@ -578,7 +635,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5b9cc799882c5d354a44a3af88015795/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3736695062"
+  "link": "https://www.deezer.com/track/3736695062",
+  "deezer": 3736695062
  },
  {
   "id": 871452,
@@ -588,7 +646,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/714c238edcb37ccb8c1a002501cddac1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/871452"
+  "link": "https://www.deezer.com/track/871452",
+  "deezer": 871452
  },
  {
   "id": 128237983,
@@ -598,7 +657,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2d2a0cbde97621fb06cb9ac62fb647da/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237983"
+  "link": "https://www.deezer.com/track/128237983",
+  "deezer": 128237983
  },
  {
   "id": 798397,
@@ -608,7 +668,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/86960c96d5c89d10187e6b8f7deb599d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/798397"
+  "link": "https://www.deezer.com/track/798397",
+  "deezer": 798397
  },
  {
   "id": 138782813,
@@ -618,7 +679,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/ef6f1a474883ea9d8be2b81a09853073/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/138782813"
+  "link": "https://www.deezer.com/track/138782813",
+  "deezer": 138782813
  },
  {
   "id": 109374040,
@@ -628,7 +690,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/78162e82ee97433c23e48b634cfcd4e8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109374040"
+  "link": "https://www.deezer.com/track/109374040",
+  "deezer": 109374040
  },
  {
   "id": 109374130,
@@ -638,7 +701,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/a66ad81daa40b2a40c4e2db19f2b3261/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109374130"
+  "link": "https://www.deezer.com/track/109374130",
+  "deezer": 109374130
  },
  {
   "id": 109374132,
@@ -648,7 +712,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a66ad81daa40b2a40c4e2db19f2b3261/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109374132"
+  "link": "https://www.deezer.com/track/109374132",
+  "deezer": 109374132
  },
  {
   "id": 109374136,
@@ -658,7 +723,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a66ad81daa40b2a40c4e2db19f2b3261/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109374136"
+  "link": "https://www.deezer.com/track/109374136",
+  "deezer": 109374136
  },
  {
   "id": 1082531032,
@@ -668,7 +734,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/6dfdb9613b14858a7dced8c2bc49bbae/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1082531032"
+  "link": "https://www.deezer.com/track/1082531032",
+  "deezer": 1082531032
  },
  {
   "id": 45112771,
@@ -678,7 +745,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/df7a47f96a5b1b08b05eaf577309b5d8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/45112771"
+  "link": "https://www.deezer.com/track/45112771",
+  "deezer": 45112771
  },
  {
   "id": 79074739,
@@ -688,7 +756,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f5cd81f64fa03dce06431c8c968b7ea7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/79074739"
+  "link": "https://www.deezer.com/track/79074739",
+  "deezer": 79074739
  },
  {
   "id": 79074736,
@@ -698,7 +767,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/f5cd81f64fa03dce06431c8c968b7ea7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/79074736"
+  "link": "https://www.deezer.com/track/79074736",
+  "deezer": 79074736
  },
  {
   "id": 208864,
@@ -708,7 +778,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/ab1244e736d2b4b219521f4b76492ec0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/208864"
+  "link": "https://www.deezer.com/track/208864",
+  "deezer": 208864
  },
  {
   "id": 3629522802,
@@ -718,7 +789,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0847cba82284378e7929b90d4de97778/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3629522802"
+  "link": "https://www.deezer.com/track/3629522802",
+  "deezer": 3629522802
  },
  {
   "id": 588237142,
@@ -728,7 +800,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/916daa17558a0c26ba4f1bcf1c0c5a0f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/588237142"
+  "link": "https://www.deezer.com/track/588237142",
+  "deezer": 588237142
  },
  {
   "id": 128229503,
@@ -738,7 +811,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d04343a3fda402cfdd38b64ad8433e4f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128229503"
+  "link": "https://www.deezer.com/track/128229503",
+  "deezer": 128229503
  },
  {
   "id": 128226565,
@@ -748,7 +822,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/835894b2968125eee64bb204b986a1f0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128226565"
+  "link": "https://www.deezer.com/track/128226565",
+  "deezer": 128226565
  },
  {
   "id": 65802574,
@@ -758,7 +833,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/f67afb057250e7ea046349859c852d8b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802574"
+  "link": "https://www.deezer.com/track/65802574",
+  "deezer": 65802574
  },
  {
   "id": 65760305,
@@ -768,7 +844,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e0b7b1a86be2b503ab68c7cad683261a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760305"
+  "link": "https://www.deezer.com/track/65760305",
+  "deezer": 65760305
  },
  {
   "id": 97906642,
@@ -778,7 +855,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/7dae3a10ea6034be8a41ab40f372e631/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/97906642"
+  "link": "https://www.deezer.com/track/97906642",
+  "deezer": 97906642
  },
  {
   "id": 1594322871,
@@ -788,7 +866,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/15dd9b5407f959572d54345da2fa6009/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1594322871"
+  "link": "https://www.deezer.com/track/1594322871",
+  "deezer": 1594322871
  },
  {
   "id": 1855372837,
@@ -798,7 +877,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8f138b7ad4d9b69b70161d60418c964/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1855372837"
+  "link": "https://www.deezer.com/track/1855372837",
+  "deezer": 1855372837
  },
  {
   "id": 661492472,
@@ -808,7 +888,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/1fe1491ff015ef0f32034854ca011000/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/661492472"
+  "link": "https://www.deezer.com/track/661492472",
+  "deezer": 661492472
  },
  {
   "id": 128219955,
@@ -818,7 +899,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a664798eefa57f6ad2dc35b592b1925f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128219955"
+  "link": "https://www.deezer.com/track/128219955",
+  "deezer": 128219955
  },
  {
   "id": 668926932,
@@ -828,7 +910,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/894e09a9e63dc6b40903f6657f4787c4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/668926932"
+  "link": "https://www.deezer.com/track/668926932",
+  "deezer": 668926932
  },
  {
   "id": 606314292,
@@ -838,7 +921,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/5bc0c4c6da1b52a12e78150c59bb16ae/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/606314292"
+  "link": "https://www.deezer.com/track/606314292",
+  "deezer": 606314292
  },
  {
   "id": 129499598,
@@ -848,7 +932,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae78a89d49082fe78cc4a82025070e85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/129499598"
+  "link": "https://www.deezer.com/track/129499598",
+  "deezer": 129499598
  },
  {
   "id": 3167674571,
@@ -858,7 +943,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0caf9bd984958e035b4516470cadf158/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3167674571"
+  "link": "https://www.deezer.com/track/3167674571",
+  "deezer": 3167674571
  },
  {
   "id": 1283296152,
@@ -868,7 +954,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/87bacd9d3fbab653faad2da7dcaf79aa/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1283296152"
+  "link": "https://www.deezer.com/track/1283296152",
+  "deezer": 1283296152
  },
  {
   "id": 3692128942,
@@ -878,7 +965,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/37d758d7fba59c7e48b99cdd44160709/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3692128942"
+  "link": "https://www.deezer.com/track/3692128942",
+  "deezer": 3692128942
  },
  {
   "id": 663194792,
@@ -888,7 +976,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/33716ea5853a7fc0191a1510d548d7d3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/663194792"
+  "link": "https://www.deezer.com/track/663194792",
+  "deezer": 663194792
  },
  {
   "id": 1120656462,
@@ -898,7 +987,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1120656462"
+  "link": "https://www.deezer.com/track/1120656462",
+  "deezer": 1120656462
  },
  {
   "id": 919378132,
@@ -908,7 +998,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ad915ebf2c56510549283c0592595926/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/919378132"
+  "link": "https://www.deezer.com/track/919378132",
+  "deezer": 919378132
  },
  {
   "id": 407884572,
@@ -918,7 +1009,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/54bf82f4d5cfe966877876c81aca8302/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/407884572"
+  "link": "https://www.deezer.com/track/407884572",
+  "deezer": 407884572
  },
  {
   "id": 1120656442,
@@ -928,7 +1020,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1120656442"
+  "link": "https://www.deezer.com/track/1120656442",
+  "deezer": 1120656442
  },
  {
   "id": 1283296112,
@@ -938,7 +1031,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/87bacd9d3fbab653faad2da7dcaf79aa/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1283296112"
+  "link": "https://www.deezer.com/track/1283296112",
+  "deezer": 1283296112
  },
  {
   "id": 1283296142,
@@ -948,7 +1042,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/87bacd9d3fbab653faad2da7dcaf79aa/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1283296142"
+  "link": "https://www.deezer.com/track/1283296142",
+  "deezer": 1283296142
  },
  {
   "id": 1284099332,
@@ -958,7 +1053,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1284099332"
+  "link": "https://www.deezer.com/track/1284099332",
+  "deezer": 1284099332
  },
  {
   "id": 3019197991,
@@ -968,7 +1064,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b2548223cb998dac0f9e8d9ed9a74fd1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3019197991"
+  "link": "https://www.deezer.com/track/3019197991",
+  "deezer": 3019197991
  },
  {
   "id": 1679895837,
@@ -978,7 +1075,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/669a920785eb9be92a3dbc0483f3e0cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1679895837"
+  "link": "https://www.deezer.com/track/1679895837",
+  "deezer": 1679895837
  },
  {
   "id": 2730282031,
@@ -988,7 +1086,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/6b44f26ea1bc27c6918472c1d15dd757/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2730282031"
+  "link": "https://www.deezer.com/track/2730282031",
+  "deezer": 2730282031
  },
  {
   "id": 541811832,
@@ -998,7 +1097,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/9f33706fd07fd04ace458400efbb27d4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/541811832"
+  "link": "https://www.deezer.com/track/541811832",
+  "deezer": 541811832
  },
  {
   "id": 135335534,
@@ -1008,7 +1108,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/800a490c8af62797e4cab852e96e906d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/135335534"
+  "link": "https://www.deezer.com/track/135335534",
+  "deezer": 135335534
  },
  {
   "id": 71159472,
@@ -1018,7 +1119,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f0e45abe0716fd3b14e1529fe18b0971/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/71159472"
+  "link": "https://www.deezer.com/track/71159472",
+  "deezer": 71159472
  },
  {
   "id": 819194462,
@@ -1028,7 +1130,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7938619fbb04102a75c9bcd85da196c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/819194462"
+  "link": "https://www.deezer.com/track/819194462",
+  "deezer": 819194462
  },
  {
   "id": 552817212,
@@ -1038,7 +1141,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/552817212"
+  "link": "https://www.deezer.com/track/552817212",
+  "deezer": 552817212
  },
  {
   "id": 3168160681,
@@ -1048,7 +1152,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fb1783a37b40236949d0f15fa8226037/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168160681"
+  "link": "https://www.deezer.com/track/3168160681",
+  "deezer": 3168160681
  },
  {
   "id": 3019198051,
@@ -1058,7 +1163,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/b2548223cb998dac0f9e8d9ed9a74fd1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3019198051"
+  "link": "https://www.deezer.com/track/3019198051",
+  "deezer": 3019198051
  },
  {
   "id": 2255433817,
@@ -1068,7 +1174,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2255433817"
+  "link": "https://www.deezer.com/track/2255433817",
+  "deezer": 2255433817
  },
  {
   "id": 3019198041,
@@ -1078,7 +1185,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b2548223cb998dac0f9e8d9ed9a74fd1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3019198041"
+  "link": "https://www.deezer.com/track/3019198041",
+  "deezer": 3019198041
  },
  {
   "id": 1082498652,
@@ -1088,7 +1196,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/9237c55ed1a59b590d3b0ee7caf67810/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1082498652"
+  "link": "https://www.deezer.com/track/1082498652",
+  "deezer": 1082498652
  },
  {
   "id": 4270742832,
@@ -1098,7 +1207,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/ecc223a629a904424f5e4180a91fe38a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4270742832"
+  "link": "https://www.deezer.com/track/4270742832",
+  "deezer": 4270742832
  },
  {
   "id": 3389164631,
@@ -1108,7 +1218,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/772c5b06cf1d7cdce3347aa2002f0d8e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3389164631"
+  "link": "https://www.deezer.com/track/3389164631",
+  "deezer": 3389164631
  },
  {
   "id": 3978138961,
@@ -1118,7 +1229,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a8dca113677c4d4764973fbd20be2da/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3978138961"
+  "link": "https://www.deezer.com/track/3978138961",
+  "deezer": 3978138961
  },
  {
   "id": 827505432,
@@ -1128,7 +1240,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b9d3a1b1276f701968be41318b89ee3f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/827505432"
+  "link": "https://www.deezer.com/track/827505432",
+  "deezer": 827505432
  },
  {
   "id": 1880763597,
@@ -1138,7 +1251,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/bf5675b357e9689b158f567b109590c1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1880763597"
+  "link": "https://www.deezer.com/track/1880763597",
+  "deezer": 1880763597
  },
  {
   "id": 480533762,
@@ -1148,7 +1262,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be9bc30ccef11e6c77dbd35e71b71adc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/480533762"
+  "link": "https://www.deezer.com/track/480533762",
+  "deezer": 480533762
  },
  {
   "id": 2953864961,
@@ -1158,7 +1273,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/3c1087ba385f3ee051f4833a9f82b4e6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2953864961"
+  "link": "https://www.deezer.com/track/2953864961",
+  "deezer": 2953864961
  },
  {
   "id": 109104342,
@@ -1168,7 +1284,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8b55d56ebea9bc339620a5e6d4f9590f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109104342"
+  "link": "https://www.deezer.com/track/109104342",
+  "deezer": 109104342
  },
  {
   "id": 1989125397,
@@ -1178,7 +1295,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/716b4ab0e26db06826cb558d754b9b87/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1989125397"
+  "link": "https://www.deezer.com/track/1989125397",
+  "deezer": 1989125397
  },
  {
   "id": 15398018,
@@ -1188,7 +1306,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2f13aa2ccd541d27d69bb78c0f13345d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15398018"
+  "link": "https://www.deezer.com/track/15398018",
+  "deezer": 15398018
  },
  {
   "id": 1225315562,
@@ -1198,7 +1317,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/860430db3577438d3ddc319c07a37d8f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1225315562"
+  "link": "https://www.deezer.com/track/1225315562",
+  "deezer": 1225315562
  },
  {
   "id": 4182838152,
@@ -1208,7 +1328,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/4f9048e94db7ff23120957dc5a373186/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4182838152"
+  "link": "https://www.deezer.com/track/4182838152",
+  "deezer": 4182838152
  },
  {
   "id": 2560317082,
@@ -1218,7 +1339,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebbbe698bc3a54e1feb3c435860cb1ce/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2560317082"
+  "link": "https://www.deezer.com/track/2560317082",
+  "deezer": 2560317082
  },
  {
   "id": 1081403082,
@@ -1228,7 +1350,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8f53cba961cd7926210736356d22027b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1081403082"
+  "link": "https://www.deezer.com/track/1081403082",
+  "deezer": 1081403082
  },
  {
   "id": 1518448022,
@@ -1238,7 +1361,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f45bcccb717cbe0d9ff104a1075af3b8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1518448022"
+  "link": "https://www.deezer.com/track/1518448022",
+  "deezer": 1518448022
  },
  {
   "id": 1518379602,
@@ -1248,7 +1372,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f45bcccb717cbe0d9ff104a1075af3b8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1518379602"
+  "link": "https://www.deezer.com/track/1518379602",
+  "deezer": 1518379602
  },
  {
   "id": 3651471422,
@@ -1258,7 +1383,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e8045e596526e3dbe564441f1de66f9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3651471422"
+  "link": "https://www.deezer.com/track/3651471422",
+  "deezer": 3651471422
  },
  {
   "id": 2941998701,
@@ -1268,7 +1394,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2941998701"
+  "link": "https://www.deezer.com/track/2941998701",
+  "deezer": 2941998701
  },
  {
   "id": 2941998681,
@@ -1278,7 +1405,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2941998681"
+  "link": "https://www.deezer.com/track/2941998681",
+  "deezer": 2941998681
  },
  {
   "id": 1082498782,
@@ -1288,7 +1416,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/9237c55ed1a59b590d3b0ee7caf67810/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1082498782"
+  "link": "https://www.deezer.com/track/1082498782",
+  "deezer": 1082498782
  },
  {
   "id": 1253427792,
@@ -1298,7 +1427,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1253427792"
+  "link": "https://www.deezer.com/track/1253427792",
+  "deezer": 1253427792
  },
  {
   "id": 4033488481,
@@ -1308,7 +1438,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4033488481"
+  "link": "https://www.deezer.com/track/4033488481",
+  "deezer": 4033488481
  },
  {
   "id": 847611222,
@@ -1318,7 +1449,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3804d693684fe73388ba7c1f30128cad/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/847611222"
+  "link": "https://www.deezer.com/track/847611222",
+  "deezer": 847611222
  },
  {
   "id": 1571256812,
@@ -1328,7 +1460,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6c4f686717028cdffb938ca222777da/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1571256812"
+  "link": "https://www.deezer.com/track/1571256812",
+  "deezer": 1571256812
  },
  {
   "id": 3557442831,
@@ -1338,7 +1471,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8bcf13f389fd6657b21cbb8c753fea14/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3557442831"
+  "link": "https://www.deezer.com/track/3557442831",
+  "deezer": 3557442831
  },
  {
   "id": 1030788462,
@@ -1348,7 +1482,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/11ef7081ae314215b94ddb2488584a59/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1030788462"
+  "link": "https://www.deezer.com/track/1030788462",
+  "deezer": 1030788462
  },
  {
   "id": 4033488441,
@@ -1358,7 +1493,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4033488441"
+  "link": "https://www.deezer.com/track/4033488441",
+  "deezer": 4033488441
  },
  {
   "id": 1028026032,
@@ -1368,7 +1504,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1feb3c08dab5a5b613c59668cb77ff63/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1028026032"
+  "link": "https://www.deezer.com/track/1028026032",
+  "deezer": 1028026032
  },
  {
   "id": 2816354982,
@@ -1378,7 +1515,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95f3ff6e62bcb47baabdb787412f7073/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2816354982"
+  "link": "https://www.deezer.com/track/2816354982",
+  "deezer": 2816354982
  },
  {
   "id": 128221079,
@@ -1388,7 +1526,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/98c9f25e90f4a054df7a117365adee8a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221079"
+  "link": "https://www.deezer.com/track/128221079",
+  "deezer": 128221079
  },
  {
   "id": 128221093,
@@ -1398,7 +1537,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/98c9f25e90f4a054df7a117365adee8a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221093"
+  "link": "https://www.deezer.com/track/128221093",
+  "deezer": 128221093
  },
  {
   "id": 2584066192,
@@ -1408,7 +1548,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e63069f067bcbc0884ea46fc11d0c8ff/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2584066192"
+  "link": "https://www.deezer.com/track/2584066192",
+  "deezer": 2584066192
  },
  {
   "id": 3530231971,
@@ -1418,7 +1559,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/33e8836512756e99d8d9aa40abc202b2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3530231971"
+  "link": "https://www.deezer.com/track/3530231971",
+  "deezer": 3530231971
  },
  {
   "id": 3668827072,
@@ -1428,7 +1570,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2902839d9dbe5e46516d32d68b45245d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3668827072"
+  "link": "https://www.deezer.com/track/3668827072",
+  "deezer": 3668827072
  },
  {
   "id": 3643028082,
@@ -1438,7 +1581,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028082"
+  "link": "https://www.deezer.com/track/3643028082",
+  "deezer": 3643028082
  },
  {
   "id": 3678807012,
@@ -1448,7 +1592,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3678807012"
+  "link": "https://www.deezer.com/track/3678807012",
+  "deezer": 3678807012
  },
  {
   "id": 3643028192,
@@ -1458,7 +1603,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028192"
+  "link": "https://www.deezer.com/track/3643028192",
+  "deezer": 3643028192
  },
  {
   "id": 1036062762,
@@ -1468,7 +1614,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036062762"
+  "link": "https://www.deezer.com/track/1036062762",
+  "deezer": 1036062762
  },
  {
   "id": 1438970812,
@@ -1478,7 +1625,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a19e8bd25a7036c489d25fd6143cf89f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1438970812"
+  "link": "https://www.deezer.com/track/1438970812",
+  "deezer": 1438970812
  },
  {
   "id": 1036062782,
@@ -1488,7 +1636,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036062782"
+  "link": "https://www.deezer.com/track/1036062782",
+  "deezer": 1036062782
  },
  {
   "id": 4264722312,
@@ -1498,7 +1647,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8d0c5d328b06ca9eb24ac13883a4ead4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4264722312"
+  "link": "https://www.deezer.com/track/4264722312",
+  "deezer": 4264722312
  },
  {
   "id": 3051805271,
@@ -1508,7 +1658,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805271"
+  "link": "https://www.deezer.com/track/3051805271",
+  "deezer": 3051805271
  },
  {
   "id": 586424332,
@@ -1518,7 +1669,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/c0ad66f8b2e2702e2a1d94b2d6b700be/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/586424332"
+  "link": "https://www.deezer.com/track/586424332",
+  "deezer": 586424332
  },
  {
   "id": 1097271512,
@@ -1528,7 +1680,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/549655c330571aa34284da27297579d1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1097271512"
+  "link": "https://www.deezer.com/track/1097271512",
+  "deezer": 1097271512
  },
  {
   "id": 1644543902,
@@ -1538,7 +1691,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1644543902"
+  "link": "https://www.deezer.com/track/1644543902",
+  "deezer": 1644543902
  },
  {
   "id": 3278043841,
@@ -1548,7 +1702,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3278043841"
+  "link": "https://www.deezer.com/track/3278043841",
+  "deezer": 3278043841
  },
  {
   "id": 1542107562,
@@ -1558,7 +1713,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/3d506042fea06b4130f5e3d8afd71c01/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1542107562"
+  "link": "https://www.deezer.com/track/1542107562",
+  "deezer": 1542107562
  },
  {
   "id": 830242532,
@@ -1568,7 +1724,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6120399a42f2b6875aee1f9bb5edaa1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/830242532"
+  "link": "https://www.deezer.com/track/830242532",
+  "deezer": 830242532
  },
  {
   "id": 3879672381,
@@ -1578,7 +1735,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8cec070c67e52b44060d554c463210c8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3879672381"
+  "link": "https://www.deezer.com/track/3879672381",
+  "deezer": 3879672381
  },
  {
   "id": 3756793572,
@@ -1588,7 +1746,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756793572"
+  "link": "https://www.deezer.com/track/3756793572",
+  "deezer": 3756793572
  },
  {
   "id": 3756788842,
@@ -1598,7 +1757,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f10a05c82182bea7a596073d321dc64e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756788842"
+  "link": "https://www.deezer.com/track/3756788842",
+  "deezer": 3756788842
  },
  {
   "id": 1576173852,
@@ -1608,7 +1768,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6e14fcbb3822f495d8a61912f1bf110/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1576173852"
+  "link": "https://www.deezer.com/track/1576173852",
+  "deezer": 1576173852
  },
  {
   "id": 1652261302,
@@ -1618,7 +1779,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ad3e6fe5068ca6d82104dc936438c5d0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1652261302"
+  "link": "https://www.deezer.com/track/1652261302",
+  "deezer": 1652261302
  },
  {
   "id": 2993741521,
@@ -1628,7 +1790,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/01b08ae8edc026cc0c9cc9e3d757498b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2993741521"
+  "link": "https://www.deezer.com/track/2993741521",
+  "deezer": 2993741521
  },
  {
   "id": 104242886,
@@ -1638,7 +1801,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2d281587f8c1e5b21bd40783bd561e1e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/104242886"
+  "link": "https://www.deezer.com/track/104242886",
+  "deezer": 104242886
  },
  {
   "id": 660972942,
@@ -1648,7 +1812,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/4a445a0bef281362d76fede0fd8edcfd/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/660972942"
+  "link": "https://www.deezer.com/track/660972942",
+  "deezer": 660972942
  },
  {
   "id": 606314272,
@@ -1658,7 +1823,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5bc0c4c6da1b52a12e78150c59bb16ae/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/606314272"
+  "link": "https://www.deezer.com/track/606314272",
+  "deezer": 606314272
  },
  {
   "id": 606314212,
@@ -1668,7 +1834,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5bc0c4c6da1b52a12e78150c59bb16ae/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/606314212"
+  "link": "https://www.deezer.com/track/606314212",
+  "deezer": 606314212
  },
  {
   "id": 1867142917,
@@ -1678,7 +1845,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/1f96f452b726e2c80f5338c1452ee7a5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1867142917"
+  "link": "https://www.deezer.com/track/1867142917",
+  "deezer": 1867142917
  },
  {
   "id": 661490302,
@@ -1688,7 +1856,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0da5cf64d9ba0bd3161ccf061b66b900/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/661490302"
+  "link": "https://www.deezer.com/track/661490302",
+  "deezer": 661490302
  },
  {
   "id": 1180365712,
@@ -1698,7 +1867,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/404591d6627a2adc8d68fc49ba4bf926/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1180365712"
+  "link": "https://www.deezer.com/track/1180365712",
+  "deezer": 1180365712
  },
  {
   "id": 3306196601,
@@ -1708,7 +1878,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/af6d2b94e037e3d8126d86783bc3ddb9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3306196601"
+  "link": "https://www.deezer.com/track/3306196601",
+  "deezer": 3306196601
  },
  {
   "id": 131066320,
@@ -1718,7 +1889,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/bbf34fc04c95faf5ca850b9867cca8fd/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/131066320"
+  "link": "https://www.deezer.com/track/131066320",
+  "deezer": 131066320
  },
  {
   "id": 131066296,
@@ -1728,7 +1900,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/bbf34fc04c95faf5ca850b9867cca8fd/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/131066296"
+  "link": "https://www.deezer.com/track/131066296",
+  "deezer": 131066296
  },
  {
   "id": 4224454522,
@@ -1738,7 +1911,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae1553ed98d207f69b63561a57383c14/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4224454522"
+  "link": "https://www.deezer.com/track/4224454522",
+  "deezer": 4224454522
  },
  {
   "id": 128237371,
@@ -1748,7 +1922,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/7a998bf6583d72363b99f402f18027ac/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237371"
+  "link": "https://www.deezer.com/track/128237371",
+  "deezer": 128237371
  },
  {
   "id": 3024653901,
@@ -1758,7 +1933,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8bb3779312af3c067117a9e67f8ec526/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3024653901"
+  "link": "https://www.deezer.com/track/3024653901",
+  "deezer": 3024653901
  },
  {
   "id": 416174012,
@@ -1768,7 +1944,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c054535c516a8aa475edf7a38e5a212a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/416174012"
+  "link": "https://www.deezer.com/track/416174012",
+  "deezer": 416174012
  },
  {
   "id": 2683161292,
@@ -1778,7 +1955,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2683161292"
+  "link": "https://www.deezer.com/track/2683161292",
+  "deezer": 2683161292
  },
  {
   "id": 1447824382,
@@ -1788,7 +1966,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/8294ed3c7726cfc3272036608f15144c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1447824382"
+  "link": "https://www.deezer.com/track/1447824382",
+  "deezer": 1447824382
  },
  {
   "id": 1442501072,
@@ -1798,7 +1977,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/8294ed3c7726cfc3272036608f15144c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1442501072"
+  "link": "https://www.deezer.com/track/1442501072",
+  "deezer": 1442501072
  },
  {
   "id": 1283130552,
@@ -1808,7 +1988,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a620653fb9fb3780f8a3fb267c6dcfe9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1283130552"
+  "link": "https://www.deezer.com/track/1283130552",
+  "deezer": 1283130552
  },
  {
   "id": 4064453051,
@@ -1818,7 +1999,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4064453051"
+  "link": "https://www.deezer.com/track/4064453051",
+  "deezer": 4064453051
  },
  {
   "id": 4011390141,
@@ -1828,7 +2010,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ef6f563b8712e053135bb9832daa87ef/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4011390141"
+  "link": "https://www.deezer.com/track/4011390141",
+  "deezer": 4011390141
  },
  {
   "id": 521058652,
@@ -1838,7 +2021,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058652"
+  "link": "https://www.deezer.com/track/521058652",
+  "deezer": 521058652
  },
  {
   "id": 3697443752,
@@ -1848,7 +2032,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df678573ca1306f44834ba3a516a60c6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3697443752"
+  "link": "https://www.deezer.com/track/3697443752",
+  "deezer": 3697443752
  },
  {
   "id": 416078782,
@@ -1858,7 +2043,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a6c972efafa56eaba2c08f6d762d0ad3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/416078782"
+  "link": "https://www.deezer.com/track/416078782",
+  "deezer": 416078782
  },
  {
   "id": 1565179832,
@@ -1868,7 +2054,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0d965273035885c6b3a00140d0fad74b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1565179832"
+  "link": "https://www.deezer.com/track/1565179832",
+  "deezer": 1565179832
  },
  {
   "id": 124233774,
@@ -1878,7 +2065,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/67bb4c97483a85e732b502a627ecf5e1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/124233774"
+  "link": "https://www.deezer.com/track/124233774",
+  "deezer": 124233774
  },
  {
   "id": 1912895057,
@@ -1888,7 +2076,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b57298b686d254c879e2e8cca46583bc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1912895057"
+  "link": "https://www.deezer.com/track/1912895057",
+  "deezer": 1912895057
  },
  {
   "id": 3464126821,
@@ -1898,7 +2087,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/29adc0ee19e25021d80be2daf41ddacc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3464126821"
+  "link": "https://www.deezer.com/track/3464126821",
+  "deezer": 3464126821
  },
  {
   "id": 2761742771,
@@ -1908,7 +2098,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/05074fd05257ee3a65aee6a774cb87e6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2761742771"
+  "link": "https://www.deezer.com/track/2761742771",
+  "deezer": 2761742771
  },
  {
   "id": 109523454,
@@ -1918,7 +2109,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2d6fee8f3410dfca0867365927ffac6a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109523454"
+  "link": "https://www.deezer.com/track/109523454",
+  "deezer": 109523454
  },
  {
   "id": 208868,
@@ -1928,7 +2120,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ab1244e736d2b4b219521f4b76492ec0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/208868"
+  "link": "https://www.deezer.com/track/208868",
+  "deezer": 208868
  },
  {
   "id": 1036087832,
@@ -1938,7 +2131,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e9b792b11c8a83cd277c8926a2ec75b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036087832"
+  "link": "https://www.deezer.com/track/1036087832",
+  "deezer": 1036087832
  },
  {
   "id": 128226649,
@@ -1948,7 +2142,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/5fb052d4461a581385ceb2e35b297e67/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128226649"
+  "link": "https://www.deezer.com/track/128226649",
+  "deezer": 128226649
  },
  {
   "id": 128226573,
@@ -1958,7 +2153,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/835894b2968125eee64bb204b986a1f0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128226573"
+  "link": "https://www.deezer.com/track/128226573",
+  "deezer": 128226573
  },
  {
   "id": 128233475,
@@ -1968,7 +2164,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d806f40a87972cea5c9f5867f22180a6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233475"
+  "link": "https://www.deezer.com/track/128233475",
+  "deezer": 128233475
  },
  {
   "id": 128228065,
@@ -1978,7 +2175,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d4f6dc78d21916a78183b817bc2d7a4f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128228065"
+  "link": "https://www.deezer.com/track/128228065",
+  "deezer": 128228065
  },
  {
   "id": 128233589,
@@ -1988,7 +2186,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233589"
+  "link": "https://www.deezer.com/track/128233589",
+  "deezer": 128233589
  },
  {
   "id": 128237727,
@@ -1998,7 +2197,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a09ddefc5d881df25f8859323fb71fc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237727"
+  "link": "https://www.deezer.com/track/128237727",
+  "deezer": 128237727
  },
  {
   "id": 128237741,
@@ -2008,7 +2208,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a09ddefc5d881df25f8859323fb71fc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237741"
+  "link": "https://www.deezer.com/track/128237741",
+  "deezer": 128237741
  },
  {
   "id": 128237739,
@@ -2018,7 +2219,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a09ddefc5d881df25f8859323fb71fc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237739"
+  "link": "https://www.deezer.com/track/128237739",
+  "deezer": 128237739
  },
  {
   "id": 93081566,
@@ -2028,7 +2230,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/93081566"
+  "link": "https://www.deezer.com/track/93081566",
+  "deezer": 93081566
  },
  {
   "id": 15397672,
@@ -2038,7 +2241,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15397672"
+  "link": "https://www.deezer.com/track/15397672",
+  "deezer": 15397672
  },
  {
   "id": 15397676,
@@ -2048,7 +2252,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15397676"
+  "link": "https://www.deezer.com/track/15397676",
+  "deezer": 15397676
  },
  {
   "id": 15397670,
@@ -2058,7 +2263,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15397670"
+  "link": "https://www.deezer.com/track/15397670",
+  "deezer": 15397670
  },
  {
   "id": 1497676362,
@@ -2068,7 +2274,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/c97b922eab501eb8bb984ef51e5da9ae/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497676362"
+  "link": "https://www.deezer.com/track/1497676362",
+  "deezer": 1497676362
  },
  {
   "id": 1497690322,
@@ -2078,7 +2285,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e591e5b5d385eacd0d5d43d98651a991/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497690322"
+  "link": "https://www.deezer.com/track/1497690322",
+  "deezer": 1497690322
  },
  {
   "id": 3738115762,
@@ -2088,7 +2296,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f2947a36d00877c591adeaac4be2eacb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3738115762"
+  "link": "https://www.deezer.com/track/3738115762",
+  "deezer": 3738115762
  },
  {
   "id": 3738115822,
@@ -2098,7 +2307,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f2947a36d00877c591adeaac4be2eacb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3738115822"
+  "link": "https://www.deezer.com/track/3738115822",
+  "deezer": 3738115822
  },
  {
   "id": 627432,
@@ -2108,7 +2318,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/48661a4a6672225ea9d189892c99044b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/627432"
+  "link": "https://www.deezer.com/track/627432",
+  "deezer": 627432
  },
  {
   "id": 4762941,
@@ -2118,7 +2329,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4762941"
+  "link": "https://www.deezer.com/track/4762941",
+  "deezer": 4762941
  },
  {
   "id": 463897032,
@@ -2128,7 +2340,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1a50ea60ea5d23ce7aaaabb3388651de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/463897032"
+  "link": "https://www.deezer.com/track/463897032",
+  "deezer": 463897032
  },
  {
   "id": 3870010951,
@@ -2138,7 +2351,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/69047aa0762608c5ec767dd42e5636ce/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3870010951"
+  "link": "https://www.deezer.com/track/3870010951",
+  "deezer": 3870010951
  },
  {
   "id": 65802839,
@@ -2148,7 +2362,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/b181d6b08412d1a1bc99e4cac1b65e96/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802839"
+  "link": "https://www.deezer.com/track/65802839",
+  "deezer": 65802839
  },
  {
   "id": 65802832,
@@ -2158,7 +2373,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b181d6b08412d1a1bc99e4cac1b65e96/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802832"
+  "link": "https://www.deezer.com/track/65802832",
+  "deezer": 65802832
  },
  {
   "id": 3102626711,
@@ -2168,7 +2384,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/6431857b3f324186e02ad21ebb2a6bd3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3102626711"
+  "link": "https://www.deezer.com/track/3102626711",
+  "deezer": 3102626711
  },
  {
   "id": 3104618911,
@@ -2178,7 +2395,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9100546cfd277b5d056e4df4fe4b4159/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3104618911"
+  "link": "https://www.deezer.com/track/3104618911",
+  "deezer": 3104618911
  },
  {
   "id": 63237768,
@@ -2188,7 +2406,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a037a6259926c63cf8a3195b0bd4cf4f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/63237768"
+  "link": "https://www.deezer.com/track/63237768",
+  "deezer": 63237768
  },
  {
   "id": 1425097252,
@@ -2198,7 +2417,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/744adac970257e2238378627d0f5c26d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1425097252"
+  "link": "https://www.deezer.com/track/1425097252",
+  "deezer": 1425097252
  },
  {
   "id": 11252785,
@@ -2208,7 +2428,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a590ab4df90ebe3dd867b2017fb15359/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/11252785"
+  "link": "https://www.deezer.com/track/11252785",
+  "deezer": 11252785
  },
  {
   "id": 4648384,
@@ -2218,7 +2439,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/1afc0f98cb296413d5c7b90b35fd92e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4648384"
+  "link": "https://www.deezer.com/track/4648384",
+  "deezer": 4648384
  },
  {
   "id": 4648380,
@@ -2228,7 +2450,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1afc0f98cb296413d5c7b90b35fd92e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4648380"
+  "link": "https://www.deezer.com/track/4648380",
+  "deezer": 4648380
  },
  {
   "id": 4094317291,
@@ -2238,7 +2461,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/8e0c5ca10152e111e66c01a3bb282b80/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4094317291"
+  "link": "https://www.deezer.com/track/4094317291",
+  "deezer": 4094317291
  },
  {
   "id": 4094317321,
@@ -2248,7 +2472,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/8e0c5ca10152e111e66c01a3bb282b80/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4094317321"
+  "link": "https://www.deezer.com/track/4094317321",
+  "deezer": 4094317321
  },
  {
   "id": 3393960,
@@ -2258,7 +2483,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3393960"
+  "link": "https://www.deezer.com/track/3393960",
+  "deezer": 3393960
  },
  {
   "id": 3393964,
@@ -2268,7 +2494,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3393964"
+  "link": "https://www.deezer.com/track/3393964",
+  "deezer": 3393964
  },
  {
   "id": 3393962,
@@ -2278,7 +2505,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3393962"
+  "link": "https://www.deezer.com/track/3393962",
+  "deezer": 3393962
  },
  {
   "id": 2677402,
@@ -2288,7 +2516,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e4f8288a441e8bd320f9f80864c6833/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2677402"
+  "link": "https://www.deezer.com/track/2677402",
+  "deezer": 2677402
  },
  {
   "id": 2677401,
@@ -2298,7 +2527,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e4f8288a441e8bd320f9f80864c6833/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2677401"
+  "link": "https://www.deezer.com/track/2677401",
+  "deezer": 2677401
  },
  {
   "id": 2677400,
@@ -2308,7 +2538,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e4f8288a441e8bd320f9f80864c6833/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2677400"
+  "link": "https://www.deezer.com/track/2677400",
+  "deezer": 2677400
  },
  {
   "id": 128221099,
@@ -2318,7 +2549,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcc3905b55870da27861a08fbbbcccc3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221099"
+  "link": "https://www.deezer.com/track/128221099",
+  "deezer": 128221099
  },
  {
   "id": 1424855052,
@@ -2328,7 +2560,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0aa86960963114d33b3ce85d237e4e34/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1424855052"
+  "link": "https://www.deezer.com/track/1424855052",
+  "deezer": 1424855052
  },
  {
   "id": 2420982,
@@ -2338,7 +2571,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 1,
   "art": "https://cdn-images.dzcdn.net/images/cover/8246485411374216fa2cf02e0219cec6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2420982"
+  "link": "https://www.deezer.com/track/2420982",
+  "deezer": 2420982
  },
  {
   "id": 7183909,
@@ -2348,7 +2582,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/252a64764337eeac41dcb5835e04e4c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/7183909"
+  "link": "https://www.deezer.com/track/7183909",
+  "deezer": 7183909
  },
  {
   "id": 1118936872,
@@ -2358,7 +2593,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/72a29cb21330c8b0d01c696befe27032/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1118936872"
+  "link": "https://www.deezer.com/track/1118936872",
+  "deezer": 1118936872
  },
  {
   "id": 3399416181,
@@ -2368,7 +2604,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3399416181"
+  "link": "https://www.deezer.com/track/3399416181",
+  "deezer": 3399416181
  },
  {
   "id": 3487751341,
@@ -2378,7 +2615,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cf78719f8a1948bae380bbfdf4c31b3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487751341"
+  "link": "https://www.deezer.com/track/3487751341",
+  "deezer": 3487751341
  },
  {
   "id": 3487751371,
@@ -2388,7 +2626,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cf78719f8a1948bae380bbfdf4c31b3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487751371"
+  "link": "https://www.deezer.com/track/3487751371",
+  "deezer": 3487751371
  },
  {
   "id": 3487751421,
@@ -2398,7 +2637,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cf78719f8a1948bae380bbfdf4c31b3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487751421"
+  "link": "https://www.deezer.com/track/3487751421",
+  "deezer": 3487751421
  },
  {
   "id": 789203102,
@@ -2408,7 +2648,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d55824e52e5173826f7e586e3b585e8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/789203102"
+  "link": "https://www.deezer.com/track/789203102",
+  "deezer": 789203102
  },
  {
   "id": 1024281712,
@@ -2418,7 +2659,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/11d288b2e8467f79707e13f72db4a38f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1024281712"
+  "link": "https://www.deezer.com/track/1024281712",
+  "deezer": 1024281712
  },
  {
   "id": 15556988,
@@ -2428,7 +2670,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/add7a4c856f897fab07e2b09625f7017/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15556988"
+  "link": "https://www.deezer.com/track/15556988",
+  "deezer": 15556988
  },
  {
   "id": 71268830,
@@ -2438,7 +2681,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/62016b7573fdfce11dfd7b43c5ea02ee/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/71268830"
+  "link": "https://www.deezer.com/track/71268830",
+  "deezer": 71268830
  },
  {
   "id": 1507557322,
@@ -2448,7 +2692,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/e5366643fe4da070fdf2b31f0092a54b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1507557322"
+  "link": "https://www.deezer.com/track/1507557322",
+  "deezer": 1507557322
  },
  {
   "id": 128234871,
@@ -2458,7 +2703,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234871"
+  "link": "https://www.deezer.com/track/128234871",
+  "deezer": 128234871
  },
  {
   "id": 128234861,
@@ -2468,7 +2714,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234861"
+  "link": "https://www.deezer.com/track/128234861",
+  "deezer": 128234861
  },
  {
   "id": 362739901,
@@ -2478,7 +2725,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/afe6f2ce39788c1bad5a79800ec83194/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/362739901"
+  "link": "https://www.deezer.com/track/362739901",
+  "deezer": 362739901
  },
  {
   "id": 1024235912,
@@ -2488,7 +2736,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f24b30389bad295a91d112b5e05361bc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1024235912"
+  "link": "https://www.deezer.com/track/1024235912",
+  "deezer": 1024235912
  },
  {
   "id": 3643028122,
@@ -2498,7 +2747,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028122"
+  "link": "https://www.deezer.com/track/3643028122",
+  "deezer": 3643028122
  },
  {
   "id": 3643028112,
@@ -2508,7 +2758,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028112"
+  "link": "https://www.deezer.com/track/3643028112",
+  "deezer": 3643028112
  },
  {
   "id": 3678807022,
@@ -2518,7 +2769,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3678807022"
+  "link": "https://www.deezer.com/track/3678807022",
+  "deezer": 3678807022
  },
  {
   "id": 3643028132,
@@ -2528,7 +2780,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028132"
+  "link": "https://www.deezer.com/track/3643028132",
+  "deezer": 3643028132
  },
  {
   "id": 3168115561,
@@ -2538,7 +2791,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/0768db3eaf9dc3c2acbee96777e52bb2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168115561"
+  "link": "https://www.deezer.com/track/3168115561",
+  "deezer": 3168115561
  },
  {
   "id": 3168302291,
@@ -2548,7 +2802,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302291"
+  "link": "https://www.deezer.com/track/3168302291",
+  "deezer": 3168302291
  },
  {
   "id": 3168302231,
@@ -2558,7 +2813,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302231"
+  "link": "https://www.deezer.com/track/3168302231",
+  "deezer": 3168302231
  },
  {
   "id": 3168535431,
@@ -2568,7 +2824,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c2a76a217ec9d2f624e7aef06c143c3b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168535431"
+  "link": "https://www.deezer.com/track/3168535431",
+  "deezer": 3168535431
  },
  {
   "id": 3643028152,
@@ -2578,7 +2835,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028152"
+  "link": "https://www.deezer.com/track/3643028152",
+  "deezer": 3643028152
  },
  {
   "id": 1644543872,
@@ -2588,7 +2846,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1644543872"
+  "link": "https://www.deezer.com/track/1644543872",
+  "deezer": 1644543872
  },
  {
   "id": 3278043831,
@@ -2598,7 +2857,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3278043831"
+  "link": "https://www.deezer.com/track/3278043831",
+  "deezer": 3278043831
  },
  {
   "id": 1644543842,
@@ -2608,7 +2868,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1644543842"
+  "link": "https://www.deezer.com/track/1644543842",
+  "deezer": 1644543842
  },
  {
   "id": 1688330847,
@@ -2618,7 +2879,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ee86955bbee87d46d4b6a6bd9124699/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1688330847"
+  "link": "https://www.deezer.com/track/1688330847",
+  "deezer": 1688330847
  },
  {
   "id": 1644543852,
@@ -2628,7 +2890,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1644543852"
+  "link": "https://www.deezer.com/track/1644543852",
+  "deezer": 1644543852
  },
  {
   "id": 1644543922,
@@ -2638,7 +2901,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1644543922"
+  "link": "https://www.deezer.com/track/1644543922",
+  "deezer": 1644543922
  },
  {
   "id": 1644543862,
@@ -2648,7 +2912,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f935a3771208366bcf3d2c4c22dbc67b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1644543862"
+  "link": "https://www.deezer.com/track/1644543862",
+  "deezer": 1644543862
  },
  {
   "id": 2728090221,
@@ -2658,7 +2923,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f0ebb0dcc6211d2fa17f7fd30c2f6e31/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2728090221"
+  "link": "https://www.deezer.com/track/2728090221",
+  "deezer": 2728090221
  },
  {
   "id": 3316809891,
@@ -2668,7 +2934,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3316809891"
+  "link": "https://www.deezer.com/track/3316809891",
+  "deezer": 3316809891
  },
  {
   "id": 3051805281,
@@ -2678,7 +2945,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805281"
+  "link": "https://www.deezer.com/track/3051805281",
+  "deezer": 3051805281
  },
  {
   "id": 3316809941,
@@ -2688,7 +2956,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3316809941"
+  "link": "https://www.deezer.com/track/3316809941",
+  "deezer": 3316809941
  },
  {
   "id": 3316809911,
@@ -2698,7 +2967,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3316809911"
+  "link": "https://www.deezer.com/track/3316809911",
+  "deezer": 3316809911
  },
  {
   "id": 3051805371,
@@ -2708,7 +2978,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805371"
+  "link": "https://www.deezer.com/track/3051805371",
+  "deezer": 3051805371
  },
  {
   "id": 3051805311,
@@ -2718,7 +2989,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805311"
+  "link": "https://www.deezer.com/track/3051805311",
+  "deezer": 3051805311
  },
  {
   "id": 3316809931,
@@ -2728,7 +3000,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3316809931"
+  "link": "https://www.deezer.com/track/3316809931",
+  "deezer": 3316809931
  },
  {
   "id": 3316809901,
@@ -2738,7 +3011,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3316809901"
+  "link": "https://www.deezer.com/track/3316809901",
+  "deezer": 3316809901
  },
  {
   "id": 4238263662,
@@ -2748,7 +3022,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263662"
+  "link": "https://www.deezer.com/track/4238263662",
+  "deezer": 4238263662
  },
  {
   "id": 4238263672,
@@ -2758,7 +3033,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263672"
+  "link": "https://www.deezer.com/track/4238263672",
+  "deezer": 4238263672
  },
  {
   "id": 4238263652,
@@ -2768,7 +3044,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263652"
+  "link": "https://www.deezer.com/track/4238263652",
+  "deezer": 4238263652
  },
  {
   "id": 1238512692,
@@ -2778,7 +3055,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1238512692"
+  "link": "https://www.deezer.com/track/1238512692",
+  "deezer": 1238512692
  },
  {
   "id": 4238263642,
@@ -2788,7 +3066,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263642"
+  "link": "https://www.deezer.com/track/4238263642",
+  "deezer": 4238263642
  },
  {
   "id": 4238263692,
@@ -2798,7 +3077,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263692"
+  "link": "https://www.deezer.com/track/4238263692",
+  "deezer": 4238263692
  },
  {
   "id": 1238512682,
@@ -2808,7 +3088,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1238512682"
+  "link": "https://www.deezer.com/track/1238512682",
+  "deezer": 1238512682
  },
  {
   "id": 4238263732,
@@ -2818,7 +3099,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263732"
+  "link": "https://www.deezer.com/track/4238263732",
+  "deezer": 4238263732
  },
  {
   "id": 3763867352,
@@ -2828,7 +3110,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3763867352"
+  "link": "https://www.deezer.com/track/3763867352",
+  "deezer": 3763867352
  },
  {
   "id": 3763867382,
@@ -2838,7 +3121,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3763867382"
+  "link": "https://www.deezer.com/track/3763867382",
+  "deezer": 3763867382
  },
  {
   "id": 3763867422,
@@ -2848,7 +3132,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3763867422"
+  "link": "https://www.deezer.com/track/3763867422",
+  "deezer": 3763867422
  },
  {
   "id": 4022760821,
@@ -2858,7 +3143,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3f49128830a2337b5c227e094fbaad21/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4022760821"
+  "link": "https://www.deezer.com/track/4022760821",
+  "deezer": 4022760821
  },
  {
   "id": 2764027491,
@@ -2868,7 +3154,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3dff668245db7169a7bfa0c01625ca67/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2764027491"
+  "link": "https://www.deezer.com/track/2764027491",
+  "deezer": 2764027491
  },
  {
   "id": 3763867402,
@@ -2878,7 +3165,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3763867402"
+  "link": "https://www.deezer.com/track/3763867402",
+  "deezer": 3763867402
  },
  {
   "id": 3464321241,
@@ -2888,7 +3176,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bc3bfb8617bb2f42d720ac8c9264fbf3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3464321241"
+  "link": "https://www.deezer.com/track/3464321241",
+  "deezer": 3464321241
  },
  {
   "id": 3763867362,
@@ -2898,7 +3187,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3763867362"
+  "link": "https://www.deezer.com/track/3763867362",
+  "deezer": 3763867362
  },
  {
   "id": 3006195141,
@@ -2908,7 +3198,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/883c717edb409f57dbb6363846acdda9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3006195141"
+  "link": "https://www.deezer.com/track/3006195141",
+  "deezer": 3006195141
  },
  {
   "id": 3491403711,
@@ -2918,7 +3209,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/786e7896879077a9053810fb76901497/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3491403711"
+  "link": "https://www.deezer.com/track/3491403711",
+  "deezer": 3491403711
  },
  {
   "id": 1935953117,
@@ -2928,7 +3220,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1935953117"
+  "link": "https://www.deezer.com/track/1935953117",
+  "deezer": 1935953117
  },
  {
   "id": 3706017562,
@@ -2938,7 +3231,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017562"
+  "link": "https://www.deezer.com/track/3706017562",
+  "deezer": 3706017562
  },
  {
   "id": 3706017582,
@@ -2948,7 +3242,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017582"
+  "link": "https://www.deezer.com/track/3706017582",
+  "deezer": 3706017582
  },
  {
   "id": 3706017602,
@@ -2958,7 +3253,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017602"
+  "link": "https://www.deezer.com/track/3706017602",
+  "deezer": 3706017602
  },
  {
   "id": 1935953077,
@@ -2968,7 +3264,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1935953077"
+  "link": "https://www.deezer.com/track/1935953077",
+  "deezer": 1935953077
  },
  {
   "id": 2682858182,
@@ -2978,7 +3275,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e3130cb82fc90befeb2752072693b97a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2682858182"
+  "link": "https://www.deezer.com/track/2682858182",
+  "deezer": 2682858182
  },
  {
   "id": 3555510491,
@@ -2988,7 +3286,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3555510491"
+  "link": "https://www.deezer.com/track/3555510491",
+  "deezer": 3555510491
  },
  {
   "id": 2417512185,
@@ -2998,7 +3297,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/788d9fb3a6463704424f46d900a89cc6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2417512185"
+  "link": "https://www.deezer.com/track/2417512185",
+  "deezer": 2417512185
  },
  {
   "id": 3555510441,
@@ -3008,7 +3308,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3555510441"
+  "link": "https://www.deezer.com/track/3555510441",
+  "deezer": 3555510441
  },
  {
   "id": 3555510471,
@@ -3018,7 +3319,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3555510471"
+  "link": "https://www.deezer.com/track/3555510471",
+  "deezer": 3555510471
  },
  {
   "id": 3555510501,
@@ -3028,7 +3330,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3555510501"
+  "link": "https://www.deezer.com/track/3555510501",
+  "deezer": 3555510501
  },
  {
   "id": 1397329802,
@@ -3038,7 +3341,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1397329802"
+  "link": "https://www.deezer.com/track/1397329802",
+  "deezer": 1397329802
  },
  {
   "id": 1397329832,
@@ -3048,7 +3352,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1397329832"
+  "link": "https://www.deezer.com/track/1397329832",
+  "deezer": 1397329832
  },
  {
   "id": 2514451851,
@@ -3058,7 +3363,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2514451851"
+  "link": "https://www.deezer.com/track/2514451851",
+  "deezer": 2514451851
  },
  {
   "id": 1397329782,
@@ -3068,7 +3374,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1397329782"
+  "link": "https://www.deezer.com/track/1397329782",
+  "deezer": 1397329782
  },
  {
   "id": 2514451871,
@@ -3078,7 +3385,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2514451871"
+  "link": "https://www.deezer.com/track/2514451871",
+  "deezer": 2514451871
  },
  {
   "id": 1397329792,
@@ -3088,7 +3396,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1397329792"
+  "link": "https://www.deezer.com/track/1397329792",
+  "deezer": 1397329792
  },
  {
   "id": 2514451891,
@@ -3098,7 +3407,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2514451891"
+  "link": "https://www.deezer.com/track/2514451891",
+  "deezer": 2514451891
  },
  {
   "id": 2267652837,
@@ -3108,7 +3418,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2267652837"
+  "link": "https://www.deezer.com/track/2267652837",
+  "deezer": 2267652837
  },
  {
   "id": 4144190112,
@@ -3118,7 +3429,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/edad736a1aed4a43ee448e666452f65d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4144190112"
+  "link": "https://www.deezer.com/track/4144190112",
+  "deezer": 4144190112
  },
  {
   "id": 1004059022,
@@ -3128,7 +3440,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1004059022"
+  "link": "https://www.deezer.com/track/1004059022",
+  "deezer": 1004059022
  },
  {
   "id": 4144190102,
@@ -3138,7 +3451,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/edad736a1aed4a43ee448e666452f65d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4144190102"
+  "link": "https://www.deezer.com/track/4144190102",
+  "deezer": 4144190102
  },
  {
   "id": 1004059032,
@@ -3148,7 +3462,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1004059032"
+  "link": "https://www.deezer.com/track/1004059032",
+  "deezer": 1004059032
  },
  {
   "id": 2267652777,
@@ -3158,7 +3473,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2267652777"
+  "link": "https://www.deezer.com/track/2267652777",
+  "deezer": 2267652777
  },
  {
   "id": 1004059052,
@@ -3168,7 +3484,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1004059052"
+  "link": "https://www.deezer.com/track/1004059052",
+  "deezer": 1004059052
  },
  {
   "id": 1004059072,
@@ -3178,7 +3495,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1004059072"
+  "link": "https://www.deezer.com/track/1004059072",
+  "deezer": 1004059072
  },
  {
   "id": 4064452991,
@@ -3188,7 +3506,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4064452991"
+  "link": "https://www.deezer.com/track/4064452991",
+  "deezer": 4064452991
  },
  {
   "id": 4007956641,
@@ -3198,7 +3517,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4007956641"
+  "link": "https://www.deezer.com/track/4007956641",
+  "deezer": 4007956641
  },
  {
   "id": 4005914021,
@@ -3208,7 +3528,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1601cc7fe9db1b5b994fceafc2390cf9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4005914021"
+  "link": "https://www.deezer.com/track/4005914021",
+  "deezer": 4005914021
  },
  {
   "id": 4064453031,
@@ -3218,7 +3539,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4064453031"
+  "link": "https://www.deezer.com/track/4064453031",
+  "deezer": 4064453031
  },
  {
   "id": 4005914011,
@@ -3228,7 +3550,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1601cc7fe9db1b5b994fceafc2390cf9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4005914011"
+  "link": "https://www.deezer.com/track/4005914011",
+  "deezer": 4005914011
  },
  {
   "id": 4007956681,
@@ -3238,7 +3561,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4007956681"
+  "link": "https://www.deezer.com/track/4007956681",
+  "deezer": 4007956681
  },
  {
   "id": 1526394842,
@@ -3248,7 +3572,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/08c71fce9359a25a8731c2686d3342ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1526394842"
+  "link": "https://www.deezer.com/track/1526394842",
+  "deezer": 1526394842
  },
  {
   "id": 1576173862,
@@ -3258,7 +3583,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6e14fcbb3822f495d8a61912f1bf110/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1576173862"
+  "link": "https://www.deezer.com/track/1576173862",
+  "deezer": 1576173862
  },
  {
   "id": 1594322821,
@@ -3268,7 +3594,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/15dd9b5407f959572d54345da2fa6009/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1594322821"
+  "link": "https://www.deezer.com/track/1594322821",
+  "deezer": 1594322821
  },
  {
   "id": 833729052,
@@ -3278,7 +3605,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2087d2df2439a5b64bda0bb7f33c6c19/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/833729052"
+  "link": "https://www.deezer.com/track/833729052",
+  "deezer": 833729052
  },
  {
   "id": 833729032,
@@ -3288,7 +3616,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2087d2df2439a5b64bda0bb7f33c6c19/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/833729032"
+  "link": "https://www.deezer.com/track/833729032",
+  "deezer": 833729032
  },
  {
   "id": 1565566512,
@@ -3298,7 +3627,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fbbc956d2d5a6870467b84de29da960a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1565566512"
+  "link": "https://www.deezer.com/track/1565566512",
+  "deezer": 1565566512
  },
  {
   "id": 1751404397,
@@ -3308,7 +3638,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/50c00f1d2ad1bfddfed17af697fcad4c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1751404397"
+  "link": "https://www.deezer.com/track/1751404397",
+  "deezer": 1751404397
  },
  {
   "id": 833729042,
@@ -3318,7 +3649,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2087d2df2439a5b64bda0bb7f33c6c19/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/833729042"
+  "link": "https://www.deezer.com/track/833729042",
+  "deezer": 833729042
  },
  {
   "id": 1524441742,
@@ -3328,7 +3660,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3e0e4793626c3af3bb930c8247fe9150/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1524441742"
+  "link": "https://www.deezer.com/track/1524441742",
+  "deezer": 1524441742
  },
  {
   "id": 856732892,
@@ -3338,7 +3671,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/856732892"
+  "link": "https://www.deezer.com/track/856732892",
+  "deezer": 856732892
  },
  {
   "id": 1829016677,
@@ -3348,7 +3682,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1829016677"
+  "link": "https://www.deezer.com/track/1829016677",
+  "deezer": 1829016677
  },
  {
   "id": 3694084022,
@@ -3358,7 +3693,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3694084022"
+  "link": "https://www.deezer.com/track/3694084022",
+  "deezer": 3694084022
  },
  {
   "id": 3694084012,
@@ -3368,7 +3704,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3694084012"
+  "link": "https://www.deezer.com/track/3694084012",
+  "deezer": 3694084012
  },
  {
   "id": 856732872,
@@ -3378,7 +3715,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 2,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/856732872"
+  "link": "https://www.deezer.com/track/856732872",
+  "deezer": 856732872
  },
  {
   "id": 1829016717,
@@ -3388,7 +3726,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1829016717"
+  "link": "https://www.deezer.com/track/1829016717",
+  "deezer": 1829016717
  },
  {
   "id": 1829016687,
@@ -3398,7 +3737,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1829016687"
+  "link": "https://www.deezer.com/track/1829016687",
+  "deezer": 1829016687
  },
  {
   "id": 1829016757,
@@ -3408,7 +3748,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1829016757"
+  "link": "https://www.deezer.com/track/1829016757",
+  "deezer": 1829016757
  },
  {
   "id": 3694084002,
@@ -3418,7 +3759,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3694084002"
+  "link": "https://www.deezer.com/track/3694084002",
+  "deezer": 3694084002
  },
  {
   "id": 2344894155,
@@ -3428,7 +3770,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2344894155"
+  "link": "https://www.deezer.com/track/2344894155",
+  "deezer": 2344894155
  },
  {
   "id": 1237605102,
@@ -3438,7 +3781,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1237605102"
+  "link": "https://www.deezer.com/track/1237605102",
+  "deezer": 1237605102
  },
  {
   "id": 2344894145,
@@ -3448,7 +3792,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2344894145"
+  "link": "https://www.deezer.com/track/2344894145",
+  "deezer": 2344894145
  },
  {
   "id": 2344894185,
@@ -3458,7 +3803,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2344894185"
+  "link": "https://www.deezer.com/track/2344894185",
+  "deezer": 2344894185
  },
  {
   "id": 1237605112,
@@ -3468,7 +3814,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1237605112"
+  "link": "https://www.deezer.com/track/1237605112",
+  "deezer": 1237605112
  },
  {
   "id": 2344894175,
@@ -3478,7 +3825,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2344894175"
+  "link": "https://www.deezer.com/track/2344894175",
+  "deezer": 2344894175
  },
  {
   "id": 521058642,
@@ -3488,7 +3836,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058642"
+  "link": "https://www.deezer.com/track/521058642",
+  "deezer": 521058642
  },
  {
   "id": 521058682,
@@ -3498,7 +3847,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058682"
+  "link": "https://www.deezer.com/track/521058682",
+  "deezer": 521058682
  },
  {
   "id": 521058662,
@@ -3508,7 +3858,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058662"
+  "link": "https://www.deezer.com/track/521058662",
+  "deezer": 521058662
  },
  {
   "id": 698913722,
@@ -3518,7 +3869,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/51929c8f310d8f1e3f7f8fa4be279070/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/698913722"
+  "link": "https://www.deezer.com/track/698913722",
+  "deezer": 698913722
  },
  {
   "id": 3907126751,
@@ -3528,7 +3880,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/02af82acde06e0b9e857d7c3d608c0ee/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3907126751"
+  "link": "https://www.deezer.com/track/3907126751",
+  "deezer": 3907126751
  },
  {
   "id": 521058692,
@@ -3538,7 +3891,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058692"
+  "link": "https://www.deezer.com/track/521058692",
+  "deezer": 521058692
  },
  {
   "id": 3145889461,
@@ -3548,7 +3902,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4fee7c1a8bde1b67c88b6ebcceca410d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3145889461"
+  "link": "https://www.deezer.com/track/3145889461",
+  "deezer": 3145889461
  },
  {
   "id": 1481648792,
@@ -3558,7 +3913,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/90c9371dc8bfc777606bbc3b8d1a9ce7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1481648792"
+  "link": "https://www.deezer.com/track/1481648792",
+  "deezer": 1481648792
  },
  {
   "id": 4170150412,
@@ -3568,7 +3924,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4170150412"
+  "link": "https://www.deezer.com/track/4170150412",
+  "deezer": 4170150412
  },
  {
   "id": 4170150392,
@@ -3578,7 +3935,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4170150392"
+  "link": "https://www.deezer.com/track/4170150392",
+  "deezer": 4170150392
  },
  {
   "id": 4170150432,
@@ -3588,7 +3946,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4170150432"
+  "link": "https://www.deezer.com/track/4170150432",
+  "deezer": 4170150432
  },
  {
   "id": 4170150362,
@@ -3598,7 +3957,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4170150362"
+  "link": "https://www.deezer.com/track/4170150362",
+  "deezer": 4170150362
  },
  {
   "id": 4170150382,
@@ -3608,7 +3968,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/43a4ed8a35e045e7c75bfbe13abe6ca5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4170150382"
+  "link": "https://www.deezer.com/track/4170150382",
+  "deezer": 4170150382
  },
  {
   "id": 3402560811,
@@ -3618,7 +3979,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed8ce5fb0e25dd2b21b1a34fbc0fdc94/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3402560811"
+  "link": "https://www.deezer.com/track/3402560811",
+  "deezer": 3402560811
  },
  {
   "id": 4319383292,
@@ -3628,7 +3990,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/83511f341395547d1c7d64f0f0ef2c00/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4319383292"
+  "link": "https://www.deezer.com/track/4319383292",
+  "deezer": 4319383292
  },
  {
   "id": 66534140,
@@ -3638,7 +4001,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/919117e4899d3b96bea81b3485618ee0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/66534140"
+  "link": "https://www.deezer.com/track/66534140",
+  "deezer": 66534140
  },
  {
   "id": 1257280092,
@@ -3648,7 +4012,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffcb2d47e32bbb291b20a5df8667ca53/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1257280092"
+  "link": "https://www.deezer.com/track/1257280092",
+  "deezer": 1257280092
  },
  {
   "id": 488985912,
@@ -3658,7 +4023,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ecc850a50c0296560672552b50d2a389/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/488985912"
+  "link": "https://www.deezer.com/track/488985912",
+  "deezer": 488985912
  },
  {
   "id": 465962802,
@@ -3668,7 +4034,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a27b0c9be79dbc63076d7e1241ecf5f0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/465962802"
+  "link": "https://www.deezer.com/track/465962802",
+  "deezer": 465962802
  },
  {
   "id": 488985952,
@@ -3678,7 +4045,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ecc850a50c0296560672552b50d2a389/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/488985952"
+  "link": "https://www.deezer.com/track/488985952",
+  "deezer": 488985952
  },
  {
   "id": 3643028092,
@@ -3688,7 +4056,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028092"
+  "link": "https://www.deezer.com/track/3643028092",
+  "deezer": 3643028092
  },
  {
   "id": 354320541,
@@ -3698,7 +4067,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e28f37b3ea4dead2f4edbda34b4ee7be/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/354320541"
+  "link": "https://www.deezer.com/track/354320541",
+  "deezer": 354320541
  },
  {
   "id": 465962842,
@@ -3708,7 +4078,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a27b0c9be79dbc63076d7e1241ecf5f0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/465962842"
+  "link": "https://www.deezer.com/track/465962842",
+  "deezer": 465962842
  },
  {
   "id": 3620043212,
@@ -3718,7 +4089,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0671f475f273f672c4cfb4cd094edf29/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3620043212"
+  "link": "https://www.deezer.com/track/3620043212",
+  "deezer": 3620043212
  },
  {
   "id": 2677403,
@@ -3728,7 +4100,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e4f8288a441e8bd320f9f80864c6833/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2677403"
+  "link": "https://www.deezer.com/track/2677403",
+  "deezer": 2677403
  },
  {
   "id": 3949556151,
@@ -3738,7 +4111,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556151"
+  "link": "https://www.deezer.com/track/3949556151",
+  "deezer": 3949556151
  },
  {
   "id": 128229269,
@@ -3748,7 +4122,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/658038f2746b7b76cdd9c36c71e7e877/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128229269"
+  "link": "https://www.deezer.com/track/128229269",
+  "deezer": 128229269
  },
  {
   "id": 128229271,
@@ -3758,7 +4133,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/658038f2746b7b76cdd9c36c71e7e877/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128229271"
+  "link": "https://www.deezer.com/track/128229271",
+  "deezer": 128229271
  },
  {
   "id": 128229265,
@@ -3768,7 +4144,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/658038f2746b7b76cdd9c36c71e7e877/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128229265"
+  "link": "https://www.deezer.com/track/128229265",
+  "deezer": 128229265
  },
  {
   "id": 4033488451,
@@ -3778,7 +4155,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4033488451"
+  "link": "https://www.deezer.com/track/4033488451",
+  "deezer": 4033488451
  },
  {
   "id": 93081570,
@@ -3788,7 +4166,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/93081570"
+  "link": "https://www.deezer.com/track/93081570",
+  "deezer": 93081570
  },
  {
   "id": 86384331,
@@ -3798,7 +4177,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/59f1df6040eb97e9a8b722e079054c78/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/86384331"
+  "link": "https://www.deezer.com/track/86384331",
+  "deezer": 86384331
  },
  {
   "id": 3949556121,
@@ -3808,7 +4188,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556121"
+  "link": "https://www.deezer.com/track/3949556121",
+  "deezer": 3949556121
  },
  {
   "id": 3643028162,
@@ -3818,7 +4199,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028162"
+  "link": "https://www.deezer.com/track/3643028162",
+  "deezer": 3643028162
  },
  {
   "id": 3643028202,
@@ -3828,7 +4210,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028202"
+  "link": "https://www.deezer.com/track/3643028202",
+  "deezer": 3643028202
  },
  {
   "id": 128237381,
@@ -3838,7 +4221,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7a998bf6583d72363b99f402f18027ac/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237381"
+  "link": "https://www.deezer.com/track/128237381",
+  "deezer": 128237381
  },
  {
   "id": 128228061,
@@ -3848,7 +4232,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d4f6dc78d21916a78183b817bc2d7a4f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128228061"
+  "link": "https://www.deezer.com/track/128228061",
+  "deezer": 128228061
  },
  {
   "id": 3393955,
@@ -3858,7 +4243,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3393955"
+  "link": "https://www.deezer.com/track/3393955",
+  "deezer": 3393955
  },
  {
   "id": 4256966831,
@@ -3868,7 +4254,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256966831"
+  "link": "https://www.deezer.com/track/4256966831",
+  "deezer": 4256966831
  },
  {
   "id": 128229255,
@@ -3878,7 +4265,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/658038f2746b7b76cdd9c36c71e7e877/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128229255"
+  "link": "https://www.deezer.com/track/128229255",
+  "deezer": 128229255
  },
  {
   "id": 15397673,
@@ -3888,7 +4276,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15397673"
+  "link": "https://www.deezer.com/track/15397673",
+  "deezer": 15397673
  },
  {
   "id": 1723739737,
@@ -3898,7 +4287,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7810e2ee5463b7a3b8b4d3be71323ab4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1723739737"
+  "link": "https://www.deezer.com/track/1723739737",
+  "deezer": 1723739737
  },
  {
   "id": 3643028222,
@@ -3908,7 +4298,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79d6516afd95fbf6bb88048558adf296/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3643028222"
+  "link": "https://www.deezer.com/track/3643028222",
+  "deezer": 3643028222
  },
  {
   "id": 92976178,
@@ -3918,7 +4309,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2f469d48000a7d9aae2c182f00351d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/92976178"
+  "link": "https://www.deezer.com/track/92976178",
+  "deezer": 92976178
  },
  {
   "id": 3168302211,
@@ -3928,7 +4320,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302211"
+  "link": "https://www.deezer.com/track/3168302211",
+  "deezer": 3168302211
  },
  {
   "id": 3487752211,
@@ -3938,7 +4331,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/374867c2889855fde4cb492a2933a0c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487752211"
+  "link": "https://www.deezer.com/track/3487752211",
+  "deezer": 3487752211
  },
  {
   "id": 128234745,
@@ -3948,7 +4342,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234745"
+  "link": "https://www.deezer.com/track/128234745",
+  "deezer": 128234745
  },
  {
   "id": 128234743,
@@ -3958,7 +4353,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234743"
+  "link": "https://www.deezer.com/track/128234743",
+  "deezer": 128234743
  },
  {
   "id": 65760328,
@@ -3968,7 +4364,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96e1a660480f37b03d06be72266bb576/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760328"
+  "link": "https://www.deezer.com/track/65760328",
+  "deezer": 65760328
  },
  {
   "id": 1283296132,
@@ -3978,7 +4375,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/87bacd9d3fbab653faad2da7dcaf79aa/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1283296132"
+  "link": "https://www.deezer.com/track/1283296132",
+  "deezer": 1283296132
  },
  {
   "id": 3949556131,
@@ -3988,7 +4386,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556131"
+  "link": "https://www.deezer.com/track/3949556131",
+  "deezer": 3949556131
  },
  {
   "id": 128233489,
@@ -3998,7 +4397,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d806f40a87972cea5c9f5867f22180a6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233489"
+  "link": "https://www.deezer.com/track/128233489",
+  "deezer": 128233489
  },
  {
   "id": 2255433697,
@@ -4008,7 +4408,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2255433697"
+  "link": "https://www.deezer.com/track/2255433697",
+  "deezer": 2255433697
  },
  {
   "id": 3756793602,
@@ -4018,7 +4419,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756793602"
+  "link": "https://www.deezer.com/track/3756793602",
+  "deezer": 3756793602
  },
  {
   "id": 397984722,
@@ -4028,7 +4430,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/60dadd827f0afd727b991d9dae6838f3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/397984722"
+  "link": "https://www.deezer.com/track/397984722",
+  "deezer": 397984722
  },
  {
   "id": 967250782,
@@ -4038,7 +4441,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c8e8b5be3fc8878d22c70af378d926ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/967250782"
+  "link": "https://www.deezer.com/track/967250782",
+  "deezer": 967250782
  },
  {
   "id": 1008231972,
@@ -4048,7 +4452,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3e8e8c514a417c4999014145f6ec89b4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1008231972"
+  "link": "https://www.deezer.com/track/1008231972",
+  "deezer": 1008231972
  },
  {
   "id": 128233587,
@@ -4058,7 +4463,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233587"
+  "link": "https://www.deezer.com/track/128233587",
+  "deezer": 128233587
  },
  {
   "id": 2667573342,
@@ -4068,7 +4474,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4e086677ea166b5c67d0b8a3d770d7c7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2667573342"
+  "link": "https://www.deezer.com/track/2667573342",
+  "deezer": 2667573342
  },
  {
   "id": 1644578982,
@@ -4078,7 +4485,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25778d4357a4b3e0f7e238278ecbc60c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1644578982"
+  "link": "https://www.deezer.com/track/1644578982",
+  "deezer": 1644578982
  },
  {
   "id": 3949556141,
@@ -4088,7 +4496,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556141"
+  "link": "https://www.deezer.com/track/3949556141",
+  "deezer": 3949556141
  },
  {
   "id": 1552170252,
@@ -4098,7 +4507,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/033ed9e8aa89ae86bef7ccbbc33c500c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1552170252"
+  "link": "https://www.deezer.com/track/1552170252",
+  "deezer": 1552170252
  },
  {
   "id": 3340640901,
@@ -4108,7 +4518,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9089a411c900fea549a3c33ff6192035/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3340640901"
+  "link": "https://www.deezer.com/track/3340640901",
+  "deezer": 3340640901
  },
  {
   "id": 1042867712,
@@ -4118,7 +4529,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4144c2040ef1b25ec0e0acb55773c876/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1042867712"
+  "link": "https://www.deezer.com/track/1042867712",
+  "deezer": 1042867712
  },
  {
   "id": 128234311,
@@ -4128,7 +4540,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234311"
+  "link": "https://www.deezer.com/track/128234311",
+  "deezer": 128234311
  },
  {
   "id": 4033488531,
@@ -4138,7 +4551,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4033488531"
+  "link": "https://www.deezer.com/track/4033488531",
+  "deezer": 4033488531
  },
  {
   "id": 128235407,
@@ -4148,7 +4562,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9ccfc00a051fe22c2e3c2cda2c03f835/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128235407"
+  "link": "https://www.deezer.com/track/128235407",
+  "deezer": 128235407
  },
  {
   "id": 3828973031,
@@ -4158,7 +4573,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bb3d8271df5bdb6f5e5475a94b6724fc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3828973031"
+  "link": "https://www.deezer.com/track/3828973031",
+  "deezer": 3828973031
  },
  {
   "id": 4170203122,
@@ -4168,7 +4584,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e84af58123e38bdf160307d0b24055d7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4170203122"
+  "link": "https://www.deezer.com/track/4170203122",
+  "deezer": 4170203122
  },
  {
   "id": 3167674921,
@@ -4178,7 +4595,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/080cd2a53f295b339cb6962e79b42d2d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3167674921"
+  "link": "https://www.deezer.com/track/3167674921",
+  "deezer": 3167674921
  },
  {
   "id": 1037112862,
@@ -4188,7 +4606,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b0d07af44ef17360f2bc82d54ebc6e81/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1037112862"
+  "link": "https://www.deezer.com/track/1037112862",
+  "deezer": 1037112862
  },
  {
   "id": 476427122,
@@ -4198,7 +4617,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/47871f0775ce25927225e0880ab66d59/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/476427122"
+  "link": "https://www.deezer.com/track/476427122",
+  "deezer": 476427122
  },
  {
   "id": 4033488661,
@@ -4208,7 +4628,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4033488661"
+  "link": "https://www.deezer.com/track/4033488661",
+  "deezer": 4033488661
  },
  {
   "id": 2667450622,
@@ -4218,7 +4639,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/339597b6530de5f2864945af25f5f239/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2667450622"
+  "link": "https://www.deezer.com/track/2667450622",
+  "deezer": 2667450622
  },
  {
   "id": 2450381035,
@@ -4228,7 +4650,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fbf3b1e1bc88d149b229a852b661700e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2450381035"
+  "link": "https://www.deezer.com/track/2450381035",
+  "deezer": 2450381035
  },
  {
   "id": 3694083992,
@@ -4238,7 +4661,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3694083992"
+  "link": "https://www.deezer.com/track/3694083992",
+  "deezer": 3694083992
  },
  {
   "id": 128233601,
@@ -4248,7 +4672,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233601"
+  "link": "https://www.deezer.com/track/128233601",
+  "deezer": 128233601
  },
  {
   "id": 762604842,
@@ -4258,7 +4683,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/84b031aeed9e89722e4dee0b3f8cfcb2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/762604842"
+  "link": "https://www.deezer.com/track/762604842",
+  "deezer": 762604842
  },
  {
   "id": 3393961,
@@ -4268,7 +4694,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3393961"
+  "link": "https://www.deezer.com/track/3393961",
+  "deezer": 3393961
  },
  {
   "id": 1036087782,
@@ -4278,7 +4705,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e9b792b11c8a83cd277c8926a2ec75b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036087782"
+  "link": "https://www.deezer.com/track/1036087782",
+  "deezer": 1036087782
  },
  {
   "id": 843810182,
@@ -4288,7 +4716,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c783037e1c51499981acf730086efeec/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/843810182"
+  "link": "https://www.deezer.com/track/843810182",
+  "deezer": 843810182
  },
  {
   "id": 3358792001,
@@ -4298,7 +4727,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e54748620c7119b0f187cc38da9d81f9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3358792001"
+  "link": "https://www.deezer.com/track/3358792001",
+  "deezer": 3358792001
  },
  {
   "id": 4238263712,
@@ -4308,7 +4738,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263712"
+  "link": "https://www.deezer.com/track/4238263712",
+  "deezer": 4238263712
  },
  {
   "id": 1542107552,
@@ -4318,7 +4749,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3d506042fea06b4130f5e3d8afd71c01/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1542107552"
+  "link": "https://www.deezer.com/track/1542107552",
+  "deezer": 1542107552
  },
  {
   "id": 3694084072,
@@ -4328,7 +4760,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3694084072"
+  "link": "https://www.deezer.com/track/3694084072",
+  "deezer": 3694084072
  },
  {
   "id": 4238263682,
@@ -4338,7 +4771,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263682"
+  "link": "https://www.deezer.com/track/4238263682",
+  "deezer": 4238263682
  },
  {
   "id": 4238263722,
@@ -4348,7 +4782,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a0ccac474f622141411ea5cc620c1b39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238263722"
+  "link": "https://www.deezer.com/track/4238263722",
+  "deezer": 4238263722
  },
  {
   "id": 65760408,
@@ -4358,7 +4793,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/adf2c195acd596820d3182c31ad120b5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760408"
+  "link": "https://www.deezer.com/track/65760408",
+  "deezer": 65760408
  },
  {
   "id": 4151111382,
@@ -4368,7 +4804,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22243fb35284cb08223d58dec75cb5f8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4151111382"
+  "link": "https://www.deezer.com/track/4151111382",
+  "deezer": 4151111382
  },
  {
   "id": 3405886071,
@@ -4378,7 +4815,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1bcb59def276270e298e3f0376d1d505/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3405886071"
+  "link": "https://www.deezer.com/track/3405886071",
+  "deezer": 3405886071
  },
  {
   "id": 1829016777,
@@ -4388,7 +4826,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1829016777"
+  "link": "https://www.deezer.com/track/1829016777",
+  "deezer": 1829016777
  },
  {
   "id": 681061662,
@@ -4398,7 +4837,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/380ab97e34f202448a4169ca61b99e39/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/681061662"
+  "link": "https://www.deezer.com/track/681061662",
+  "deezer": 681061662
  },
  {
   "id": 3629522782,
@@ -4408,7 +4848,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0847cba82284378e7929b90d4de97778/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3629522782"
+  "link": "https://www.deezer.com/track/3629522782",
+  "deezer": 3629522782
  },
  {
   "id": 2941998651,
@@ -4418,7 +4859,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2941998651"
+  "link": "https://www.deezer.com/track/2941998651",
+  "deezer": 2941998651
  },
  {
   "id": 3549820371,
@@ -4428,7 +4870,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2a763554bd2716f3fd205ec4c25bcf16/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3549820371"
+  "link": "https://www.deezer.com/track/3549820371",
+  "deezer": 3549820371
  },
  {
   "id": 1012242822,
@@ -4438,7 +4881,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/531c9fcdee7009696405f3a680f9d8b2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1012242822"
+  "link": "https://www.deezer.com/track/1012242822",
+  "deezer": 1012242822
  },
  {
   "id": 3284337541,
@@ -4448,7 +4892,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e63107fbcf481ad521fd4c616db04508/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3284337541"
+  "link": "https://www.deezer.com/track/3284337541",
+  "deezer": 3284337541
  },
  {
   "id": 65760365,
@@ -4458,7 +4903,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/49bcc4fbc53c4448c71bd5ab452688f7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760365"
+  "link": "https://www.deezer.com/track/65760365",
+  "deezer": 65760365
  },
  {
   "id": 128234885,
@@ -4468,7 +4914,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234885"
+  "link": "https://www.deezer.com/track/128234885",
+  "deezer": 128234885
  },
  {
   "id": 1552170272,
@@ -4478,7 +4925,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/033ed9e8aa89ae86bef7ccbbc33c500c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1552170272"
+  "link": "https://www.deezer.com/track/1552170272",
+  "deezer": 1552170272
  },
  {
   "id": 3609086812,
@@ -4488,7 +4936,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3609086812"
+  "link": "https://www.deezer.com/track/3609086812",
+  "deezer": 3609086812
  },
  {
   "id": 128221881,
@@ -4498,7 +4947,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b23be3138371ed2d169a1351a92002f4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221881"
+  "link": "https://www.deezer.com/track/128221881",
+  "deezer": 128221881
  },
  {
   "id": 2788042862,
@@ -4508,7 +4958,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2788042862"
+  "link": "https://www.deezer.com/track/2788042862",
+  "deezer": 2788042862
  },
  {
   "id": 128233591,
@@ -4518,7 +4969,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233591"
+  "link": "https://www.deezer.com/track/128233591",
+  "deezer": 128233591
  },
  {
   "id": 1497629832,
@@ -4528,7 +4980,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25107bddb348657894283971bca9b9bf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497629832"
+  "link": "https://www.deezer.com/track/1497629832",
+  "deezer": 1497629832
  },
  {
   "id": 4094317261,
@@ -4538,7 +4991,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8e0c5ca10152e111e66c01a3bb282b80/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4094317261"
+  "link": "https://www.deezer.com/track/4094317261",
+  "deezer": 4094317261
  },
  {
   "id": 4256966951,
@@ -4548,7 +5002,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256966951"
+  "link": "https://www.deezer.com/track/4256966951",
+  "deezer": 4256966951
  },
  {
   "id": 4278859412,
@@ -4558,7 +5013,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/60c2087e718ca98f6943240276558084/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4278859412"
+  "link": "https://www.deezer.com/track/4278859412",
+  "deezer": 4278859412
  },
  {
   "id": 2941998711,
@@ -4568,7 +5024,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2941998711"
+  "link": "https://www.deezer.com/track/2941998711",
+  "deezer": 2941998711
  },
  {
   "id": 1723739797,
@@ -4578,7 +5035,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7810e2ee5463b7a3b8b4d3be71323ab4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1723739797"
+  "link": "https://www.deezer.com/track/1723739797",
+  "deezer": 1723739797
  },
  {
   "id": 2941998691,
@@ -4588,7 +5046,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2941998691"
+  "link": "https://www.deezer.com/track/2941998691",
+  "deezer": 2941998691
  },
  {
   "id": 4256417581,
@@ -4598,7 +5057,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256417581"
+  "link": "https://www.deezer.com/track/4256417581",
+  "deezer": 4256417581
  },
  {
   "id": 463897092,
@@ -4608,7 +5068,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1a50ea60ea5d23ce7aaaabb3388651de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/463897092"
+  "link": "https://www.deezer.com/track/463897092",
+  "deezer": 463897092
  },
  {
   "id": 3316809921,
@@ -4618,7 +5079,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3316809921"
+  "link": "https://www.deezer.com/track/3316809921",
+  "deezer": 3316809921
  },
  {
   "id": 3336723551,
@@ -4628,7 +5090,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd3b2184bd5922dfddb655f79845d663/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3336723551"
+  "link": "https://www.deezer.com/track/3336723551",
+  "deezer": 3336723551
  },
  {
   "id": 3051805291,
@@ -4638,7 +5101,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805291"
+  "link": "https://www.deezer.com/track/3051805291",
+  "deezer": 3051805291
  },
  {
   "id": 3509021121,
@@ -4648,7 +5112,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ca67cdea2c2cfccd1932864c74413de7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3509021121"
+  "link": "https://www.deezer.com/track/3509021121",
+  "deezer": 3509021121
  },
  {
   "id": 128234297,
@@ -4658,7 +5123,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234297"
+  "link": "https://www.deezer.com/track/128234297",
+  "deezer": 128234297
  },
  {
   "id": 617423172,
@@ -4668,7 +5134,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/420e9641de9be262f3d9ee9a468e14d5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/617423172"
+  "link": "https://www.deezer.com/track/617423172",
+  "deezer": 617423172
  },
  {
   "id": 4256966841,
@@ -4678,7 +5145,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256966841"
+  "link": "https://www.deezer.com/track/4256966841",
+  "deezer": 4256966841
  },
  {
   "id": 109793822,
@@ -4688,7 +5156,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b4d4df833ea08249f085147e39e53a5a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109793822"
+  "link": "https://www.deezer.com/track/109793822",
+  "deezer": 109793822
  },
  {
   "id": 2243444017,
@@ -4698,7 +5167,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/faeff7fe6e3a9d853418c5448fb7476d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2243444017"
+  "link": "https://www.deezer.com/track/2243444017",
+  "deezer": 2243444017
  },
  {
   "id": 3694084052,
@@ -4708,7 +5178,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3694084052"
+  "link": "https://www.deezer.com/track/3694084052",
+  "deezer": 3694084052
  },
  {
   "id": 4256966931,
@@ -4718,7 +5189,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256966931"
+  "link": "https://www.deezer.com/track/4256966931",
+  "deezer": 4256966931
  },
  {
   "id": 3713914512,
@@ -4728,7 +5200,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b296e5fc4f5e5fdc923cc003ce7eeaf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3713914512"
+  "link": "https://www.deezer.com/track/3713914512",
+  "deezer": 3713914512
  },
  {
   "id": 463897072,
@@ -4738,7 +5211,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1a50ea60ea5d23ce7aaaabb3388651de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/463897072"
+  "link": "https://www.deezer.com/track/463897072",
+  "deezer": 463897072
  },
  {
   "id": 3316809951,
@@ -4748,7 +5222,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3316809951"
+  "link": "https://www.deezer.com/track/3316809951",
+  "deezer": 3316809951
  },
  {
   "id": 1909793077,
@@ -4758,7 +5233,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9307f3159b0904606f40d98b582af32e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1909793077"
+  "link": "https://www.deezer.com/track/1909793077",
+  "deezer": 1909793077
  },
  {
   "id": 106952240,
@@ -4768,7 +5244,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f58b0b62046f43b06176f650e955f83e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/106952240"
+  "link": "https://www.deezer.com/track/106952240",
+  "deezer": 106952240
  },
  {
   "id": 65416132,
@@ -4778,7 +5255,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a255a0ca45339273137ffc446160c118/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65416132"
+  "link": "https://www.deezer.com/track/65416132",
+  "deezer": 65416132
  },
  {
   "id": 848236572,
@@ -4788,7 +5266,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5e8f4776537d49dbfd14f33e01826155/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/848236572"
+  "link": "https://www.deezer.com/track/848236572",
+  "deezer": 848236572
  },
  {
   "id": 830242522,
@@ -4798,7 +5277,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6120399a42f2b6875aee1f9bb5edaa1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/830242522"
+  "link": "https://www.deezer.com/track/830242522",
+  "deezer": 830242522
  },
  {
   "id": 3706017652,
@@ -4808,7 +5288,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017652"
+  "link": "https://www.deezer.com/track/3706017652",
+  "deezer": 3706017652
  },
  {
   "id": 1679895827,
@@ -4818,7 +5299,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/669a920785eb9be92a3dbc0483f3e0cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1679895827"
+  "link": "https://www.deezer.com/track/1679895827",
+  "deezer": 1679895827
  },
  {
   "id": 65802485,
@@ -4828,7 +5310,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cde47962f7eebe44220cb07d884f537/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802485"
+  "link": "https://www.deezer.com/track/65802485",
+  "deezer": 65802485
  },
  {
   "id": 4238813582,
@@ -4838,7 +5321,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9a48eb937760fee773d3378c8193595a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4238813582"
+  "link": "https://www.deezer.com/track/4238813582",
+  "deezer": 4238813582
  },
  {
   "id": 3666988202,
@@ -4848,7 +5332,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988202"
+  "link": "https://www.deezer.com/track/3666988202",
+  "deezer": 3666988202
  },
  {
   "id": 1488160682,
@@ -4858,7 +5343,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/843f2a67c828459f68a658c5abdfbc0d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1488160682"
+  "link": "https://www.deezer.com/track/1488160682",
+  "deezer": 1488160682
  },
  {
   "id": 65802484,
@@ -4868,7 +5354,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cde47962f7eebe44220cb07d884f537/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802484"
+  "link": "https://www.deezer.com/track/65802484",
+  "deezer": 65802484
  },
  {
   "id": 617423132,
@@ -4878,7 +5365,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/420e9641de9be262f3d9ee9a468e14d5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/617423132"
+  "link": "https://www.deezer.com/track/617423132",
+  "deezer": 617423132
  },
  {
   "id": 3487751571,
@@ -4888,7 +5376,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/661b00716635eb30451240d9d07845a1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487751571"
+  "link": "https://www.deezer.com/track/3487751571",
+  "deezer": 3487751571
  },
  {
   "id": 830242552,
@@ -4898,7 +5387,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6120399a42f2b6875aee1f9bb5edaa1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/830242552"
+  "link": "https://www.deezer.com/track/830242552",
+  "deezer": 830242552
  },
  {
   "id": 3393956,
@@ -4908,7 +5398,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06de4d0d6aaadb9070e63e0a77811932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3393956"
+  "link": "https://www.deezer.com/track/3393956",
+  "deezer": 3393956
  },
  {
   "id": 3487752361,
@@ -4918,7 +5409,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9a3c174de2bc208ef2755d1d66e8e459/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487752361"
+  "link": "https://www.deezer.com/track/3487752361",
+  "deezer": 3487752361
  },
  {
   "id": 3706017632,
@@ -4928,7 +5420,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017632"
+  "link": "https://www.deezer.com/track/3706017632",
+  "deezer": 3706017632
  },
  {
   "id": 481463012,
@@ -4938,7 +5431,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8aa4defcd71ab49fbb7113288ff558e2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/481463012"
+  "link": "https://www.deezer.com/track/481463012",
+  "deezer": 481463012
  },
  {
   "id": 1484040742,
@@ -4948,7 +5442,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/57aa1030346512f04c43bcdc14e5795b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1484040742"
+  "link": "https://www.deezer.com/track/1484040742",
+  "deezer": 1484040742
  },
  {
   "id": 452803172,
@@ -4958,7 +5453,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8ffed50945af03b3651e70fd2ccd2fd5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/452803172"
+  "link": "https://www.deezer.com/track/452803172",
+  "deezer": 452803172
  },
  {
   "id": 2782091962,
@@ -4968,7 +5464,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/33eaa5a3d52dee74b772df1c0aae7de2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2782091962"
+  "link": "https://www.deezer.com/track/2782091962",
+  "deezer": 2782091962
  },
  {
   "id": 3666988192,
@@ -4978,7 +5475,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988192"
+  "link": "https://www.deezer.com/track/3666988192",
+  "deezer": 3666988192
  },
  {
   "id": 4144375562,
@@ -4988,7 +5486,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4144375562"
+  "link": "https://www.deezer.com/track/4144375562",
+  "deezer": 4144375562
  },
  {
   "id": 552817262,
@@ -4998,7 +5497,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/552817262"
+  "link": "https://www.deezer.com/track/552817262",
+  "deezer": 552817262
  },
  {
   "id": 1253427812,
@@ -5008,7 +5508,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1253427812"
+  "link": "https://www.deezer.com/track/1253427812",
+  "deezer": 1253427812
  },
  {
   "id": 1409440342,
@@ -5018,7 +5519,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1409440342"
+  "link": "https://www.deezer.com/track/1409440342",
+  "deezer": 1409440342
  },
  {
   "id": 3666988222,
@@ -5028,7 +5530,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988222"
+  "link": "https://www.deezer.com/track/3666988222",
+  "deezer": 3666988222
  },
  {
   "id": 1065567402,
@@ -5038,7 +5541,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1065567402"
+  "link": "https://www.deezer.com/track/1065567402",
+  "deezer": 1065567402
  },
  {
   "id": 405318432,
@@ -5048,7 +5552,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f336e8fc34ea84a32d5c58fb4d30d3b4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/405318432"
+  "link": "https://www.deezer.com/track/405318432",
+  "deezer": 405318432
  },
  {
   "id": 416078762,
@@ -5058,7 +5563,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a6c972efafa56eaba2c08f6d762d0ad3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/416078762"
+  "link": "https://www.deezer.com/track/416078762",
+  "deezer": 416078762
  },
  {
   "id": 3706017622,
@@ -5068,7 +5574,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017622"
+  "link": "https://www.deezer.com/track/3706017622",
+  "deezer": 3706017622
  },
  {
   "id": 3234554541,
@@ -5078,7 +5585,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3234554541"
+  "link": "https://www.deezer.com/track/3234554541",
+  "deezer": 3234554541
  },
  {
   "id": 4113503871,
@@ -5088,7 +5596,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2ad4ade3f84900c926904b4edd7449db/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4113503871"
+  "link": "https://www.deezer.com/track/4113503871",
+  "deezer": 4113503871
  },
  {
   "id": 128235947,
@@ -5098,7 +5607,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/110d09829b9523a97a75fd5e4cbaf932/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128235947"
+  "link": "https://www.deezer.com/track/128235947",
+  "deezer": 128235947
  },
  {
   "id": 1540443212,
@@ -5108,7 +5618,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1540443212"
+  "link": "https://www.deezer.com/track/1540443212",
+  "deezer": 1540443212
  },
  {
   "id": 663194932,
@@ -5118,7 +5629,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/33716ea5853a7fc0191a1510d548d7d3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/663194932"
+  "link": "https://www.deezer.com/track/663194932",
+  "deezer": 663194932
  },
  {
   "id": 1284099352,
@@ -5128,7 +5640,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1284099352"
+  "link": "https://www.deezer.com/track/1284099352",
+  "deezer": 1284099352
  },
  {
   "id": 3051805411,
@@ -5138,7 +5651,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805411"
+  "link": "https://www.deezer.com/track/3051805411",
+  "deezer": 3051805411
  },
  {
   "id": 3234554561,
@@ -5148,7 +5662,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3234554561"
+  "link": "https://www.deezer.com/track/3234554561",
+  "deezer": 3234554561
  },
  {
   "id": 3664869942,
@@ -5158,7 +5673,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1483dd19188f518cfe9bb005a7bc9309/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3664869942"
+  "link": "https://www.deezer.com/track/3664869942",
+  "deezer": 3664869942
  },
  {
   "id": 2117809777,
@@ -5168,7 +5684,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2151edeb203c76e30943e89c558537/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2117809777"
+  "link": "https://www.deezer.com/track/2117809777",
+  "deezer": 2117809777
  },
  {
   "id": 3756793662,
@@ -5178,7 +5695,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756793662"
+  "link": "https://www.deezer.com/track/3756793662",
+  "deezer": 3756793662
  },
  {
   "id": 2206549777,
@@ -5188,7 +5706,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2a7de5d92cf19921a99f4a1b38d7700a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2206549777"
+  "link": "https://www.deezer.com/track/2206549777",
+  "deezer": 2206549777
  },
  {
   "id": 1498057162,
@@ -5198,7 +5717,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c0418ac55c885cdcda128e25807e2887/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1498057162"
+  "link": "https://www.deezer.com/track/1498057162",
+  "deezer": 1498057162
  },
  {
   "id": 1700265247,
@@ -5208,7 +5728,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4d44514466ebba36cc949d2f26f25b4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1700265247"
+  "link": "https://www.deezer.com/track/1700265247",
+  "deezer": 1700265247
  },
  {
   "id": 659875672,
@@ -5218,7 +5739,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2cd76534a636dc6c54c878d0477fccb5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/659875672"
+  "link": "https://www.deezer.com/track/659875672",
+  "deezer": 659875672
  },
  {
   "id": 3316809881,
@@ -5228,7 +5750,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ffa804a257cf8076b4bf01dfe083e54d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3316809881"
+  "link": "https://www.deezer.com/track/3316809881",
+  "deezer": 3316809881
  },
  {
   "id": 4077793511,
@@ -5238,7 +5761,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b071d4bce6c28b04904314f2c1140de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4077793511"
+  "link": "https://www.deezer.com/track/4077793511",
+  "deezer": 4077793511
  },
  {
   "id": 1651572212,
@@ -5248,7 +5772,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0ddf40b38eee08a9692a37962d8e5739/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1651572212"
+  "link": "https://www.deezer.com/track/1651572212",
+  "deezer": 1651572212
  },
  {
   "id": 3319046781,
@@ -5258,7 +5783,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/231e720c11b85972d1ca0d2dab98e17e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3319046781"
+  "link": "https://www.deezer.com/track/3319046781",
+  "deezer": 3319046781
  },
  {
   "id": 2260074157,
@@ -5268,7 +5794,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d27be526d28a5474656e96dd931fd29e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2260074157"
+  "link": "https://www.deezer.com/track/2260074157",
+  "deezer": 2260074157
  },
  {
   "id": 566085942,
@@ -5278,7 +5805,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7087d9567d0e8059b460e3e672b9f1b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/566085942"
+  "link": "https://www.deezer.com/track/566085942",
+  "deezer": 566085942
  },
  {
   "id": 2147853657,
@@ -5288,7 +5816,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a064f79011ffac1a67b7b816f571f9b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2147853657"
+  "link": "https://www.deezer.com/track/2147853657",
+  "deezer": 2147853657
  },
  {
   "id": 3487752321,
@@ -5298,7 +5827,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9a3c174de2bc208ef2755d1d66e8e459/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487752321"
+  "link": "https://www.deezer.com/track/3487752321",
+  "deezer": 3487752321
  },
  {
   "id": 1497629842,
@@ -5308,7 +5838,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25107bddb348657894283971bca9b9bf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497629842"
+  "link": "https://www.deezer.com/track/1497629842",
+  "deezer": 1497629842
  },
  {
   "id": 3973054781,
@@ -5318,7 +5849,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054781"
+  "link": "https://www.deezer.com/track/3973054781",
+  "deezer": 3973054781
  },
  {
   "id": 15682853,
@@ -5328,7 +5860,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e16548fc4e7cdad1d3758aa39ecf7249/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15682853"
+  "link": "https://www.deezer.com/track/15682853",
+  "deezer": 15682853
  },
  {
   "id": 362739881,
@@ -5338,7 +5871,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/afe6f2ce39788c1bad5a79800ec83194/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/362739881"
+  "link": "https://www.deezer.com/track/362739881",
+  "deezer": 362739881
  },
  {
   "id": 1036062802,
@@ -5348,7 +5882,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036062802"
+  "link": "https://www.deezer.com/track/1036062802",
+  "deezer": 1036062802
  },
  {
   "id": 1238512702,
@@ -5358,7 +5893,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1238512702"
+  "link": "https://www.deezer.com/track/1238512702",
+  "deezer": 1238512702
  },
  {
   "id": 1409440362,
@@ -5368,7 +5904,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1409440362"
+  "link": "https://www.deezer.com/track/1409440362",
+  "deezer": 1409440362
  },
  {
   "id": 1497668782,
@@ -5378,7 +5915,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d15d2b4822ce0d06f6a555099db2c413/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497668782"
+  "link": "https://www.deezer.com/track/1497668782",
+  "deezer": 1497668782
  },
  {
   "id": 72184268,
@@ -5388,7 +5926,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5ae11dfda7a713b7031636d15cd1ea32/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/72184268"
+  "link": "https://www.deezer.com/track/72184268",
+  "deezer": 72184268
  },
  {
   "id": 4077793491,
@@ -5398,7 +5937,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b071d4bce6c28b04904314f2c1140de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4077793491"
+  "link": "https://www.deezer.com/track/4077793491",
+  "deezer": 4077793491
  },
  {
   "id": 4144375602,
@@ -5408,7 +5948,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4144375602"
+  "link": "https://www.deezer.com/track/4144375602",
+  "deezer": 4144375602
  },
  {
   "id": 3756794122,
@@ -5418,7 +5959,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fda9b12809be88bc82c86acd848d014d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756794122"
+  "link": "https://www.deezer.com/track/3756794122",
+  "deezer": 3756794122
  },
  {
   "id": 3666988212,
@@ -5428,7 +5970,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988212"
+  "link": "https://www.deezer.com/track/3666988212",
+  "deezer": 3666988212
  },
  {
   "id": 4092225481,
@@ -5438,7 +5981,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4092225481"
+  "link": "https://www.deezer.com/track/4092225481",
+  "deezer": 4092225481
  },
  {
   "id": 92976162,
@@ -5448,7 +5992,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2f469d48000a7d9aae2c182f00351d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/92976162"
+  "link": "https://www.deezer.com/track/92976162",
+  "deezer": 92976162
  },
  {
   "id": 4077793651,
@@ -5458,7 +6003,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ea3e5a999c74b8de59cf950f96997a63/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4077793651"
+  "link": "https://www.deezer.com/track/4077793651",
+  "deezer": 4077793651
  },
  {
   "id": 4092225441,
@@ -5468,7 +6014,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4092225441"
+  "link": "https://www.deezer.com/track/4092225441",
+  "deezer": 4092225441
  },
  {
   "id": 1497630702,
@@ -5478,7 +6025,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a8e7bffd0a6650c7e00a29403a7865cc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497630702"
+  "link": "https://www.deezer.com/track/1497630702",
+  "deezer": 1497630702
  },
  {
   "id": 2506586001,
@@ -5488,7 +6036,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ea8d2012831fe0208522cb528cfa0bcc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2506586001"
+  "link": "https://www.deezer.com/track/2506586001",
+  "deezer": 2506586001
  },
  {
   "id": 3167990291,
@@ -5498,7 +6047,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3e23368c17523650f3c4a56b11a3faa3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3167990291"
+  "link": "https://www.deezer.com/track/3167990291",
+  "deezer": 3167990291
  },
  {
   "id": 1497629882,
@@ -5508,7 +6058,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25107bddb348657894283971bca9b9bf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497629882"
+  "link": "https://www.deezer.com/track/1497629882",
+  "deezer": 1497629882
  },
  {
   "id": 3756793642,
@@ -5518,7 +6069,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756793642"
+  "link": "https://www.deezer.com/track/3756793642",
+  "deezer": 3756793642
  },
  {
   "id": 1036062822,
@@ -5528,7 +6080,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036062822"
+  "link": "https://www.deezer.com/track/1036062822",
+  "deezer": 1036062822
  },
  {
   "id": 1194167632,
@@ -5538,7 +6091,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4367cc9e3c820b7d21782cdf95a67c9d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1194167632"
+  "link": "https://www.deezer.com/track/1194167632",
+  "deezer": 1194167632
  },
  {
   "id": 3666988232,
@@ -5548,7 +6102,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988232"
+  "link": "https://www.deezer.com/track/3666988232",
+  "deezer": 3666988232
  },
  {
   "id": 3352919091,
@@ -5558,7 +6113,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bf216ee0ca5960733581dcbc5c223948/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3352919091"
+  "link": "https://www.deezer.com/track/3352919091",
+  "deezer": 3352919091
  },
  {
   "id": 1065567422,
@@ -5568,7 +6124,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1065567422"
+  "link": "https://www.deezer.com/track/1065567422",
+  "deezer": 1065567422
  },
  {
   "id": 1419411892,
@@ -5578,7 +6135,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f0a58fd953faf19f6b33020d800e2f56/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1419411892"
+  "link": "https://www.deezer.com/track/1419411892",
+  "deezer": 1419411892
  },
  {
   "id": 2929318811,
@@ -5588,7 +6146,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2929318811"
+  "link": "https://www.deezer.com/track/2929318811",
+  "deezer": 2929318811
  },
  {
   "id": 1253427782,
@@ -5598,7 +6157,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1253427782"
+  "link": "https://www.deezer.com/track/1253427782",
+  "deezer": 1253427782
  },
  {
   "id": 3153949571,
@@ -5608,7 +6168,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c735c3c03d967d2e0c3016b6311cd90d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3153949571"
+  "link": "https://www.deezer.com/track/3153949571",
+  "deezer": 3153949571
  },
  {
   "id": 1407938442,
@@ -5618,7 +6179,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7db74ca092658762ca35b256f0d7bc75/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1407938442"
+  "link": "https://www.deezer.com/track/1407938442",
+  "deezer": 1407938442
  },
  {
   "id": 2021690637,
@@ -5628,7 +6190,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e64aecb45b7a5a93be98ec96dd4db2ff/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2021690637"
+  "link": "https://www.deezer.com/track/2021690637",
+  "deezer": 2021690637
  },
  {
   "id": 856219252,
@@ -5638,7 +6201,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b19cf6b4f02ac48f8e60880c8445713/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/856219252"
+  "link": "https://www.deezer.com/track/856219252",
+  "deezer": 856219252
  },
  {
   "id": 3190188901,
@@ -5648,7 +6212,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4c9f71be20e1349408a85c3dffc7995b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3190188901"
+  "link": "https://www.deezer.com/track/3190188901",
+  "deezer": 3190188901
  },
  {
   "id": 3706017592,
@@ -5658,7 +6223,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017592"
+  "link": "https://www.deezer.com/track/3706017592",
+  "deezer": 3706017592
  },
  {
   "id": 1405590502,
@@ -5668,7 +6234,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7c034f43937dec6f6b1b3b794782c9f3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1405590502"
+  "link": "https://www.deezer.com/track/1405590502",
+  "deezer": 1405590502
  },
  {
   "id": 773118112,
@@ -5678,7 +6245,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e0a497e7096ca2313b3bd686866363e9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/773118112"
+  "link": "https://www.deezer.com/track/773118112",
+  "deezer": 773118112
  },
  {
   "id": 128234277,
@@ -5688,7 +6256,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/05d387aab886a33d5b8cb6a55cde4640/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234277"
+  "link": "https://www.deezer.com/track/128234277",
+  "deezer": 128234277
  },
  {
   "id": 1024282442,
@@ -5698,7 +6267,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bdb639c6972b2f3f912a810906c90acb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1024282442"
+  "link": "https://www.deezer.com/track/1024282442",
+  "deezer": 1024282442
  },
  {
   "id": 63572381,
@@ -5708,7 +6278,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/aa03e5f65fb0c2efd2574470fbd8b93f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/63572381"
+  "link": "https://www.deezer.com/track/63572381",
+  "deezer": 63572381
  },
  {
   "id": 128235995,
@@ -5718,7 +6289,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a5008df891cf9e90b2775635198a2d7d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128235995"
+  "link": "https://www.deezer.com/track/128235995",
+  "deezer": 128235995
  },
  {
   "id": 1493932322,
@@ -5728,7 +6300,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/220fe2babc40b34c58cfbe8d0f70f57e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1493932322"
+  "link": "https://www.deezer.com/track/1493932322",
+  "deezer": 1493932322
  },
  {
   "id": 86384327,
@@ -5738,7 +6311,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/59f1df6040eb97e9a8b722e079054c78/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/86384327"
+  "link": "https://www.deezer.com/track/86384327",
+  "deezer": 86384327
  },
  {
   "id": 3697444132,
@@ -5748,7 +6322,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1958fdb17cbc462886d8b684878058df/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3697444132"
+  "link": "https://www.deezer.com/track/3697444132",
+  "deezer": 3697444132
  },
  {
   "id": 811213402,
@@ -5758,7 +6333,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1d375a49cf21237d46e400d61c196770/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/811213402"
+  "link": "https://www.deezer.com/track/811213402",
+  "deezer": 811213402
  },
  {
   "id": 3399416191,
@@ -5768,7 +6344,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3399416191"
+  "link": "https://www.deezer.com/track/3399416191",
+  "deezer": 3399416191
  },
  {
   "id": 3144390631,
@@ -5778,7 +6355,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1c7fce279a331fbf218e2cf3a5236ff2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3144390631"
+  "link": "https://www.deezer.com/track/3144390631",
+  "deezer": 3144390631
  },
  {
   "id": 1700265267,
@@ -5788,7 +6366,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4d44514466ebba36cc949d2f26f25b4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1700265267"
+  "link": "https://www.deezer.com/track/1700265267",
+  "deezer": 1700265267
  },
  {
   "id": 405318452,
@@ -5798,7 +6377,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f336e8fc34ea84a32d5c58fb4d30d3b4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/405318452"
+  "link": "https://www.deezer.com/track/405318452",
+  "deezer": 405318452
  },
  {
   "id": 1700265297,
@@ -5808,7 +6388,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4d44514466ebba36cc949d2f26f25b4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1700265297"
+  "link": "https://www.deezer.com/track/1700265297",
+  "deezer": 1700265297
  },
  {
   "id": 3697443642,
@@ -5818,7 +6399,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df678573ca1306f44834ba3a516a60c6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3697443642"
+  "link": "https://www.deezer.com/track/3697443642",
+  "deezer": 3697443642
  },
  {
   "id": 762616472,
@@ -5828,7 +6410,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9b64fcc062d539ec27b1a2041a42feb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/762616472"
+  "link": "https://www.deezer.com/track/762616472",
+  "deezer": 762616472
  },
  {
   "id": 3278043891,
@@ -5838,7 +6421,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3278043891"
+  "link": "https://www.deezer.com/track/3278043891",
+  "deezer": 3278043891
  },
  {
   "id": 71903019,
@@ -5848,7 +6432,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4bf1c0197dd48ef30d143e22b6880436/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/71903019"
+  "link": "https://www.deezer.com/track/71903019",
+  "deezer": 71903019
  },
  {
   "id": 92976174,
@@ -5858,7 +6443,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2f469d48000a7d9aae2c182f00351d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/92976174"
+  "link": "https://www.deezer.com/track/92976174",
+  "deezer": 92976174
  },
  {
   "id": 65760326,
@@ -5868,7 +6454,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96e1a660480f37b03d06be72266bb576/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760326"
+  "link": "https://www.deezer.com/track/65760326",
+  "deezer": 65760326
  },
  {
   "id": 2774766401,
@@ -5878,7 +6465,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/89f7cc2cd85f460f6f17411c959095cd/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2774766401"
+  "link": "https://www.deezer.com/track/2774766401",
+  "deezer": 2774766401
  },
  {
   "id": 1498021412,
@@ -5888,7 +6476,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/782cba032ac1537e035fb5c62a9ad191/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1498021412"
+  "link": "https://www.deezer.com/track/1498021412",
+  "deezer": 1498021412
  },
  {
   "id": 129499600,
@@ -5898,7 +6487,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae78a89d49082fe78cc4a82025070e85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/129499600"
+  "link": "https://www.deezer.com/track/129499600",
+  "deezer": 129499600
  },
  {
   "id": 4256417681,
@@ -5908,7 +6498,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256417681"
+  "link": "https://www.deezer.com/track/4256417681",
+  "deezer": 4256417681
  },
  {
   "id": 597525002,
@@ -5918,7 +6509,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e19c7a2e78456f26940c50d8a984d735/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/597525002"
+  "link": "https://www.deezer.com/track/597525002",
+  "deezer": 597525002
  },
  {
   "id": 4256417571,
@@ -5928,7 +6520,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256417571"
+  "link": "https://www.deezer.com/track/4256417571",
+  "deezer": 4256417571
  },
  {
   "id": 762610262,
@@ -5938,7 +6531,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6782eae87f7264ac43dec12ff9f2a022/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/762610262"
+  "link": "https://www.deezer.com/track/762610262",
+  "deezer": 762610262
  },
  {
   "id": 2188960197,
@@ -5948,7 +6542,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4d722bce3982b4b6aadab12e9aa0b7e8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2188960197"
+  "link": "https://www.deezer.com/track/2188960197",
+  "deezer": 2188960197
  },
  {
   "id": 62355478,
@@ -5958,7 +6553,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/24a3555d7c9716038b660641dfd07bd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/62355478"
+  "link": "https://www.deezer.com/track/62355478",
+  "deezer": 62355478
  },
  {
   "id": 3973054751,
@@ -5968,7 +6564,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054751"
+  "link": "https://www.deezer.com/track/3973054751",
+  "deezer": 3973054751
  },
  {
   "id": 3487752281,
@@ -5978,7 +6575,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9a3c174de2bc208ef2755d1d66e8e459/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3487752281"
+  "link": "https://www.deezer.com/track/3487752281",
+  "deezer": 3487752281
  },
  {
   "id": 1661007412,
@@ -5988,7 +6586,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/06addb9b6100e2519a2c7ce810fcb68d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1661007412"
+  "link": "https://www.deezer.com/track/1661007412",
+  "deezer": 1661007412
  },
  {
   "id": 4094316991,
@@ -5998,7 +6597,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1e4de278e086a31c4f1a463cbf1d3e6c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4094316991"
+  "link": "https://www.deezer.com/track/4094316991",
+  "deezer": 4094316991
  },
  {
   "id": 4256417551,
@@ -6008,7 +6608,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256417551"
+  "link": "https://www.deezer.com/track/4256417551",
+  "deezer": 4256417551
  },
  {
   "id": 3763867462,
@@ -6018,7 +6619,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3763867462"
+  "link": "https://www.deezer.com/track/3763867462",
+  "deezer": 3763867462
  },
  {
   "id": 1060191192,
@@ -6028,7 +6630,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6710419d082a74380586a97da5ecd0fc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1060191192"
+  "link": "https://www.deezer.com/track/1060191192",
+  "deezer": 1060191192
  },
  {
   "id": 1296825512,
@@ -6038,7 +6641,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1296825512"
+  "link": "https://www.deezer.com/track/1296825512",
+  "deezer": 1296825512
  },
  {
   "id": 3105145351,
@@ -6048,7 +6652,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4200c2b505b52120fb0697685bf66b25/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3105145351"
+  "link": "https://www.deezer.com/track/3105145351",
+  "deezer": 3105145351
  },
  {
   "id": 130814488,
@@ -6058,7 +6663,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b9c815f5a0a50d4bdeabf02e8c5c13c1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/130814488"
+  "link": "https://www.deezer.com/track/130814488",
+  "deezer": 130814488
  },
  {
   "id": 617423142,
@@ -6068,7 +6674,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/420e9641de9be262f3d9ee9a468e14d5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/617423142"
+  "link": "https://www.deezer.com/track/617423142",
+  "deezer": 617423142
  },
  {
   "id": 128325721,
@@ -6078,7 +6685,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128325721"
+  "link": "https://www.deezer.com/track/128325721",
+  "deezer": 128325721
  },
  {
   "id": 3756794172,
@@ -6088,7 +6696,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fda9b12809be88bc82c86acd848d014d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756794172"
+  "link": "https://www.deezer.com/track/3756794172",
+  "deezer": 3756794172
  },
  {
   "id": 3167990331,
@@ -6098,7 +6707,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3e23368c17523650f3c4a56b11a3faa3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3167990331"
+  "link": "https://www.deezer.com/track/3167990331",
+  "deezer": 3167990331
  },
  {
   "id": 140793259,
@@ -6108,7 +6718,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2daadde0639a146799226c1036fc59d1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/140793259"
+  "link": "https://www.deezer.com/track/140793259",
+  "deezer": 140793259
  },
  {
   "id": 3801750372,
@@ -6118,7 +6729,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/51fb48f80a6692f643cfc2f7e89232e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3801750372"
+  "link": "https://www.deezer.com/track/3801750372",
+  "deezer": 3801750372
  },
  {
   "id": 3832550681,
@@ -6128,7 +6740,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df172965a1934a3992acb61495f540ed/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3832550681"
+  "link": "https://www.deezer.com/track/3832550681",
+  "deezer": 3832550681
  },
  {
   "id": 3278043901,
@@ -6138,7 +6751,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3278043901"
+  "link": "https://www.deezer.com/track/3278043901",
+  "deezer": 3278043901
  },
  {
   "id": 73284112,
@@ -6148,7 +6762,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1f7023c2b951c3c2c478531eeab82685/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/73284112"
+  "link": "https://www.deezer.com/track/73284112",
+  "deezer": 73284112
  },
  {
   "id": 3713914432,
@@ -6158,7 +6773,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b296e5fc4f5e5fdc923cc003ce7eeaf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3713914432"
+  "link": "https://www.deezer.com/track/3713914432",
+  "deezer": 3713914432
  },
  {
   "id": 2072946817,
@@ -6168,7 +6784,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed95e6c17a24d00a1d8c2923c8475b4a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2072946817"
+  "link": "https://www.deezer.com/track/2072946817",
+  "deezer": 2072946817
  },
  {
   "id": 1498027982,
@@ -6178,7 +6795,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fde64912119b2b9a5e258e41b23d0233/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1498027982"
+  "link": "https://www.deezer.com/track/1498027982",
+  "deezer": 1498027982
  },
  {
   "id": 566085902,
@@ -6188,7 +6806,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7087d9567d0e8059b460e3e672b9f1b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/566085902"
+  "link": "https://www.deezer.com/track/566085902",
+  "deezer": 566085902
  },
  {
   "id": 4096891371,
@@ -6198,7 +6817,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4096891371"
+  "link": "https://www.deezer.com/track/4096891371",
+  "deezer": 4096891371
  },
  {
   "id": 128234841,
@@ -6208,7 +6828,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234841"
+  "link": "https://www.deezer.com/track/128234841",
+  "deezer": 128234841
  },
  {
   "id": 1409440312,
@@ -6218,7 +6839,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1409440312"
+  "link": "https://www.deezer.com/track/1409440312",
+  "deezer": 1409440312
  },
  {
   "id": 3973054761,
@@ -6228,7 +6850,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054761"
+  "link": "https://www.deezer.com/track/3973054761",
+  "deezer": 3973054761
  },
  {
   "id": 1065567392,
@@ -6238,7 +6861,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1065567392"
+  "link": "https://www.deezer.com/track/1065567392",
+  "deezer": 1065567392
  },
  {
   "id": 4144375582,
@@ -6248,7 +6872,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4144375582"
+  "link": "https://www.deezer.com/track/4144375582",
+  "deezer": 4144375582
  },
  {
   "id": 654337362,
@@ -6258,7 +6883,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c4c6b3e7a3e79c9ffe121b3741a16460/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/654337362"
+  "link": "https://www.deezer.com/track/654337362",
+  "deezer": 654337362
  },
  {
   "id": 1082535442,
@@ -6268,7 +6894,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8380c7ead583ca379db52f1d7d7d6be9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1082535442"
+  "link": "https://www.deezer.com/track/1082535442",
+  "deezer": 1082535442
  },
  {
   "id": 3763867442,
@@ -6278,7 +6905,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/73167056cf2d9afe733290a479fd34b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3763867442"
+  "link": "https://www.deezer.com/track/3763867442",
+  "deezer": 3763867442
  },
  {
   "id": 4294948412,
@@ -6288,7 +6916,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/70e7b97cdf425c29caf1c3675776087e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4294948412"
+  "link": "https://www.deezer.com/track/4294948412",
+  "deezer": 4294948412
  },
  {
   "id": 1403728772,
@@ -6298,7 +6927,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/abec85a65725cc6258185dd13dcd85fb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1403728772"
+  "link": "https://www.deezer.com/track/1403728772",
+  "deezer": 1403728772
  },
  {
   "id": 3973054771,
@@ -6308,7 +6938,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054771"
+  "link": "https://www.deezer.com/track/3973054771",
+  "deezer": 3973054771
  },
  {
   "id": 128234799,
@@ -6318,7 +6949,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c97f0b16eac1f62707a36c5af8eb61fe/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234799"
+  "link": "https://www.deezer.com/track/128234799",
+  "deezer": 128234799
  },
  {
   "id": 3136042501,
@@ -6328,7 +6960,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ea11ab47d1c7e8a320b98ffcc31dcc35/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3136042501"
+  "link": "https://www.deezer.com/track/3136042501",
+  "deezer": 3136042501
  },
  {
   "id": 1540443202,
@@ -6338,7 +6971,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1540443202"
+  "link": "https://www.deezer.com/track/1540443202",
+  "deezer": 1540443202
  },
  {
   "id": 1082535372,
@@ -6348,7 +6982,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8380c7ead583ca379db52f1d7d7d6be9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1082535372"
+  "link": "https://www.deezer.com/track/1082535372",
+  "deezer": 1082535372
  },
  {
   "id": 2873551922,
@@ -6358,7 +6993,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/da7250a1e6ee50bf4fe8bc57bf7cc9ca/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2873551922"
+  "link": "https://www.deezer.com/track/2873551922",
+  "deezer": 2873551922
  },
  {
   "id": 128234887,
@@ -6368,7 +7004,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234887"
+  "link": "https://www.deezer.com/track/128234887",
+  "deezer": 128234887
  },
  {
   "id": 109118190,
@@ -6378,7 +7015,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ff7b92b3e58b83d892a310dcee9ec726/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109118190"
+  "link": "https://www.deezer.com/track/109118190",
+  "deezer": 109118190
  },
  {
   "id": 1497629632,
@@ -6388,7 +7026,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eedcd5f71daf952f57cdd3cc29dfc25/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497629632"
+  "link": "https://www.deezer.com/track/1497629632",
+  "deezer": 1497629632
  },
  {
   "id": 2448204235,
@@ -6398,7 +7037,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2448204235"
+  "link": "https://www.deezer.com/track/2448204235",
+  "deezer": 2448204235
  },
  {
   "id": 4224428732,
@@ -6408,7 +7048,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/139b39e4d037e5476a73a5de326dd3d7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4224428732"
+  "link": "https://www.deezer.com/track/4224428732",
+  "deezer": 4224428732
  },
  {
   "id": 65295647,
@@ -6418,7 +7059,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2ffc4f75736765e42a0f152446511f62/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65295647"
+  "link": "https://www.deezer.com/track/65295647",
+  "deezer": 65295647
  },
  {
   "id": 1497900282,
@@ -6428,7 +7070,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/81a1604045172f81f46acb1c8b18e18d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497900282"
+  "link": "https://www.deezer.com/track/1497900282",
+  "deezer": 1497900282
  },
  {
   "id": 1540443272,
@@ -6438,7 +7081,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1540443272"
+  "link": "https://www.deezer.com/track/1540443272",
+  "deezer": 1540443272
  },
  {
   "id": 62355483,
@@ -6448,7 +7092,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/24a3555d7c9716038b660641dfd07bd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/62355483"
+  "link": "https://www.deezer.com/track/62355483",
+  "deezer": 62355483
  },
  {
   "id": 4144375612,
@@ -6458,7 +7103,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4144375612"
+  "link": "https://www.deezer.com/track/4144375612",
+  "deezer": 4144375612
  },
  {
   "id": 362739811,
@@ -6468,7 +7114,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/afe6f2ce39788c1bad5a79800ec83194/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/362739811"
+  "link": "https://www.deezer.com/track/362739811",
+  "deezer": 362739811
  },
  {
   "id": 1036062752,
@@ -6478,7 +7125,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036062752"
+  "link": "https://www.deezer.com/track/1036062752",
+  "deezer": 1036062752
  },
  {
   "id": 452803062,
@@ -6488,7 +7136,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8ffed50945af03b3651e70fd2ccd2fd5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/452803062"
+  "link": "https://www.deezer.com/track/452803062",
+  "deezer": 452803062
  },
  {
   "id": 4062796051,
@@ -6498,7 +7147,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8e82de95e3eb3fc2cb5d13d3b1b1dca3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4062796051"
+  "link": "https://www.deezer.com/track/4062796051",
+  "deezer": 4062796051
  },
  {
   "id": 1405590642,
@@ -6508,7 +7158,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7c034f43937dec6f6b1b3b794782c9f3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1405590642"
+  "link": "https://www.deezer.com/track/1405590642",
+  "deezer": 1405590642
  },
  {
   "id": 507905042,
@@ -6518,7 +7169,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8fe51cec475273f15728dcdc15e62e3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/507905042"
+  "link": "https://www.deezer.com/track/507905042",
+  "deezer": 507905042
  },
  {
   "id": 3973054791,
@@ -6528,7 +7180,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054791"
+  "link": "https://www.deezer.com/track/3973054791",
+  "deezer": 3973054791
  },
  {
   "id": 1533431912,
@@ -6538,7 +7191,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0b0569c968742b15b6cc8ebc4e71300f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1533431912"
+  "link": "https://www.deezer.com/track/1533431912",
+  "deezer": 1533431912
  },
  {
   "id": 1533432002,
@@ -6548,7 +7202,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0b0569c968742b15b6cc8ebc4e71300f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1533432002"
+  "link": "https://www.deezer.com/track/1533432002",
+  "deezer": 1533432002
  },
  {
   "id": 2157829607,
@@ -6558,7 +7213,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/47d54c90cd6df02048c68c9587767f79/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2157829607"
+  "link": "https://www.deezer.com/track/2157829607",
+  "deezer": 2157829607
  },
  {
   "id": 1800334367,
@@ -6568,7 +7224,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2b58242f332c67e9ea45a0fb5ff2c1f7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1800334367"
+  "link": "https://www.deezer.com/track/1800334367",
+  "deezer": 1800334367
  },
  {
   "id": 3024653871,
@@ -6578,7 +7235,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8bb3779312af3c067117a9e67f8ec526/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3024653871"
+  "link": "https://www.deezer.com/track/3024653871",
+  "deezer": 3024653871
  },
  {
   "id": 3019198071,
@@ -6588,7 +7246,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b2548223cb998dac0f9e8d9ed9a74fd1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3019198071"
+  "link": "https://www.deezer.com/track/3019198071",
+  "deezer": 3019198071
  },
  {
   "id": 3949556201,
@@ -6598,7 +7257,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556201"
+  "link": "https://www.deezer.com/track/3949556201",
+  "deezer": 3949556201
  },
  {
   "id": 3168302281,
@@ -6608,7 +7268,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302281"
+  "link": "https://www.deezer.com/track/3168302281",
+  "deezer": 3168302281
  },
  {
   "id": 2098945447,
@@ -6618,7 +7279,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ec196feb5e3869d61e346da2109375d5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2098945447"
+  "link": "https://www.deezer.com/track/2098945447",
+  "deezer": 2098945447
  },
  {
   "id": 3912693331,
@@ -6628,7 +7290,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/401f3b98eb8561de903648e574d005e0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3912693331"
+  "link": "https://www.deezer.com/track/3912693331",
+  "deezer": 3912693331
  },
  {
   "id": 2255433657,
@@ -6638,7 +7301,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2255433657"
+  "link": "https://www.deezer.com/track/2255433657",
+  "deezer": 2255433657
  },
  {
   "id": 4033488491,
@@ -6648,7 +7312,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4033488491"
+  "link": "https://www.deezer.com/track/4033488491",
+  "deezer": 4033488491
  },
  {
   "id": 3949556171,
@@ -6658,7 +7323,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556171"
+  "link": "https://www.deezer.com/track/3949556171",
+  "deezer": 3949556171
  },
  {
   "id": 3949556221,
@@ -6668,7 +7334,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556221"
+  "link": "https://www.deezer.com/track/3949556221",
+  "deezer": 3949556221
  },
  {
   "id": 2788042872,
@@ -6678,7 +7345,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2788042872"
+  "link": "https://www.deezer.com/track/2788042872",
+  "deezer": 2788042872
  },
  {
   "id": 1518379532,
@@ -6688,7 +7356,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f45bcccb717cbe0d9ff104a1075af3b8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1518379532"
+  "link": "https://www.deezer.com/track/1518379532",
+  "deezer": 1518379532
  },
  {
   "id": 4256966941,
@@ -6698,7 +7367,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256966941"
+  "link": "https://www.deezer.com/track/4256966941",
+  "deezer": 4256966941
  },
  {
   "id": 3168302241,
@@ -6708,7 +7378,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302241"
+  "link": "https://www.deezer.com/track/3168302241",
+  "deezer": 3168302241
  },
  {
   "id": 3168302321,
@@ -6718,7 +7389,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302321"
+  "link": "https://www.deezer.com/track/3168302321",
+  "deezer": 3168302321
  },
  {
   "id": 3949556191,
@@ -6728,7 +7400,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556191"
+  "link": "https://www.deezer.com/track/3949556191",
+  "deezer": 3949556191
  },
  {
   "id": 3694084032,
@@ -6738,7 +7411,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3694084032"
+  "link": "https://www.deezer.com/track/3694084032",
+  "deezer": 3694084032
  },
  {
   "id": 3024653961,
@@ -6748,7 +7422,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8bb3779312af3c067117a9e67f8ec526/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3024653961"
+  "link": "https://www.deezer.com/track/3024653961",
+  "deezer": 3024653961
  },
  {
   "id": 2788042882,
@@ -6758,7 +7433,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2788042882"
+  "link": "https://www.deezer.com/track/2788042882",
+  "deezer": 2788042882
  },
  {
   "id": 856732852,
@@ -6768,7 +7444,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/856732852"
+  "link": "https://www.deezer.com/track/856732852",
+  "deezer": 856732852
  },
  {
   "id": 856732862,
@@ -6778,7 +7455,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/856732862"
+  "link": "https://www.deezer.com/track/856732862",
+  "deezer": 856732862
  },
  {
   "id": 3973473631,
@@ -6788,7 +7466,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3d25327f79e65cd93af50817cefbe544/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973473631"
+  "link": "https://www.deezer.com/track/3973473631",
+  "deezer": 3973473631
  },
  {
   "id": 3168302191,
@@ -6798,7 +7477,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302191"
+  "link": "https://www.deezer.com/track/3168302191",
+  "deezer": 3168302191
  },
  {
   "id": 2029702627,
@@ -6808,7 +7488,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/eac934a950e91ae716ff97b826c6b448/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2029702627"
+  "link": "https://www.deezer.com/track/2029702627",
+  "deezer": 2029702627
  },
  {
   "id": 4256966811,
@@ -6818,7 +7499,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256966811"
+  "link": "https://www.deezer.com/track/4256966811",
+  "deezer": 4256966811
  },
  {
   "id": 4256966921,
@@ -6828,7 +7510,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256966921"
+  "link": "https://www.deezer.com/track/4256966921",
+  "deezer": 4256966921
  },
  {
   "id": 3694084062,
@@ -6838,7 +7521,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd85cb782874b71633399c5bd4338d85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3694084062"
+  "link": "https://www.deezer.com/track/3694084062",
+  "deezer": 3694084062
  },
  {
   "id": 1695809807,
@@ -6848,7 +7532,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/79da5ae72c0cd6f7fc297ed0bfc78b91/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1695809807"
+  "link": "https://www.deezer.com/track/1695809807",
+  "deezer": 1695809807
  },
  {
   "id": 4256966891,
@@ -6858,7 +7543,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d7d08b8d48bf0223782f8800d5e81600/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256966891"
+  "link": "https://www.deezer.com/track/4256966891",
+  "deezer": 4256966891
  },
  {
   "id": 1238512712,
@@ -6868,7 +7554,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1238512712"
+  "link": "https://www.deezer.com/track/1238512712",
+  "deezer": 1238512712
  },
  {
   "id": 1814388877,
@@ -6878,7 +7565,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2280a7bd6cd3ba59200ccf2449159927/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1814388877"
+  "link": "https://www.deezer.com/track/1814388877",
+  "deezer": 1814388877
  },
  {
   "id": 3319046491,
@@ -6888,7 +7576,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/231e720c11b85972d1ca0d2dab98e17e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3319046491"
+  "link": "https://www.deezer.com/track/3319046491",
+  "deezer": 3319046491
  },
  {
   "id": 2125271807,
@@ -6898,7 +7587,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0a8d98bb233f6801b676ac9af7a0b122/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2125271807"
+  "link": "https://www.deezer.com/track/2125271807",
+  "deezer": 2125271807
  },
  {
   "id": 3051805381,
@@ -6908,7 +7598,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805381"
+  "link": "https://www.deezer.com/track/3051805381",
+  "deezer": 3051805381
  },
  {
   "id": 3352919061,
@@ -6918,7 +7609,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bf216ee0ca5960733581dcbc5c223948/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3352919061"
+  "link": "https://www.deezer.com/track/3352919061",
+  "deezer": 3352919061
  },
  {
   "id": 3666988262,
@@ -6928,7 +7620,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988262"
+  "link": "https://www.deezer.com/track/3666988262",
+  "deezer": 3666988262
  },
  {
   "id": 1120656432,
@@ -6938,7 +7631,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1120656432"
+  "link": "https://www.deezer.com/track/1120656432",
+  "deezer": 1120656432
  },
  {
   "id": 2117809827,
@@ -6948,7 +7642,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2151edeb203c76e30943e89c558537/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2117809827"
+  "link": "https://www.deezer.com/track/2117809827",
+  "deezer": 2117809827
  },
  {
   "id": 3666988292,
@@ -6958,7 +7653,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988292"
+  "link": "https://www.deezer.com/track/3666988292",
+  "deezer": 3666988292
  },
  {
   "id": 3153949641,
@@ -6968,7 +7664,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c735c3c03d967d2e0c3016b6311cd90d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3153949641"
+  "link": "https://www.deezer.com/track/3153949641",
+  "deezer": 3153949641
  },
  {
   "id": 1120656452,
@@ -6978,7 +7675,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1120656452"
+  "link": "https://www.deezer.com/track/1120656452",
+  "deezer": 1120656452
  },
  {
   "id": 2678404572,
@@ -6988,7 +7686,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8c30b640fd4a789f57155ec1e218478a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2678404572"
+  "link": "https://www.deezer.com/track/2678404572",
+  "deezer": 2678404572
  },
  {
   "id": 3051805331,
@@ -6998,7 +7697,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805331"
+  "link": "https://www.deezer.com/track/3051805331",
+  "deezer": 3051805331
  },
  {
   "id": 1120656522,
@@ -7008,7 +7708,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d6c97509eb64a5692acea81b749306f4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1120656522"
+  "link": "https://www.deezer.com/track/1120656522",
+  "deezer": 1120656522
  },
  {
   "id": 1909793057,
@@ -7018,7 +7719,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9307f3159b0904606f40d98b582af32e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1909793057"
+  "link": "https://www.deezer.com/track/1909793057",
+  "deezer": 1909793057
  },
  {
   "id": 4003519221,
@@ -7028,7 +7730,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4003519221"
+  "link": "https://www.deezer.com/track/4003519221",
+  "deezer": 4003519221
  },
  {
   "id": 2607449862,
@@ -7038,7 +7741,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a06de52f60cd8ab1f84c925585133b23/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2607449862"
+  "link": "https://www.deezer.com/track/2607449862",
+  "deezer": 2607449862
  },
  {
   "id": 3666988242,
@@ -7048,7 +7752,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988242"
+  "link": "https://www.deezer.com/track/3666988242",
+  "deezer": 3666988242
  },
  {
   "id": 2117809757,
@@ -7058,7 +7763,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a2151edeb203c76e30943e89c558537/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2117809757"
+  "link": "https://www.deezer.com/track/2117809757",
+  "deezer": 2117809757
  },
  {
   "id": 3666988252,
@@ -7068,7 +7774,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d9295b1b3a785d799f175b31bb668360/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3666988252"
+  "link": "https://www.deezer.com/track/3666988252",
+  "deezer": 3666988252
  },
  {
   "id": 3060700081,
@@ -7078,7 +7785,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b3824f57fd747ac1ff36d768b92c6429/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3060700081"
+  "link": "https://www.deezer.com/track/3060700081",
+  "deezer": 3060700081
  },
  {
   "id": 3609086782,
@@ -7088,7 +7796,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3609086782"
+  "link": "https://www.deezer.com/track/3609086782",
+  "deezer": 3609086782
  },
  {
   "id": 4003519261,
@@ -7098,7 +7807,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4003519261"
+  "link": "https://www.deezer.com/track/4003519261",
+  "deezer": 4003519261
  },
  {
   "id": 1238512742,
@@ -7108,7 +7818,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1238512742"
+  "link": "https://www.deezer.com/track/1238512742",
+  "deezer": 1238512742
  },
  {
   "id": 4256417611,
@@ -7118,7 +7829,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256417611"
+  "link": "https://www.deezer.com/track/4256417611",
+  "deezer": 4256417611
  },
  {
   "id": 3399905741,
@@ -7128,7 +7840,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/cf1b2de97e638f010a5cc8d6c2260bd1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3399905741"
+  "link": "https://www.deezer.com/track/3399905741",
+  "deezer": 3399905741
  },
  {
   "id": 2009400377,
@@ -7138,7 +7851,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b0fec82aa1a7dbc5453fe09a48848b2a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2009400377"
+  "link": "https://www.deezer.com/track/2009400377",
+  "deezer": 2009400377
  },
  {
   "id": 3706017672,
@@ -7148,7 +7862,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017672"
+  "link": "https://www.deezer.com/track/3706017672",
+  "deezer": 3706017672
  },
  {
   "id": 3352919031,
@@ -7158,7 +7873,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bf216ee0ca5960733581dcbc5c223948/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3352919031"
+  "link": "https://www.deezer.com/track/3352919031",
+  "deezer": 3352919031
  },
  {
   "id": 3609086802,
@@ -7168,7 +7884,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3609086802"
+  "link": "https://www.deezer.com/track/3609086802",
+  "deezer": 3609086802
  },
  {
   "id": 1398524122,
@@ -7178,7 +7895,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a16af56c3f0c111147f99a708a6d4332/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1398524122"
+  "link": "https://www.deezer.com/track/1398524122",
+  "deezer": 1398524122
  },
  {
   "id": 2177073317,
@@ -7188,7 +7906,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/16c77ec544c5d79bc40f2b086655651d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2177073317"
+  "link": "https://www.deezer.com/track/2177073317",
+  "deezer": 2177073317
  },
  {
   "id": 3706017642,
@@ -7198,7 +7917,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f38c456a5a7d619ebad7b53e28b2cc36/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3706017642"
+  "link": "https://www.deezer.com/track/3706017642",
+  "deezer": 3706017642
  },
  {
   "id": 1540443172,
@@ -7208,7 +7928,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1540443172"
+  "link": "https://www.deezer.com/track/1540443172",
+  "deezer": 1540443172
  },
  {
   "id": 3051805391,
@@ -7218,7 +7939,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/118a6842ad75a6dd35b18acca6ef32e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3051805391"
+  "link": "https://www.deezer.com/track/3051805391",
+  "deezer": 3051805391
  },
  {
   "id": 3153949651,
@@ -7228,7 +7950,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c735c3c03d967d2e0c3016b6311cd90d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3153949651"
+  "link": "https://www.deezer.com/track/3153949651",
+  "deezer": 3153949651
  },
  {
   "id": 1480799932,
@@ -7238,7 +7961,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd52e595f50e2f9e9e2a832b284c777/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1480799932"
+  "link": "https://www.deezer.com/track/1480799932",
+  "deezer": 1480799932
  },
  {
   "id": 1540443192,
@@ -7248,7 +7972,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1540443192"
+  "link": "https://www.deezer.com/track/1540443192",
+  "deezer": 1540443192
  },
  {
   "id": 938679152,
@@ -7258,7 +7983,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5971cd51d02f4278810bcc49106e83f6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/938679152"
+  "link": "https://www.deezer.com/track/938679152",
+  "deezer": 938679152
  },
  {
   "id": 1065567412,
@@ -7268,7 +7994,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1065567412"
+  "link": "https://www.deezer.com/track/1065567412",
+  "deezer": 1065567412
  },
  {
   "id": 3812297862,
@@ -7278,7 +8005,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae8b47b21d128b28b8259b6a5b30272c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3812297862"
+  "link": "https://www.deezer.com/track/3812297862",
+  "deezer": 3812297862
  },
  {
   "id": 2150936307,
@@ -7288,7 +8016,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9d3f1f30f26fdd0fb8f67b72bf3b4050/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2150936307"
+  "link": "https://www.deezer.com/track/2150936307",
+  "deezer": 2150936307
  },
  {
   "id": 2206549807,
@@ -7298,7 +8027,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2a7de5d92cf19921a99f4a1b38d7700a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2206549807"
+  "link": "https://www.deezer.com/track/2206549807",
+  "deezer": 2206549807
  },
  {
   "id": 1935953097,
@@ -7308,7 +8038,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1935953097"
+  "link": "https://www.deezer.com/track/1935953097",
+  "deezer": 1935953097
  },
  {
   "id": 2058882877,
@@ -7318,7 +8049,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bbd1bfc8ccc0a7317751a8d8b53291f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2058882877"
+  "link": "https://www.deezer.com/track/2058882877",
+  "deezer": 2058882877
  },
  {
   "id": 1751404337,
@@ -7328,7 +8060,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/50c00f1d2ad1bfddfed17af697fcad4c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1751404337"
+  "link": "https://www.deezer.com/track/1751404337",
+  "deezer": 1751404337
  },
  {
   "id": 3278043851,
@@ -7338,7 +8071,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3278043851"
+  "link": "https://www.deezer.com/track/3278043851",
+  "deezer": 3278043851
  },
  {
   "id": 1540443262,
@@ -7348,7 +8082,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1540443262"
+  "link": "https://www.deezer.com/track/1540443262",
+  "deezer": 1540443262
  },
  {
   "id": 4144375622,
@@ -7358,7 +8093,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4144375622"
+  "link": "https://www.deezer.com/track/4144375622",
+  "deezer": 4144375622
  },
  {
   "id": 3278043871,
@@ -7368,7 +8104,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3278043871"
+  "link": "https://www.deezer.com/track/3278043871",
+  "deezer": 3278043871
  },
  {
   "id": 3168301591,
@@ -7378,7 +8115,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d90999fe3e08ae2783f233195b48c98e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168301591"
+  "link": "https://www.deezer.com/track/3168301591",
+  "deezer": 3168301591
  },
  {
   "id": 1751404347,
@@ -7388,7 +8126,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/50c00f1d2ad1bfddfed17af697fcad4c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1751404347"
+  "link": "https://www.deezer.com/track/1751404347",
+  "deezer": 1751404347
  },
  {
   "id": 2788042832,
@@ -7398,7 +8137,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2788042832"
+  "link": "https://www.deezer.com/track/2788042832",
+  "deezer": 2788042832
  },
  {
   "id": 2397233215,
@@ -7408,7 +8148,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6860889407edb57bad307011fb372e4a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2397233215"
+  "link": "https://www.deezer.com/track/2397233215",
+  "deezer": 2397233215
  },
  {
   "id": 3973054801,
@@ -7418,7 +8159,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054801"
+  "link": "https://www.deezer.com/track/3973054801",
+  "deezer": 3973054801
  },
  {
   "id": 2929318901,
@@ -7428,7 +8170,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2929318901"
+  "link": "https://www.deezer.com/track/2929318901",
+  "deezer": 2929318901
  },
  {
   "id": 4003519181,
@@ -7438,7 +8181,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4003519181"
+  "link": "https://www.deezer.com/track/4003519181",
+  "deezer": 4003519181
  },
  {
   "id": 3840013171,
@@ -7448,7 +8192,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fecdd771617defd2d6600b30bafde911/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3840013171"
+  "link": "https://www.deezer.com/track/3840013171",
+  "deezer": 3840013171
  },
  {
   "id": 3403182011,
@@ -7458,7 +8203,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b3803e429b5076fb1f109bc655bb7142/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3403182011"
+  "link": "https://www.deezer.com/track/3403182011",
+  "deezer": 3403182011
  },
  {
   "id": 128233719,
@@ -7468,7 +8214,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/069b69f334ce75a4149b029706612a5d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233719"
+  "link": "https://www.deezer.com/track/128233719",
+  "deezer": 128233719
  },
  {
   "id": 128324479,
@@ -7478,7 +8225,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c0fa0414087b06a7c31c9bc237538cdf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128324479"
+  "link": "https://www.deezer.com/track/128324479",
+  "deezer": 128324479
  },
  {
   "id": 401394412,
@@ -7488,7 +8236,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e904587c351f2930a19cc1541fe2baa/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/401394412"
+  "link": "https://www.deezer.com/track/401394412",
+  "deezer": 401394412
  },
  {
   "id": 3949556161,
@@ -7498,7 +8247,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556161"
+  "link": "https://www.deezer.com/track/3949556161",
+  "deezer": 3949556161
  },
  {
   "id": 84519269,
@@ -7508,7 +8258,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b787aceb91ba7f1c34e9ebed7ebdd2cf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/84519269"
+  "link": "https://www.deezer.com/track/84519269",
+  "deezer": 84519269
  },
  {
   "id": 4096891471,
@@ -7518,7 +8269,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4096891471"
+  "link": "https://www.deezer.com/track/4096891471",
+  "deezer": 4096891471
  },
  {
   "id": 3168302221,
@@ -7528,7 +8280,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302221"
+  "link": "https://www.deezer.com/track/3168302221",
+  "deezer": 3168302221
  },
  {
   "id": 2255433577,
@@ -7538,7 +8291,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c391bee42d7659a45c82b2ee980c80b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2255433577"
+  "link": "https://www.deezer.com/track/2255433577",
+  "deezer": 2255433577
  },
  {
   "id": 4033488461,
@@ -7548,7 +8302,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1ddabe65874c3e8df5db88c6fa2315de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4033488461"
+  "link": "https://www.deezer.com/track/4033488461",
+  "deezer": 4033488461
  },
  {
   "id": 136158804,
@@ -7558,7 +8313,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/224abaef6b57443077c06ad31ff464cc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/136158804"
+  "link": "https://www.deezer.com/track/136158804",
+  "deezer": 136158804
  },
  {
   "id": 128233595,
@@ -7568,7 +8324,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233595"
+  "link": "https://www.deezer.com/track/128233595",
+  "deezer": 128233595
  },
  {
   "id": 128238189,
@@ -7578,7 +8335,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/75e89bd2a71b9df94f7b212f567762ce/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128238189"
+  "link": "https://www.deezer.com/track/128238189",
+  "deezer": 128238189
  },
  {
   "id": 651242012,
@@ -7588,7 +8346,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a8b7f0002814dd9036b1e42ff99f81c9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/651242012"
+  "link": "https://www.deezer.com/track/651242012",
+  "deezer": 651242012
  },
  {
   "id": 128233603,
@@ -7598,7 +8357,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/12bcb064b7890a7b9358e49220abe53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128233603"
+  "link": "https://www.deezer.com/track/128233603",
+  "deezer": 128233603
  },
  {
   "id": 3949556181,
@@ -7608,7 +8368,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/775ad4e107c19ca2569ec1ed0dcc8f88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3949556181"
+  "link": "https://www.deezer.com/track/3949556181",
+  "deezer": 3949556181
  },
  {
   "id": 1082535382,
@@ -7618,7 +8379,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8380c7ead583ca379db52f1d7d7d6be9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1082535382"
+  "link": "https://www.deezer.com/track/1082535382",
+  "deezer": 1082535382
  },
  {
   "id": 1037120272,
@@ -7628,7 +8390,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8363b326bf173ac6df012e91b6d3a935/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1037120272"
+  "link": "https://www.deezer.com/track/1037120272",
+  "deezer": 1037120272
  },
  {
   "id": 93081562,
@@ -7638,7 +8401,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ce6a4c3f1c2e45bf25d059b3c0aa685b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/93081562"
+  "link": "https://www.deezer.com/track/93081562",
+  "deezer": 93081562
  },
  {
   "id": 3168302301,
@@ -7648,7 +8412,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/95ac95ff83e2e304ddf01d2b28b012ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168302301"
+  "link": "https://www.deezer.com/track/3168302301",
+  "deezer": 3168302301
  },
  {
   "id": 128234309,
@@ -7658,7 +8423,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/186090cd6e0eeea870e4db5062b04ece/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234309"
+  "link": "https://www.deezer.com/track/128234309",
+  "deezer": 128234309
  },
  {
   "id": 1036963832,
@@ -7668,7 +8434,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/65d01f071409088d9ed18d80c538f524/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036963832"
+  "link": "https://www.deezer.com/track/1036963832",
+  "deezer": 1036963832
  },
  {
   "id": 128226659,
@@ -7678,7 +8445,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5fb052d4461a581385ceb2e35b297e67/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128226659"
+  "link": "https://www.deezer.com/track/128226659",
+  "deezer": 128226659
  },
  {
   "id": 65760362,
@@ -7688,7 +8456,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/49bcc4fbc53c4448c71bd5ab452688f7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760362"
+  "link": "https://www.deezer.com/track/65760362",
+  "deezer": 65760362
  },
  {
   "id": 1284099302,
@@ -7698,7 +8467,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1284099302"
+  "link": "https://www.deezer.com/track/1284099302",
+  "deezer": 1284099302
  },
  {
   "id": 856732932,
@@ -7708,7 +8478,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/159adcb011497a49cc1ed1e90a7ae3c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/856732932"
+  "link": "https://www.deezer.com/track/856732932",
+  "deezer": 856732932
  },
  {
   "id": 15397674,
@@ -7718,7 +8489,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/751a7f56b1e80d9791e3390f63dfe42e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15397674"
+  "link": "https://www.deezer.com/track/15397674",
+  "deezer": 15397674
  },
  {
   "id": 2941998731,
@@ -7728,7 +8500,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a885c26ca4c285c846a0557db6957102/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2941998731"
+  "link": "https://www.deezer.com/track/2941998731",
+  "deezer": 2941998731
  },
  {
   "id": 1829016727,
@@ -7738,7 +8511,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d873e238d0a50071d4ba5983c0d71c5a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1829016727"
+  "link": "https://www.deezer.com/track/1829016727",
+  "deezer": 1829016727
  },
  {
   "id": 1033152462,
@@ -7748,7 +8522,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e0e4dcd6b2446b1c485f181cbc07406/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1033152462"
+  "link": "https://www.deezer.com/track/1033152462",
+  "deezer": 1033152462
  },
  {
   "id": 65802560,
@@ -7758,7 +8533,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4e10d3f1132df3d88195741ba92f847f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802560"
+  "link": "https://www.deezer.com/track/65802560",
+  "deezer": 65802560
  },
  {
   "id": 90303977,
@@ -7768,7 +8544,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dfdcf4307e005570ab9a26cc24bad186/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/90303977"
+  "link": "https://www.deezer.com/track/90303977",
+  "deezer": 90303977
  },
  {
   "id": 856219262,
@@ -7778,7 +8555,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b19cf6b4f02ac48f8e60880c8445713/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/856219262"
+  "link": "https://www.deezer.com/track/856219262",
+  "deezer": 856219262
  },
  {
   "id": 1238512672,
@@ -7788,7 +8566,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/549d20a66fbd90fa3fc10b75274c933d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1238512672"
+  "link": "https://www.deezer.com/track/1238512672",
+  "deezer": 1238512672
  },
  {
   "id": 3619724602,
@@ -7798,7 +8577,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3619724602"
+  "link": "https://www.deezer.com/track/3619724602",
+  "deezer": 3619724602
  },
  {
   "id": 3609086772,
@@ -7808,7 +8588,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3609086772"
+  "link": "https://www.deezer.com/track/3609086772",
+  "deezer": 3609086772
  },
  {
   "id": 1296825432,
@@ -7818,7 +8599,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1296825432"
+  "link": "https://www.deezer.com/track/1296825432",
+  "deezer": 1296825432
  },
  {
   "id": 1497640642,
@@ -7828,7 +8610,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/622b8b56491ed9d361840287187841c9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497640642"
+  "link": "https://www.deezer.com/track/1497640642",
+  "deezer": 1497640642
  },
  {
   "id": 3756793592,
@@ -7838,7 +8621,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756793592"
+  "link": "https://www.deezer.com/track/3756793592",
+  "deezer": 3756793592
  },
  {
   "id": 65760412,
@@ -7848,7 +8632,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/adf2c195acd596820d3182c31ad120b5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760412"
+  "link": "https://www.deezer.com/track/65760412",
+  "deezer": 65760412
  },
  {
   "id": 65295645,
@@ -7858,7 +8643,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2ffc4f75736765e42a0f152446511f62/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65295645"
+  "link": "https://www.deezer.com/track/65295645",
+  "deezer": 65295645
  },
  {
   "id": 3911425261,
@@ -7868,7 +8654,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9afd6b31df4f4bd3a6a9722a1482c029/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3911425261"
+  "link": "https://www.deezer.com/track/3911425261",
+  "deezer": 3911425261
  },
  {
   "id": 128228251,
@@ -7878,7 +8665,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1d53491e5fb439d385d6cd59dbb80d51/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128228251"
+  "link": "https://www.deezer.com/track/128228251",
+  "deezer": 128228251
  },
  {
   "id": 395046612,
@@ -7888,7 +8676,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/832ae2f8de7e94067c9fa80e06e6e0e4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/395046612"
+  "link": "https://www.deezer.com/track/395046612",
+  "deezer": 395046612
  },
  {
   "id": 1036062792,
@@ -7898,7 +8687,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036062792"
+  "link": "https://www.deezer.com/track/1036062792",
+  "deezer": 1036062792
  },
  {
   "id": 1870801,
@@ -7908,7 +8698,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8cc0047533f7aabbc592fe97562857e2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1870801"
+  "link": "https://www.deezer.com/track/1870801",
+  "deezer": 1870801
  },
  {
   "id": 3756793652,
@@ -7918,7 +8709,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5a27507f7765f0d94ed12048ef736220/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756793652"
+  "link": "https://www.deezer.com/track/3756793652",
+  "deezer": 3756793652
  },
  {
   "id": 566085962,
@@ -7928,7 +8720,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7087d9567d0e8059b460e3e672b9f1b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/566085962"
+  "link": "https://www.deezer.com/track/566085962",
+  "deezer": 566085962
  },
  {
   "id": 4224454182,
@@ -7938,7 +8731,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/139b39e4d037e5476a73a5de326dd3d7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4224454182"
+  "link": "https://www.deezer.com/track/4224454182",
+  "deezer": 4224454182
  },
  {
   "id": 3571264391,
@@ -7948,7 +8742,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5f6b1e53fb83702cac6579495ad9f867/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3571264391"
+  "link": "https://www.deezer.com/track/3571264391",
+  "deezer": 3571264391
  },
  {
   "id": 1424857182,
@@ -7958,7 +8753,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0aeb9d79da6d6a3d643e584fc49796b9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1424857182"
+  "link": "https://www.deezer.com/track/1424857182",
+  "deezer": 1424857182
  },
  {
   "id": 128234601,
@@ -7968,7 +8764,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0799b2033da8e7c583c4a08aee31fc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234601"
+  "link": "https://www.deezer.com/track/128234601",
+  "deezer": 128234601
  },
  {
   "id": 558838352,
@@ -7978,7 +8775,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fd3a576cf29886730b637603e5a8f1f8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/558838352"
+  "link": "https://www.deezer.com/track/558838352",
+  "deezer": 558838352
  },
  {
   "id": 3832550641,
@@ -7988,7 +8786,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df172965a1934a3992acb61495f540ed/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3832550641"
+  "link": "https://www.deezer.com/track/3832550641",
+  "deezer": 3832550641
  },
  {
   "id": 3756794182,
@@ -7998,7 +8797,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/fda9b12809be88bc82c86acd848d014d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3756794182"
+  "link": "https://www.deezer.com/track/3756794182",
+  "deezer": 3756794182
  },
  {
   "id": 62355485,
@@ -8008,7 +8808,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/24a3555d7c9716038b660641dfd07bd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/62355485"
+  "link": "https://www.deezer.com/track/62355485",
+  "deezer": 62355485
  },
  {
   "id": 72999222,
@@ -8018,7 +8819,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/72999222"
+  "link": "https://www.deezer.com/track/72999222",
+  "deezer": 72999222
  },
  {
   "id": 3870010941,
@@ -8028,7 +8830,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/69047aa0762608c5ec767dd42e5636ce/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3870010941"
+  "link": "https://www.deezer.com/track/3870010941",
+  "deezer": 3870010941
  },
  {
   "id": 2147853717,
@@ -8038,7 +8841,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a064f79011ffac1a67b7b816f571f9b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2147853717"
+  "link": "https://www.deezer.com/track/2147853717",
+  "deezer": 2147853717
  },
  {
   "id": 72999208,
@@ -8048,7 +8852,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/72999208"
+  "link": "https://www.deezer.com/track/72999208",
+  "deezer": 72999208
  },
  {
   "id": 1419411842,
@@ -8058,7 +8863,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f0a58fd953faf19f6b33020d800e2f56/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1419411842"
+  "link": "https://www.deezer.com/track/1419411842",
+  "deezer": 1419411842
  },
  {
   "id": 1498021402,
@@ -8068,7 +8874,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/782cba032ac1537e035fb5c62a9ad191/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1498021402"
+  "link": "https://www.deezer.com/track/1498021402",
+  "deezer": 1498021402
  },
  {
   "id": 552817172,
@@ -8078,7 +8885,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/552817172"
+  "link": "https://www.deezer.com/track/552817172",
+  "deezer": 552817172
  },
  {
   "id": 668923792,
@@ -8088,7 +8896,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/77ae0e745000601f6eeb66824f95564c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/668923792"
+  "link": "https://www.deezer.com/track/668923792",
+  "deezer": 668923792
  },
  {
   "id": 128234859,
@@ -8098,7 +8907,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234859"
+  "link": "https://www.deezer.com/track/128234859",
+  "deezer": 128234859
  },
  {
   "id": 72999224,
@@ -8108,7 +8918,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/72999224"
+  "link": "https://www.deezer.com/track/72999224",
+  "deezer": 72999224
  },
  {
   "id": 2788042842,
@@ -8118,7 +8929,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2788042842"
+  "link": "https://www.deezer.com/track/2788042842",
+  "deezer": 2788042842
  },
  {
   "id": 3104618981,
@@ -8128,7 +8940,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9100546cfd277b5d056e4df4fe4b4159/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3104618981"
+  "link": "https://www.deezer.com/track/3104618981",
+  "deezer": 3104618981
  },
  {
   "id": 72999256,
@@ -8138,7 +8951,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/72999256"
+  "link": "https://www.deezer.com/track/72999256",
+  "deezer": 72999256
  },
  {
   "id": 1935953137,
@@ -8148,7 +8962,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1935953137"
+  "link": "https://www.deezer.com/track/1935953137",
+  "deezer": 1935953137
  },
  {
   "id": 1410660672,
@@ -8158,7 +8973,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d363e1329a31f102e40e0f2bef988d02/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1410660672"
+  "link": "https://www.deezer.com/track/1410660672",
+  "deezer": 1410660672
  },
  {
   "id": 1497630902,
@@ -8168,7 +8984,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a8e7bffd0a6650c7e00a29403a7865cc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497630902"
+  "link": "https://www.deezer.com/track/1497630902",
+  "deezer": 1497630902
  },
  {
   "id": 2929318861,
@@ -8178,7 +8995,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2929318861"
+  "link": "https://www.deezer.com/track/2929318861",
+  "deezer": 2929318861
  },
  {
   "id": 1222624872,
@@ -8188,7 +9006,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e1c9d2312a911c9589e758729054332d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1222624872"
+  "link": "https://www.deezer.com/track/1222624872",
+  "deezer": 1222624872
  },
  {
   "id": 2114310987,
@@ -8198,7 +9017,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c760196cc7c79b1b8e854d9574918a0a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2114310987"
+  "link": "https://www.deezer.com/track/2114310987",
+  "deezer": 2114310987
  },
  {
   "id": 1222625482,
@@ -8208,7 +9028,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2eaefda75932d6dd9e2c56dc8649cb11/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1222625482"
+  "link": "https://www.deezer.com/track/1222625482",
+  "deezer": 1222625482
  },
  {
   "id": 128221369,
@@ -8218,7 +9039,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221369"
+  "link": "https://www.deezer.com/track/128221369",
+  "deezer": 128221369
  },
  {
   "id": 65760361,
@@ -8228,7 +9050,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/49bcc4fbc53c4448c71bd5ab452688f7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760361"
+  "link": "https://www.deezer.com/track/65760361",
+  "deezer": 65760361
  },
  {
   "id": 65760261,
@@ -8238,7 +9061,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bbe2954dd4836f75f5d126d30fd490da/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65760261"
+  "link": "https://www.deezer.com/track/65760261",
+  "deezer": 65760261
  },
  {
   "id": 72999253,
@@ -8248,7 +9072,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/72999253"
+  "link": "https://www.deezer.com/track/72999253",
+  "deezer": 72999253
  },
  {
   "id": 1407938492,
@@ -8258,7 +9083,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7db74ca092658762ca35b256f0d7bc75/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1407938492"
+  "link": "https://www.deezer.com/track/1407938492",
+  "deezer": 1407938492
  },
  {
   "id": 2400330645,
@@ -8268,7 +9094,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2afdc273c878c148c908fe424a3ef821/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2400330645"
+  "link": "https://www.deezer.com/track/2400330645",
+  "deezer": 2400330645
  },
  {
   "id": 1438970792,
@@ -8278,7 +9105,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a19e8bd25a7036c489d25fd6143cf89f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1438970792"
+  "link": "https://www.deezer.com/track/1438970792",
+  "deezer": 1438970792
  },
  {
   "id": 3363213071,
@@ -8288,7 +9116,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/83739e63c94b914ca8a63f6d8e788854/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3363213071"
+  "link": "https://www.deezer.com/track/3363213071",
+  "deezer": 3363213071
  },
  {
   "id": 1406556462,
@@ -8298,7 +9127,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/31cadf553b49c1355ff5a0075cba4605/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1406556462"
+  "link": "https://www.deezer.com/track/1406556462",
+  "deezer": 1406556462
  },
  {
   "id": 3399416231,
@@ -8308,7 +9138,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3399416231"
+  "link": "https://www.deezer.com/track/3399416231",
+  "deezer": 3399416231
  },
  {
   "id": 3609086792,
@@ -8318,7 +9149,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54cfcf9a2e1a8b93d0b68358af6f0bc9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3609086792"
+  "link": "https://www.deezer.com/track/3609086792",
+  "deezer": 3609086792
  },
  {
   "id": 521058672,
@@ -8328,7 +9160,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058672"
+  "link": "https://www.deezer.com/track/521058672",
+  "deezer": 521058672
  },
  {
   "id": 4022760831,
@@ -8338,7 +9171,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3f49128830a2337b5c227e094fbaad21/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4022760831"
+  "link": "https://www.deezer.com/track/4022760831",
+  "deezer": 4022760831
  },
  {
   "id": 1296825472,
@@ -8348,7 +9182,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1296825472"
+  "link": "https://www.deezer.com/track/1296825472",
+  "deezer": 1296825472
  },
  {
   "id": 2992226001,
@@ -8358,7 +9193,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b06beae64a563be01a8ad28fd0f9591f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2992226001"
+  "link": "https://www.deezer.com/track/2992226001",
+  "deezer": 2992226001
  },
  {
   "id": 3509021201,
@@ -8368,7 +9204,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ca67cdea2c2cfccd1932864c74413de7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3509021201"
+  "link": "https://www.deezer.com/track/3509021201",
+  "deezer": 3509021201
  },
  {
   "id": 1004059042,
@@ -8378,7 +9215,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1004059042"
+  "link": "https://www.deezer.com/track/1004059042",
+  "deezer": 1004059042
  },
  {
   "id": 109104334,
@@ -8388,7 +9226,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8b55d56ebea9bc339620a5e6d4f9590f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109104334"
+  "link": "https://www.deezer.com/track/109104334",
+  "deezer": 109104334
  },
  {
   "id": 93081664,
@@ -8398,7 +9237,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1862159b9a4e0744f54843ca3242bb3d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/93081664"
+  "link": "https://www.deezer.com/track/93081664",
+  "deezer": 93081664
  },
  {
   "id": 2683161312,
@@ -8408,7 +9248,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2683161312"
+  "link": "https://www.deezer.com/track/2683161312",
+  "deezer": 2683161312
  },
  {
   "id": 1498027642,
@@ -8418,7 +9259,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1deb0accb71880ab8b0076576668840e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1498027642"
+  "link": "https://www.deezer.com/track/1498027642",
+  "deezer": 1498027642
  },
  {
   "id": 1935953127,
@@ -8428,7 +9270,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/495f90abc1abb310e63a8aa7f1e2a1df/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1935953127"
+  "link": "https://www.deezer.com/track/1935953127",
+  "deezer": 1935953127
  },
  {
   "id": 2397233275,
@@ -8438,7 +9281,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6860889407edb57bad307011fb372e4a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2397233275"
+  "link": "https://www.deezer.com/track/2397233275",
+  "deezer": 2397233275
  },
  {
   "id": 3027639621,
@@ -8448,7 +9292,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3998393dd54fd18a327642ef1ec65f0f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3027639621"
+  "link": "https://www.deezer.com/track/3027639621",
+  "deezer": 3027639621
  },
  {
   "id": 128234833,
@@ -8458,7 +9303,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a298c7eaa745273cb67b1f8420eacbde/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234833"
+  "link": "https://www.deezer.com/track/128234833",
+  "deezer": 128234833
  },
  {
   "id": 1287181022,
@@ -8468,7 +9314,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c87b833ffbf453828acae25e5eaa160b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1287181022"
+  "link": "https://www.deezer.com/track/1287181022",
+  "deezer": 1287181022
  },
  {
   "id": 3973054811,
@@ -8478,7 +9325,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054811"
+  "link": "https://www.deezer.com/track/3973054811",
+  "deezer": 3973054811
  },
  {
   "id": 3399416311,
@@ -8488,7 +9336,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3399416311"
+  "link": "https://www.deezer.com/track/3399416311",
+  "deezer": 3399416311
  },
  {
   "id": 1407938352,
@@ -8498,7 +9347,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7db74ca092658762ca35b256f0d7bc75/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1407938352"
+  "link": "https://www.deezer.com/track/1407938352",
+  "deezer": 1407938352
  },
  {
   "id": 2617600142,
@@ -8508,7 +9358,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a980f29890b2beb45dab9f8997246801/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2617600142"
+  "link": "https://www.deezer.com/track/2617600142",
+  "deezer": 2617600142
  },
  {
   "id": 1723770967,
@@ -8518,7 +9369,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b22fd4084c831545061f41806dc4d10f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1723770967"
+  "link": "https://www.deezer.com/track/1723770967",
+  "deezer": 1723770967
  },
  {
   "id": 1497629622,
@@ -8528,7 +9380,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eedcd5f71daf952f57cdd3cc29dfc25/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1497629622"
+  "link": "https://www.deezer.com/track/1497629622",
+  "deezer": 1497629622
  },
  {
   "id": 1570239932,
@@ -8538,7 +9391,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/83ba3db3dc6c127f1bd9ec328daa5e1a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1570239932"
+  "link": "https://www.deezer.com/track/1570239932",
+  "deezer": 1570239932
  },
  {
   "id": 3945345791,
@@ -8548,7 +9402,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3945345791"
+  "link": "https://www.deezer.com/track/3945345791",
+  "deezer": 3945345791
  },
  {
   "id": 3278043881,
@@ -8558,7 +9413,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3830339401755c8bd8f13939216f3aeb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3278043881"
+  "link": "https://www.deezer.com/track/3278043881",
+  "deezer": 3278043881
  },
  {
   "id": 432286622,
@@ -8568,7 +9424,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/432286622"
+  "link": "https://www.deezer.com/track/432286622",
+  "deezer": 432286622
  },
  {
   "id": 71903141,
@@ -8578,7 +9435,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/000ed0c8fad6d910748b6429c11e7e0f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/71903141"
+  "link": "https://www.deezer.com/track/71903141",
+  "deezer": 71903141
  },
  {
   "id": 1036062742,
@@ -8588,7 +9446,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036062742"
+  "link": "https://www.deezer.com/track/1036062742",
+  "deezer": 1036062742
  },
  {
   "id": 3115238601,
@@ -8598,7 +9457,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5e1ffac8c404d5f56828a22ee667e127/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3115238601"
+  "link": "https://www.deezer.com/track/3115238601",
+  "deezer": 3115238601
  },
  {
   "id": 2267652787,
@@ -8608,7 +9468,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2267652787"
+  "link": "https://www.deezer.com/track/2267652787",
+  "deezer": 2267652787
  },
  {
   "id": 2873551932,
@@ -8618,7 +9479,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/da7250a1e6ee50bf4fe8bc57bf7cc9ca/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2873551932"
+  "link": "https://www.deezer.com/track/2873551932",
+  "deezer": 2873551932
  },
  {
   "id": 3102626831,
@@ -8628,7 +9490,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2c2f73513e5973051fca0023ba869403/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3102626831"
+  "link": "https://www.deezer.com/track/3102626831",
+  "deezer": 3102626831
  },
  {
   "id": 65802915,
@@ -8638,7 +9501,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/238a3b42c1fdecc1263fc40d8f928d2b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802915"
+  "link": "https://www.deezer.com/track/65802915",
+  "deezer": 65802915
  },
  {
   "id": 3168460871,
@@ -8648,7 +9512,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e5ec0c0a2a0d79d136ebb96ca5effd30/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168460871"
+  "link": "https://www.deezer.com/track/3168460871",
+  "deezer": 3168460871
  },
  {
   "id": 2552255052,
@@ -8658,7 +9523,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5ee72adf9b6e8a09e0ea40b08848aeea/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2552255052"
+  "link": "https://www.deezer.com/track/2552255052",
+  "deezer": 2552255052
  },
  {
   "id": 2397233235,
@@ -8668,7 +9534,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6860889407edb57bad307011fb372e4a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2397233235"
+  "link": "https://www.deezer.com/track/2397233235",
+  "deezer": 2397233235
  },
  {
   "id": 4256417661,
@@ -8678,7 +9545,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256417661"
+  "link": "https://www.deezer.com/track/4256417661",
+  "deezer": 4256417661
  },
  {
   "id": 1253427822,
@@ -8688,7 +9556,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0016f341240ceaec25e1a595865ea8f1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1253427822"
+  "link": "https://www.deezer.com/track/1253427822",
+  "deezer": 1253427822
  },
  {
   "id": 129499602,
@@ -8698,7 +9567,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ae78a89d49082fe78cc4a82025070e85/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/129499602"
+  "link": "https://www.deezer.com/track/129499602",
+  "deezer": 129499602
  },
  {
   "id": 1571256872,
@@ -8708,7 +9578,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6c4f686717028cdffb938ca222777da/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1571256872"
+  "link": "https://www.deezer.com/track/1571256872",
+  "deezer": 1571256872
  },
  {
   "id": 128234595,
@@ -8718,7 +9589,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0799b2033da8e7c583c4a08aee31fc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234595"
+  "link": "https://www.deezer.com/track/128234595",
+  "deezer": 128234595
  },
  {
   "id": 4092225421,
@@ -8728,7 +9600,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4092225421"
+  "link": "https://www.deezer.com/track/4092225421",
+  "deezer": 4092225421
  },
  {
   "id": 128237359,
@@ -8738,7 +9611,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/953f7710115fc7e14bbd4cf1593b9b72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237359"
+  "link": "https://www.deezer.com/track/128237359",
+  "deezer": 128237359
  },
  {
   "id": 1543591562,
@@ -8748,7 +9622,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b200231462e943f6d4b9de442beb7cdb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1543591562"
+  "link": "https://www.deezer.com/track/1543591562",
+  "deezer": 1543591562
  },
  {
   "id": 843810202,
@@ -8758,7 +9633,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c783037e1c51499981acf730086efeec/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/843810202"
+  "link": "https://www.deezer.com/track/843810202",
+  "deezer": 843810202
  },
  {
   "id": 1662816462,
@@ -8768,7 +9644,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/950df83d63382213157ad477bb9015b7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1662816462"
+  "link": "https://www.deezer.com/track/1662816462",
+  "deezer": 1662816462
  },
  {
   "id": 1481648752,
@@ -8778,7 +9655,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/90c9371dc8bfc777606bbc3b8d1a9ce7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1481648752"
+  "link": "https://www.deezer.com/track/1481648752",
+  "deezer": 1481648752
  },
  {
   "id": 3832550591,
@@ -8788,7 +9666,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/df172965a1934a3992acb61495f540ed/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3832550591"
+  "link": "https://www.deezer.com/track/3832550591",
+  "deezer": 3832550591
  },
  {
   "id": 2929318801,
@@ -8798,7 +9677,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2929318801"
+  "link": "https://www.deezer.com/track/2929318801",
+  "deezer": 2929318801
  },
  {
   "id": 128220753,
@@ -8808,7 +9688,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a85e059ef13274a1f7e6fa7745225756/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128220753"
+  "link": "https://www.deezer.com/track/128220753",
+  "deezer": 128220753
  },
  {
   "id": 3945345771,
@@ -8818,7 +9699,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3945345771"
+  "link": "https://www.deezer.com/track/3945345771",
+  "deezer": 3945345771
  },
  {
   "id": 847611262,
@@ -8828,7 +9710,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3804d693684fe73388ba7c1f30128cad/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/847611262"
+  "link": "https://www.deezer.com/track/847611262",
+  "deezer": 847611262
  },
  {
   "id": 1666767502,
@@ -8838,7 +9721,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/08ae7fa3a62107522ce4b77eb5c8ffae/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1666767502"
+  "link": "https://www.deezer.com/track/1666767502",
+  "deezer": 1666767502
  },
  {
   "id": 66993159,
@@ -8848,7 +9732,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2100c114826725d6da783256e6cb051d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/66993159"
+  "link": "https://www.deezer.com/track/66993159",
+  "deezer": 66993159
  },
  {
   "id": 2632364092,
@@ -8858,7 +9743,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f47b5c2311d3c44d57266d5b5eb10339/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2632364092"
+  "link": "https://www.deezer.com/track/2632364092",
+  "deezer": 2632364092
  },
  {
   "id": 2448204225,
@@ -8868,7 +9754,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2448204225"
+  "link": "https://www.deezer.com/track/2448204225",
+  "deezer": 2448204225
  },
  {
   "id": 2267652767,
@@ -8878,7 +9765,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2267652767"
+  "link": "https://www.deezer.com/track/2267652767",
+  "deezer": 2267652767
  },
  {
   "id": 93081586,
@@ -8888,7 +9776,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/27a80fe6102398f5ebe77c90c339dbc6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/93081586"
+  "link": "https://www.deezer.com/track/93081586",
+  "deezer": 93081586
  },
  {
   "id": 2047044887,
@@ -8898,7 +9787,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d89a8ce2487b731acccf8f35207bf45d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2047044887"
+  "link": "https://www.deezer.com/track/2047044887",
+  "deezer": 2047044887
  },
  {
   "id": 2617578132,
@@ -8908,7 +9798,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/91e8a22319606b6d962ffa43d2550088/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2617578132"
+  "link": "https://www.deezer.com/track/2617578132",
+  "deezer": 2617578132
  },
  {
   "id": 1237605082,
@@ -8918,7 +9809,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1237605082"
+  "link": "https://www.deezer.com/track/1237605082",
+  "deezer": 1237605082
  },
  {
   "id": 676387732,
@@ -8928,7 +9820,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f5604db798a2acbfd76a6df0e251e0ad/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/676387732"
+  "link": "https://www.deezer.com/track/676387732",
+  "deezer": 676387732
  },
  {
   "id": 1539650982,
@@ -8938,7 +9831,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/93351b6282f551324a025dbc9bd2b9ef/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1539650982"
+  "link": "https://www.deezer.com/track/1539650982",
+  "deezer": 1539650982
  },
  {
   "id": 3399416281,
@@ -8948,7 +9842,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3399416281"
+  "link": "https://www.deezer.com/track/3399416281",
+  "deezer": 3399416281
  },
  {
   "id": 1424363532,
@@ -8958,7 +9853,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e297bbefdbab5188b2cb08d5fbf11620/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1424363532"
+  "link": "https://www.deezer.com/track/1424363532",
+  "deezer": 1424363532
  },
  {
   "id": 4064453041,
@@ -8968,7 +9864,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4064453041"
+  "link": "https://www.deezer.com/track/4064453041",
+  "deezer": 4064453041
  },
  {
   "id": 1540443252,
@@ -8978,7 +9875,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f1dd6ea7c6646f41b39b25e441b08d9b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1540443252"
+  "link": "https://www.deezer.com/track/1540443252",
+  "deezer": 1540443252
  },
  {
   "id": 4003519161,
@@ -8988,7 +9886,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4003519161"
+  "link": "https://www.deezer.com/track/4003519161",
+  "deezer": 4003519161
  },
  {
   "id": 85615146,
@@ -8998,7 +9897,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/85615146"
+  "link": "https://www.deezer.com/track/85615146",
+  "deezer": 85615146
  },
  {
   "id": 1424554722,
@@ -9008,7 +9908,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25c187352c2d3d027c4d53ad10a1018d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1424554722"
+  "link": "https://www.deezer.com/track/1424554722",
+  "deezer": 1424554722
  },
  {
   "id": 2820309562,
@@ -9018,7 +9919,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6a31da363d3e7780bb751e64d0b9587d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2820309562"
+  "link": "https://www.deezer.com/track/2820309562",
+  "deezer": 2820309562
  },
  {
   "id": 1409440302,
@@ -9028,7 +9930,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1409440302"
+  "link": "https://www.deezer.com/track/1409440302",
+  "deezer": 1409440302
  },
  {
   "id": 15398210,
@@ -9038,7 +9941,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/746943ba0cb94117143b6cc422a0e904/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15398210"
+  "link": "https://www.deezer.com/track/15398210",
+  "deezer": 15398210
  },
  {
   "id": 4015237811,
@@ -9048,7 +9952,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c9f4eb263626bc1247a86893094c787e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4015237811"
+  "link": "https://www.deezer.com/track/4015237811",
+  "deezer": 4015237811
  },
  {
   "id": 1397329812,
@@ -9058,7 +9963,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1397329812"
+  "link": "https://www.deezer.com/track/1397329812",
+  "deezer": 1397329812
  },
  {
   "id": 2788042902,
@@ -9068,7 +9974,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/71d83513eae9b9da8feb737e596383c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2788042902"
+  "link": "https://www.deezer.com/track/2788042902",
+  "deezer": 2788042902
  },
  {
   "id": 371577241,
@@ -9078,7 +9985,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4e63371e3d27207b17583f4af183080e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/371577241"
+  "link": "https://www.deezer.com/track/371577241",
+  "deezer": 371577241
  },
  {
   "id": 15682851,
@@ -9088,7 +9996,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e16548fc4e7cdad1d3758aa39ecf7249/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15682851"
+  "link": "https://www.deezer.com/track/15682851",
+  "deezer": 15682851
  },
  {
   "id": 1237605072,
@@ -9098,7 +10007,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1237605072"
+  "link": "https://www.deezer.com/track/1237605072",
+  "deezer": 1237605072
  },
  {
   "id": 3234554581,
@@ -9108,7 +10018,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3234554581"
+  "link": "https://www.deezer.com/track/3234554581",
+  "deezer": 3234554581
  },
  {
   "id": 4045552031,
@@ -9118,7 +10029,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f561e778554ff124634b437122f5931e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4045552031"
+  "link": "https://www.deezer.com/track/4045552031",
+  "deezer": 4045552031
  },
  {
   "id": 109118186,
@@ -9128,7 +10040,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ff7b92b3e58b83d892a310dcee9ec726/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/109118186"
+  "link": "https://www.deezer.com/track/109118186",
+  "deezer": 109118186
  },
  {
   "id": 128221373,
@@ -9138,7 +10051,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221373"
+  "link": "https://www.deezer.com/track/128221373",
+  "deezer": 128221373
  },
  {
   "id": 3618172252,
@@ -9148,7 +10062,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d1c081b0df28824f0a242bb628b43443/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3618172252"
+  "link": "https://www.deezer.com/track/3618172252",
+  "deezer": 3618172252
  },
  {
   "id": 2267652857,
@@ -9158,7 +10073,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2267652857"
+  "link": "https://www.deezer.com/track/2267652857",
+  "deezer": 2267652857
  },
  {
   "id": 521058722,
@@ -9168,7 +10084,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058722"
+  "link": "https://www.deezer.com/track/521058722",
+  "deezer": 521058722
  },
  {
   "id": 4007956651,
@@ -9178,7 +10095,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4007956651"
+  "link": "https://www.deezer.com/track/4007956651",
+  "deezer": 4007956651
  },
  {
   "id": 3167990181,
@@ -9188,7 +10106,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3481de50c9c3b2fc426fed195b5555e1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3167990181"
+  "link": "https://www.deezer.com/track/3167990181",
+  "deezer": 3167990181
  },
  {
   "id": 3892635051,
@@ -9198,7 +10117,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ab29a8342f9b148f37cbb4daea780475/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3892635051"
+  "link": "https://www.deezer.com/track/3892635051",
+  "deezer": 3892635051
  },
  {
   "id": 4077793531,
@@ -9208,7 +10128,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4b071d4bce6c28b04904314f2c1140de/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4077793531"
+  "link": "https://www.deezer.com/track/4077793531",
+  "deezer": 4077793531
  },
  {
   "id": 72999223,
@@ -9218,7 +10139,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1eab704bd0804e757f401d2b632abc72/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/72999223"
+  "link": "https://www.deezer.com/track/72999223",
+  "deezer": 72999223
  },
  {
   "id": 3801750382,
@@ -9228,7 +10150,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/51fb48f80a6692f643cfc2f7e89232e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3801750382"
+  "link": "https://www.deezer.com/track/3801750382",
+  "deezer": 3801750382
  },
  {
   "id": 3973054831,
@@ -9238,7 +10161,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054831"
+  "link": "https://www.deezer.com/track/3973054831",
+  "deezer": 3973054831
  },
  {
   "id": 3801750392,
@@ -9248,7 +10172,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/51fb48f80a6692f643cfc2f7e89232e5/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3801750392"
+  "link": "https://www.deezer.com/track/3801750392",
+  "deezer": 3801750392
  },
  {
   "id": 65802834,
@@ -9258,7 +10183,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b181d6b08412d1a1bc99e4cac1b65e96/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802834"
+  "link": "https://www.deezer.com/track/65802834",
+  "deezer": 65802834
  },
  {
   "id": 3945345761,
@@ -9268,7 +10194,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3945345761"
+  "link": "https://www.deezer.com/track/3945345761",
+  "deezer": 3945345761
  },
  {
   "id": 1563128122,
@@ -9278,7 +10205,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1563128122"
+  "link": "https://www.deezer.com/track/1563128122",
+  "deezer": 1563128122
  },
  {
   "id": 128235055,
@@ -9288,7 +10216,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/345790e1704491d26e70c3fd51ccd6a4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128235055"
+  "link": "https://www.deezer.com/track/128235055",
+  "deezer": 128235055
  },
  {
   "id": 4064453001,
@@ -9298,7 +10227,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d3899b4fd8aad3696b1e664353af0a03/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4064453001"
+  "link": "https://www.deezer.com/track/4064453001",
+  "deezer": 4064453001
  },
  {
   "id": 3869986211,
@@ -9308,7 +10238,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ac93bc0c89508b946689854ab32a2257/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3869986211"
+  "link": "https://www.deezer.com/track/3869986211",
+  "deezer": 3869986211
  },
  {
   "id": 3580394471,
@@ -9318,7 +10249,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a733ed4679bd44d5b0c9d577dd5fdc83/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3580394471"
+  "link": "https://www.deezer.com/track/3580394471",
+  "deezer": 3580394471
  },
  {
   "id": 3234554621,
@@ -9328,7 +10260,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/19c95fe820a5a18d9fec5b8518695c58/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3234554621"
+  "link": "https://www.deezer.com/track/3234554621",
+  "deezer": 3234554621
  },
  {
   "id": 2400330675,
@@ -9338,7 +10271,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2afdc273c878c148c908fe424a3ef821/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2400330675"
+  "link": "https://www.deezer.com/track/2400330675",
+  "deezer": 2400330675
  },
  {
   "id": 4144375632,
@@ -9348,7 +10282,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/210baa8a70563e2ceb5f109a10360ff8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4144375632"
+  "link": "https://www.deezer.com/track/4144375632",
+  "deezer": 4144375632
  },
  {
   "id": 1999024847,
@@ -9358,7 +10293,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d58ee70b2d14da77aefc4747c11194ba/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1999024847"
+  "link": "https://www.deezer.com/track/1999024847",
+  "deezer": 1999024847
  },
  {
   "id": 4256417641,
@@ -9368,7 +10304,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256417641"
+  "link": "https://www.deezer.com/track/4256417641",
+  "deezer": 4256417641
  },
  {
   "id": 2929318851,
@@ -9378,7 +10315,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2929318851"
+  "link": "https://www.deezer.com/track/2929318851",
+  "deezer": 2929318851
  },
  {
   "id": 1284099292,
@@ -9388,7 +10326,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed572642c34aac6d496a0766cc70c80a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1284099292"
+  "link": "https://www.deezer.com/track/1284099292",
+  "deezer": 1284099292
  },
  {
   "id": 762604862,
@@ -9398,7 +10337,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/84b031aeed9e89722e4dee0b3f8cfcb2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/762604862"
+  "link": "https://www.deezer.com/track/762604862",
+  "deezer": 762604862
  },
  {
   "id": 2820288392,
@@ -9408,7 +10348,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6a31da363d3e7780bb751e64d0b9587d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2820288392"
+  "link": "https://www.deezer.com/track/2820288392",
+  "deezer": 2820288392
  },
  {
   "id": 3555510391,
@@ -9418,7 +10359,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3555510391"
+  "link": "https://www.deezer.com/track/3555510391",
+  "deezer": 3555510391
  },
  {
   "id": 85615112,
@@ -9428,7 +10370,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/85615112"
+  "link": "https://www.deezer.com/track/85615112",
+  "deezer": 85615112
  },
  {
   "id": 2683161342,
@@ -9438,7 +10381,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2683161342"
+  "link": "https://www.deezer.com/track/2683161342",
+  "deezer": 2683161342
  },
  {
   "id": 1004059092,
@@ -9448,7 +10392,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b1e08187139b536581bb68f74c66cee7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1004059092"
+  "link": "https://www.deezer.com/track/1004059092",
+  "deezer": 1004059092
  },
  {
   "id": 1397329842,
@@ -9458,7 +10403,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1397329842"
+  "link": "https://www.deezer.com/track/1397329842",
+  "deezer": 1397329842
  },
  {
   "id": 2683161362,
@@ -9468,7 +10414,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/be582f35881b421a58e655d9137ef609/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2683161362"
+  "link": "https://www.deezer.com/track/2683161362",
+  "deezer": 2683161362
  },
  {
   "id": 2929318891,
@@ -9478,7 +10425,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd68b2d9b18675ab501cf81ac7373b1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2929318891"
+  "link": "https://www.deezer.com/track/2929318891",
+  "deezer": 2929318891
  },
  {
   "id": 4007956611,
@@ -9488,7 +10436,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4007956611"
+  "link": "https://www.deezer.com/track/4007956611",
+  "deezer": 4007956611
  },
  {
   "id": 2344894165,
@@ -9498,7 +10447,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2344894165"
+  "link": "https://www.deezer.com/track/2344894165",
+  "deezer": 2344894165
  },
  {
   "id": 2267652797,
@@ -9508,7 +10458,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e6a43e198dcca350b2fff5423fbaf2ee/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2267652797"
+  "link": "https://www.deezer.com/track/2267652797",
+  "deezer": 2267652797
  },
  {
   "id": 521058712,
@@ -9518,7 +10469,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058712"
+  "link": "https://www.deezer.com/track/521058712",
+  "deezer": 521058712
  },
  {
   "id": 3850114781,
@@ -9528,7 +10480,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/18209282e0697c78a4e6c5c5647fb672/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3850114781"
+  "link": "https://www.deezer.com/track/3850114781",
+  "deezer": 3850114781
  },
  {
   "id": 2421012,
@@ -9538,7 +10491,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8246485411374216fa2cf02e0219cec6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2421012"
+  "link": "https://www.deezer.com/track/2421012",
+  "deezer": 2421012
  },
  {
   "id": 552817242,
@@ -9548,7 +10502,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/25bc044d36ee6a69b82f0b732a9524f1/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/552817242"
+  "link": "https://www.deezer.com/track/552817242",
+  "deezer": 552817242
  },
  {
   "id": 1470416332,
@@ -9558,7 +10513,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/37ba688e30a5004a82e8572cab7a5d74/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1470416332"
+  "link": "https://www.deezer.com/track/1470416332",
+  "deezer": 1470416332
  },
  {
   "id": 4005914031,
@@ -9568,7 +10524,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/1601cc7fe9db1b5b994fceafc2390cf9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4005914031"
+  "link": "https://www.deezer.com/track/4005914031",
+  "deezer": 4005914031
  },
  {
   "id": 15398015,
@@ -9578,7 +10535,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2f13aa2ccd541d27d69bb78c0f13345d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15398015"
+  "link": "https://www.deezer.com/track/15398015",
+  "deezer": 15398015
  },
  {
   "id": 1296825412,
@@ -9588,7 +10546,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1296825412"
+  "link": "https://www.deezer.com/track/1296825412",
+  "deezer": 1296825412
  },
  {
   "id": 1480799972,
@@ -9598,7 +10557,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bd52e595f50e2f9e9e2a832b284c777/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1480799972"
+  "link": "https://www.deezer.com/track/1480799972",
+  "deezer": 1480799972
  },
  {
   "id": 62329286,
@@ -9608,7 +10568,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9af8eb8dce26058d2ff58f0fac0628ad/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/62329286"
+  "link": "https://www.deezer.com/track/62329286",
+  "deezer": 62329286
  },
  {
   "id": 1014458342,
@@ -9618,7 +10579,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9e9c697ce3cada304ce0d9e84cf8650a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1014458342"
+  "link": "https://www.deezer.com/track/1014458342",
+  "deezer": 1014458342
  },
  {
   "id": 676387742,
@@ -9628,7 +10590,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f5604db798a2acbfd76a6df0e251e0ad/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/676387742"
+  "link": "https://www.deezer.com/track/676387742",
+  "deezer": 676387742
  },
  {
   "id": 4050944211,
@@ -9638,7 +10601,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3df78d61ae554153000ffc8ff485369a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4050944211"
+  "link": "https://www.deezer.com/track/4050944211",
+  "deezer": 4050944211
  },
  {
   "id": 4256417591,
@@ -9648,7 +10612,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9c8a5cc7bae93b13113fbd657f86167f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4256417591"
+  "link": "https://www.deezer.com/track/4256417591",
+  "deezer": 4256417591
  },
  {
   "id": 3973054841,
@@ -9658,7 +10623,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/570da96b70a95e093bd71c02dac6acbf/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3973054841"
+  "link": "https://www.deezer.com/track/3973054841",
+  "deezer": 3973054841
  },
  {
   "id": 2344894205,
@@ -9668,7 +10634,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2344894205"
+  "link": "https://www.deezer.com/track/2344894205",
+  "deezer": 2344894205
  },
  {
   "id": 71903131,
@@ -9678,7 +10645,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/000ed0c8fad6d910748b6429c11e7e0f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/71903131"
+  "link": "https://www.deezer.com/track/71903131",
+  "deezer": 71903131
  },
  {
   "id": 1424857132,
@@ -9688,7 +10656,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0aeb9d79da6d6a3d643e584fc49796b9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1424857132"
+  "link": "https://www.deezer.com/track/1424857132",
+  "deezer": 1424857132
  },
  {
   "id": 1090494332,
@@ -9698,7 +10667,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8a0883ec97a66211a1ea564c0062c483/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1090494332"
+  "link": "https://www.deezer.com/track/1090494332",
+  "deezer": 1090494332
  },
  {
   "id": 128234741,
@@ -9708,7 +10678,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234741"
+  "link": "https://www.deezer.com/track/128234741",
+  "deezer": 128234741
  },
  {
   "id": 3869986241,
@@ -9718,7 +10689,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ac93bc0c89508b946689854ab32a2257/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3869986241"
+  "link": "https://www.deezer.com/track/3869986241",
+  "deezer": 3869986241
  },
  {
   "id": 3345014391,
@@ -9728,7 +10700,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8c17c270de6c2bf474a465b89c71124d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3345014391"
+  "link": "https://www.deezer.com/track/3345014391",
+  "deezer": 3345014391
  },
  {
   "id": 1563128052,
@@ -9738,7 +10711,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1563128052"
+  "link": "https://www.deezer.com/track/1563128052",
+  "deezer": 1563128052
  },
  {
   "id": 4096891491,
@@ -9748,7 +10722,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/65f697471130cb180d5d1bfbb5ddda16/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4096891491"
+  "link": "https://www.deezer.com/track/4096891491",
+  "deezer": 4096891491
  },
  {
   "id": 3283927661,
@@ -9758,7 +10733,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b5bb959250452292f1fbdc6a8b63052b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3283927661"
+  "link": "https://www.deezer.com/track/3283927661",
+  "deezer": 3283927661
  },
  {
   "id": 4007956621,
@@ -9768,7 +10744,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/664cb86751418c43bb72ce8314da81e3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4007956621"
+  "link": "https://www.deezer.com/track/4007956621",
+  "deezer": 4007956621
  },
  {
   "id": 2058882907,
@@ -9778,7 +10755,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0bbd1bfc8ccc0a7317751a8d8b53291f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2058882907"
+  "link": "https://www.deezer.com/track/2058882907",
+  "deezer": 2058882907
  },
  {
   "id": 2506659361,
@@ -9788,7 +10766,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/bcbcdb28d51e5dd651992ccba307c860/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2506659361"
+  "link": "https://www.deezer.com/track/2506659361",
+  "deezer": 2506659361
  },
  {
   "id": 1222625132,
@@ -9798,7 +10777,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/48e8c53798a54799cc9d2a7fdc35a7bc/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1222625132"
+  "link": "https://www.deezer.com/track/1222625132",
+  "deezer": 1222625132
  },
  {
   "id": 128325723,
@@ -9808,7 +10788,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128325723"
+  "link": "https://www.deezer.com/track/128325723",
+  "deezer": 128325723
  },
  {
   "id": 1721666577,
@@ -9818,7 +10799,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0ae956e23f43c4cff211bc0b3c40e23d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1721666577"
+  "link": "https://www.deezer.com/track/1721666577",
+  "deezer": 1721666577
  },
  {
   "id": 1094805982,
@@ -9828,7 +10810,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/192ed2835d766eaa3a013a3fa56cc6cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1094805982"
+  "link": "https://www.deezer.com/track/1094805982",
+  "deezer": 1094805982
  },
  {
   "id": 1498021392,
@@ -9838,7 +10821,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/782cba032ac1537e035fb5c62a9ad191/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1498021392"
+  "link": "https://www.deezer.com/track/1498021392",
+  "deezer": 1498021392
  },
  {
   "id": 1870764,
@@ -9848,7 +10832,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/8cc0047533f7aabbc592fe97562857e2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1870764"
+  "link": "https://www.deezer.com/track/1870764",
+  "deezer": 1870764
  },
  {
   "id": 128221367,
@@ -9858,7 +10843,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221367"
+  "link": "https://www.deezer.com/track/128221367",
+  "deezer": 128221367
  },
  {
   "id": 3870010961,
@@ -9868,7 +10854,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/69047aa0762608c5ec767dd42e5636ce/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3870010961"
+  "link": "https://www.deezer.com/track/3870010961",
+  "deezer": 3870010961
  },
  {
   "id": 3399416441,
@@ -9878,7 +10865,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4cfffd68ab847f48b263741221da747c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3399416441"
+  "link": "https://www.deezer.com/track/3399416441",
+  "deezer": 3399416441
  },
  {
   "id": 1082316702,
@@ -9888,7 +10876,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2e64d8e55c0e64c7ec44855c025bc12c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1082316702"
+  "link": "https://www.deezer.com/track/1082316702",
+  "deezer": 1082316702
  },
  {
   "id": 3282995221,
@@ -9898,7 +10887,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a2217947e07ac1dddf83c38e6881d1f7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3282995221"
+  "link": "https://www.deezer.com/track/3282995221",
+  "deezer": 3282995221
  },
  {
   "id": 1222684862,
@@ -9908,7 +10898,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1222684862"
+  "link": "https://www.deezer.com/track/1222684862",
+  "deezer": 1222684862
  },
  {
   "id": 1036062812,
@@ -9918,7 +10909,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/acdd5aa2be9a793ae2ea9e4d425ccf24/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036062812"
+  "link": "https://www.deezer.com/track/1036062812",
+  "deezer": 1036062812
  },
  {
   "id": 2147853667,
@@ -9928,7 +10920,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a064f79011ffac1a67b7b816f571f9b0/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2147853667"
+  "link": "https://www.deezer.com/track/2147853667",
+  "deezer": 2147853667
  },
  {
   "id": 4117122691,
@@ -9938,7 +10931,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4117122691"
+  "link": "https://www.deezer.com/track/4117122691",
+  "deezer": 4117122691
  },
  {
   "id": 2448204315,
@@ -9948,7 +10942,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2448204315"
+  "link": "https://www.deezer.com/track/2448204315",
+  "deezer": 2448204315
  },
  {
   "id": 3368820861,
@@ -9958,7 +10953,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7a0dde4dd1e2a883a6fd12bd9737f8d9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3368820861"
+  "link": "https://www.deezer.com/track/3368820861",
+  "deezer": 3368820861
  },
  {
   "id": 1222684832,
@@ -9968,7 +10964,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1222684832"
+  "link": "https://www.deezer.com/track/1222684832",
+  "deezer": 1222684832
  },
  {
   "id": 15682847,
@@ -9978,7 +10975,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e16548fc4e7cdad1d3758aa39ecf7249/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/15682847"
+  "link": "https://www.deezer.com/track/15682847",
+  "deezer": 15682847
  },
  {
   "id": 65802914,
@@ -9988,7 +10986,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/238a3b42c1fdecc1263fc40d8f928d2b/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/65802914"
+  "link": "https://www.deezer.com/track/65802914",
+  "deezer": 65802914
  },
  {
   "id": 135094160,
@@ -9998,7 +10997,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ecc7790ce38215d006a234f9b0bb4c8a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/135094160"
+  "link": "https://www.deezer.com/track/135094160",
+  "deezer": 135094160
  },
  {
   "id": 3167674671,
@@ -10008,7 +11008,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0caf9bd984958e035b4516470cadf158/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3167674671"
+  "link": "https://www.deezer.com/track/3167674671",
+  "deezer": 3167674671
  },
  {
   "id": 128221365,
@@ -10018,7 +11019,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d572501b68295289940e7be935d2b348/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128221365"
+  "link": "https://www.deezer.com/track/128221365",
+  "deezer": 128221365
  },
  {
   "id": 2344894225,
@@ -10028,7 +11030,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e8e0e90d6794f7044b83a0e4af0febd6/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2344894225"
+  "link": "https://www.deezer.com/track/2344894225",
+  "deezer": 2344894225
  },
  {
   "id": 128234735,
@@ -10038,7 +11041,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4be14c854502c9c60eb21db0c1d75d45/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128234735"
+  "link": "https://www.deezer.com/track/128234735",
+  "deezer": 128234735
  },
  {
   "id": 128325737,
@@ -10048,7 +11052,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128325737"
+  "link": "https://www.deezer.com/track/128325737",
+  "deezer": 128325737
  },
  {
   "id": 1024265312,
@@ -10058,7 +11063,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ea1ec1b67650a288f6b25e00b512c97d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1024265312"
+  "link": "https://www.deezer.com/track/1024265312",
+  "deezer": 1024265312
  },
  {
   "id": 3651471402,
@@ -10068,7 +11074,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e8045e596526e3dbe564441f1de66f9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3651471402"
+  "link": "https://www.deezer.com/track/3651471402",
+  "deezer": 3651471402
  },
  {
   "id": 3368820831,
@@ -10078,7 +11085,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7a0dde4dd1e2a883a6fd12bd9737f8d9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3368820831"
+  "link": "https://www.deezer.com/track/3368820831",
+  "deezer": 3368820831
  },
  {
   "id": 3619724612,
@@ -10088,7 +11096,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3619724612"
+  "link": "https://www.deezer.com/track/3619724612",
+  "deezer": 3619724612
  },
  {
   "id": 3168596491,
@@ -10098,7 +11107,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/efd25fa8963892b56c9db5c092a789b8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168596491"
+  "link": "https://www.deezer.com/track/3168596491",
+  "deezer": 3168596491
  },
  {
   "id": 4005669811,
@@ -10108,7 +11118,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7cb3fe3d6c2b3040651bdd2de1828637/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4005669811"
+  "link": "https://www.deezer.com/track/4005669811",
+  "deezer": 4005669811
  },
  {
   "id": 1483469862,
@@ -10118,7 +11129,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/9b44fd35994afb7da47033d6f5c57b06/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1483469862"
+  "link": "https://www.deezer.com/track/1483469862",
+  "deezer": 1483469862
  },
  {
   "id": 521058702,
@@ -10128,7 +11140,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ebc40df595e9df04da5cb89a5c11c3cb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/521058702"
+  "link": "https://www.deezer.com/track/521058702",
+  "deezer": 521058702
  },
  {
   "id": 1225315552,
@@ -10138,7 +11151,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/860430db3577438d3ddc319c07a37d8f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1225315552"
+  "link": "https://www.deezer.com/track/1225315552",
+  "deezer": 1225315552
  },
  {
   "id": 85615126,
@@ -10148,7 +11162,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/85615126"
+  "link": "https://www.deezer.com/track/85615126",
+  "deezer": 85615126
  },
  {
   "id": 3363569091,
@@ -10158,7 +11173,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5216ae76ddd62ee74616bcbece119f1f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3363569091"
+  "link": "https://www.deezer.com/track/3363569091",
+  "deezer": 3363569091
  },
  {
   "id": 1651571862,
@@ -10168,7 +11184,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/913bb753e90bc327b98d10e8eb2609bd/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1651571862"
+  "link": "https://www.deezer.com/track/1651571862",
+  "deezer": 1651571862
  },
  {
   "id": 1481648722,
@@ -10178,7 +11195,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/90c9371dc8bfc777606bbc3b8d1a9ce7/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1481648722"
+  "link": "https://www.deezer.com/track/1481648722",
+  "deezer": 1481648722
  },
  {
   "id": 3105115441,
@@ -10188,7 +11206,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0d575f4239525d29af48c56026eb631a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3105115441"
+  "link": "https://www.deezer.com/track/3105115441",
+  "deezer": 3105115441
  },
  {
   "id": 1496220742,
@@ -10198,7 +11217,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3f9c4b8f15eafc5f598817017e19c9ac/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1496220742"
+  "link": "https://www.deezer.com/track/1496220742",
+  "deezer": 1496220742
  },
  {
   "id": 2992226031,
@@ -10208,7 +11228,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b06beae64a563be01a8ad28fd0f9591f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2992226031"
+  "link": "https://www.deezer.com/track/2992226031",
+  "deezer": 2992226031
  },
  {
   "id": 1225315542,
@@ -10218,7 +11239,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/860430db3577438d3ddc319c07a37d8f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1225315542"
+  "link": "https://www.deezer.com/track/1225315542",
+  "deezer": 1225315542
  },
  {
   "id": 3027639631,
@@ -10228,7 +11250,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/3998393dd54fd18a327642ef1ec65f0f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3027639631"
+  "link": "https://www.deezer.com/track/3027639631",
+  "deezer": 3027639631
  },
  {
   "id": 1222684902,
@@ -10238,7 +11261,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/0e3228e1f93b57d1bb04780e57021d54/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1222684902"
+  "link": "https://www.deezer.com/track/1222684902",
+  "deezer": 1222684902
  },
  {
   "id": 2206549787,
@@ -10248,7 +11272,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2a7de5d92cf19921a99f4a1b38d7700a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2206549787"
+  "link": "https://www.deezer.com/track/2206549787",
+  "deezer": 2206549787
  },
  {
   "id": 128237467,
@@ -10258,7 +11283,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ba5bee87858453ed83cb5ed5c844c83a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128237467"
+  "link": "https://www.deezer.com/track/128237467",
+  "deezer": 128237467
  },
  {
   "id": 4092225401,
@@ -10268,7 +11294,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7b7d96ec725b1eae3c830def7b7e82ac/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4092225401"
+  "link": "https://www.deezer.com/track/4092225401",
+  "deezer": 4092225401
  },
  {
   "id": 3001398891,
@@ -10278,7 +11305,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/48458c36649245d1ab3faebcc2fb7d64/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3001398891"
+  "link": "https://www.deezer.com/track/3001398891",
+  "deezer": 3001398891
  },
  {
   "id": 1989125367,
@@ -10288,7 +11316,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/716b4ab0e26db06826cb558d754b9b87/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1989125367"
+  "link": "https://www.deezer.com/track/1989125367",
+  "deezer": 1989125367
  },
  {
   "id": 1409440322,
@@ -10298,7 +11327,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/78a115c90aa06fd61d79e230eff668a9/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1409440322"
+  "link": "https://www.deezer.com/track/1409440322",
+  "deezer": 1409440322
  },
  {
   "id": 432286662,
@@ -10308,7 +11338,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/432286662"
+  "link": "https://www.deezer.com/track/432286662",
+  "deezer": 432286662
  },
  {
   "id": 1037121632,
@@ -10318,7 +11349,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dea52961c33146bc1961b0ceb2983537/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1037121632"
+  "link": "https://www.deezer.com/track/1037121632",
+  "deezer": 1037121632
  },
  {
   "id": 1237605152,
@@ -10328,7 +11360,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/5d7018744af6cfabd43f306e93346a18/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1237605152"
+  "link": "https://www.deezer.com/track/1237605152",
+  "deezer": 1237605152
  },
  {
   "id": 63572378,
@@ -10338,7 +11371,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/aa03e5f65fb0c2efd2574470fbd8b93f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/63572378"
+  "link": "https://www.deezer.com/track/63572378",
+  "deezer": 63572378
  },
  {
   "id": 3619724682,
@@ -10348,7 +11382,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/75580a048bfdc08fb09a4a8cc5062d14/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3619724682"
+  "link": "https://www.deezer.com/track/3619724682",
+  "deezer": 3619724682
  },
  {
   "id": 3455118581,
@@ -10358,7 +11393,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/827c0e07f5be8a9bda3c3e13405244b2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3455118581"
+  "link": "https://www.deezer.com/track/3455118581",
+  "deezer": 3455118581
  },
  {
   "id": 2072946837,
@@ -10368,7 +11404,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ed95e6c17a24d00a1d8c2923c8475b4a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2072946837"
+  "link": "https://www.deezer.com/track/2072946837",
+  "deezer": 2072946837
  },
  {
   "id": 2072946797,
@@ -10378,7 +11415,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/c13aaf32c79f13f727177c0e5710ae5a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2072946797"
+  "link": "https://www.deezer.com/track/2072946797",
+  "deezer": 2072946797
  },
  {
   "id": 4117122671,
@@ -10388,7 +11426,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4117122671"
+  "link": "https://www.deezer.com/track/4117122671",
+  "deezer": 4117122671
  },
  {
   "id": 1397329822,
@@ -10398,7 +11437,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/ee6992bb609cbb3aeb57dcfce844809a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1397329822"
+  "link": "https://www.deezer.com/track/1397329822",
+  "deezer": 1397329822
  },
  {
   "id": 3168535591,
@@ -10408,7 +11448,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/095b2fa42045afe25c33ca56f7dd5234/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168535591"
+  "link": "https://www.deezer.com/track/3168535591",
+  "deezer": 3168535591
  },
  {
   "id": 4003519211,
@@ -10418,7 +11459,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/4dd25d3b93085022d5636f25eb20232e/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4003519211"
+  "link": "https://www.deezer.com/track/4003519211",
+  "deezer": 4003519211
  },
  {
   "id": 3555510461,
@@ -10428,7 +11470,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d8df017813dccb2cf85dfc9bdb98ab35/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3555510461"
+  "link": "https://www.deezer.com/track/3555510461",
+  "deezer": 3555510461
  },
  {
   "id": 85615124,
@@ -10438,7 +11481,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/dcbdc7f9ea6d794b187219ada537321d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/85615124"
+  "link": "https://www.deezer.com/track/85615124",
+  "deezer": 85615124
  },
  {
   "id": 4117122681,
@@ -10448,7 +11492,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4117122681"
+  "link": "https://www.deezer.com/track/4117122681",
+  "deezer": 4117122681
  },
  {
   "id": 2685200012,
@@ -10458,7 +11503,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6e198b64db6c6b7e3304270b1623caef/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2685200012"
+  "link": "https://www.deezer.com/track/2685200012",
+  "deezer": 2685200012
  },
  {
   "id": 3168535571,
@@ -10468,7 +11514,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/095b2fa42045afe25c33ca56f7dd5234/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3168535571"
+  "link": "https://www.deezer.com/track/3168535571",
+  "deezer": 3168535571
  },
  {
   "id": 128325727,
@@ -10478,7 +11525,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128325727"
+  "link": "https://www.deezer.com/track/128325727",
+  "deezer": 128325727
  },
  {
   "id": 1989125377,
@@ -10488,7 +11536,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/716b4ab0e26db06826cb558d754b9b87/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1989125377"
+  "link": "https://www.deezer.com/track/1989125377",
+  "deezer": 1989125377
  },
  {
   "id": 2448204255,
@@ -10498,7 +11547,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/04b40a0d378500ffce46c5a5f81a8885/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2448204255"
+  "link": "https://www.deezer.com/track/2448204255",
+  "deezer": 2448204255
  },
  {
   "id": 3399416291,
@@ -10508,7 +11558,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/00f3a7f7404465bcb5cba68634c76336/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3399416291"
+  "link": "https://www.deezer.com/track/3399416291",
+  "deezer": 3399416291
  },
  {
   "id": 1406556442,
@@ -10518,7 +11569,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/31cadf553b49c1355ff5a0075cba4605/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1406556442"
+  "link": "https://www.deezer.com/track/1406556442",
+  "deezer": 1406556442
  },
  {
   "id": 2391652075,
@@ -10528,7 +11580,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e1ebeba35d50f27e636d870d45eb50fa/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2391652075"
+  "link": "https://www.deezer.com/track/2391652075",
+  "deezer": 2391652075
  },
  {
   "id": 2514451911,
@@ -10538,7 +11591,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a4de115832be0b5f16b67f93921af53f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2514451911"
+  "link": "https://www.deezer.com/track/2514451911",
+  "deezer": 2514451911
  },
  {
   "id": 1563128102,
@@ -10548,7 +11602,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/54d6dc1f4b12af8ad2b68f69e4f14186/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1563128102"
+  "link": "https://www.deezer.com/track/1563128102",
+  "deezer": 1563128102
  },
  {
   "id": 1030788532,
@@ -10558,7 +11613,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/11ef7081ae314215b94ddb2488584a59/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1030788532"
+  "link": "https://www.deezer.com/track/1030788532",
+  "deezer": 1030788532
  },
  {
   "id": 762622892,
@@ -10568,7 +11624,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/48768b93c214d811aa8e8f127586d49c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/762622892"
+  "link": "https://www.deezer.com/track/762622892",
+  "deezer": 762622892
  },
  {
   "id": 2994060791,
@@ -10578,7 +11635,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/d5ca3bf3f45559144c31b3f19f941551/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2994060791"
+  "link": "https://www.deezer.com/track/2994060791",
+  "deezer": 2994060791
  },
  {
   "id": 4094317951,
@@ -10588,7 +11646,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/f06d5fc1cefe60d51335a5f424bb76c3/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4094317951"
+  "link": "https://www.deezer.com/track/4094317951",
+  "deezer": 4094317951
  },
  {
   "id": 1036046832,
@@ -10598,7 +11657,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/b4d595c816ea6bfd3b637ecb44fc9f3f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1036046832"
+  "link": "https://www.deezer.com/track/1036046832",
+  "deezer": 1036046832
  },
  {
   "id": 128325729,
@@ -10608,7 +11668,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/e4a5f41bfb9fc058d5aa91c4472487a4/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/128325729"
+  "link": "https://www.deezer.com/track/128325729",
+  "deezer": 128325729
  },
  {
   "id": 3945345691,
@@ -10618,7 +11679,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/96df5f5f2d62d11067ee639bd100eeb2/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3945345691"
+  "link": "https://www.deezer.com/track/3945345691",
+  "deezer": 3945345691
  },
  {
   "id": 1648758692,
@@ -10628,7 +11690,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/857bee1bf050a07188bd73ca27e18ad8/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1648758692"
+  "link": "https://www.deezer.com/track/1648758692",
+  "deezer": 1648758692
  },
  {
   "id": 4117122701,
@@ -10638,7 +11701,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/155e3cbfbfc3603918cabc9b340f3d02/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4117122701"
+  "link": "https://www.deezer.com/track/4117122701",
+  "deezer": 4117122701
  },
  {
   "id": 432286692,
@@ -10648,7 +11712,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/432286692"
+  "link": "https://www.deezer.com/track/432286692",
+  "deezer": 432286692
  },
  {
   "id": 432286632,
@@ -10658,7 +11723,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/611022e66f8fc2b5929f50dab388a75c/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/432286632"
+  "link": "https://www.deezer.com/track/432286632",
+  "deezer": 432286632
  },
  {
   "id": 2178403997,
@@ -10668,7 +11734,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/64aea65c07478abc7a8cd9d414662e88/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2178403997"
+  "link": "https://www.deezer.com/track/2178403997",
+  "deezer": 2178403997
  },
  {
   "id": 1844502567,
@@ -10678,7 +11745,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/119e2688354888b8ba73938a4d462997/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1844502567"
+  "link": "https://www.deezer.com/track/1844502567",
+  "deezer": 1844502567
  },
  {
   "id": 3658348442,
@@ -10688,7 +11756,8 @@ window.SONGS = [
   "genre": "Rap",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/2627088f4ac8242f0098c88248ae162d/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/3658348442"
+  "link": "https://www.deezer.com/track/3658348442",
+  "deezer": 3658348442
  },
  {
   "id": 1438970782,
@@ -10698,7 +11767,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/a19e8bd25a7036c489d25fd6143cf89f/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1438970782"
+  "link": "https://www.deezer.com/track/1438970782",
+  "deezer": 1438970782
  },
  {
   "id": 1296825452,
@@ -10708,7 +11778,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/22ea8901cbe6592d0bc096c6fc76c733/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1296825452"
+  "link": "https://www.deezer.com/track/1296825452",
+  "deezer": 1296825452
  },
  {
   "id": 2465723715,
@@ -10718,7 +11789,8 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/efe02a8759f36e8b7e1323a7c73b0b58/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/2465723715"
+  "link": "https://www.deezer.com/track/2465723715",
+  "deezer": 2465723715
  },
  {
   "id": 4005669801,
@@ -10728,7 +11800,8 @@ window.SONGS = [
   "genre": "Folk & trad",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/7cb3fe3d6c2b3040651bdd2de1828637/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/4005669801"
+  "link": "https://www.deezer.com/track/4005669801",
+  "deezer": 4005669801
  },
  {
   "id": 1065567432,
@@ -10738,7 +11811,8 @@ window.SONGS = [
   "genre": "Pop",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/6ef9af603c7d83bc44881cd9717f8274/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1065567432"
+  "link": "https://www.deezer.com/track/1065567432",
+  "deezer": 1065567432
  },
  {
   "id": 983563042,
@@ -10748,7 +11822,8 @@ window.SONGS = [
   "genre": "Rock",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/20cc6e2f70d80596a0cacd132767d47a/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/983563042"
+  "link": "https://www.deezer.com/track/983563042",
+  "deezer": 983563042
  },
  {
   "id": 1077430422,
@@ -10758,6 +11833,7 @@ window.SONGS = [
   "genre": "Chanson",
   "tier": 3,
   "art": "https://cdn-images.dzcdn.net/images/cover/058ca96d45e5bea2d1baa3e9b8221ceb/250x250-000000-80-0-0.jpg",
-  "link": "https://www.deezer.com/track/1077430422"
+  "link": "https://www.deezer.com/track/1077430422",
+  "deezer": 1077430422
  }
 ];

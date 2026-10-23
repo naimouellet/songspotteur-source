@@ -1,7 +1,11 @@
-"""Match each song in catalog.tsv to a Deezer track and write public/songs.js.
+"""Write public/songs.js from catalog.tsv.
 
-Deezer preview links expire, so only the track id is stored; the game fetches
-a fresh preview link at play time.
+The build is incremental: a song already in songs.js is kept as is (with its
+Deezer id, Apple id and Apple preview), and only new rows are looked up on
+Deezer. So no current song can be lost, and a run needs no local cache.
+
+Deezer preview links expire, so only the Deezer track id is stored; the game
+fetches a fresh Deezer link at play time when there is no Apple preview.
 
 Usage: python3 scripts/build_catalog.py
 """
@@ -99,8 +103,22 @@ def top_tracks():
     return tops
 
 
+def key(title, artist):
+    return norm(title) + "|" + norm(artist).replace(" ", "")
+
+
+def existing_songs():
+    """Songs already in public/songs.js, by title and artist."""
+    if not OUT.exists():
+        return {}
+    songs = json.loads(re.search(r"window\.SONGS = (.*);", OUT.read_text(), re.S)[1])
+    return {key(s["title"], s["artist"]): s for s in songs}
+
+
 def main():
     cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
+    known = existing_songs()
+    kept = 0
     tops = top_tracks()
     by_id = {t["id"]: t for tracks in tops.values() for t in tracks}
     from discover import ARTISTS
@@ -113,6 +131,14 @@ def main():
             continue
         # Optional 6th column: the title as Deezer spells it, used only for matching.
         title, artist, year, genre, tier, *alias = line.split("\t")
+        previous = known.get(key(title, artist))
+        if previous:
+            # Déjà résolue : on garde tout, en reprenant les champs éditables du catalogue.
+            previous.update(title=title, artist=artist, year=int(year), genre=genre, tier=int(tier))
+            previous.setdefault("deezer", previous["id"] if isinstance(previous["id"], int) else None)
+            songs.append(previous)
+            kept += 1
+            continue
         match = alias[0] if alias and alias[0] else title
         # Optional 7th column: a Deezer track id already vetted by expand.py.
         r = by_id.get(int(alias[1])) if len(alias) > 1 and alias[1] else None
@@ -131,6 +157,7 @@ def main():
             continue
         songs.append({
             "id": r["id"],
+            "deezer": r["id"],
             "title": title,
             "artist": artist,
             "year": int(year),
@@ -142,7 +169,7 @@ def main():
     CACHE.write_text(json.dumps(cache))
     OUT.write_text("// Généré par scripts/build_catalog.py — ne pas éditer à la main.\n"
                    "window.SONGS = " + json.dumps(songs, ensure_ascii=False, indent=1) + ";\n")
-    print(f"{len(songs)} chansons écrites dans {OUT.relative_to(ROOT)}")
+    print(f"{len(songs)} chansons écrites dans {OUT.relative_to(ROOT)} ({kept} déjà connues, {len(songs) - kept} nouvelles)")
     if misses:
         print(f"{len(misses)} introuvables:\n  " + "\n  ".join(misses))
 
