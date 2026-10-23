@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
-# Weekly update: add the new songs of the TOP QUEB playlist, refresh show dates, then publish.
+# Weekly update: add the new songs of the TOP QUEB playlist, then publish.
 #   1. playlist_import.py   new playlist songs → catalog.tsv
 #   2. build_catalog.py     Apple clip, cover and Deezer fallback for them
 #   3. bandcamp.py          Bandcamp pages for new artists only
-#   4. shows.py             upcoming shows from the Bandcamp pages, every week
-#   5. commit + push the source, deploy.sh to GitHub Pages (only if something changed)
-#   6. if GitHub's Pages deployment fails (it happens on their side), ask for a rebuild
+#   4. commit + push the source, deploy.sh to GitHub Pages
+#   5. if GitHub's Pages deployment fails (it happens on their side), ask for a rebuild
 # Needs: the MusicKit key in ~/.songspotteur/ and `gh` signed in.
 # Usage: scripts/weekly_update.sh
 set -euo pipefail
@@ -18,25 +17,16 @@ git pull -q --ff-only
 
 python3 -u scripts/playlist_import.py | tee "$REPORT"
 ADDED=$(sed -n 's/^\([0-9]*\) lignes ajoutées.*/\1/p' "$REPORT")
-if [ -n "$ADDED" ]; then
-  python3 -u scripts/build_catalog.py | grep -v "^✓" || true
-  python3 -u scripts/bandcamp.py
-  SUMMARY="+$ADDED chanson(s) de TOP QUEB, spectacles à jour"
-else
-  echo "Aucune nouvelle chanson dans la playlist."
-  SUMMARY="spectacles à jour"
-fi
-
-# Les dates de spectacles changent chaque semaine, même sans nouvelle chanson.
-python3 -u scripts/shows.py
-
-if [ -z "$(git status --porcelain)" ]; then
-  echo "Rien de nouveau : rien à publier."
+if [ -z "$ADDED" ]; then
+  echo "Aucune nouvelle chanson dans la playlist : rien à publier."
   exit 0
 fi
 
+python3 -u scripts/build_catalog.py | grep -v "^✓" || true
+python3 -u scripts/bandcamp.py
+
 git add -A
-git commit -q -m "Mise à jour hebdomadaire : $SUMMARY
+git commit -q -m "Mise à jour hebdomadaire : +$ADDED chanson(s) de TOP QUEB
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 git push -q

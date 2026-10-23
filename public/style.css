@@ -99,14 +99,13 @@ svg { fill: currentColor; stroke: currentColor; }
 .heading h1 { margin: 0; font: 700 26px/1.15 var(--display); letter-spacing: -.02em; }
 .subline { margin: 2px 0 0; color: var(--label-2); font-size: 19px; }
 .meta { margin: 2px 0 0; color: var(--label-3); font-size: 14px; }
-.meta .bandcamp, .shows a { color: var(--label-2); text-decoration: none; }
-.meta .bandcamp::after, .shows a::after { content: " ↗"; }
-.meta .bandcamp:hover, .shows a:hover { color: var(--label); text-decoration: underline; text-underline-offset: 3px; }
+.meta .bandcamp { color: var(--label-2); text-decoration: none; }
+.meta .bandcamp::after { content: " ↗"; }
+.meta .bandcamp:hover { color: var(--label); text-decoration: underline; text-underline-offset: 3px; }
 .heading.revealed > * { animation: rise .45s var(--spring) both; }
 .heading.revealed > :nth-child(2) { animation-delay: .04s; }
 .heading.revealed > :nth-child(3) { animation-delay: .08s; }
 .heading.revealed > :nth-child(4) { animation-delay: .12s; }
-.heading.revealed > :nth-child(5) { animation-delay: .16s; }
 @keyframes rise { from { opacity: 0; transform: translateY(8px); } }
 
 /* Segmented progress: one capsule per clip length */
