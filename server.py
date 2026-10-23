@@ -1,4 +1,4 @@
-"""Local development server for Musiquiz QC: serves public/ with no caching.
+"""Local development server for MusiQuiz QC: serves public/ with no caching.
 
 Usage: python3 server.py [port]
 """

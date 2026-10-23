@@ -1,4 +1,4 @@
-# Musiquiz QC
+# MusiQuiz QC
 
 Un jeu où il faut reconnaître une chanson québécoise à partir d'un extrait d'une demi-seconde.
 

@@ -50,6 +50,7 @@ svg { fill: currentColor; stroke: currentColor; }
   padding: max(14px, env(safe-area-inset-top)) 20px 6px;
 }
 .app-name { font: 600 17px/1 var(--display); }
+.app-name .qc { color: #5b95ff; } /* flag blue, lightened to stay legible as text on the dark background */
 .score { display: flex; gap: 6px; }
 .capsule {
   padding: 6px 11px; border-radius: 999px; background: var(--fill); font-size: 13px; color: var(--label-2);

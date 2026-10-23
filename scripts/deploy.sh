@@ -26,7 +26,7 @@ fi
 find "$WORK" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
 cp -R "$ROOT/dist/." "$WORK/"
 cat > "$WORK/README.md" <<'MD'
-# Musiquiz QC (version publiée)
+# MusiQuiz QC (version publiée)
 
 Reconnais une chanson québécoise à partir d'un extrait d'une demi-seconde.
 
@@ -51,7 +51,7 @@ git add -A
 if git diff --cached --quiet; then
   echo "Rien de nouveau à publier."
 else
-  git commit -q -m "Publier Musiquiz QC ($(date +%Y-%m-%d\ %H:%M))
+  git commit -q -m "Publier MusiQuiz QC ($(date +%Y-%m-%d\ %H:%M))
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
   git push -q -u origin main

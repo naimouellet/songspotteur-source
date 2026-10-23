@@ -22,7 +22,7 @@ from build_catalog import norm
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "scripts" / "bandcamp.tsv"
-UA = {"User-Agent": "MusiquizQC/1.0 (https://musiquizqc.com)"}
+UA = {"User-Agent": "MusiQuizQC/1.0 (https://musiquizqc.com)"}
 QUEBEC = re.compile(r"qu[eé]bec|montr[eé]al|canada|gatineau|sherbrooke|saguenay|laval|longueuil|trois-rivi", re.I)
 
 
