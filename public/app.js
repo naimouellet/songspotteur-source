@@ -60,6 +60,13 @@
     $("skip").classList.toggle("give-up", last);
   }
 
+  // Le catalogue garde des pochettes de 250–300 px, assez pour l'historique et le
+  // fond flou. La grande pochette demande 1000 px au même serveur (WebP chez Apple :
+  // trois fois plus léger que leur JPEG, pour la même image).
+  const bigArt = (url) => (url || "")
+    .replace(/\/250x250-(?=000000-)/, "/1000x1000-")
+    .replace(/\/300x300bb\.jpg$/, "/1000x1000bb.webp");
+
   // Arrière-plan flou : la pochette de la dernière chanson révélée, en fondu.
   let bgFront = "bgA";
   function setBackdrop(url) {
@@ -294,6 +301,8 @@
       $("play").classList.remove("loading");
       if (interacted) play(stages()[0]);
       preloadNext();
+      // La grande pochette se charge pendant la manche : prête à la révélation.
+      new Image().src = bigArt(song.art);
     } catch (e) {
       if (token !== loadToken) return;
       console.warn("Extrait introuvable, on passe à la suivante", song, e);
@@ -386,7 +395,7 @@
     }
     $("songMeta").hidden = false;
     document.querySelector(".heading").classList.add("revealed");
-    $("art").src = s.art;
+    $("art").src = bigArt(s.art);
     $("art").alt = `Pochette — ${s.title}`;
     $("artwork").classList.remove("idle");
     $("artwork").classList.add("revealed");
@@ -396,10 +405,15 @@
     addToHistory({ song: s, won, label: won ? fmt(stages()[stage]) : "Ratée" });
     setLink($("apple"), s);
     $("searchBox").hidden = true;
+    $("attempts").innerHTML = ""; // la réponse est affichée : plus besoin des essais
     $("reveal").hidden = false;
     $("guess").disabled = $("skip").disabled = true;
     closeSuggest();
     setStatus(`${s.title}, ${s.artist}`);
+    // Le focus passe au bouton suivant, sans contour : on n'y est pas allé au clavier.
+    // Le contour revient si on quitte le bouton puis qu'on y revient avec Tab.
+    $("next").classList.add("auto-focus");
+    $("next").addEventListener("blur", () => $("next").classList.remove("auto-focus"), { once: true });
     $("next").focus();
     // La récompense : la chanson joue, après le carillon.
     setTimeout(() => { if (state.over && state.song === s) play(Math.min(REVEAL_LEN, state.buffer?.duration ?? REVEAL_LEN)); }, won ? 650 : 900);

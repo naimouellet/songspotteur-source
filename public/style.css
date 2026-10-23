@@ -30,6 +30,7 @@ button { background: none; border: 0; padding: 0; cursor: pointer; }
 a { color: inherit; }
 svg { fill: currentColor; stroke: currentColor; }
 :focus-visible { outline: 3px solid rgba(255, 255, 255, .5); outline-offset: 2px; }
+.auto-focus:focus-visible { outline: none; } /* focus placed by the game, not by the player */
 
 /* Blurred artwork behind everything, like Now Playing. Two layers crossfade. */
 .backdrop {
