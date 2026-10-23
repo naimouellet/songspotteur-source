@@ -7,7 +7,7 @@ window.Viz = (() => {
   const g = canvas.getContext("2d");
 
   const COLS = 32, ROWS = 32;
-  const F_LO = 50, F_HI = 4000;   // plage utile, en Hz
+  const F_LO = 60, F_HI = 6000;   // plage utile, en Hz
   const EDGE = [91, 149, 255];    // bleu du « QC » : teinte les points vers les bords
 
   const pos = new Float32Array(COLS);
@@ -64,7 +64,7 @@ window.Viz = (() => {
     if (!analyser) {
       analyser = ac.createAnalyser();
       analyser.fftSize = 4096;
-      analyser.smoothingTimeConstant = 0.55;
+      analyser.smoothingTimeConstant = 0.65;
       // Plage resserrée : avec celle par défaut, une chanson masterisée remplit tout.
       analyser.minDecibels = -80;
       analyser.maxDecibels = -18;
@@ -80,7 +80,7 @@ window.Viz = (() => {
         // soulève la zone des voix (bosse autour de 1,5 kHz, ~1 octave de large) pour
         // qu'elles fassent réagir la grille autant que la basse et la batterie.
         const oct = Math.log2(Math.sqrt(f0 * f1) / 1500);
-        const gain = (1 + i * 0.02) * (1 + 0.5 * Math.exp(-oct * oct / 2));
+        const gain = (1 + i * 0.015) * (1 + 0.35 * Math.exp(-oct * oct / 2));
         bands.push([f0 / binHz, f1 / binHz, gain]);
       }
       analyser.connect(ac.destination);
@@ -106,7 +106,10 @@ window.Viz = (() => {
       let a = 0;
       if (freq) {
         const [b0, b1, gain] = bands[i];
-        a = Math.min(1, 0.9 * Math.pow(Math.min(1, energy(b0, b1) * gain), 2.4));
+        const x = Math.min(1, energy(b0, b1) * gain);
+        // Les passages forts (au-delà de ~0,7) montent plus haut ; en dessous, rien ne change.
+        const loud = Math.max(0, (x - 0.7) / 0.3);
+        a = Math.min(1, 0.7 * Math.pow(x, 2.4) * (1 + 0.8 * loud * loud));
       }
       raw[i] = a;
     }
@@ -116,8 +119,8 @@ window.Viz = (() => {
       // Au repos : une vague lente traverse le centre de la grille.
       const idle = 0.1 + 0.07 * Math.sin(t * 0.8 - i * 0.225);
       const target = Math.max(idle, a);
-      vel[i] += (target - pos[i]) * 0.16 * k;
-      vel[i] *= Math.pow(0.72, k);
+      vel[i] += (target - pos[i]) * 0.12 * k;
+      vel[i] *= Math.pow(0.62, k);
       pos[i] += vel[i] * k;
     }
   }
@@ -141,9 +144,9 @@ window.Viz = (() => {
         const level = Math.max(0, Math.min(1, pos[c]));
         const lit = Math.max(0, Math.min(1, (level - d) * 5 + 0.5));
         if (lit < 0.02) continue;
-        g.globalAlpha = lit * (0.92 - d * 0.4); // plus doux vers les bords
+        g.globalAlpha = lit * (0.8 - d * 0.35); // plus doux vers les bords
         g.beginPath();
-        g.arc(x0 + c * step, y0 + r * step, dot * (1 + lit * 0.5), 0, Math.PI * 2);
+        g.arc(x0 + c * step, y0 + r * step, dot * (1 + lit * 0.3), 0, Math.PI * 2);
         g.fill();
       }
     }
