@@ -1,0 +1,26 @@
+# Netlify builds the static site from this repo on every push to main.
+[build]
+  command = "python3 scripts/build_dist.py"
+  publish = "dist"
+
+# The page is tiny and changes with every deploy: always revalidate it.
+# Its CSS and JS links carry a content hash (build_dist.py), so they can be cached.
+[[headers]]
+  for = "/"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

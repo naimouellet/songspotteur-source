@@ -1,8 +1,8 @@
-# Songspotteur
+# Musiquiz QC
 
 Un jeu où il faut reconnaître une chanson québécoise à partir d'un extrait d'une demi-seconde.
 
-**Jouer : https://naimouellet.github.io/songspotteur/**
+**Jouer : https://musiquizqc.com**
 
 Inspiré de [songspot](https://songspot.co), mais uniquement avec de la musique d'ici, en français : des classiques de Beau Dommage, Harmonium et Jean Leloup jusqu'au rap et à l'indie d'aujourd'hui (Les Louanges, Ariane Roy, Thierry Larose, FouKi, Souldia…).
 
@@ -58,7 +58,8 @@ scripts/
   expand.py          propose de nouvelles chansons à ajouter au catalogue
   bandcamp.py        trouve les pages Bandcamp (Wikidata, MusicBrainz, vérification de la page)
   build_dist.py      prépare dist/ pour l'hébergement statique
-  deploy.sh          publie dist/ sur GitHub Pages
+  deploy.sh          ancienne publication sur GitHub Pages
+netlify.toml         réglages de construction pour Netlify
 server.py            serveur local
 ```
 
@@ -76,11 +77,7 @@ Après une modification de `scripts/catalog.tsv`, régénérer le catalogue :
 python3 scripts/build_catalog.py
 ```
 
-Publier sur GitHub Pages (nécessite `gh` connecté) :
-
-```bash
-scripts/deploy.sh
-```
+Publication : le site est hébergé sur [Netlify](https://www.netlify.com), à l'adresse musiquizqc.com. Netlify reconstruit et publie le site à chaque push sur `main`, selon `netlify.toml` (commande `python3 scripts/build_dist.py`, dossier `dist/`).
 
 Les scripts de catalogue gardent des caches des réponses de Deezer (`scripts/.*-cache.json`). Ils ne sont pas versionnés : un clone neuf interroge Deezer de nouveau.
 
