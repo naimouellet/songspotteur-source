@@ -21117,5 +21117,47 @@ window.SONGS = [
   "tier": 3,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/c6/66/27c666cd-6eb3-3ebf-f2ac-73a02c4947d2/cover.jpg/300x300bb.jpg",
   "link": "https://music.apple.com/ca/album/laccordeur-de-piano/1840200191?i=1840201063"
+ },
+ {
+  "id": 3168302331,
+  "deezer": 3168302331,
+  "apple": "1580812588",
+  "isrc": "CAZ842100045",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/3d/60/703d60d3-9005-07e5-7ed5-78c9c0885156/mzaf_471080357756678340.plus.aac.p.m4a",
+  "title": "Crash",
+  "artist": "Les Louanges",
+  "year": 2022,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/e4/e1/73e4e1e6-313d-e9f7-fcaf-1630430b4d8b/326.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/crash-feat-corneille/1580812393?i=1580812588"
+ },
+ {
+  "id": 128229497,
+  "deezer": 128229497,
+  "apple": "1551601993",
+  "isrc": "CAA500822401",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/0f/08/1f0f0856-66c9-6c84-b1c0-c6f65e1241a2/mzaf_8123928338605650939.plus.aac.p.m4a",
+  "title": "Le compteur",
+  "artist": "Karkwa",
+  "year": 2008,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f5/5a/4e/f55a4e97-04ef-aac7-3c30-f98101c26e1d/190374951036.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/le-compteur/1551601987?i=1551601993"
+ },
+ {
+  "id": 128229499,
+  "deezer": 128229499,
+  "apple": "1551601995",
+  "isrc": "CAA500822402",
+  "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/39/77/0639778f-4069-4dbc-ff62-e42f3f819e48/mzaf_1514642362451385646.plus.aac.p.m4a",
+  "title": "Deux lampadaires",
+  "artist": "Karkwa",
+  "year": 2008,
+  "genre": "Rock",
+  "tier": 3,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f5/5a/4e/f55a4e97-04ef-aac7-3c30-f98101c26e1d/190374951036.jpg/300x300bb.jpg",
+  "link": "https://music.apple.com/ca/album/deux-lampadaires/1551601987?i=1551601995"
  }
 ];
