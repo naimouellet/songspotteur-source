@@ -108,6 +108,7 @@ window.BANDCAMP = {
  "Sarahmée": "https://sarahmee.bandcamp.com",
  "Shreez": "https://shreez.bandcamp.com",
  "Souldia": "https://souldia1.bandcamp.com",
+ "Thick Glasses": "https://thickglassespunk.bandcamp.com",
  "Thierry Larose": "https://thierrylarose.bandcamp.com",
  "Tire le coyote": "https://tirelecoyote.bandcamp.com",
  "TransQueb": "https://transqueb.bandcamp.com",
